@@ -2,9 +2,9 @@
     {
         "surname":"Turobov", 
         "name": "Sherxon", 
-        "fathername":"Xurshid o'g'li",
+        "fathername":"Xurshid o`g`li",
         "viloyat":"Samarqand",
-        "tuman":"Pasdorg'om",
+        "tuman":"Pasdorg`om",
         "maktab":"92-maktab",
         "fan":"Ona tili",
         "toifa": "Mutaxassis"
@@ -13,7 +13,7 @@
     {
         "surname":"Musurmonov", 
         "name": "Doston", 
-        "fathername":"Raxmon o'g'li",
+        "fathername":"Raxmon o`g`li",
         "viloyat":"Navoiy",
         "tuman":"Xatirchi",
         "maktab":"35-maktab",
@@ -23,7 +23,7 @@
     {
         "surname":"Musurmonov", 
         "name": "Doston", 
-        "fathername":"Raxmon o'g'li",
+        "fathername":"Raxmon o`g`li",
         "viloyat":"Navoiy",
         "tuman":"Xatirchi",
         "maktab":"35-maktab",
@@ -33,7 +33,7 @@
     {
         "surname":"Murodullayev", 
         "name": "Sarvar", 
-        "fathername":"Usmon o'g'li",
+        "fathername":"Usmon o`g`li",
         "viloyat":"Navoiy",
         "tuman":"Xatirchi",
         "maktab":"33-maktab",
@@ -77,7 +77,7 @@
     {
         "surname":"Isayev",
         "name":"Gulzoda",
-        "fathername": "O'rinovna",
+        "fathername": "O`rinovna",
         "viloyat":"Navoiy",
         "tuman":"Navoiy shahar",
         "maktab":"17-maktab",
@@ -88,7 +88,7 @@
     {
         "surname":"Abdusalimova",
         "name":"Maxfuza",
-        "fathername": "Ulug'bek qizi",
+        "fathername": "Ulug`bek qizi",
         "viloyat":"Navoiy",
         "tuman":"Navoiy shahar",
         "maktab":"17-maktab",
@@ -120,12 +120,12 @@
     {
         "surname":"Norisov",
         "name": "Islom",
-        "fathername":"Faxriddin o'g'li",
+        "fathername":"Faxriddin o`g`li",
         "viloyat":"Navoiy",
         "tuman":"Navoiy shahar",
         "maktab":"17-maktab",
         "fan":"Fizika",
-        "toifa":"O'quvchi"
+        "toifa":"O`quvchi"
     },
     {
         "surname":"Norisova",
@@ -135,26 +135,26 @@
         "tuman":"Navoiy shahar",
         "maktab":"17-maktab",
         "fan":"Biologiya",
-        "toifa":"O'quvchi"
+        "toifa":"O`quvchi"
     },
     {
-        "surname":"Abdug'aniyeva",
+        "surname":"Abdug`aniyeva",
         "name": "Muxlisa",
         "fathername":"",
         "viloyat":"Navoiy",
         "tuman":"Navoiy shahar",
         "maktab":"17-maktab",
         "fan":"Tarix",
-        "toifa":"O'quvchi"
+        "toifa":"O`quvchi"
     },
     {
         "surname":"Jovliyev",
         "name": "Sohib",
-        "fathername":"Nizom o'g'li",
+        "fathername":"Nizom o`g`li",
         "viloyat":"Samarqand",
         "tuman":"Ishtihon tuman",
         "maktab":"Abituriyent",
         "fan":"Kimyo",
-        "toifa":"O'quvchi"
+        "toifa":"O`quvchi"
     }
 ]
