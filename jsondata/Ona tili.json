@@ -1,0 +1,905 @@
+[
+    {
+       "savol":"Qaysi javobda faqat ko'makchilar berilgan?",
+       "A":"orqali, qadar",
+       "B":"nihoyat, uchun",
+       "C":"ko'ra, bo'ylab",
+       "D":"sayin, qarab"
+    },
+    {
+       "savol":"Ega qatnashgan gapni belgilang.",
+       "A":"Elidan ayrilgan ellik yil yig'lar.",
+       "B":"Meni tez-tez o'quvchilar bilan bilan uchrashuvga taklif qilishadi.",
+       "C":"Bugun Buxorodan ukam bilan uchib keldim.",
+       "D":"Butun fanlarni yaxshi bilish uchun ko'p o'qish kerak."
+    },
+    {
+       "savol":"Qaysi gapda ikkita payt holi qatnashgan?",
+       "A":"Avval o'yla, keyin so'yla",
+       "B":"Gap ko'p, umur oz.",
+       "C":"O'n marta eshitgandan bir marta ko'rgan afzal.",
+       "D":"Bugungi ishni ertaga qo'yma."
+    },
+    {
+       "savol":"Bizning sinfimizda Alisher Navoiy ijodiga bag'ishlangan tadbir o'tkazish topshirildi. Tadbir rejasinintuzish uchun sinf rahbarimiz, guruh sardori va guruh o'quvchilari - hammamiz yig'ildik. Ushbu parchada nisbat qo'shimchasi bilan shakllangan fe'llar qaysi bo'laklar vazifasida qo'llangan? ",
+       "A":"aniqlovch, kesim",
+       "B":"aniqlovchi, hol, kesim",
+       "C":"hol, kesim",
+       "D":"aniqlovchi, to'ldiruvchi, kesim"
+    },
+    {
+       "savol":"Qaysi javobdagi fe'llar tovush o'zgarishiga uchramagan?",
+       "A":"angla, sana",
+       "B":"qona, o'yla",
+       "C":"qiyna, o'yna",
+       "D":"yasha, lovulla"
+    },
+    {
+       "savol":"Qaysi javobdagi fe'llar tovush o'zgarishiga uchramagan?",
+       "A":"angla, yasha",
+       "B":"ishla, yo'liq",
+       "C":"o'yna, qiyna",
+       "D":"yig'la, sana"
+    },
+    {
+       "savol":"Farosatlilik kishilarda hurmat-ehtirom, meh-oqibat, iliqlik, yaxshi kayfiyat, ishonch kabi tuyg'ularni uyg'otadi. Ushbu gapda ot yasovchi qo'shimchalar necha o'rinda ishtirok etgan?",
+       "A":"5",
+       "B":"4",
+       "C":"3",
+       "D":"2"
+    },
+    {
+       "savol":"Qaysi javobdagi fe'llarning barchasi o'zaro bir turkumga oid so'zlardan yasalgan?",
+       "A":"do'stlash, yaqinlash, tezlash",
+       "B":"suhbatlash, gaplash, ko'maklash",
+       "C":"gaplash, egovlash, birlash",
+       "D":"so'zlash, qadrlash, sekinlash"
+    },
+    {
+       "savol":"Onam bilan opam // ikkovlari dorixonada ishlaydilar. // belgisi o'rnida qanday tinish belgisi qo'yiladi?",
+       "A":"ikki nuqta ",
+       "B":"nuqtali vergul",
+       "C":"tire",
+       "D":"vergul"
+    },
+    {
+       "savol":"Qaysi javobdagi vergul undalmani ajratish uchun qo'yilgan?",
+       "A":"She'r aytgim kelyapti, aziz do'stlarim.",
+       "B":"Kattaga hurmatda bo'l, kichikka izzatda.",
+       "C":"Uylar, ko'chalar va maydonlarda bayram nafasi kezadi.",
+       "D":"Bu, Salim aytmoqchi, ularning asosiy maqsadi bo'lgan"
+    },
+    {
+       "savol":"Ukam (sen uni taniysan) bu yil maktabni bitirdi. Ushbu gapdagi qavsning ishlatilish sababi to'g'ri ko'rsatilgan javobni belgilang",
+       "A":"kirish gapni ajratish uchun",
+       "B":"muallif gapi bilan ko'chirma gapni ajratish uchun",
+       "C":"misol yoki ko'chirmaning manbaini ko'rsatish uchun",
+       "D":"ajratilgan bo'lak borligi uchun"
+    },
+    {
+       "savol":"<i>To'g'ri bo'lsang,</i> ... Ushbu maqolning davomi to'g'ri berilgan javobni aniqlang.",
+       "A":"<i>o'sib borib kul bo'lasan.</i>",
+       "B":"<i>o'sib borib gul bo'lasan.</i>",
+       "C":"<i>rangi ro'ying samon bo'lmas.</i>",
+       "D":"<i>echkini osmonda ko'r.</i>"
+    },
+    {
+       "savol":"<i>Agar do'stim ko'p bo'lsin desang,</i> ... Ushbu maqolning davomi to'g'ri berilgan javobni aniqlang. ",
+       "A":"o'sib borib gul bo'lasan.",
+       "B":"rangi ro'ying samon bo'lmas.",
+       "C":"hech kimga dushmanlik qilma.",
+       "D":"o'sib borib kul bo'lasan."
+    },
+    {
+       "savol":"qora so'zi qaysi javobda rang ma'nosini anglatmaydi?",
+       "A":"Qizning qora qoshlari onasinikiga juda o'xshab ketar edi.",
+       "B":"Bola patlari qora, kulrang turnani ancha vaqt tomosha qilib turdi.",
+       "C":"Yigit kechgacha terlab-pishib, qora terga botib mehnat qildi.",
+       "D":"Itning belida belbog'dek ikkita: biri qora, biri jigarrang chizig'i bor edi."
+    },
+    {
+       "savol":"Qaysi javobda o'zaro ma'nodosh so'zlar berilgan?",
+       "A":"gancha - xazina",
+       "B":"hur - ozod",
+       "C":"sur'at - rasm",
+       "D":"xiyla - makr"
+    },
+    {
+       "savol":"Qaysi gapda ko'rsatish olmoshi to'ldiruvchi vazifasini bajargan?",
+       "A":"Qayoqqa borsam, yonimda, shu bilan ovunaman-da.",
+       "B":"Ba'zan shunday insonlarni ko'rib, uyalib ketasan kishi.",
+       "C":"Mana shu yorug' kunlarga yetib kelganimizga xursandman.",
+       "D":"Shunisi aniqki, muammolarim o'z-o'zidan hal bo'lib ketdi."
+    },
+    {
+       "savol":"Qaysi gapda holning faqat bir ma'noviy turi qatnashgan?",
+       "A":"Keksa otasining qaddin dol etib, Ketib borar edi farzand shu zamon.",
+       "B":"Zarafshonni loylatib kechgan Chavandozlar bordir bu elda.",
+       "C":"Qo'shni mahallada yashaydigan o'rtog'im bilan kutubxonaga bordik.",
+       "D":"Shoxlarda mezonlar yaltirar xira, Poyida shivirlar mening kuylarim"
+    },
+    {
+       "savol":"Majhul nisbatdagi yasama fe'llarni belgilang",
+       "A":"yuborilmoq, ikkilanmoq",
+       "B":"o'rnatilmoq, gapirilmoq",
+       "C":"zavqlanmoq, unutilmoq",
+       "D":"sharillamoq, tayyorlanmoq"
+    },
+    {
+       "savol":"<i>Yoz kunlarida qarovsiz suv havzalarida yuvinish, qaynatilmagan suvni iste'mol qilish turli yuqumli kasalliklarni keltirib chiqaradi.</i> Ushbu gapdagi fe'llar qaysi gap bo'laklari vazifasini bajargan?",
+       "A":"aniqlovchi, hol, kesim",
+       "B":"ega, aniqlovchi, kesim",
+       "C":"aniqlovchi, to'ldiruvchi, kesim",
+       "D":"ega, to'ldiruvchi, kesim"
+    },
+    {
+       "savol":"Qaysi gapda tarkibida fonetik o'zgarish kuzatiladigan yasama so'z qatnashgan?",
+       "A":"Shahrimga dildagi muhabbat, ixlos dostonga quyilsin degandim.",
+       "B":"Yashash soating oltin kapkiri Har borib kelsh - bir olam zamon.",
+       "C":"Yo'q, urushning nomi ham o'chsin, Mening o'g'lim kerak hayotga.",
+       "D":"Kel, oppog'im, kel, erkam, men seni allalayin."
+    },
+    {
+       "savol":"Qaysi gapda holning ma'nosiga ko'ra uch turi qatnashgan?",
+       "A":"Ming marta eshitgandan ko'ra bir marta ko'rgan afzalroq.",
+       "B":"Tepalikga chiqayotgan otlar birdan taqqa to'xtab qoldi.",
+       "C":"Besh yil avval shaharga ilm olish uchun kelib qolganmiz.",
+       "D":"Sizga biroz dardimni to'kib sochish uchun keldim."
+    },
+    {
+       "savol":"<i>Dunyoda donolardan ko'ra nodonlar ko'pligi shundandir, balki.</i> Ushbu gap haqida to'g'ri ma'lumotni belgilang.",
+       "A":"Kesim modal so'z bilan ifodalangan.",
+       "B":"Ega yasama so'z bilan ifodalangan.",
+       "C":"Otlashgan so'zlar bosh bo'laklar vazifasida qo'llangan.",
+       "D":"Ega va to'ldiruvchi fonetik o'zgarishga uchragan."
+    },
+    {
+       "savol":"Qaysi javobdagi barcha so'zlar tub so'zlar hisoblanadi?",
+       "A":"Torgina guzarlar, pastgina rastalar, odamlar bilan gavjum bozor go'yo qaynaydi.",
+       "B":"\"Baxtiyorman\" degan birgina so'zni aytish uchun kerak qancha kuch, chidam.",
+       "C":"Qo'rqish aqllarni nodoni, kuchlilarni ojiz odamlarga aylantiradi.",
+       "D":"Hamon tugamagan boshlangan daston, Tanlariga tuproq emas, sog'inchlar botar."
+    },
+    {
+       "savol":"<i>Hamma darddan ko'ra ayriliq yomon, Hamma qayg'udan ham yomondir hijron.</i> Ushbu she'rda qatnashgan kesimlar qaysi so'z turkum(lar)i bilan ifodalangan?",
+       "A":"sifat, sifat",
+       "B":"sifat, olmosh",
+       "C":"ot, ot",
+       "D":"sifat, ot"
+    },
+    {
+       "savol":"Qaysi gapda yasama ot aniqlovchi vazifasini bajargan?",
+       "A":"Umidsizlik uyin buzsang, umidingga yetarsan.",
+       "B":"Bilimdonlarning sevgan mashg'uloti kitob o'qishdir.",
+       "C":"Vatan - kelajak uchun ishonch uyg'otadigan qaynoq go'sha.",
+       "D":"Bahor barchaning diliga ajib bir harorat, iliqlik olib kiradi."
+    },
+    {
+       "savol":"Qaysi gapda hol uyushmagan?",
+       "A":"Zanjirdek bog'langan, o'zaro hamjihat xalqni hech qachon yengib bo'lmaydi.",
+       "B":"Insoniyat hamjihat bo'lib, kelishib yashashni o'rganmog'i lozim.",
+       "C":"Qo'lidagi suratni Nizomjonga ko'rsatib, kulib, yig'lab gapirar edi.",
+       "D":"Ertalab turganingda, yurganingda hech qayerning og'rimasligi - baxt"
+    },
+    {
+       "savol":"Nuqtalar o'rnida faqat <i>h</i> undosh ishtirok etadigan so'zlar qatorini toping.",
+       "A":"sa...ro, ra...mat, mu...tasham, mu...lat",
+       "B":"mu...abbat, mu...ojir, ma...sulot, sa...ovat",
+       "C":"ma...liuq, mu...arrir, ishta...a, i...los",
+       "D":"so...il, i...tiro, zo...id, ...orij"
+    },
+    {
+       "savol":"<i>Dunyoda donolardan ko'ra nodonlar ko'pligi shundandir, balki.</i> Ushbu gap haqidagi to'g'ri ma'lumotni belgilang.",
+       "A":"Ega otlashgan so'z bilan ifodalangan.",
+       "B":"Ega va kesim fonetik o'zgarishga uchragan.",
+       "C":"Kesim yasama so'z bilan ifodalangan.",
+       "D":"Kesim modal so'z bilan ifodalangan."
+    },
+    {
+       "savol":"Qo'shma gap qisimlari orasida o'shatish munosabati, ular orasida tire qo'yiladi. Qaysi qo'shma gap qismlari orasida // belgisi o'rnida ushbu qoidaga muvofiq tire qo'llanadi?",
+       "A":"Qor yog'di // don yog'di.",
+       "B":"Yulduzlarni xayolida har xil rangga bo'yab ko'rdi // yulduzlar o'z rangida xira miltillab turaverdi.",
+       "C":"Aytilgan so'z // otilgan o'q",
+       "D":"Husn to'yda kerak // aql esa kunda kerak."
+    },
+    {
+       "savol":"<i>Fahmimizni yo'q qilish, tinchlikni saqlash, xalqn matonatga davat etish shoirning o'sha yillarda chop etilgan \"Kurash nechun\", \"Jang va qo'shiq\", \"Kapetan Gastello\", \"Ko'ngil deydiki\" kabi to'plamlarning bosh mavzusi bo'ldi.</i> Ushbu ma'lumot qaysi adib faoliyatiga tegishli?",
+       "A":"G'afur G'ulom",
+       "B":"Maqsud Shayxzoda",
+       "C":"Mirtemir",
+       "D":"Hamid Olimjon"
+    },
+    {
+       "savol":"\"Men ko'ksingga boshimni qo'ydim\" she'rining muallifi kim?",
+       "A":"Iqbol Mirzo",
+       "B":"Usmon Azim",
+       "C":"Xurshid Davron",
+       "D":"Halima Xudoyberdiyeva"
+    },
+    {
+       "savol":"Munozara janrining eng qadimgi namunasi sifatida alohida ahamiyatga ega bo'lgan \"Qish va Bahor\" munozarasi qaysi asarda keltirilgan?",
+       "A":"Devonu lug'ot at-turk",
+       "B":"Devoni hikmat",
+       "C":"Qissasi Rabg'uziy",
+       "D":"Qutadg'u bilig"
+    },
+    {
+       "savol":"\"Abdulfayzxon\" drammasida xonga qarata: \"Davlatimizni buyuk, buyuk teraklarini o'z qo'lingiz bilan yiqita berdingiz\", deb uning johilona siyosatini qoralagan qahramon kim edi?",
+       "A":"Rahimbiy",
+       "B":"Donyolbiy",
+       "C":"Davlat to'qsoba",
+       "D":"Qozi Nizom"
+    },
+    {
+       "savol":"<i>Turli bosqinchilar uzoq yillar mobaynida turkiy millatlarni o'zlariga qo'shib olish yo'li bilan yo'qotib yuborishga urindilar, chegaralarni buzdilar, yerlarimizni o'zlashtirib oldilar. Lekin tilimizni yo'q qilolmadilar.</i> Ushbu parchada ishtirok etgan fe'llar haqidagi to'g'ri ma'lumotni belgilang.",
+       "A":"Ikki o'rinda harakat nomi ishtirok etgan.",
+       "B":"Ushbu fe'llarni barchasi o'zaro bir xil nsbatdag fe'llardir",
+       "C":"Ushbu parchadagi fe'llarning barchasi sof fe'llardir.",
+       "D":"Ikki o'rinda qo'shma fe'l ishtirok etgan "
+    },
+    {
+       "savol":"Qaysi gapda fonetik hodisalarning uch turi qo'llangan?",
+       "A":"Meniki-seniki deb necha marta quloq-burni qonadi hamki, og'zini tiyolmaydi",
+       "B":"Og'zi qulog'ida ketib kelgan yigit unga qarab turganlarga qarab qo'lidagilarni berdi.",
+       "C":"Kampir qizi bergan issiq choydan qayno-qaynoq ichgandan so'ng biroz o'ziga keldi.",
+       "D":"Ipakdan tayyorlangan kiyimlarni dazmollaganda dazmolning qattiq qizdirmasligi maqsadga muvofiqdir."
+    },
+    {
+       "savol":"\"Esingizdami, oyi, siz bir marta, atigi bir marta, o'shandayam hazillashib: Meniyam kitob qilib yozsang-chi o'g'lim,-degandingiz. Men:\"Sizning nimangizni kitob qilaman, oyi?\" - degan edim. Xafa bo'lmang, men ham hazillashgan edim. Mana o'sha kitob. Yo'q, uni men yozganim yo'q. Uni siz yozdingiz. Men uni qog'ozga tushiri, odamlarga tarqatdim, xolos\". Ushbu parcha \"Dunyoning ishlari\" qissasining qaysi qismidan olingan?",
+       "A":"\"iltijo\"",
+       "B":"\"Oq marmar, qora marmar\"",
+       "C":"\"Alla\"",
+       "D":"\"Gilam paypoq\""
+    },
+    {
+       "savol":"<i>Yashil bo'yboq bilan bo'yalgan, ust tomoni qayrilgan, o'ymakor panjarali darvozoga yitganda yigitning yuragi bir oz o'ynab ketdi.</i> Sintaktik shakl yasovchi qo'shimcha tasirida tarkibida tovush o'zgarishi ro'y bergan so'z qaysi turkumga mansub?",
+       "A":"ravish",
+       "B":"ot",
+       "C":"sifat",
+       "D":"fe'l"
+    },
+    {
+       "savol":"Berilgan qaysi fikr to'g'ri ma'lumot sanaladi?",
+       "A":"Egalik qo'shimchalari qo'yilishi natijasida ayrim olmoshlarning asosida tovush almashish mumkin.",
+       "B":"Egalik qo'shimchalari qo'yilishi natijasida ayrim so'zlarda jarangli undosh jarangsiz undoshga aylanadi.",
+       "C":"Egalik qo'shimchalari qo'yilishi natijasida ayrim so'zlar imlosida tovush tushib, ortish va almashish hodisalari uchrash mumkin.",
+       "D":"Egalik qo'shimchalari qo'yilishi natijasida faqat tovush tushish va almashish hodisasi kuzatiladi."
+    },
+    {
+       "savol":"Qaysi javobdagi barcha so'zlar imloviy jihatdan to'g'ri yozilgan?",
+       "A":"avf, ta'magir, tadqiqot",
+       "B":"afv, ta'magir, tadqiqot",
+       "C":"afv, tamagir, tadqiqot",
+       "D":"avf, tamagir, tadqiqot"
+    },
+    {
+       "savol":"Ma'naviyat insonning, xalqning, jamiyatning kuch - qudratidir. Ushbu gapda faqat yopiq bo'g'indan iborat so'zlar haqida berilgan to'g'ri hukmni toping.",
+       "A":"Ushbu so'zlarda qatnashgan undoshlar jangli - jarangsizligiga ko'ra farqlanmaydi.",
+       "B":"Ushbu so'zlarda qatnashgan undoshlar hosil bo'lish o'rniga ko'ra turli guruhlarga mansub.",
+       "C":"Ushbu so'zlar bir xil sintaktik vazifa bajargan.",
+       "D":"Ushbu so'zlar qaralqich va qaralmish vazifasini bajargan"
+    },
+    {
+       "savol":"Qaysi gapda ega tarkibida lab undoshi qatnashmagan?",
+       "A":"O'zbek paxtakori har qanday ob-havoda ham hosilni yig'ishtirib olishga harakat qilgan.",
+       "B":"Davrada o'tirgan yigitlar o'z qarorlarining aytishdi-yu, o'rinlaridan qo'zg'alishdi.",
+       "C":"Bizning qarorimiz sizga yoqmasligi mumkin, ammo uni o'zgartirmaymiz.",
+       "D":"Bugun havo juda issiq edi, shuning uchun barcha o'zining daraxt soyasiga oldi."
+    },
+    {
+       "savol":"Qaysi javobdagi so'zlarning barchasi o'zaro ma'nodosh emas?",
+       "A":"ko'p serobgarchilik, bisyor",
+       "B":"anglamoq, ilg'amoq, tushunmoq",
+       "C":"chiroyl, go'zal, suluv",
+       "D":"do'st, o'rtoq, oshna"
+    },
+    {
+       "savol":"Maqollarda Vatan, adolat, mehnatsevarlik, mardlik va jasorat, vafodorlik, ezgulik, sabr va chidam ulug'lanadi, inson tabiatiga xos illatlar qoralanadi. Ushbu gapdagi yasama so'zlar yuzasidan berilgan qaysi ma'lumot to'g'ri emas? ",
+       "A":"Ushbu gapda 5 ta yasama ot ishtirok etgan.",
+       "B":"Yasama so'zlar fe'l va sifat turkumlariga oid so'zlardan yasalgan.",
+       "C":"Yasama otlar ega va kesim vazifalarida qo'llangan.",
+       "D":"Ushbu gapda 7 ta yasama so'z ishtirok etgan."
+    },
+    {
+       "savol":"\"meng\" so'zining hozirgi muqobili qaysi javobda to'g'ri berilgan?",
+       "A":"soch",
+       "B":"xol",
+       "C":"yuz",
+       "D":"lab"
+    },
+    {
+       "savol":"To'ldiruvchi uyushgan gapni aniqlang.",
+       "A":"Shoir she'rlar yorqin, o'ziga xos ifodalar borki, asarning ta'sirchanligini ta'minlagan.",
+       "B":"Badiy adabiyot voqealarni ta'sirchan va jonli tasvirlay oladi, shuning uchun bu tasvirlar o'quvchi yodida uzoq saqlanadi.",
+       "C":"San'at odamlar hayotida muhim o'rin tutadi, chunki uning yordamida inson ko'ngli ezgulik va go'zallikka oshno bo'ladi.",
+       "D":"Badiiy asarning musiqiy ohangi, so'zlarning mahorat bilan ishlatilishi o'quvchini o'ziga jalb etadi."
+    },
+    {
+       "savol":"Qaysi gapda ikki o'rinda imloviy xatolik uchraydi?",
+       "A":"Doston o'tgan asarning birinchi yarmida yashab ijod etgan otashin bengal shoiri Nazrul islomning qahramona va fojeali taqdirga bag'ishlanadi.",
+       "B":"Olmoshning o'z shoirning anglab yitmagani, unga ergashmagani mustamlakachilarga juda qo'l keladi va ozodlikdan mahrum etiladi.",
+       "C":"Shoir tushkunlikka tushmaydi, yurti va o'z halqning ozodlikka erishishiga ishonadi, mana shu umid unga kuch bag'ishlaydi.",
+       "D":"Dostonda vatanning ingiliz mustamlakachilaridan ozod bo'lishini orzu qilgan Nazrul islomning tutqunlikdagi hayoti, his-tuyg'ulari badiiy tasvirlanadi."
+    },
+    {
+       "savol":"So'z qo'llash bilan bog'liq xatolikka yo'l qo'yilgan javobni aniqlang.",
+       "A":"Kamalikdek rango-rang Bo'lsin deb sanat, tillar Asrlarcha qildik jang...",
+       "B":"Bundan oq birla qaro, Zulmat, ziyo, shohu-u gado Jangi qilurlar doimo...",
+       "C":"Qo'zg'al, Ulug' bobolarning Pok ruhi uchun.",
+       "D":"Ha, zulm bor, Haqsizlik bor, Barchaga bu ayondir."
+    },
+    {
+       "savol":"Yasama so'zlarning barchasi bir xil usulda hosil qilingan javobni belgilang.",
+       "A":"Uzoqda sharqirab soylar oqmoqda, Borliqda bir ajib dilbarlik hokim.",
+       "B":"Shu payt ikki kishi o'tdi naridan, Quvnoq suhbat qurib avar tilida.",
+       "C":"Boshning egib, ta'zim ayla, shukrona ayt, Seni guldek erkalagan chaman uchun.",
+       "D":"Papka ichra uchrashib Ruchka, qalam, o'chirg'ich Rosa suhbat qilishdi."
+    },
+    {
+       "savol":"Aniqlovchi uyushgan gapni aniqlang.",
+       "A":"Badiiy asarning musiqiy ohangi, so'zlarning mahorat bilan ishlatilishi o'quvchini o'ziga jalb etadi.",
+       "B":"Shoir sha'rlarida yorqin, o'ziga xos ifodalari borki, bular asarning ta'sirchanligini ta'minlagan.",
+       "C":"San'at odamlar hayotida muhim o'rin tutadi, chunki uning yordamida inson ko'ngli ezgulik va go'zallikka oshno bo'ladi.",
+       "D":"Badiiy adabiyot voqealarni ta'sirchan va jonli tasvirlay oladi, shuning uchun bu tasvirlar o'quvchi yodida uzoq saqlanadi."
+    },
+    {
+       "savol":"Biror yulduz uchsa, derlar: Kimdir o'tdi bu olamdan, Ko'hna dunyo ajab qoldi, evoh, yana bir odamdan. She'riy parchadagi fe'llar haqidagi to'g'ri ma'lumot belgilang.",
+       "A":"Ushbu fe'llarning barchasi o'zaro bir xil mayldagi fe'llar hisoblanadi.",
+       "B":"Ushbu fe'llarning barchasi o'zaro bir xil nisbatdagi fe'llar hisoblanadi.",
+       "C":"Ushbu fe'llarning barchasi o'timli fe'llar hisoblanadi.",
+       "D":"Ushbu fe'llarning barchasi o'tgan zamon ma'nosini ifodalagan."
+    },
+    {
+       "savol":"",
+       "A":"",
+       "B":"",
+       "C":"",
+       "D":""
+    },
+    {
+       "savol":"",
+       "A":"",
+       "B":"",
+       "C":"",
+       "D":""
+    },
+    {
+       "savol":"",
+       "A":"",
+       "B":"",
+       "C":"",
+       "D":""
+    },
+    {
+       "savol":"",
+       "A":"",
+       "B":"",
+       "C":"",
+       "D":""
+    },
+    {
+       "savol":"",
+       "A":"",
+       "B":"",
+       "C":"",
+       "D":""
+    },
+    {
+       "savol":"",
+       "A":"",
+       "B":"",
+       "C":"",
+       "D":""
+    },
+    {
+       "savol":"",
+       "A":"",
+       "B":"",
+       "C":"",
+       "D":""
+    },
+    {
+       "savol":"",
+       "A":"",
+       "B":"",
+       "C":"",
+       "D":""
+    },
+    {
+       "savol":"",
+       "A":"",
+       "B":"",
+       "C":"",
+       "D":""
+    },
+    {
+       "savol":"",
+       "A":"",
+       "B":"",
+       "C":"",
+       "D":""
+    },
+    {
+       "savol":"",
+       "A":"",
+       "B":"",
+       "C":"",
+       "D":""
+    },
+    {
+       "savol":"Abdulla Qodiriyning qaysi asari hikoya janriga mansub?",
+       "A":"Baxtsiz kuyov",
+       "B":"Uloqda",
+       "C":"Obid ketmon ",
+       "D":"To'y "
+    },
+    {
+       "savol":"Shodon kunim gul otgan sen,Chechak otgan izimga ,Nolon kunim yupatgan sen,Yuzing bosib yuzimga.Ushbu misralar muallifi kim?",
+       "A":"Abdulla Oripov",
+       "B":"Halima xudoyberdiyeva",
+       "C":"Muhammad Yusuf ",
+       "D":"Erkin Vohidov "
+    },
+    {
+       "savol":"Masal janrida barakali ijod qilgan fransiyalik masalchini aniqlang",
+       "A":"Gellert",
+       "B":"Lessing",
+       "C":"Lefonten ",
+       "D":"Fedr "
+    },
+    {
+       "savol":"Uch og'a-ini botirlar ertagida To'ng'ich botir poyloqchilik vaqtida ukalarini qaysi xavfdan xolos etadi",
+       "A":"Yong'inni bartaraf etadi.",
+       "B":"Ajdarni yengadi.",
+       "C":"O'zlariga hujum qilmoqchi bo'lgan sherni o'diradi.",
+       "D":"O'g'rilarni qirib tashlaydi"
+    },
+    {
+       "savol":"\"Asr bilan vidolashuv\" she'rining muallifi kim? ",
+       "A":"Halima Xudoyberdiyeva",
+       "B":"Jamol Kamol",
+       "C":"Oydin Hojiyeva",
+       "D":"Usmon azim "
+    },
+    {
+       "savol":"Quyosh rumiy qizi ,sota(marjon,sota qolqoni (marjon shodasi),Yorug' yuz,sara qiz yuzi istioralari orqali ifodalangan asar nomi berilgan javobni aniqlang",
+       "A":"Qutadg'u bilig'",
+       "B":"Devonu lug'at at-turk",
+       "C":"Devoni hikmat ",
+       "D":"Qisasi Rabg'uziy "
+    },
+    {
+       "savol":"Qutadg'u bilig\" asarida qaysi qahramon <qilmishlari tog'ri,fe'l-u raftori rost, tili chin,yetuk,ko'zi va ko'ngli boy,bilimli,zakovatli,hushyor,yomonlarga misli olov edi> deb tasvirlangan?",
+       "A":"Oyto'ldi'",
+       "B":"Kuntug'di",
+       "C":"O'dulmish ",
+       "D":"O'zg'urmish "
+    },
+    {
+       "savol":"Quyoshni zambarakka,uning zarrin nurlarini o'qlarga qiyoslagan ijodkor kim? ",
+       "A":"Muhammad Yusuf",
+       "B":"Xurshid Davron",
+       "C":"Rauf Parfi",
+       "D":"Omon Matjon "
+    },
+    {
+       "savol":"Qisasi Rabg'uziy\"dagi \"Uzum hikoyati\"da chog'ir (ichkilik)ning paydo bo'lishi shayton nomi boilan aloqalantiradi.Chog'ir ichgan odam holati ham ta'sirchan o'xshatishlar bilan tasvirlanadi.Buning uchun muallif qaysi obrazlardan foydalangan. ",
+       "A":"sichqon,mushuk,tong'iz",
+       "B":"sichqon,yo'lbars,mushuk",
+       "C":"tulki yo'lbars,tong'iz",
+       "D":"Tulki,sher,ayiq "
+    },
+    {
+       "savol":"Necha bu falak solg'usi g'urbatqa meni <har lahza tugangusiz mashaqqatqa meni.Ne chora qilay,ntayki,Tengri go'yo Mehnatni menga yaratdi,mehnatqa-meni.Ushbu ruboiy yuzasidan berilgan ma'lumotni aniqlang.",
+       "A":"Ushbu ruboiy qofiyasi mutlaq qofiya hisoblanadi.",
+       "B":"Ushbu ruboiy  a-a-a-a tarzida qofiyalangan.",
+       "C":"Ushbu roboiydan qofiyalardagi -a unlisi raviy hisoblanadi ",
+       "D":"ushbu ruboiy radifi yoyiq radif hisoblanadi "
+    },
+    {
+       "savol":"Necha bu falak solg'usi g'urbatqa meni <har lahza tugangusiz mashaqqatqa meni.Ne chora qilay,ntayki,Tengri go'yo Mehnatni menga yaratdi,mehnatqa-meni.Ushbu ruboiy yuzasidan berilgan ma'lumotlardan qaysi biri tog'ri emas?",
+       "A":"Ushbu roboiy qofiyasi muqayyad hisoblanadi",
+       "B":"Ushbu ruboiy  a-a-a-a tarzida qofiyalangan.",
+       "C":"Ushbu roboiyda qofiyalardagi-t undoshi raviy hisoblanadi. ",
+       "D":"Ushbu roboiy radifi yig'iq radif hisoblanadi. "
+    },
+    {
+       "savol":"Sen mashrabsan,Xalqaro tumor ,balxda dorda osilgan.Navoiysan,shoh yonida Faqirni duo qilgan. Yasaviysan,meniki deb ,Ko'ringan da'vo qilgam...Ushbu parchada ishtirok etgan fe'llar haqidagi tog'ri ma'lumotni belgilang.?",
+       "A":"Ushbu parchadagi fe'llarning barchasi aniq nisbatdagi fe'llar hisoblanadi.",
+       "B":"Usbu parchada fe'ning tuzilishiga ko'ra ikki turi ishtirok etgan.",
+       "C":"Ushbu parchada to'rt o'zinda tub fe'l ishtirok etgan. ",
+       "D":"Ushbu parchada fe'llarning barchasi sof fe'llar hisoblanadi."
+    },
+    {
+       "savol":"Qaysi javobdagi so'zlar o'zaro ma'nodosh emas?",
+       "A":"Ganj- xazina",
+       "B":"amir- buyruq",
+       "C":"afzal-yaxshi ",
+       "D":"surat-rasm "
+    },
+    {
+       "savol":"Tilimizdagi mehr -shavqat ,qodir- qimmat degan, bir-birini chuqur mazmun bilan boyitadigan iboralarni olaylik. Qanchalik g'alati tuyilmasin,bu iboralarniu boshqa tillarga aynan tarjima qilishning o'zi mushlik bir muammodir.Ushbu parchada imloviy xatolikka yo'l qo'yilgan?",
+       "A":"6",
+       "B":"4",
+       "C":"3 ",
+       "D":"5"
+    },
+    {
+       "savol":"Vazifadosh ko'makchi hamda sof ko'makchi ishtirok etgan gapni aniqlang?",
+       "A":"Tabiiy ofat tufayli uyning hamma yog'i buzilib -yorilib ketib ,yashash uchun yaroqsiz holga kelib qolgandi.",
+       "B":"O'zligini anglamagan,manqurtlik tomon ketayotgan odamlar bilan yangi jamiyatni qurib bo'lmaydi.",
+       "C":"so'zlarni turkumlarga ajratish masalasi eng qadimgi davrlardan buyon olimlar diqqatini tortib keladi",
+       "D":"Ilmning foydasi sgu qadar ko'pki,ta'ridlagan bilan ado qilish mumkin emas. "
+    },
+    {
+       "savol":"Qaysi javobda so'z yasovchi qo'shimcha ta'sirida asosda tovush almashishi kuzatiladi ?",
+       "A":"Meni tuzatolmas hech dori -darmon,Jonimga Masihdir shu ona tilim",
+       "B":"Toza bu ko'nlingda g'am qolmas sira Allasin aytganda mehribon onang",
+       "C":"Shu payt ikki kishi o'tdi naridan, Quvnoq suhbat qurib avar tilida ",
+       "D":"Nega yig'layapsan,ayt,qo'zichog'im,Nima bo'ldi? Yomon tush ko'rdingmi yo?"
+    },
+    {
+       "savol":"Qaysi javobda o'zaro ma'nodosh so'zlar berilgan?",
+       "A":"urish-tinchlik",
+       "B":"norgul-gavdali ",
+       "C":"yaroqli-qurolli ",
+       "D":"xiyla- makr"
+    },
+    {
+       "savol":"Qaysi javobda ikki imloviy xatolikka yo'l qo'yilgan?",
+       "A":"O'zlikni anglash,milliy ong va tafakkurning ,avlodlar o'rtasidagi ruhiy -ma'naviy bog'liqlik til orqali nomoyon bo'ladi",
+       "B":"Nihoyat, tilimiz, millatiimiz  taqdirini belgilovchi bu o'ta muhim masala Oliy Kengash sessiyasi muxokamasiga qo'yildi ",
+       "C":"O'zbekiston  Respyblikasi konstitutsiyasida davlat tiling maqomi xuquqiy jihatdan aniq belgilanib,mustahkamlab qo'yildi ",
+       "D":"O'zbekiston Respublikasida davlat tiliga yoki boshqa tillarga mensimay yoki husumat bilan qarash taqiqlanadi "
+    },
+    {
+       "savol":"Qaysi gapda fe'lning vazifa shakllarning barchasiga oid birliklar ishtirok etgan?",
+       "A":"Odamlar sizni hurmat qilishadi,opa,-dedi u kuyunib,-sha'ningizda dog' tushiradigan ishlarga izn bermang",
+       "B":"Jimirlab oqayotgan daryo bo'yiga borib,qonib suv ichgach,dam olish uchun darxt soyasiga cho'zilishibdi",
+       "C":"Or-  bu o'ziga ep ko'rilmagan ishdan,narsadan xijolat tortish,uyalish,uyat va nomus qilish tuyg'usidir. ",
+       "D":"U ota  vasiyatiga amal qilib ,to'rdan joy tegmaydigan,poygakda choy tegmaydigan odam bo'lib yetishibdi "
+    },
+    {
+       "savol":"Qaysi javobda qo'shma fe'l qatnashgan?",
+       "A":"Bobur gulni bir  hidlab,boshidagi sallasining qatiga qistirib qo'ydi",
+       "B":"xola,ukam qani, olib ketgani keldim.",
+       "C":"Kechga yaqinlashgach,havo aynib, shamol turdi ",
+       "D":"Orqa tomonda o'tirgan Dilbar o'zini tutolmay qiqirladi "
+    },
+    {
+       "savol":"Yoz kechasi.Osmon -falakda Kunduzning kitobi.o'qildi.Tars yorildi qovun palakda,Oltin shaftolilar to'kildi .Ushbu she'riy parchadagi fe'llar haqidagi ma'lumotlardan qaysi tog'ri emas?",
+       "A":"Ushbu parchada tub va yasama fe'llar ishtirok etgan",
+       "B":"Usbu fe'llar majhul va o'zlik nisbatdagi fe'llardir ",
+       "C":"Ushbu fe'llarning barchasi xabar maylidagi fe'llardir ",
+       "D":"Ushbu fe'llarning barchasi sodda fe'llar hisoblanadi "
+    },
+    {
+       "savol":"Bahor devorlarning oftobro'ya etaklaridan boshlanmaydi.Bahor ariqlarning kungay sohillaridan boshlanmaydi.bahor go'ristondan boshlanadi.Ilk maysalar mungli do'ppaygan qabrlar yonboshidan unib chiqadiTong'ich chuchmomalar enh avval sukutga cho'mgan  qabriston ustida ma'yus qong'irog'ini chaladi.Usbu parcha <Dunyoning ishlari> qissasining qaysi qismidan olingan?",
+       "A":"Alla",
+       "B":"Gilam paypoq",
+       "C":"Oq marmar,qora marmar",
+       "D":"Iltijo "
+    },
+    {
+       "savol":"Bizning qishloq tog', bag'rida-bog' bag'rida... Mirtemirning qaysi she'ri ana shunday misralar bilan boshlanadi -?",
+       "A":"Baliq ovi",
+       "B":"Qishlog'im",
+       "C":"Bulut",
+       "D":"To'rg'ay"
+    },
+    {
+       "savol":"O'tkir Hoshimovning bu asari har biri mustaqil sujetlki hikoyalardan tashkil topgan.Undagi<Gilam paypoq>, <Oq oydin kechalar>,<Tush>,<Alla>,<Oltin baldoq>,<O'ris bolaning oyisi>,<Iltijo> kabi hikoyalar kishini befarq qoldirmaydi.Ushbu  parchada O'tkir Hoshimovning qaysi asari haqida so'z yuritilgan?",
+       "A":"Bahor qaytmaydi",
+       "B":"Dunyoning ishlari",
+       "C":"Tushda kechgan umrlar ",
+       "D":"Ikki eshik orasi"
+    },
+    {
+       "savol":"...ko'zi yoshligida jarohatlanib,ojizlanib qoladi.Tabiblarga qaratadilar,foyda bermaydi.Bir kuni ona tush ko'radi.Ibrohim alayhissalom unga qarata:<Ey volida,duolaring sharofatifdan Allahb o'g'lingga ko'rish ne'matini qaytardi!>-deb xitob qilayotganmushCho'chib uyg'ongan ona og'lidan xabar olibdi.Og'llining ko'z qaroqlarida nur o'ynardi>Usbu parcha kimning hayotiga tegishli ma'lumot hisonlanadi?",
+       "A":"Ahmad yassaviy",
+       "B":"jaloliddin Rumiy",
+       "C":"Imom Buxoriy ",
+       "D":"Najmiddin Kubro "
+    },
+    {
+       "savol":"<Uch og'a-ini botirlar>ertagida Tong'ich botir poyloqchilik vaqtida ukalarini qaysi xavfdan xalos etadi?",
+       "A":"Ajdarni yengadi",
+       "B":"Yong'inni bartaraf etadi",
+       "C":"Podshoh xazinasiga tusmoqchi bo'lgan o'g'rilarni qirib tashlaydi ",
+       "D":"O'zlariga hujum qilmoqchi bo'lgan sherni o'diradi "
+    },
+    {
+       "savol":"<Uch og'a-ini botirlar> ertagida Kenja botir poyloqchilik vaqtida qanday jasorat ko'rsatadi?",
+       "A":"Ajdarni yengadi",
+       "B":"Yong'inni bartaraf etadi",
+       "C":"Podshoh xazinasiga tushmoqchi bo'lgan og'rilarni qirib tashlaydi. ",
+       "D":"O'zlariga hujum qilmoqchi bo'lgan sherni o'ldiradi"
+    },
+    {
+       "savol":"Jumaboy,Tilovbergan va Genjamurod qaysi asar qahramonlari hisoblanadi? ",
+       "A":"Oq kema (Chingiz Aytmatov) ",
+       "B":"Tahno qayiq (Erkin A'zam) ",
+       "C":"Me'mor (Mirmuhsin) ",
+       "D":" Ot egasi (SHukur Xolmirzayev)"
+    },
+    {
+       "savol":"\"Tanho qayiq\" dramatik rivoyatining muallifini aniqlang ",
+       "A":"Jamol Kamol ",
+       "B":"Erkin A'zam ",
+       "C":"Xurshid Davron ",
+       "D":"Usmon Azim "
+    },
+    {
+       "savol":"Abdulqosim Abdulloh binni Muhammad al-Muqtadoga bag'ishlangan asar nomi berilgan javobni aniqlang ",
+       "A":"Qisasi Rabg'uziy ",
+       "B":"Qutadg'u bilig ",
+       "C":"Devonu lug'ot at-turk ",
+       "D":"Devonni hikmat "
+    },
+    {
+       "savol":"Biri katta va kuchli,ikkinchisi kichik va nozikroq kokliklar talashib qolishadi.Katta kaklik kichigiga zug'um o'tkaza boshlaydi.Shu payt osmondan bir burgut sho'ng'ib keladi-da,katta kaklikka chang soladi.Uni changalida olib ketadi.\"Xamsa\" dostonlaridagi qaysi qahramon ushbu hodisani tasodifan kuzatib qoladi va voqeaning yakunlanishidan xursand bo'ladi ",
+       "A":"Bahrom ",
+       "B":"Farhod ",
+       "C":"Iskandar ",
+       "D":"Jobir "
+    },
+    {
+       "savol":"Rauf Parfining birinchi she'riy to'plami qanday nomlangan? ",
+       "A":"Ko'klam ",
+       "B":"Baxt tongotari ",
+       "C":"Karvon yo'li ",
+       "D":"Oq olmalar "
+    },
+    {
+       "savol":"Qaysi javobda yasama fe'llarning asosi o'zaro bir turkumga mansub so'zlardan iborat? ",
+       "A":"O'tmishingni,o'ylab qiynalar jonim, Aytsam ado bo'lmas dostonlaring bor. ",
+       "B":"Yer yosh:soflik jimirlatar etin, Zoriqqan g'unchalar ochildi bog'da. ",
+       "C":"Shoxlarda mezonlar yaltirar xira,Poyida shivirlar mening kuylarim. ",
+       "D":"El tinchidi,o'lkada ur-sur yo'qoldi, Yovdan faqat tuproqda qonli iz qoldi "
+    },
+    {
+       "savol":"Qaysi so'zning izohi \"ishlab chiqarilayotgan mahsulot turlarini ko'paytirish, kengaytirish\" ma'nosiga muvofiq keladi? ",
+       "A":"modernizatsiya ",
+       "B":"diversifikatsiya ",
+       "C":"strategiya ",
+       "D":"brifing "
+    },
+    {
+       "savol":"Qaysi gapda uch xil nisbatdagi fe'llar ishtirok etgan ",
+       "A":"Tadbirni o'tkazish rejasini tuzish uchun sinf rahbarimiz,guruh sardoro va guruh o'quvchilari-hammamiz yig'ildik. ",
+       "B":"Aka-uka tong otguncha shu yerda qolishni,qo'lga kiritilgan o'ljalarni teng taqsimlab olishni maslahatlashibdilar.  ",
+       "C":"Yashil bo'yoq bilan bo'yalgan,o'ymakor panjarali,katta o'gir darvozaga yetganda yigitning yuragi o'ynay boshladi. ",
+       "D":"Zirvak 40 daqiqa qaynagach,darhol guruchni solib,baland olovda suv qolmaguncha tez qaynatiladi. "
+    },
+    {
+       "savol":"Qaysi javobda faqat vazifadosh ko'makchilar berilgan? ",
+       "A":"qadar,singari ",
+       "B":"bilanm,uchun ",
+       "C":"avval,tomon ",
+       "D":"orqali,ko'ra "
+    },
+    {
+       "savol":"Bog'langan qo'shma gap berilgan javobni belgilang. ",
+       "A":"Bolalar uy-uylariga tarqalishdi va atrof tinchib qodi. ",
+       "B":"Orzular ortida ko'z ilg'amas manzillar va mashaqqatli mehnat bor. ",
+       "C":"Gapirganing kumush,gapirmaganing oltin ",
+       "D":"Orzularga mehr va muhabbatdan sayqal berilsa,ezgulikka yetaklaydi  "
+    },
+    {
+       "savol":"Qaysi gapda ega harakat nomi bilan ifodalangan? ",
+       "A":"Yaxshilik ekkan esonlik ko'radi. ",
+       "B":"Halol mehnat qilish yaxshilikdir. ",
+       "C":"Birovga yaxshilik qilsang,yaxshilik qaytadi. ",
+       "D":"Yaxshilik qonuni asosida yashamoqning zavqi bor. "
+    },
+    {
+       "savol":"Qaysi javobda sifatlar tovush o'zgarishiga uchragan ",
+       "A":"ochiq,silliq ",
+       "B":"issiq, tiniq  ",
+       "C":"sovuq,quvnoq ",
+       "D":"quruq,iliq "
+    },
+    {
+       "savol":"Adabiyot olamida hozirga qadar insoniyat ardoqlab kelayotgan eng noyob xislar:insonparvarlik,adolat,shavqatlik,o'zaro hamjixatlik,mehr va muruvvat,fidoiylik,go'zallikka tashnalik singari tuyg'ular jam bo'lgan.Adabiyotga oshno tutilgan odam qalbiga bu xislarning ko'chib  o'tishi,hayotiga nur olib kirib,turushini turfa mazmun bilan boyitishi aniqdir.Ushbu parchada necha o'rinda yasama so'zlar imlosida xatolikka yo'l qo'yilgan  ",
+       "A":"4 ",
+       "B":"2 ",
+       "C":"3 ",
+       "D":"5 "
+    },
+    {
+       "savol":"Qaysi gapda ikki o'rinda imloviy xatolik uchraydi? ",
+       "A":"Adabiyot olamida eng noyob hislar:insonparvarlik,shafqatlik,fidoiylik singari tuyg'ular jam bo'lgan ",
+       "B":"Kitob mutolaasi o'quvchidan bu ishga jiddiy ixlos bilan yondashishni,ma'suliyatni talab qiladi.  ",
+       "C":"Ma'naviy yuksalishning eng samarali yo'llaridan biri kitobga o'z hohishingiz bilan oshno tutunishdir. ",
+       "D":"Kitob sizga hech qachon hiyonat qilmaydi,hech vaqt yolg'iz qoldirmaydi,joningizga tegmaydi "
+    },
+    {
+       "savol":"Qaysi javobda ravish yasovchi qo'shimchalar berilgan? ",
+       "A":"-larcha, -ona  ",
+       "B":"-ay, -lik ",
+       "C":"-choq, -kash ",
+       "D":"-lan, -lash "
+    },
+    {
+       "savol":"Bu asarda jasur ayolning berahm bosqinchi bilan olishuvi va zo'ravonlikni kasb qilgan Kayxusravni mardona yenggani ta'sirli ravishda ettiriladi.Ushbu gapda yasama fe'llarning necha o'rinda qo'llangan ",
+       "A":"1 ",
+       "B":"4 ",
+       "C":"2 ",
+       "D":"3 "
+    },
+    {
+       "savol":"Onam bilan opam // ikkovlari dorixonada ishlaydilar.// belgisi o'rnida qanday tinish belgisi qo'yiladi? ",
+       "A":"tire ",
+       "B":"ikki nuqta ",
+       "C":"nuqtali vergul ",
+       "D":"vergul "
+    },
+    {
+       "savol":"Qaysi javobda vergullar uyushiq bo'laklarni ajratish uchun qo'yilgan? ",
+       "A":"Shahar,qishloqlarimizda yangi, zamonaviy uylar qurilmoqda. ",
+       "B":"Ana shu joyda,taxta ko'prikning tagida,kichkina buloq ",
+       "C":"Biz,yozuvchilar,xalqqa xizmat qilishdan charchamaymiz. ",
+       "D":"Otam bilan shu atrofdan,qishloqning chiqaverishidan,do'kon qurdik "
+    },
+    {
+       "savol":"Qaysi javobdagi vergullar uyushiq bo'laklarni ajratish uchun qo'yilgan? ",
+       "A":"Maktabimizda rassomlik,duradgorlik,tikuvchilik to'garaklari bor. ",
+       "B":"Otam bilan shu atrofdan,qishloqning chiqaverishidan,do'kon qurdik. ",
+       "C":"Ertasi,yakshanba kuni,tong chog'ida shoir hayot bilan vidolashdi.  ",
+       "D":"Mehmonlar Go'zalni,sho'x qizchani, yoqtirib qolishdi "
+    },
+    {
+       "savol":"\"Men ko'ksingga boshimni qo'ydim\" she'rning muallifi kim?  ",
+       "A":"Iqbol Mirzo ",
+       "B":"Usmon Azim ",
+       "C":"Xurshid Davron ",
+       "D":"Halima Xudoyberdiyeva "
+    },
+    {
+       "savol":"Munozara janrining eng qadimgi namunasi sifatida alohida ahamiyatga ega bo'lgan \"Qish va Bahor\" munozarasi qaysi asarda keltirilgan? ",
+       "A":"Devonu lug'ot at-turk ",
+       "B":"Devoni hikmat ",
+       "C":"Qissai Rabg'uziy ",
+       "D":"Qutadg'u bilig "
+    },
+    {
+       "savol":"Qo'shma gap qismlari orasida zidlash munosabati ifodalanganda,ular orasiga tire qo'yiladi.Qaysi qo'shma gap qismlari orasida //  belgisi o'rnida ushbu qoidaga muvofiq tire qo'llaniladi? ",
+       "A":"Sizda ham shunday hollar bo'lgandir // tun yarmidan og'gandan birdan uyg'onib ketasiz. ",
+       "B":"Yulduzlarni xayolida har xil rangga bo'yab ko'rdi // yulduzlar o'z rangida xira miltillab turaverdi ",
+       "C":"Oyim endi o'rnidan turayotgan edi // eshik shaxt bilan ochildi  ",
+       "D":"Qor yog'di // don yog'di. "
+    },
+    {
+       "savol":"Qaysi gapda so'z qo'llash bilan bog'liq xatolik mavjud?",
+       "A":"Oq yuzida holi,yangi to'lgan oyday ikki qoshi hiloli juda yarashgan",
+       "B":"Tarixingdir ming asrlar ichra pinhon,o'zbegim...",
+       "C":"U piyoladagi sovuq suvni ichib,xiyla yengil tortganday bo'ldi",
+       "D":"Ruhimizda,vujudimizda Vatan nomi mangu barqaror"
+    },
+    {
+       "savol":"Qaysi maqolda antonim so'zlar qo'llangan",
+       "A":"To'g'ri bo'lsang,o'sib borib gul bo'lasan",
+       "B":"Yolg'on aytib foyda ko'rsang,oxirida zarar topasan",
+       "C":"Olim bo'lsang,olam seniki",
+       "D":"Maqtanma g'oz,hunaring oz."
+    },
+    {
+       "savol":"Ota-onasi tirikligida ikki og'iz shirin so'z atayin gapirmaydi-da,ular vafot etishgach,ming-ming pul sarflab,o'sha so'zlarni qabrtoshga yozdirib qo'yadi.Ushbu gapda qatnashgan yasama fellar sonini belgilang  ",
+       "A":"1",
+       "B":"3",
+       "C":"4",
+       "D":"2"
+    },
+    {
+       "savol":"Qaysi gapda ko'rsatish olmoshi to'ldiruvchi vazifasini bajargan?",
+       "A":"Shularni rozi qilguncha tinchimayman",
+       "B":" Shunisi aniqki,muammolarim o'z-o'zidan hal bo'lib ketdi",
+       "C":"Qayoqqa borsam,yonimda,shu bilan ovunaman-da",
+       "D":"Endi shunga ishondimki hammasi yaxshi bo'ladi."
+    },
+    {
+       "savol":"Qaysi gapning egasi ibora bilan ifodalangan? ",
+       "A":"Aravani quruq olib qochadigan yolg'onchilarning gaplariga ishonmang",
+       "B":"Sizlarga dardlarimni to'kib sochish,ko'nglimni bo'shatish uchun keldim ",
+       "C":"Andishaliga azbaroyi andishaliligidan tili qisiq bo'lgani alam qilarkan.",
+       "D":"Nuqul o'tmishidan noliydiganlar kelajagini barbod qiladi"
+    },
+    {
+       "savol":"Qaysi gapda yuklanma qo'llanmagan?",
+       "A":"Tojik tilidagi \"se\" o'zbek tilidagi \"uch\"",
+       "B":"Ajdodlardan meros qolgan rasm-rusumlar bizni faqat ezgulikka undaydi",
+       "C":"Ming marta eshitgandan bir marta ko'rgan afzalroq",
+       "D":"Salim bolaligidanoq har kimdan turtki yeb yuradigan,bo'sh-bayovgina bola edi"
+    },
+    {
+       "savol":"Jo'shadi buloqning kumush yoshlari,ham mungli,ham shirin jildirashlari.Buralib ko'katlar ustidan chopar,Uzilgan marvarid yarqirashlari.Ushbu parchadagi fe'llar haqida berilgan to'g'ri malumotni belgilang.",
+       "A":"Barcha fellar bir xil sintaktik vazifani bajargan ",
+       "B":"Uchta yasama fe'l qatnashgan",
+       "C":"Barcha fe'llar sodda fe'llar hisoblanadi. ",
+       "D":"Yasama fe'llar turli so'z turkumlaridan yasalgan."
+    },
+    {
+       "savol":"Dunyoda donolardan ko'ra nodonlar ko'pligi shundandir,balki.Ushbu gap haqidagi to'g'ri ma'lumotni belgilang.",
+       "A":"Kesim modal so'z bilan ifodalangan ",
+       "B":"Ega yasama so'z bilan ifodalangan",
+       "C":"Otlashgan so'zlar bosh bo'laklar vazifasida qo'langan",
+       "D":"Ega va to'ldiruvchi fonetik o'zgarishga uchragan"
+    },
+    {
+       "savol":"Ikki o'rinda yuklama qatnashgan gapni aniqlang.",
+       "A":"Inson faqat jisman emas,balki ruhan ham uyg'oq bo'lmog'i kerak",
+       "B":"Yurtimiz yaqinda bundan-da go'zalroq va farovonroq bo'lishiga ishonaman. ",
+       "C":"Nomimgni qaro degan,paxtaginam-senmisan?",
+       "D":"Ey farzand,aqlli,farosatli va ilm-u hunarli kishilar bilan do'st bo'l. "
+    },
+    {
+       "savol":"Qaysi gapda hollar yasama so'zlar bilan ifodalangan?",
+       "A":"Ming marta eshitgandan ko'ra bir marta ko'rgan afzalroq ",
+       "B":"Yozuvchi qiynalib yozgan asar rohat qilib o'qiladi",
+       "C":"Ro'paradagi osmonga tutashgan cho'qqi birdan yorishib ketdi",
+       "D":"Sizga biroz dardlarimni to'kib sochish uchun keldim."
+    },
+    {
+       "savol":"Qaysi gapda hol ibora bilan ifodalangan? ",
+       "A":"Sizga yig'lab ko'ngil bo'shatishdek ne'mat ato etilgani qanday baxt!",
+       "B":"Aravani quruq olib qochishni bas qiling,do'stim",
+       "C":"Tuni bilan sizni ko'zlarim to'rt bo'lib kutganimni bilmaysiz.",
+       "D":"Beshigimiz uzra bedor ona bo'lib,Kunimizga yaragansan o'zing bizni. "
+    },
+    {
+       "savol":"Keksayganda rohatda yashashni istasang,yoshlikda bo'shashmay,har qancha qiynalib bo'lsada,bilim olish payida bo'l.Ushbu gapdagi sifat asosli sodda yasama fe'llar soni? ",
+       "A":"3",
+       "B":"4",
+       "C":"5",
+       "D":"2"
+    },
+    {
+       "savol":"Qaysi gapda fonetik o'zgarishga uchragan so'zlar o'zaro bir xil so'z turkumiga mansub?",
+       "A":"Shahrimga dildagi muxabbat,ixlos dostonga qo'yilsin degandim",
+       "B":"Atmosfera yo'qligi sababli oy yuzasi haddan ziyod issiq,yo nihoyatda sovuq bo'ladi ",
+       "C":"Tilning yetukligi uning go'zalligini va notiqning nutqiy mahoratini ta'minlaydi",
+       "D":"Hayotda doim istagimiz amalga oshavermasligiga ko'nikish zarur"
+    },
+    {
+       "savol":"Qaysi gapda 2 xil gap yasama so'zlar bilan ifodalangan ",
+       "A":"Yurtni qon kechib himoya qilganlar nomini avlodlar qalb to'rida asraydi",
+       "B":"Siz ularga mamlakatimiz haqida so'zlayotganda odamlarimiz haqida ham gapiring.",
+       "C":"Toj-taxtning qonli sellari,betinim tashvishlarida charchadim ",
+       "D":"Maqsadi bugungi ziyofatda mehmonlarga o'zini ko'rsatib qo'yish edi"
+    },
+    {
+       "savol":"Qaysi gapda ikki o'rinda imlo xatoga qo'yilgan? ",
+       "A":"Dam olish kuni sinifdoshlarimiz bilan bog'chaga ko'chat ekdik.",
+       "B":"Biz shunday kutubxona bino qilaylik-ki,butun elga manzur va mo'tabar bo'lsin",
+       "C":"Navoiy uning ichki tuzilishi,tashqi ko'rinishi,bo'yoqlariga qadar tushuntirdi",
+       "D":"U o'zining og'asiga va uning fikrlariga,chuqur ehtirom bilan qarar edi."
+    },
+    {
+       "savol":"Majhul nisbatdagi yasama fellarni aniqlang ",
+       "A":"O'ynatilgan,gapirilmoq",
+       "B":"zavqlanmoq,unitilmoq",
+       "C":"yuborilmoq,ikkilanmoq",
+       "D":"sharillamoq,tayyorlamoq"
+    },
+    {
+       "savol":"Qaysi gapda eganing otlashgan sifatdosh bilan ifodalanishi kuzatiladi",
+       "A":"Topganingdan yo'qotganing ortiqcha bo'lmasligiga erishish kerak",
+       "B":"Yaqinlarimning eng og'ir damlarimda pand bergani alam qildi",
+       "C":"Turk xalqining zaiflashganidan foydalangan dushman hujumga o'tadi ",
+       "D":"Keksalar olovga yaqinroq ,yoshlar esa uzoqroq o'tirishdi"
+    },
+    {
+       "savol":"Qaysi gapda yasama ot vositali to'ldiruvchi vazifasini bajaradi",
+       "A":"Umidsizlik uyin buzsang,umidinga yetarsan.",
+       "B":"Bahor barchaning diliga ajib bir harorat,iliqlik olib kirdi.",
+       "C":"Otasiga o'z tadbirkorligi haqida so'lab beribdi ",
+       "D":"Bola o'rmonda jarohatlangan qushni mehr bilan davolabdi"
+    },
+    {
+       "savol":"Qaysi gapda ikki xil sintaktik vazifani bajargan ikkita yasama fe'l mavjud?",
+       "A":"Uzoq safarga ketayotgan yigitlarga non tishlatishdi. ",
+       "B":"o'g'lining biror faloakatga yo'liqishidan doimo xavotirlandi",
+       "C":"Favvoralar yozda atrofni salqinlashtirib,ko'zlarni quvnatadis",
+       "D":"Shoxlarda mezonlar yaltirar xira,Poyida shivirlar mening kuylarim "
+    }
+ ]

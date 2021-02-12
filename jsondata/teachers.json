@@ -1,5 +1,16 @@
 [
     {
+        "surname":"Turobov", 
+        "name": "Sherxon", 
+        "fathername":"Xurshid o'g'li",
+        "viloyat":"Samrqand",
+        "tuman":"Pasdorg'om",
+        "maktab":"92-maktab",
+        "fan":"Ona tili",
+        "toifa": "Mutaxassis"
+    },
+
+    {
         "surname":"Musurmonov", 
         "name": "Doston", 
         "fathername":"Raxmon o'g'li",
