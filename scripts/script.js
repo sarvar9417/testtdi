@@ -156,7 +156,7 @@ $('.boshlash').click(() => {
             teacher.toifa == $('#toifa').val()
         ) {
             if (teacher.fan == 'Informatika' || teacher.fan == 'Matematika' || teacher.fan == 'Fizika' || teacher.fan == 'Kimyo')
-                time = 5400
+                time = 10000
             $('.boxing').css('display', 'none')
             $('.body').css('display', 'block')
             $('.name').text(`${$('#name').val()} ` + ` (${$('#toifa').val()})`)

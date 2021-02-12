@@ -1,5 +1,25 @@
 [
     {
+        "surname":"Musurmonov", 
+        "name": "Doston", 
+        "fathername":"Raxmon o'g'li",
+        "viloyat":"Navoiy",
+        "tuman":"Xatirchi",
+        "maktab":"35-maktab",
+        "fan":"Matematika",
+        "toifa": "Ikkinchi"
+    },
+    {
+        "surname":"Musurmonov", 
+        "name": "Doston", 
+        "fathername":"Raxmon o'g'li",
+        "viloyat":"Navoiy",
+        "tuman":"Xatirchi",
+        "maktab":"35-maktab",
+        "fan":"Biologiya",
+        "toifa": "Ikkinchi"
+    },
+    {
         "surname":"Murodullayev", 
         "name": "Sarvar", 
         "fathername":"Usmon o'g'li",
