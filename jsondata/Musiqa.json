@@ -1,0 +1,891 @@
+[
+    {
+       "savol":"Qaysi janirning nomi 'kirish'ma'nosini bildiradi?",
+       "A":"oratoriya",
+       "B":"prelyudiya",
+       "C":"sonata",
+       "D":"etyud"
+    },
+    {
+       "savol":"Yevropa operalariga taqlid sifatida O'zbekistonda rivojlangan janir turi?",
+       "A":"Musiqali drama va komediya",
+       "B":"Operetta janiri",
+       "C":"Musiqali bolalar ertaklari",
+       "D":"opera va balet"
+    },
+    {
+       "savol":"Birinchi o'zbek baleti?",
+       "A":"Tanovar",
+       "B":"To'maris",
+       "C":"Paxta",
+       "D":"Hind dostoni"
+    },
+    {
+       "savol":"O'zbek xalq cholg'ulari orkestirining zarbli cholg'ular guruxiga kiruvchi cholg'ular?",
+       "A":"Doyra,nogora,safoil,qayroq.",
+       "B":"Nog'ora,doira,safoil,baraban.",
+       "C":"Doyra,dutor,safoil,nog'ora.",
+       "D":"Doyra,nogora,safoil,dutor."
+    },
+    {
+       "savol":"Dunyoga mashhur 'Aida','Traviata' operalarining muallifi?",
+       "A":"V.A.Motsart",
+       "B":"J.Verdi.",
+       "C":"P.Chykoviskiy.",
+       "D":"M.Glinka"
+    },
+    {
+       "savol":"Klassik simfoniya necha qisimdan iborat?",
+       "A":"3 qisimdan",
+       "B":"4 qisimdan",
+       "C":"2 qisimdan",
+       "D":"5 qisimdan"
+    },
+    {
+       "savol":"Major tonaligini aniqlang",
+       "A":"1ton,1ton,1,1,1/2,1,1,1ton",
+       "B":"1ton,1ton,1/2,1,1,1/2,1 ton",
+       "C":"1ton,1ton,1/2,1,1,1,1/2 ton",
+       "D":"1ton,1/2,1,1,1,1/2,ton"
+    },
+    {
+       "savol":"O'zbek satosiga o'xshash cholg'u asbobi?",
+       "A":"Yoyli tanbur",
+       "B":"Qonun",
+       "C":"Kamoncha",
+       "D":"sumbut"
+    },
+    {
+       "savol":"Qirg'iz musiqasidagi mashxur doston turkumi?",
+       "A":"Alpomish",
+       "B":"Oshiq g'arib va shoxsanam",
+       "C":"Manas",
+       "D":"Go'ro'g'li"
+    },
+    {
+       "savol":"Budda dini marosimini tasvirlovchi asarning kelib chiqishi va nomi?",
+       "A":"Yaponiyada 'Noo'",
+       "B":"Yaponiyada'Bagaku'",
+       "C":"Koreyada 'Bogaku'",
+       "D":"Yaponiyada 'Kabuki'"
+    },
+    {
+       "savol":"Qozoq xalqida qo'shiqlar qanday nomlanadi?",
+       "A":"An va olan ",
+       "B":"An va jir",
+       "C":"Jir",
+       "D":"Olan va jir"
+    },
+    {
+       "savol":"Sharq mumtoz musiqasi bir biri bilan qaysi janir orqali uzviy bog'liq hisoblanadi?",
+       "A":"Mumtoz kuylar orqali",
+       "B":"Maqom janiri orqali",
+       "C":"Cholg'u musiqasi orqali",
+       "D":"dostonchilik an'analari orqali."
+    },
+    {
+       "savol":"Motsart venadagi nems teatri buyurtmasi bilan qaysi operani yozadi?",
+       "A":"Haramdan o'g'irlash",
+       "B":"Figaroning uylanishi",
+       "C":"Aida",
+       "D":"Sehirli nay"
+    },
+    {
+       "savol":"Qaysi vohada 'Dostonlar' ashula uslubida ijro etiladi?",
+       "A":"Qashqadaryo-Surhondaryo vohasida",
+       "B":"Xorazm vohasida",
+       "C":"Farg'ona-Toshkent vohasida",
+       "D":"Buxoro-Samarqand vohasida"
+    },
+    {
+       "savol":"Farhod Alimov musiqasiga mansub \"Mavlon ota qo'shig'i\" qaysi musiqali dramadan olingan?",
+       "A":"\"O'lding, aziz bo'lding\"",
+       "B":"\"Alpomishning qaytishi\"",
+       "C":"\"Taqdir\"",
+       "D":"\"Super qaynona\""
+    },
+    {
+       "savol":"Rossiya madaniyatining uyg'onish davri... asrga to'g'ri keladi.",
+       "A":"XIV-XVI",
+       "B":"XV-XVII",
+       "C":"XIX-XX",
+       "D":"XIV-XIX"
+    },
+    {
+       "savol":"Sonata nima?",
+       "A":"Komer cholg'u musiqa janiri",
+       "B":"Fortepiano uchun asar",
+       "C":"Vocal musiqasi",
+       "D":"Cholg'u musiqasi"
+    },
+    {
+       "savol":"Birinchi musulmon musiqashunosi?",
+       "A":"Urmaviy",
+       "B":"Al-Kindiy",
+       "C":"Fuzuliy",
+       "D":"Kaykovus"
+    },
+    {
+       "savol":"Mazurka nima?",
+       "A":"Uch hissali rus xalq raqsi",
+       "B":"Ikki hissali polyak raqsi",
+       "C":"Uch hissali polyak raqsi ",
+       "D":"Ikki xissali nems raqsi"
+    },
+    {
+       "savol":"Musiqa haqida qaysi allomalarimiz mulohazalar bildirgan?",
+       "A":"Farobiy,Ibn Sino,A.Navoiy",
+       "B":"Farobiy,Urmaviy",
+       "C":"Urmaviy",
+       "D":"Farobiy, Ibn Sino"
+    },
+    {
+       "savol":"Musiqashunos olim Komil Xorazmiyning og'li, ishining davomchisi....",
+       "A":"Matyoqub Xarratov",
+       "B":"Muhammad Rasul Mirzaboshi",
+       "C":"Matniyoz Yusupov",
+       "D":"Hojihon Boltayev"
+    },
+    {
+       "savol":"Maqom aytim yo'llarida ashulaning boshlanish qismi nima deb yuritiladi?",
+       "A":"Daromad",
+       "B":"Bozgo'y",
+       "C":"Peshrav",
+       "D":"Miyonxat"
+    },
+    {
+       "savol":"\" Qalabandi o'zbek xalq kuyini sur'atini aniqlang? <img src='../img/musik1.png' alt='musik1'>",
+       "A":"Tez sur'atda",
+       "B":"Vazmin sur'atda",
+       "C":"O'rtacha tez sur'atda",
+       "D":"O'rtacha sur'atda"
+    },
+    {
+       "savol":"Kartinki s vistavki tikili nechta pardadan iborat?",
+       "A":"5 ta",
+       "B":"10 ta",
+       "C":"4 ta",
+       "D":"8 ta"
+    },
+    {
+       "savol":"O`zbekistonda professional jo`rsiz xor asarlari qaysi bastakor tomonidan ijod etila boshlagan",
+       "A":"Ikrom Akbarov tomonidan",
+       "B":"Mutal Burhonov tomonidan",
+       "C":"Avaz Mansurov tomonidan",
+       "D":"Shermat Yormatov tomonidan"
+    },
+    {
+       "savol":"Simfonik orkestir uchun asar yaratishda o`zbek kompozitorlari qaysi cholg`u asoblarini qo`shimcha tarzda qo`llashadi?",
+       "A":"Doira va nog`ora",
+       "B":"Doira va dutor",
+       "C":"Simfonik orkestr tarkibida xal cholg`ulari qo`shilamaydi.",
+       "D":"Doira, nog`ora, ava chang"
+    },
+    {
+       "savol":"Simfoning orketsning yog'och damli cholg'ular guruhiga qaysi cholg'ular kiradi?",
+       "A":"Fleyta, gaboy, klarnet, fagot",
+       "B":"Fleyta, gaboy, klarnet, truba",
+       "C":"Gaboy, klarnet, fagot, trambon.",
+       "D":"Flayta, klarnet, trambon"
+    },
+    {
+       "savol":"J. Verdi nechta opera muallifi?",
+       "A":"24 ta",
+       "B":"26 ta",
+       "C":"25 ta",
+       "D":"30 ta"
+    },
+    {
+       "savol":"Tokata va fuga d-mol qaysi cholg'u asbobi uchun yaratilgan?",
+       "A":"Organ",
+       "B":"Barcha torli urma cholg'ular uchun",
+       "C":"Royal",
+       "D":"Fortepiano"
+    },
+    {
+       "savol":"Pragramalli 'Romeo va Julyeta' dramatik simfoniyani kim ijod qilgan?",
+       "A":"Verdi",
+       "B":"Vagner",
+       "C":"Berlioz",
+       "D":"Glyuk"
+    },
+    {
+       "savol":"Tanbur chizig'i asosida qachon va qaysi musiqiy asar notaga olingan?",
+       "A":"XVIII asrda shashmaqom",
+       "B":"XIX asrda Xorazm maqomi",
+       "C":"XIX asrda shashmaqom",
+       "D":"XX asrda Xorazm maqomi"
+    },
+    {
+       "savol":"Tepalik, taxtasupa ma'nolarini anglatuvchi musiqiy janir turi bu?",
+       "A":"Vocal janri",
+       "B":"Balet janri",
+       "C":"Estrada janiri",
+       "D":"Estrada vakal janiri"
+    },
+    {
+       "savol":"Sozanda dastasi nechta ishtirokchidan tashkil topgan?",
+       "A":"3-4",
+       "B":"6-7",
+       "C":"7-8",
+       "D":"10"
+    },
+    {
+       "savol":"'Naqishlar' asarining muallifi?",
+       "A":"M. Burhonov",
+       "B":"A. Mansurov",
+       "C":"M. Bafoyev",
+       "D":"N. Norxujayev"
+    },
+    {
+       "savol":"Poema, qasida, kontanta, orotoriya asarlari musiqada qaysi janirlar tarkibiga kiradi?",
+       "A":"Vokal-simfonik janiriga",
+       "B":"Qasida janiriga",
+       "C":"Simfoniya janiriga",
+       "D":"Vokal janiriga"
+    },
+    {
+       "savol":"Motsart nexhta simfoniya yaratgan",
+       "A":"41 ta",
+       "B":"38 ta",
+       "C":"39 ta",
+       "D":"40 ta"
+    },
+    {
+       "savol":"O'zbek musiqa tarixida birinchi opera nechanchi yil kim tomonidan yaratilgan?",
+       "A":"1939-yilda Mutal Burhonov tomonidan",
+       "B":"1939-yilda Muhtor Ashrafiy tomonidan",
+       "C":"1938-yilda Ulug'bek Musayev tomonidan",
+       "D":"1936 yilda Muhtor Ashrafiy tomonidan"
+    },
+    {
+       "savol":"Klavsin asbobi qanday turdagi asbob?",
+       "A":"Torli klavishli tirnama asbob",
+       "B":"Torli asbob",
+       "C":"Torli klavishli asbob",
+       "D":"Torli urma asbob"
+    },
+    {
+       "savol":"Fuga nima?",
+       "A":"Polifonik shaklida tuzilgan musiqa asari",
+       "B":"Orkestr ijrosi uchun musiqiy asar",
+       "C":"Cholg'u musiqasi",
+       "D":"Polifonik shakildagi vokal musiqasi"
+    },
+    {
+       "savol":"Qaysi kompozitorni simfoniya va kvartet janrining otasi deb atshgan?",
+       "A":"L. V. Betxovin",
+       "B":"Jorj Bize",
+       "C":"Iosif Gaydin",
+       "D":"F. Shopen"
+    },
+    {
+       "savol":"R. Vagner musiqa tahririga qaysi sifatlari bilan kirgan?",
+       "A":"Opera islohotchisi",
+       "B":"Musiqa drama asoschisi",
+       "C":"Opera islohotchisi va musiqiy drama asoschisi sifatida",
+       "D":"Opera yaratuvchisi"
+    },
+    {
+       "savol":"Rekvelm so'zi nima ma'noni anglatadi?",
+       "A":"Lotin tilida motam",
+       "B":"Lotin tilida harakatsiz holat",
+       "C":"Lotin tilida so'zsiz qo'shiq",
+       "D":"Grek tilida motam kuy"
+    },
+    {
+       "savol":"Jorsiz xor uchun yaratilgan asarlar qanday nomlanadi?",
+       "A":"Uverturiya",
+       "B":"Akapella",
+       "C":"Orotoriya",
+       "D":"kapella"
+    },
+    {
+       "savol":"A. Mansurovning 'Sharq afsonasi' baleti necha pardadan iborat?",
+       "A":" 1 pardali balet asari",
+       "B":" 2 pardali balet asari",
+       "C":" 4 pardali balet asari",
+       "D":" 3 pardali balet asari"
+    },
+    {
+       "savol":"'Gayane', 'Spartak' asarining muallifi?",
+       "A":"S. Prokofiyev",
+       "B":"A. Xachaturyan",
+       "C":"P. Chaykoviskiy",
+       "D":"B. A. Motsart"
+    },
+    {
+       "savol":"O'zbek xalq cholg'ulari orkestirining torli-kamonli cholg'ular guruhi partituraning qaysi qismidan joy olgan?",
+       "A":"Yuqori qismidan joy olgan",
+       "B":"Eng pastki qismidan joy olgan",
+       "C":"Pastki qismidan joy olgan",
+       "D":"Asosiy qismidan joy olgan"
+    },
+    {
+       "savol":"O'zbekiston Estrada musiqasining asoschisi?",
+       "A":"Farux Zokirov",
+       "B":"Botir Zokirov",
+       "C":"Nasiba Abdullayeva",
+       "D":"G'ulomjon Yoqubov"
+    },
+    {
+       "savol":"Qaysi xalqda musiqachilar sanamchi, naxshichi, mashrabchi, usulchi nomlari bilan yuritiladi?",
+       "A":"Turkman xalqida",
+       "B":"Ozarbajon xalqida",
+       "C":"Uyg'ur xalqida",
+       "D":"Arab xalqida"
+    },
+    {
+       "savol":"Uyg'ur kasbiy musiqasi nechta xududga ajratilgan?",
+       "A":"4 ta",
+       "B":"2 ta",
+       "C":"3 ta",
+       "D":"5 ta"
+    },
+    {
+       "savol":"'Ey nozanin' ashulasining doira usulini aniqlang? <img src='../img/musiqa1.jpg' alt='musiqa1'> ",
+       "A":"bum bak, bak bum, bum bak",
+       "B":"bak ka bum, bum bak, bum bak ka",
+       "C":"bak bum, bum bak, bum bak",
+       "D":"bak bak bum, bum bak"
+    },
+    {
+       "savol":"Nechanchi yili ilk bor O'zbek davlat filarmoniyasi qoshida 'Dutorchi qizlar' ansambli tashkil topdi?",
+       "A":"1939",
+       "B":"1938",
+       "C":"1940",
+       "D":"1979"
+    },
+    {
+       "savol":"Qobusnoma asarining muallifi?",
+       "A":"Kaykovus",
+       "B":"Borbad Morviy",
+       "C":"Marog'iy",
+       "D":"Al-Kindiy"
+    },
+    {
+       "savol":"'Kitobul ador' deb nomlangan hozirda eng qadimiy nushasi Turkiyada saqlanib kelinayotgan mashhur asar muallifi?",
+       "A":"Al Kindiy",
+       "B":"Marog'iy",
+       "C":"Urmaviy",
+       "D":"Fuzuliy"
+    },
+    {
+       "savol":"Prelyudiya nima?",
+       "A":"Cholg'u plesasi",
+       "B":"Cholg'u va vakal musiqasi",
+       "C":"Operaning bir qismi",
+       "D":"Vocal musiqasi"
+    },
+    {
+       "savol":"Rost maqomi kim tomonidan nota yozuviga tushirilgan",
+       "A":"Yunus Radjabiy",
+       "B":"V.A. Uspenskiy va Radjabiy",
+       "C":"Urmaviy",
+       "D":"V.A. Uspenskiy"
+    },
+    {
+       "savol":"Klavikord asbobi qanday turdagi asbob?",
+       "A":"Torli urma klavishli",
+       "B":"Torli klavishli",
+       "C":"Urma zarbli",
+       "D":"Klavishli"
+    },
+    {
+       "savol":"Musiqada alteratsiya belgilari qaysilar?",
+       "A":"Bemalol, Bekar, Diyez",
+       "B":"Bekar, bemol, pauza",
+       "C":"Diyez, bemol, forte",
+       "D":"Bemol, bekar, piano"
+    },
+    {
+       "savol":"Motsartning so'ngi simfoniyasi nima deb nomlanadi?",
+       "A":"Yupiter",
+       "B":"Figaronog uylanishi",
+       "C":"Qahramonlik",
+       "D":"Mars"
+    },
+    {
+       "savol":"Forte plano cholg'u asbobida jami nechta oktava bor?",
+       "A":"8 ta",
+       "B":"9 ta",
+       "C":"7 ta",
+       "D":"6 ta"
+    },
+    {
+       "savol":"'Oq kaptar' asari qaysi xor uchun mo'ljallangan?",
+       "A":"Aralsh xor uchun",
+       "B":"Bolalar xori uchun",
+       "C":"Erkaklar xori uchun",
+       "D":"Ayollar xori uchun"
+    },
+    {
+       "savol":"Lyuy Lyuy tzimi asosida qaysi xalq musiqasi rivojlangan?",
+       "A":"Turkman xalq musiqasi",
+       "B":"Xitoy xalq musiqasi",
+       "C":"Arab xalq musiqasi",
+       "D":"Uyg'ur xalq musiqasi"
+    },
+    {
+       "savol":"'Yalla' guruhi nechanchi yilda tashkil topgan?",
+       "A":"1924 yilda",
+       "B":"1971 yilda",
+       "C":"1973 yilda",
+       "D":"1970 yillarda"
+    },
+    {
+       "savol":"Katta ashulaning ijro uslubi qanday?",
+       "A":"Hofizlar tomonidan birgalikda kuylanadi.",
+       "B":"Faqat yakka tartibda ijro etiladi",
+       "C":"Hofizlar navbat bilan birin ketin ijro etadilar",
+       "D":"Honandalar birin ketin ijro etiladi"
+    },
+    {
+       "savol":"Kartinki s vistavki nechta pardadan iborat?",
+       "A":"5 ta",
+       "B":"8 ta",
+       "C":"10 ta",
+       "D":"4 ta"
+    },
+    {
+       "savol":"Nechanchi asrda  'Vena klassik maktabi' yuzaga kelgan?",
+       "A":"XVII asr",
+       "B":"XVI asr",
+       "C":"XVIII asr",
+       "D":"XIX asr"
+    },
+    {
+       "savol":"Quyidagi nota misolining o'lchovini aniqlang <img src='../img/musiqa2.jpg' alt='musiqa2'> ",
+       "A":"2/4",
+       "B":"3/4",
+       "C":"6/8",
+       "D":"4/4"
+    },
+    {
+       "savol":"TToshkent davlat konservatoriyasi avval qanday nomlangan?",
+       "A":"Musiqiy oliy maktab",
+       "B":"Oliy musiqa maktabi",
+       "C":"Oliy maktab",
+       "D":"Musiq maskan"
+    },
+    {
+       "savol":"R. Vagner musiqa tahririga qaysi sifatlari bilan kirgan?",
+       "A":"Opera islohotchisi va musiqiy drama asoschisi sifatida",
+       "B":"Musiqa drama asoschisi",
+       "C":"Opera yaratuvchisi",
+       "D":"Opera islohotchisi"
+    },
+    {
+       "savol":"F. Shubert asosan qaysi janirda ijod qilgan?",
+       "A":"Opera janrida",
+       "B":"Cholg'u musiqa janrida",
+       "C":"Qo'shiq janrida",
+       "D":"Balet janrida"
+    },
+    {
+       "savol":"Birinchi musulmon musiqashunosi?",
+       "A":"Fuzuliy",
+       "B":"Al-Kindiy",
+       "C":"Kaykovus",
+       "D":"Urmaviy"
+    },
+    {
+       "savol":"Kitob al musiqa - al kabir kimning qalamiga mansub?",
+       "A":"Avloniy",
+       "B":"Urmaviy",
+       "C":"Farobiy",
+       "D":"Al-Kindiy"
+    },
+    {
+       "savol":"Toreador qaysi operaning qahramoni",
+       "A":"Traviata",
+       "B":"Karmen",
+       "C":"Sexrli uy",
+       "D":"Aida"
+    },
+    {
+       "savol":"Motsart qaysi shaharda o'zining birinchi asarini yozadi?",
+       "A":"Parijda skripka va klavir uchun sonata",
+       "B":"Italiyada haramdan o'g'irlash",
+       "C":"Parijda kontanta",
+       "D":"Italiyada figaroning uylanishi"
+    },
+    {
+       "savol":"Ozarbayjon musiqasining asosiy negizi qanday musiqiy janir hisoblanadi.",
+       "A":"Maqomlar",
+       "B":"Zamonaviy Estrada musiqasi",
+       "C":"Turmush tarsi qo'shiqlari",
+       "D":"Cholg'u musiqasi"
+    },
+    {
+       "savol":"Qozoq xalqida qo'shiqlar qanday nomlanadi?",
+       "A":"An va olan",
+       "B":"Jir",
+       "C":"Olan va Jir",
+       "D":"An va Jir"
+    },
+    {
+       "savol":"'Saqili rak-rak' kuyi qaysi maqomga mansub?",
+       "A":"Buxoro 'Iroq' maqomi",
+       "B":"Buxoro 'Rost' maqomi",
+       "C":"Xorazm 'Navo' maqomi",
+       "D":"Xorazm 'Rost' maqomi"
+    },
+    {
+       "savol":"Xorazm maqomlarining cholg'u bo'limlari qaysi kuy nomi bilan yakunlanadi?",
+       "A":"Ufar",
+       "B":"Saqili vazmin",
+       "C":"Peshravi Gardun",
+       "D":"Muhammasi Ushshoq"
+    },
+    {
+       "savol":"'Shodiyona' qo'shig'ining kuy ohanglarida qo'llanilgan intervallarni aniqlang. <img src='../img/musiqa3.jpg' alt='musiqa3'> ",
+       "A":"kvinta, sekundda, sekunda, sekunda",
+       "B":"kvarta, sekunda, sekunda, kvinta",
+       "C":"seksta, sekunda, prima, sekunda",
+       "D":"sekunda, kvinta, sekunda, seksta"
+    },
+    {
+       "savol":"Og'ir ufar necha ritm o'lchovida bo'ladi?",
+       "A":"3/4",
+       "B":"4/4",
+       "C":"2/4",
+       "D":"6/8"
+    },
+    {
+       "savol":"Ey nozanin ashulasining doira usulini aniqlang? <img src='../img/musiqa4.jpg' alt='musiqa4'> ",
+       "A":"bak bum, bum bak, bum bak,",
+       "B":"bak bak bum, bum bak, bum bak",
+       "C":"bum bak, bak bum, bum bak",
+       "D":"bak ka bum, bum bak, bum bak ka"
+    },
+    {
+       "savol":"Musiqa haqida qaysi allomalarimiz mulohazalar bildirgan?",
+       "A":"Farobiy, Ibn Sino",
+       "B":"Farobiy, Ibn Sino, A.Navoiy",
+       "C":"Urmaviy",
+       "D":"Farobiy, Urmaviy"
+    },
+    {
+       "savol":"Qaysi janrning nomi 'kirish' manosini  bildiradi?",
+       "A":"Uvertyura",
+       "B":"Bunday nomlanuvchi janr yo'q",
+       "C":"Prelyudiya",
+       "D":"Fuga"
+    },
+    {
+       "savol":"Motsart operalaridan qaysi biri opera buffa janrida yozilgan?",
+       "A":"Figaroning to'yi",
+       "B":"Aida",
+       "C":"Karmen",
+       "D":"Sehrli nay"
+    },
+    {
+       "savol":"Mazurka qaysi xalqning raqsi?",
+       "A":"Rus",
+       "B":"Italiya",
+       "C":"Polyak",
+       "D":"Nems"
+    },
+    {
+       "savol":"Operaning musiqiy drama janrini kim yaratdi?",
+       "A":"Tahririy  mavzudagi opera",
+       "B":"Opera buffa",
+       "C":"Hajviy opera",
+       "D":"Dramatic opera"
+    },
+    {
+       "savol":"Milliy raqs uslibida yaratilgan o'zbek operasi?",
+       "A":"'Nodira', 'Sharq afsonasi'",
+       "B":"'Ulug'bek burji' va 'Nodira'",
+       "C":"'Ulug'bek burji",
+       "D":"Sharq afsonasi"
+    },
+    {
+       "savol":"Cholg'u musiqasiga tegishli janirni ko'rsating",
+       "A":"Opera",
+       "B":"Oratoriya, xor",
+       "C":"Simfoniya",
+       "D":"Balet"
+    },
+    {
+       "savol":"Simfonik orkesterning asosini qaysi guruh tashkil qiladi?",
+       "A":"Torli kamonli va damli cholg'ular guruhi",
+       "B":"Torli kamonli cholg'ular guruhi",
+       "C":"Torli kamonli va zarbli cholg'ular guruhi",
+       "D":"Mis damli cholg'ular guruhi"
+    },
+    {
+       "savol":"Qirg'iz musiqasidagi mashxur doston turkumi?",
+       "A":"Oshiq g'arib va shoxsanam",
+       "B":"Go'ro'g'li",
+       "C":"Manas",
+       "D":"Alpomish"
+    },
+    {
+       "savol":"Ozarbajon musiqasining asosiy negizi qanday janir hisoblanadi?",
+       "A":"Cholg'u musiqasi",
+       "B":"Turmush tarzi qo'shiqlari",
+       "C":"Zamonaviy Estrada musiqasi",
+       "D":"Maqomlar"
+    },
+    {
+       "savol":"'Naqsh', 'Faryod', 'Suvora' kabi mumtoz kuy va ashulalar qaysi voha uslubiga mansub hisoblanadi?",
+       "A":"Farg'ona-Toshkent",
+       "B":"Surxandaryo-Qashqadaryo",
+       "C":"Xorazm",
+       "D":"Buxoro Samarqand"
+    },
+    {
+       "savol":"O'zbek xalq musiqasining asosi?",
+       "A":"Usul",
+       "B":"Kuy",
+       "C":"Milliy qo'shiqlar",
+       "D":"Usul va ohang"
+    },
+    {
+       "savol":"Motsart yoshligidagi kontert safari davrida qanday nom oldi?",
+       "A":"Jaji musiqachi",
+       "B":"Musiqa qiroli",
+       "C":"XVIII asr mo'jizasi",
+       "D":"Musiqa dahosi"
+    },
+    {
+       "savol":"Savti suvoralar turkumi necha suvoradan iborat?",
+       "A":"12",
+       "B":"11",
+       "C":"13",
+       "D":"10"
+    },
+    {
+       "savol":"Quyidagi she'r qaysi qo'shiqdan keltirilgan? Juda qadim - sharqonasan, Asli zoti turkunosan, Sen tufayli to'ldi aqlim,",
+       "A":"'Ona tilim - o'zbek tilim' F.Alimov musiqasi",
+       "B":"'O'zbekiston - onajon' M.Otajonov musiqasi",
+       "C":"'Mehr qo'shig'i' X. Hasanova musiqasi",
+       "D":"'Keng Turkiston' N. Norxo'jayev musiqasi"
+    },
+    {
+       "savol":"Xorazm 'Suvora' ashula yo'lining necha turi mashhur?",
+       "A":"4",
+       "B":"5",
+       "C":"2",
+       "D":"3"
+    },
+    {
+       "savol":"Opera seriya nima?",
+       "A":"Hajviy asar",
+       "B":"Tahririy asar",
+       "C":"Afsonaviy yoki qahramonlik janiridagi asar",
+       "D":"Lirik ko'rinishdagi asar"
+    },
+    {
+       "savol":"Klavikord asbobi qanday turdagi asbob?",
+       "A":"Torli urma klavishli",
+       "B":"Urma zarbli",
+       "C":"Klavishli",
+       "D":"Torli klavishli"
+    },
+    {
+       "savol":"Sinfonik orkestir uchun yirik turdagi asarlar yaratgan nemis bastakor?",
+       "A":"Volf Gang Amadey Mtsart",
+       "B":"Frederik Shopen",
+       "C":"Lyudvig Van Betxoven",
+       "D":"Shopen"
+    },
+    {
+       "savol":"Opera janiridan qaysi birida Vagner ijod qilmagan?",
+       "A":"Tahririy mavzudagi opera",
+       "B":"Opera buffa",
+       "C":"Hajviy opera",
+       "D":"Dramatik opera"
+    },
+    {
+       "savol":"Musiqada alteratsiya belgilari qaysilar?",
+       "A":"Bemalol, bekar, diyez",
+       "B":"Bemalol, bekar, piano",
+       "C":"Bekar, bemol, pauza",
+       "D":"Diyez, bemol, Forte"
+    },
+    {
+       "savol":"Kor, basta deb nomlanuvchi bo'limlar qaysi xalq maqom yo'liga mansub?",
+       "A":"Turk maqomlariga",
+       "B":"Ozarbajon maqomlariga",
+       "C":"Turkman maqomlariga",
+       "D":"Uyg'ur maqomlariga"
+    },
+    {
+       "savol":"Ikki mavzuning bir biriga qarama qarshilikdagi xarakatiga asoslanib janir bu?",
+       "A":"Sonata janri",
+       "B":"Uvertyura janiri",
+       "C":"Orotoriya janiri",
+       "D":"Opera janri"
+    },
+    {
+       "savol":"Dostonlarning qo'shiq qilib aytiladigan qismi qanday nomlanadi?",
+       "A":"Noma deb nomlanadi",
+       "B":"Nasriy qism ",
+       "C":"Kirish qismi",
+       "D":"Muisiqiy xislatlar"
+    },
+    {
+       "savol":"Farhod Alimov musqasiga mansub 'Mavlon ota qo'shig'i' qaysi musiqali dramadan olingan?",
+       "A":"Super qaynona",
+       "B":"O'lding, aziz bo'ding",
+       "C":"Taqdir",
+       "D":"Alpomishning qaytishi"
+    },
+    {
+       "savol":"Toshkentda rus opera teatori qachon ochilgan?",
+       "A":"1939 yil",
+       "B":"1981 yil",
+       "C":"1918 yil",
+       "D":"1936 yil"
+    },
+    {
+       "savol":"Klavsin asbobi qanday turdagi asbob?",
+       "A":"Torli klavishli tirnama asbob",
+       "B":"Torli klavishli asbob",
+       "C":"Torli urma asbob",
+       "D":"Torli asbob"
+    },
+    {
+       "savol":"Fottepiano asbobi qachon kim va tomonidan ixtiro qilingan?",
+       "A":"XVI asrda Italida",
+       "B":"XVIII asrda Italida usta Xroferi tomonidan tomonidan",
+       "C":"Aniq ma'lumotlar yo'q",
+       "D":"Qadimgi davr musiqa madaniyati davrida"
+    },
+    {
+       "savol":"Birinchi o'zbek hajviy operasi?",
+       "A":"Nasriddining sarguzashtlari",
+       "B":"Maysaraning ishi",
+       "C":"Bo'ron",
+       "D":"Malikali ayyor"
+    },
+    {
+       "savol":"Dunyoga mashhur musiqali komediya?",
+       "A":"Maysaraning ishi",
+       "B":"Laqma",
+       "C":"Arshin mol ulan",
+       "D":"O'jarlar"
+    },
+    {
+       "savol":"XIX va XX asrlarda yevro'pa musiqasi ta'siri ostida rivojlangan xalq musiqasi?",
+       "A":"Uyg'ur xalq musiqasi",
+       "B":"Qirg'iz xalq musiqasi",
+       "C":"Qozoq xalq musiqasi",
+       "D":"Turkman xalq musiqasi"
+    },
+    {
+       "savol":"Quyidagi satrlar qaysi qo'shiqdan olingan? Chorlaganda o'z bag'riga, Do'stlar qonar do'st mehriga, Osoyishta ona diyor, O'ktamlikda o'z o'rni bor.",
+       "A":"Ona tilim - o'zbek tilim F.Alimov musiqasi",
+       "B":"O'zbekiston - onajon  M.Otajonov musiqasi",
+       "C":"Keng Turkiston N. Norxo'jayev musiqasi",
+       "D":"Mehr qo'shig'i X.Hasanova musiqasi"
+    },
+    {
+       "savol":"Qashqarcha usulini aniqlang? <img src='../img/musiqa5.jpg' alt='musiqa5'> ",
+       "A":"Baka baka bum bak",
+       "B":"Baka baka baka bum",
+       "C":"Baka bum bak",
+       "D":"Bum baka bak"
+    },
+    {
+       "savol":"Monodik so'ziga ta'rif bering",
+       "A":"Yakka ijroli",
+       "B":"Aralash ovozli",
+       "C":"Bir ovozli",
+       "D":"Ko'p ovozli"
+    },
+    {
+       "savol":"Xorazmdagi qaysi maqomda 'aytim yo'li' ga doir namunalari umuman uchramaydi?",
+       "A":"Navo",
+       "B":"Buzruk",
+       "C":"Iroq",
+       "D":"Panjgoh"
+    },
+    {
+       "savol":"Maqom aytim yo'llarida ashulaning bir bayt she'r bilan aytiladigan kuy tuzilmasi nima deb aytiladi?",
+       "A":"Tarona",
+       "B":"Xat",
+       "C":"Suvora",
+       "D":"Xona"
+    },
+    {
+       "savol":"Layli va Majnun asarining muallifi?",
+       "A":"V.A. Uspenskiy",
+       "B":"M. Liviyev",
+       "C":"R. Glier",
+       "D":"Yu. Radjabiy"
+    },
+    {
+       "savol":"Sinfonik poema Janrining yaratuvchisi kim?",
+       "A":"F. List",
+       "B":"I. S. Bax",
+       "C":"J. Bize",
+       "D":"F. Shoppen"
+    },
+    {
+       "savol":"Sharqda musiqa nazariyasiga birinchi asos solgan alloma?",
+       "A":"Al Kindiy",
+       "B":"Fuzuliy",
+       "C":"Urmaviy",
+       "D":"Borbad marviy"
+    },
+    {
+       "savol":"Opera janiri musiqaning qaysi sohasiga mansub?",
+       "A":"Vocal musiqasiga",
+       "B":"Vokal cholg'u musiqasiga",
+       "C":"Vokal xor musiqasiga",
+       "D":"Cholg'u musiqasiga"
+    },
+    {
+       "savol":"Estrada musiqasining kelib chiqish tarixi?",
+       "A":"Sharqda usul garmaniyaning o'zgarishi bilan bog'liq.",
+       "B":"G'arb mamlakatlarida musiqiy usulning o'zgarishi bilan bog'liq ",
+       "C":"G'arb xalqlarining teatr tomoshalarida",
+       "D":"Muzik xoll madaniyatining o'zaro ta'sirida"
+    },
+    {
+       "savol":"Surxandaryo-Qashqadyo dostonchilik uslubi ijrochilarni yo'nalishiga qarab qanday nomlanadi?",
+       "A":"Yuzboshi baxshi",
+       "B":"baxshi",
+       "C":"Yuzboshi,shoir va baxshi",
+       "D":"Baxshi shoir"
+    },
+    {
+       "savol":"Estrada musiqaning kelib chiqish tarixi?",
+       "A":"SHarxda usul garmaniyaning o'zgarishi bilan bog'liq",
+       "B":"G'arb mamlakatlarida musiqiy usulning o'zgarishi bilan bog'liq",
+       "C":"G'arb xalqlarining teatr tomoshalarida ",
+       "D":"Muzik xoll madaniyatining o'zarotasirida"
+    },
+    {
+       "savol":"Ivan susanin operasikelib chiqish tarixi ?",
+       "A":"2ta",
+       "B":"4ta",
+       "C":"5ta",
+       "D":"3ta"
+    },
+    {
+       "savol":"V.A.Uspenskiyga kaysiadib tomonidan tashakkurnoma yuborilgan?",
+       "A":"CHo'lpon",
+       "B":"A.Fitrat",
+       "C":"A.Avloniy",
+       "D":"A.Qayxor"
+    },
+    {
+       "savol":"\"Ushshoq\",\"feruz\",\"suvora\",\"GFulozorim\" namunalar qaysi tarkibga kiradi?",
+       "A":"muntoz kuylarga",
+       "B":"Mumtoz ashulaga",
+       "C":"SHashmaqom cholg'u yo'li tarkibiga ",
+       "D":"Xalq qo'shiqlari"
+    },
+    {
+       "savol":"O'zbek xalq musiqasining asosi?",
+       "A":"Usul va oxong",
+       "B":"Kuy",
+       "C":"Usil",
+       "D":"Milliy qshiqlar"
+    }
+ ]

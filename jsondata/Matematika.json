@@ -1,0 +1,731 @@
+[
+    {
+        "savol":"Shaklning yuzini toping : <img src=\"../img/matematika1.png\" alt='matematika1> .",
+        "A":"57",
+        "B":"77",
+        "C":"48",
+        "D":"39"
+    },
+
+    {
+        "savol":"Elektr energiya hisoblagichi ko'rsatkichi 1-sentabr uchun 79991 kWt &sdot; h, 1-oktabr uchun esa bu ko'rsatkich 80158 kWt&cdot; h. Agar 1 kWt &sdot; h elektr energiyasi uchun to'lov 250 so'mni tashkil qilsa, sentabr oyi uchun qancha pul to'lash kerak bo'ladi?",
+        "A":"41750 so'm",
+        "B":"45550 so'm",
+        "C":"50125 so'm",
+        "D":"25000 so'm"
+    },
+
+    {
+        "savol":"Vaqt 12:00 ekanligini ko'rsatayotgan soatning soat mili 180 gradusga burilsa, soat necha bo'lgan bo'ladi?",
+        "A":"18:00",
+        "B":"12:00",
+        "C":"12:30",
+        "D":"15:00"
+    },
+
+    {
+        "savol":"Silindr asosining radiusi 2 marta orttirilsa, uning hajmi necha marta ortadi?",
+        "A":"3",
+        "B":"4",
+        "C":"6",
+        "D":"2"
+    },
+
+    {
+        "savol":"Asos aylanasining uzunligi <img src='../img/matematika2.png' alt='matematika2'> ga, balandligi 9 sm ga teng bo'lgan konusning hajmini toping",
+        "A":"144",
+        "B":"48",
+        "C":"16",
+        "D":"24"
+    },
+
+    {
+        "savol":"O'q kesimining yuzi 10 ga teng bo'lgan slindrni yon sirtining yuzini toping.",
+        "A":"20&#x3C0;",
+        "B":"115&#x3C0;",
+        "C":"10&#x3C0;",
+        "D":"30&#x3C0;"
+    },
+
+    {
+        "savol":"Muntazam uchburchak ichidan olingan nuqtadan tomonlarigacha bo'lgan masofalar mos ravishda a(3;4), b(5;12) va c(9;12) vektorlarning uzunliklariga teng bo'lsa, uchburchakning balandligini toping.",
+        "A":"30",
+        "B":"33",
+        "C":"32",
+        "D":"31"
+    },
+
+    {
+        "savol":"Konusning yon sirti 60&#x3C0; ga, to'la sirti 96&#x3C0; ga teng. Konusning yasovchisini toping.",
+        "A":"10",
+        "B":"11",
+        "C":"9",
+        "D":"12"
+    },
+
+    {
+        "savol":"Sutning narxi 15% ga oshirilgandan so'ng 8280 so'm bo'ldi. Narx oshirilgunga qadar uning narxi qancha bo'lgan",
+        "A":"7000",
+        "B":"7200",
+        "C":"6500",
+        "D":"7038"
+    },
+
+    {
+        "savol":"Bo'yi 3 cm, eni 5 cm bo'lgan to'g'ri to'rtburchak chizing va yuzini toping. Har bir tomoni uzunligini 2 cm uzaytiring va qayta to'g'ri to'rtburchak chizing. To'rtburchaklarning yuzlarini farqini toping.",
+        "A":"20 cm<sup>2</sup>",
+        "B":"35 cm<sup>2</sup>",
+        "C":"25 cm<sup>2</sup>",
+        "D":"15 cm<sup>2</sup>"
+    },
+
+    {
+        "savol":"Konusning yasovchisi 12 ga teng va u asos tekisligi bilan 60<sup>o</sup> li burchak hosil qiladi. Konus asosining radiusini toping.",
+        "A":"6",
+        "B":"4",
+        "C":"3",
+        "D":"12"
+    },
+
+    {
+        "savol":"Slindrning yon sirti yoyilganda uning diagonali asosi tekisligi bilan 45<sup>o</sup> li burchak tashkil qiladi. Silindrning yon sirti 144&#x3C0;<sup>2</sup>",
+        "A":"6",
+        "B":"8",
+        "C":"4",
+        "D":"7"
+    },
+
+    {
+        "savol":"Muntazam to'rtbiurchakli kesik piramida asoslarining tomonlari 3 va 7 cm, dioganali 10 cm. Kesik piramidaning balandligi necha sm?",
+        "A":"5&radic;2",
+        "B":"12",
+        "C":"5",
+        "D":"10"
+    },
+
+    {
+        "savol":"Uch aka-ukaning irgalikdagi o'g'irligi 74 kg. Sobiring og'irligi ikkala ukasinig birgalikdagi o'girligiga teng. Sobirning Necha kilogramm ekanligini toping.",
+        "A":"18,5 kg",
+        "B":"24,6 kg",
+        "C":"37 kg",
+        "D":"30 kg"
+    },
+
+    {
+        "savol":"Raqamlar yig'indisi 2 ga teng bo'lgan necha uch xonali son bor?",
+        "A":"2",
+        "B":"4",
+        "C":"3",
+        "D":"8"
+    },
+
+    {
+        "savol":"3x3 o'lchamdagi jadvalning har bir katagiga shunday biror son yozingki, bunda har satrdagi sonlar ko'paytmasi 1 ga, har ustundagi sonlar ko'paytmasi 1 ga, har bir 2x2 o'lchamdagi kvadratdagi sonlar ko'paytmasi esa 2 ga teng. 1-ustundagi sonlar yig'indisini toping",
+        "A":"5&sdot;(1/2)",
+        "B":"4&sdot;(1/4)",
+        "C":"16&sdot;(1/2)",
+        "D":"9&sdot;(1/4)"
+    },
+
+    {
+        "savol":"Ratsional <i>a, b, c, d</i> sonlar uchun <i>a</i>lg2+<i>b</i>lg3+<i>c</i>lg5+<i>d</i>lg7=2007 bo'lsin. <i>a</i> ni toping.",
+        "A":"0",
+        "B":"lg2017",
+        "C":"Bir qiymatli aniqlab bo'lmaydi",
+        "D":"2017"
+    },
+
+    {
+        "savol":"<img src='../img/matematika3.png' alt='matematika3'> tenglamani yeching",
+        "A":"<img src='../img/matematika4.png' alt='matematika4'>",
+        "B":"<img src='../img/matematika5.png' alt='matematika5'>",
+        "C":"<img src='../img/matematika6.png' alt='matematika6'>",
+        "D":"<img src='../img/matematika7.png' alt='matematika7 '>"
+    },
+
+    {
+        "savol":"Funksiyaning <i>f(x)=(x-2)(x-1)(x+1)(x+2)</i> [-1; 2] kesmadagi eng kichik qiymatini toping." ,
+        "A":"-2.25",
+        "B":"-4",
+        "C":"4",
+        "D":"1"
+    },
+
+    {
+        "savol":"A va B nuqtalar O markazli aylanada yotadi. &ang;AOB=78<sup>o</sup>. AB yoyuzunligi 39 mm. Katta yoyning uzunligini toping. ",
+        "A":"141",
+        "B":"156",
+        "C":"139",
+        "D":"144"
+    },
+
+    {
+        "savol":"Idishda 5 ta oq va 6 ta qora shar bor. bitta shar olindi va qaramasdan chetga olib qo'yildi. Shundan so'ng yana bitta shar olindi, u oq bo'lib chiqdi. Birinchi olingan sharning oq bo'lish ehtimolini toping.",
+        "A":"0,5",
+        "B":"0,4",
+        "C":"0,6",
+        "D":"0,25"
+    },
+
+    {
+        "savol":"<img src='../img/matematika8.png' alt='matematika8'>",
+        "A":"2",
+        "B":"<img src='../img/matematika9.png' alt='matematika9 '>",
+        "C":"3",
+        "D":"3&radic;2"
+    },
+
+    {
+        "savol":"Soddalashtiring (x+2)<sup>2</sup>-(x-2)(x+2)",
+        "A":"-4x",
+        "B":"4x",
+        "C":"4x-8",
+        "D":"4"
+    },
+
+    {
+        "savol":"Tenglamaning kichik ildizini toping: 27x(x+1)=17x<sup>2</sup>-18",
+        "A":"-1.5",
+        "B":"-3",
+        "C":"-2.5",
+        "D":"-1"
+    },
+
+    {
+        "savol":"Soddalashtiring: <img src='../img/matematika10.png' alt='matematika10'> ",
+        "A":"0",
+        "B":"1",
+        "C":"2",
+        "D":"-1"
+    },
+
+    {
+        "savol":"Konus asosining radiusi 6 ga teng, yasovchi asos tekisligi bilan 30<sup>o</sup> li burchak tashkil etadi. Asos Markazidan yasovchisigacha bo'lgan masofani toping.",
+        "A":"3",
+        "B":"2,5",
+        "C":"2&radic;3",
+        "D":"3&radic;3"
+    },
+
+    {
+        "savol":"Hisoblang: <img src='../img/matematika11.png' alt='matematika11'>",
+        "A":"<img src='../img/matematika12.png' alt='matematika12'>",
+        "B":"<img src='../img/matematika13.png' alt='matematika13'>",
+        "C":"<img src='../img/matematika14.png' alt='matematika14'>",
+        "D":"1"
+    },
+
+    {
+        "savol":"tg&alpha;+ctg&alpha;=A bo'lsa, tg<sup>4</sup>&alpha;+ctg<sup>4</sup>&alpha; ning qiymatini toping",
+        "A":"A<sup>4</sup>-4A<sup>2</sup>+2",
+        "B":"A<sup>4</sup>+4A<sup>2</sup>-2",
+        "C":"A<sup>4</sup>+2A<sup>2</sup>",
+        "D":"A<sup>2</sup>-2"
+    },
+
+    {
+        "savol":"Tenglamani kichik ildizini toping: <i>25x(3x+1)=50x<sup>2<sup>+66</i>",
+        "A":"-3.2",
+        "B":"-2.2",
+        "C":"-8",
+        "D":"-0.7"
+    },
+
+    {
+        "savol":"Agar tg(&alpha;+&beta;)=(9/19) va tg&alpha;=-4 bo'lsa, (&pi;/2)<&beta;<&pi;",
+        "A":"&pi;+arctg5",
+        "B":"8",
+        "C":"&pi;-arctg5",
+        "D":"arctg5"
+    },
+
+    {
+        "savol":"<img src='../img/matematika15.png' alt='matematika15'> ifodaning qiymatini a=32 bo'lganda hisoblang",
+        "A":"1.25",
+        "B":"5",
+        "C":"0.8",
+        "D":"1"
+    },
+
+    {
+        "savol":"Tenglamani kichik ildizini toping: (10+x)(x+14)=-3",
+        "A":"-13",
+        "B":"26",
+        "C":"11",
+        "D":"-11"
+    },
+
+    {
+        "savol":"Tenglamani yeching: <img src='../img/matematika16.png' alt='matematika16'> ",
+        "A":"-2.25",
+        "B":"16.75",
+        "C":"-7.75",
+        "D":"13.25"
+    },
+
+    {
+        "savol":"Tenglamani kichik ildizini toping: (x+6)(x+1)=-6",
+        "A":"-4",
+        "B":"0",
+        "C":"9",
+        "D":"-8"
+    },
+
+    {
+        "savol":"3<sup>24</sup>=28*429536481 ekanligi ma'lum bo'lsa, yulduzcha o'rniga qanday raqam qo'yish kerak",
+        "A":"1",
+        "B":"2",
+        "C":"3",
+        "D":"0"
+    },
+
+    {
+        "savol":"<img src='../img/matematika17.png' alt='matematika17'>",
+        "A":"<img src='../img/matematika18.png' alt='matematika18'>",
+        "B":"<img src='../img/matematika19.png' alt='matematika19'>",
+        "C":"<img src='../img/matematika20.png' alt='matematika20'>",
+        "D":"<img src='../img/matematika21.png' alt='matematika21'>"
+    },
+
+    {
+        "savol":"Funksiyaning hosilasini toping: <img src='../img/matematika22.png' alt='matematika22'>",
+        "A":"<img src='../img/matematika23.png' alt='matematika23'>",
+        "B":"<img src='../img/matematika24.png' alt='matematika24'>",
+        "C":"<img src='../img/matematika25.png' alt='matematika25'>",
+        "D":"<img src='../img/matematika26.png' alt='matematika26'>"
+    },
+
+    {
+        "savol":"<img src='../img/matematika27.png' alt='matematika27'> funksiyaning eng katta qiymatini toping",
+        "A":"3ln8",
+        "B":"24ln3",
+        "C":"2",
+        "D":"3ln2"
+    },
+
+    {
+        "savol":"<img src='../img/matematika28.png' alt='matematika28'>",
+        "A":"2",
+        "B":"1",
+        "C":"cheksiz ko'p",
+        "D":"3"
+    },
+
+    {
+        "savol":"x va y natural sonlar <i>2xy=x<sup>2</sup>+2y</i> tenglamani qanoatlantiradi. <i>3x-y</i> ni toping",
+        "A":"2",
+        "B":"4",
+        "C":"5",
+        "D":"6"
+    },
+
+    {
+        "savol":"<img src='../img/matematika29.png' alt='matematika29'> funksiyaning hosilasini toping.",
+        "A":"<img src='../img/matematika30.png' alt='matematika30'>",
+        "B":"<img src='../img/matematika31.png' alt='matematika31'>",
+        "C":"<img src='../img/matematika32.png' alt='matematika32'>",
+        "D":"<img src='../img/matematika33.png' alt='matematika33'>"
+    },
+
+    {
+        "savol":"Ota va bolaning yoshlari yig'indisi 38 ga, ota va buvaning yoshlari yig'indisi 81 ga teng. Bola 10 yoshga to'lgan vaqtdagi buvaning yoshini aniqlang.",
+        "A":"68",
+        "B":"63",
+        "C":"53",
+        "D":"58"
+    },
+
+    {
+        "savol":"Silindrning balandligi 3 ga, o'q kesimining diaganali 5 ga teng. Asosining radiusini toping.",
+        "A":"2",
+        "B":"3",
+        "C":"1",
+        "D":"4"
+    },
+
+    {
+        "savol":"Slindrning yon sirtining yuzi 24&pi; ga, hajmi esa 48&pi; ga teng. Silindrning balandligini toping.",
+        "A":"2",
+        "B":"3",
+        "C":"4",
+        "D":"6"
+    },
+
+    {
+        "savol":"Qaysi tengsizlik to'g'ri? a) 8 dm<sup>2</sup> < 40 cm<sup>2</sup>, b) 5 dm<sup>2</sup> > 500 cm<sup>2</sup>, c) 1 dm<sup>2</sup> < 5 cm<sup>2</sup>+150 cm<sup>2</sup>, d) 10 dm<sup>2</sup> = 1000 cm<sup>2</sup>",
+        "A":"b, c",
+        "B":"c, d",
+        "C":"a, b",
+        "D":"a, d"
+    },
+
+    {
+        "savol":"Vertolyot 100 km masofaga 20 litr yoqilg'i sarflaydi. U 225 km masofaga uchishi uchun qancha yoqilg'i sarflaydi?",
+        "A":"50 l",
+        "B":"45 l",
+        "C":"40,5 l",
+        "D":"11,25 l"
+    },
+
+    {
+        "savol":"O'zaro teng bo'lmagan x, y sonlar <i>x<sup>2</sup>-2018x=y<sup>2</sup>-2018y</i> tenglamani qanoatlantirsa, x+y ni toping.",
+        "A":"20",
+        "B":"10",
+        "C":"2018",
+        "D":"aniqlab bo'lmaydi"
+    },
+
+    {
+        "savol":"Tenglamani yeching: |x-1|+|x+2|-|x+1|=2",
+        "A":"-2; 0",
+        "B":"0",
+        "C":"-2; 0; 2",
+        "D":"0; 2"
+    },
+
+    {
+        "savol":"0.5 dm<sup>2</sup> da necha cm<sup>2</sup> bor?",
+        "A":"5 cm<sup>2</sup>",
+        "B":"500 cm<sup>2</sup>",
+        "C":"50 cm<sup>2</sup>",
+        "D":"25 cm<sup>2</sup>"
+    },
+
+    {
+        "savol":"Silindr asosining radiusi 2 marta orttirilsa, uning hajmi necha marta ortadi?",
+        "A":"3",
+        "B":"4",
+        "C":"6",
+        "D":"2"
+    },
+
+    {
+        "savol":"Konusning o'q kesimini teng tomonli uchburchak. To'la sirti 18 ga teng. Konus asosiningyuzini toping.",
+        "A":"6",
+        "B":"12",
+        "C":"9",
+        "D":"3"
+    },
+
+    {
+        "savol":"Silindrning balandligi 5 ga, uning asosiga ichki chizilgan muntazam uchburchakning tomoni 3&radic;3ga teng.Silindrning hajmini toping",
+        "A":"45&pi;",
+        "B":"35&pi;",
+        "C":"20&pi;",
+        "D":"25&pi;"
+    },
+
+    {
+        "savol": "Agar <img src='../img/matematika34.png' alt='matematika34'> bo'lsa, ABCD parallellogramm C uchining koordinatalari yig'indisini toping.",
+        "A": "6",
+        "B": "8",
+        "C": "7",
+        "D": "5"
+    },
+
+    {
+        "savol": "Minut millari aylanadigan doira 60 ta teng bo'laklakka bo'lingan. Har bir bo'linma orasi necha gradusga teng?",
+        "A": "6<sup>o</sup>",
+        "B": "3<sup>o</sup>",
+        "C": "5<sup>o</sup>",
+        "D": "2<sup>o</sup>"
+    },
+
+    {
+        "savol": "Kvadratdan to'g'ri burchakli to'rtburchak qirqib olindi. Qolgan qismining yuzasini toping. <img src='../img/matematika35.png' alt='matematika35'>",
+        "A": "12 cm<sup>2</sup>",
+        "B": "52 cm<sup>2</sup>",
+        "C": "15 cm<sup>2</sup>",
+        "D": "64 cm<sup>2</sup>"
+    },
+
+    {
+        "savol": "Rasmda qalin nuqtalar orqali Toshkent shahrining 2020 yilning 8-24-yanvardagi kunlik shamol tezligi ko'rsatilgan. Gozrizontal chiziq bo'ylab haftalik kunlar,Vertikal o'q bo'ylab kunlik shamol tezligi ifodalangan. Yanvar oyining rasmda tasvirlangan qaysi kunida birinchi bo'lib tezlik 1,5 mm/sek ga erishgan. <img src='../img/matematika36.png' alt='matematika36'>",
+        "A": "7,5",
+        "B": "9",
+        "C": "1,5",
+        "D": "12"
+    },
+
+    {
+        "savol": "Tenglamaning kichik ildizini toping: (10+x)(x+14)=-3",
+        "A": "-13",
+        "B": "26",
+        "C": "11",
+        "D": "-11"
+    },
+
+    {
+        "savol": "Tenglamaning kichik ildizini toping: (x+6)(x+1)=-6",
+        "A": "-4",
+        "B": "0",
+        "C": "9",
+        "D": "-8"
+    },
+
+    {
+        "savol": "Ratsional <i>a, b, c, d</i> sonlar uchun <i>a</i>lg2+<i>b</i>lg3+<i>c</i>lg5+<i>d</i>lg7=2005 bo'lsin. <i>a</i> ni toping.",
+        "A": "2005",
+        "B": "lg2005",
+        "C": "Bir qiymatli aniqlab bo'lmaydi",
+        "D": "0"
+    },
+
+    {
+        "savol": "Hikoya kitobning 216-sahifasidan boshlanib, 274-sahifasida tugaydi. Hikoya kitobning necha sahifasini egallagan?",
+        "A": "59",
+        "B": "57",
+        "C": "58",
+        "D": "60"
+    },
+
+    {
+        "savol": "Vaqt 12:00 ekanligini ko'rsatayotgan soatning soat mili 90 gradusga burilsa, soat necha bo'lgan bo'ladi?",
+        "A": "12:30",
+        "B": "15:00",
+        "C": "15:15",
+        "D": "12:15"
+    },
+
+    {
+        "savol": "Duradgorda 9 ta yog'och taxta bor edi. U bir necha taxtaning har birini 5 bo'lakka bo'lib arraladi. Shunda taxtalar soni 33 taga yetdi. Duradgor necha taxtani bo'laklarga bo'lib arraladi?",
+        "A": "6 ta",
+        "B": "5 ta",
+        "C": "4 ta",
+        "D": "7 ta"
+    },
+
+    {
+        "savol": "Yulduzcha o'rniga qanday raqam qo'yilsa tengsizlik to'g'ri bo'ladi? 0,*9>0,78",
+        "A": "7",
+        "B": "6",
+        "C": "5",
+        "D": "4"
+    },
+
+    {
+        "savol": "Uchburchakning burchalaridan biri 43<sup>o</sup> boshqasi 57<sup>o</sup> ga teng. Uchinchi burchak gradus o'lchovini toping.",
+        "A": "80",
+        "B": "14",
+        "C": "60",
+        "D": "100"
+    },
+
+    {
+        "savol": "A nuqtadan bir xil yo'nalishda bir vaqtning o'zida yuk mashinasi va yo'lovchi avtomobili chiqib ketdi. Avtomobil tezligi doimiy va yuk mashinasining tezligining 6/5 qismini tashkil qiladi. 30 daqiqadan so'ng soatiga 90 km/soat tezlik bilan motosikl harakatlana boshladi. Agar motosiklchi yuk mashinasi bilan uchrashgandan 1 soatdan keyin yengil avtomobilbilan uchrashgan bo'lsa, avtomobil tezligini toping.",
+        "A": "72",
+        "B": "64",
+        "C": "70",
+        "D": "78"
+    },
+
+    {
+        "savol": "Rasmda moddiy nuqtaning harakati tasvirlangan. AB masofadagi o'rtacha tezlikni toping. Xar bir katakchadan o'lcham sifatida foydalaning. Rasmda metr va sekundlar o'lchov sifatida olingan, javobni esa km/soatda oling. <img src='../img/matematika37.png alt='matematika37'>'",
+        "A": "6,3",
+        "B": "7",
+        "C": "6",
+        "D": "4"
+    },
+
+    {
+        "savol": "Tenglamani yeching: <img src='../img/matematika38.png' alt='matematika38'> ",
+        "A": "-1,75",
+        "B": "-1",
+        "C": "2",
+        "D": "-2,25"
+    },
+
+    {
+        "savol": "Agar x o'zgaruvchi miqdor bo'lsa, <img src='../img/matematika39.png' alt='matematika39'> ning eng katta qiymatni toping.",
+        "A": "64",
+        "B": "16",
+        "C": "32",
+        "D": "8"
+    },
+
+    {
+        "savol": "Tenglamani yeching: <img src='../img/matematika40.png' alt='matematika40'> ",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    },
+
+    {
+        "savol": "",
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
+    }
+
+
+]

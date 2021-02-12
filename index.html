@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles/style.css">
+    <title>test.tdi.uz</title>
+</head>
+
+<body onload="addtests()">
+
+    <div class="head">
+        <div class="container">
+            <div class="gerb">
+                <img src="img/gerb.png" alt="gerb" width="70px">
+            </div>
+            <div class="uzvm">O‘zbekiston Respublikasi </div>
+            <div class="uzvm">Vazirlar Mahkamasi huzuridagi </div>
+            <div class="uzvm">Ta’lim sifatini nazorat qilish davlat inspeksiyasi</div>
+            <div class="forma">
+                <div class="ott">   
+                    online test tizimi
+                </div>
+                <input type="login" placeholder="Login" id="login" class="login">
+                <input type="password" placeholder="Password" id="password" class="password">
+                <button class="open">Tizimga kirish</button>
+                <div class="error">&#9679; Login yoki parol xato kiritildi</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="boxing">
+        <div class="container2" id='container'>
+            <div class="gerb">
+                <img src="img/gerb.png" alt="gerb" width="85px">
+            </div>
+            <div class="uzvm">O‘zbekiston Respublikasi </div>
+            <div class="uzvm">Vazirlar Mahkamasi huzuridagi </div>
+            <div class="uzvm">Ta’lim sifatini nazorat qilish davlat inspeksiyasi</div>
+        </div>
+        <div class="neck">
+            <div class="header">Pedagog kadrlarni attestatsiyadan o'tkazish sinov testi</div>
+            <div class="tanlashlar">
+                <p class="select">Viloyat <select name="viloyat" id="viloyat">
+                        <option selected>--Tanglang--</option>
+                    </select></p>
+                <p class="select">Tuman<select name="tuman" id="tuman">
+                        <option selected>--Tanglang--</option>
+                    </select></p>
+                <p class="select">Maktab<select name="maktab" id="maktab">
+                        <option selected>--Tanglang--</option>
+                    </select></p>
+                <p class="select">Fan<select name="fan" id="fan">
+                        <option selected>--Tanglang--</option>
+                    </select></p>
+                <p class="select">O'qituvchi <select name="name" id="name">
+                        <option selected>--Tanglang--</option>
+                    </select></p>
+                <p class="select">Imtihon<select name="til" id="til">
+                        <option selected>--Tanglang--</option>
+                    </select></p>
+                <p class="select">Toifa <select name="toifa" id="toifa">
+                        <option selected>--Tanglang--</option>
+                    </select></p>
+                <button class="boshlash">Testga kirish</button>
+                <p id = "error" ></p>
+            </div>
+            <div class="endl">Diqqat! <br> Ushbu test sinovlari faqat bilim darajasini oshirish aniqlashga yo'naltirilgan.
+            </div>
+            <div class="footerone">
+                <p class="tg center">
+                    <img src="img/telegram.png" alt="telegram" width="15px">
+                    Telegram kanalga azo bo'lish 
+                </p>
+                <img src="img/collect.png" alt="collect" class="center">
+            </div>
+        </div>    
+    </div>
+
+
+    <div class="body">
+        <p class="name">Murodullayev Sarvar Usmon o'g'li</p>
+        <p class="lesson">Fan: Informatika</p>
+        <table>
+            <tr>
+                <td class="alltests">
+                    <div class="questions">
+                        <div class="question_numbers"></div>
+                        <div class="tests"></div>
+                        <div class="prev">Oldingi</div>
+                        <div class="next">Keyingi</div>
+                    </div>
+                </td>
+                <td class="times">
+                    <div class="time">
+                        <p>Soat</p>
+                        <p id="hour"></p>
+                    </div>
+                    <div class="time">
+                        <p>Minut</p>
+                        <p id="minut"></p>
+                    </div>
+                    <div class="time">
+                        <p>Sekund</p>
+                        <p id="second"></p>
+                    </div>
+
+                    <button class="end_test">TESTNI YAKUNLASH</button>
+                </td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="content">
+        <div class="content_box">
+            <p class="text">Diqqat testni yakunlaganingizga hamda barcha test savollariga javob berganingizga ishonch hosil qiling. Test yakunlangandan so'ng qayta ishlash mumkin emas.</p>
+            <button class="yes">Ha, yakunlayman</button>
+            <button class="no">Yo'q, testga qaytaman</button>
+        </div>
+    </div>
+
+    <div class="footer">
+        <div class="box">
+            <table>
+                <tr>
+                    <td class="resultname" colspan="4">Murodullayev Sarvar</td>
+                </tr>
+                <tr class="resultheader">
+                    <td class="test_nomi">Test nomi</td>
+                    <td class="test_soni">Test soni</td>
+                    <td class="tugri_javob">To'g'ri javob</td>
+                    <td class="ball">Ball</td>
+                </tr>
+                <tr class="result">
+                    <td class="test_nomi1">Informatika</td>
+                    <td class="test_soni1">40</td>
+                    <td class="tugri_javob1">21</td>
+                    <td class="ball1">52,5</td>
+                </tr>
+            </table>
+            <button class="close">Chiqish</button>
+        </div>
+    </div>
+
+</body>
+<script src="./scripts/jquery-3.5.1.min.js"></script>
+<script src="./scripts/script.js"></script>
+<script type="text/javascript" src="/jsondata/password.json"></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
+
+</html>

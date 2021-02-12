@@ -1,0 +1,1004 @@
+[
+    {
+       "savol":" Ko'krak qafasiga ega sovuqqonli hayvonlarni to'g'ri belgilang ",
+       "A":"Geklon, echkemar",
+       "B":"Suqsun,  sariq ilon ",
+       "C":"Agama, qizilto'sh",
+       "D":"triton, salamandra"
+    },
+    {
+       "savol":"Soxta qovurg'alar soniga teng yassi suyaklar qatorini aniqlang ",
+       "A":"kurak, tepa, chanoq",
+       "B":"ensa, peshona, chakka, ",
+       "C":"yuqori jag', pastki jag', peshona ",
+       "D":"o'mrov, kurak, yelka"
+    }, 
+    {
+       "savol":"Gulxayridoshlar oilasiga mansub bo'lgan o'simlik navlarini ko'rsating ",
+       "A":"\"Lola\",  \"zarafshon\"",
+       "B":"\"Obidov \", \"Toshkent-2\"",
+       "C":"\"Farhod\", \"Hiloliy\"",
+       "D":"\"oqqo'rgon-2\", magnit-2\""
+    }, 
+    {
+       "savol":"Geteroftof organizmlar berilgan javobni kursating ",
+       "A":"Klodoniya,  nostok",
+       "B":"Zang zamburug'i,  issillatoriya",
+       "C":"Parmeliya,  batsidiya ",
+       "D":"Oq po'panak, qo'ziqorin"
+    }, 
+    {
+       "savol":"Tokdoshlar oilasiga mansub bo'lgan o'simliklar navlarini ko'sating ",
+       "A":"\"FARHOD\",  \"HILOLIY\"",
+       "B":"\"UMID, \"TOSHKENT\"",
+       "C":"\"VATAN\", \"ZARAFSHON\"",
+       "D":"\"GULTISH\", \"SOHIBI\""
+    }, 
+    {
+       "savol":"To'liq o'zgarish bilan rivojlanuvchi hasharotlar turkumlarini aniqlang",
+       "A":"qo'ngizlar,  kapalaklar,  chumolilar, pashshalar,  arilar",
+       "B":"tangachaqanoqlilar, ikkiqanotlilar, pardaqanotlilar, burgalar",
+       "C":"qo'ngizlar, arilar, yaydoqchilar, chumolilar",
+       "D":"ikkiqanotlilar, pardaqanotlilar, temirchaklar, chumolilar"
+    }, 
+    {
+       "savol":"Tog'ayli baliqlar suyakli baliqlardan farq qilib. . . . 1) jabra qopqog'iga ega; 2) miya qutisiga ega emas; 3) suzgich pufagiga ega; 4) email bilan qoplangan plastinkalarga ega; 5) jabra qopqoqlariga ega emas; 6) gavda skeleti tog'aydan iborat;",
+       "A":"2, 5",
+       "B":"1, 3",
+       "C":"4, 6",
+       "D":"4. 5"
+    }, 
+    {
+       "savol":"O'simliklarning yog'ochlik qismi qattiq (a)  va yumshoq (b)  bo'lgan o'simliklarni aniqlash;",
+       "A":"a-zarang,  yulg'un,  b-terak,  jiyda;",
+       "B":"a-o'rik,  zarang,  jiyda,  b-tol, terak;",
+       "C":"a-yong'oq,  o'rik,  qayrag'och, b-zarang,  tol;",
+       "D":"a-qayrog'och, saksovul, yulg'un,  b-tol,  eman;"
+    }, 
+    {
+       "savol":"Biy,   zaxkash va kolorado qo'ng'zi uchun umimiy belgilarni aniqlang.  1) tullash o'sishi.  2) bir juft yuqorigi jag'larning bo'lishi; 3) bir juft mo'ylov; 4) ichki urug'lanish; 5) noto'g\ri rivojlanish; 6) bir juft murakkab ko'zlar;",
+       "A":"4, 6",
+       "B":"2, 4",
+       "C":"1, 5",
+       "D":"1, 3"
+    }, 
+    {
+       "savol":"Pingvin uchun xos xususiyatni aniqlang. ",
+       "A":"vena va arteriya qoni yurak qorinchasida aralashadi",
+       "B":"g'ozsimonlar turkumiga kiradi",
+       "C":"tashqi quloq suprasiga ega",
+       "D":"gastrulatsiya qat-qat joylashuvi bilan kechadi"
+    }, 
+    {
+       "savol":"Quyidagi fikrlardan dala qirqbo'g'imiga (I),   funariya yo'siniga (II)  va ikkalasi uchun umimiy (III)  bo'lgan xususiyatlarni juftlang?  1. Gametasi ikki xivchinli bo'lishi 2.  Sporadan jinssiz bo'g'in boshlanishi 3. Zigotadan sporafitning xosil bo'lishi 4.  Ildizpoyada oziq modda to'planishi 5. Sporadan gametofitni shakllanishi 6. Organik moddani to'qima orqali tashilishi 7. Biogen migratsiyani birnchisida qatnashishi 8. Jinssiz bo'gin ustunlik qilishi 9. Vegetativ va generativ novda hosil qilishi 10. vegetativ organning hosil qilishi",
+       "A":"I-1, 2, 3 II-8, 7, 6 III-9, 10",
+       "B":"I-3, 4, 6 II-1, 5, 7 III-3, 7, 10",
+       "C":"I-3, 6, 8 II-3, 4, 5 III-5, 10",
+       "D":""
+    }, 
+    {
+       "savol":"Yer usti (a)  va yer osti (b)  metamorfozlashgan qismlarini aiqlang I) ildiz II) poya 1. oq akatsiyasini tikani; 2. burchoq gajaklari; 3. turup ildiz mevasi ;4. sabzi ildiz mevasi; 5. ban'yan daraxtining tayanch ildizi; 6. havo ildizlari; 7. shirin miyaning ildiz poyaqsi. ",
+       "A":"b-II-4 a-II-2",
+       "B":"b-II2 a-I-3",
+       "C":"a-I-5 A-II-1",
+       "D":"B-I-6 B-III-7"
+    }, 
+    {
+       "savol":"SHakli o'zgargan novdalarni aniqlang 1) kartoshkaning tugunasi; 2) sarimsoqning piyozboshi; 3) sholg'omning ildiz mevasi; 4) qirq quloqning ildiz poyasi; 5) makka jo'xorining so'tasi; 6) qirqbo'g'imning sporofilli; 7) zirkning tikani. ",
+       "A":"1, 4, 5",
+       "B":"2, 4, 7",
+       "C":"1, 3, 6",
+       "D":"2, 3, 4"
+    }, 
+    {
+       "savol":"Malla shom ko'rshapalak bilan mantiqiy bog'liq bo'lgan fikrlarni aniqlang.  1. oldingi oyoqlarida barmoqlari orasida parda tortilga 2. tanasi ingichka asosan tor inlarga yashashga moslashgan 3. og'iz va burnidan ultra tovushlar chiqadi 4. yirtqichlar turkumiga kiradi 5. qo'lqanotlilar turkumi 6. susarsimonlar oilasiga ki9radi",
+       "A":"4, 5, 6",
+       "B":"1, 2, 5",
+       "C":"1, 3, 5",
+       "D":"2, 4, 6"
+    }, 
+    {
+       "savol":"Ona ari qaysi xususiyatlarga ko'ra ishchi (a)  va erkak (b) arilarga o'xshaydi?  1) nishlarga ega: 2) urug'lanmagan tuxum hujayradan rivojlanadi: 3) og'iz organlari kemuruvchi-so'ruvchi tipda tuzilgan: 4)  qurtlarni oziqlantiradi: 5)  urug'langan tuxum hujayradan rivojlanadi: 6) og'iz organlari yaxshi rivojlanmagan: 7)  orqa oyoqlari gul changini yig'ib olishga moslashgan: 8) tanasining yirik bo'lishi. ",
+       "A":"a-1. 5;b-6. 8",
+       "B":"a-3. 4. 7;b-1. 8",
+       "C":"a-1. 3. 4;b-2. 8",
+       "D":"a-5. 6. ;b-1. 3"
+    }, 
+    {
+       "savol":"Xo'jalikda foydalanish xususiyatiga ko'ra bir xil yo'nalishga mansub hayvonlarni aniqlang. ",
+       "A":"Laqay, qora bayir, Busheyev",
+       "B":"Gereford, SHortgorn",
+       "C":"Qizil dasht, Yaroslav,  Santa Gertruda",
+       "D":"Kornuel, Legorn, Plimutron"
+    }, 
+    {
+       "savol":"Qasi hujayralar butun umri davomida bo'linib ko'payadi ",
+       "A":"Neytron, ichak epiteyliysi",
+       "B":"Neytrogliya,  suyak iligi",
+       "C":"Epidermis,  ichak epiteliysi",
+       "D":"Suyak iligi, muskul hujayralari"
+    }, 
+    {
+       "savol":"Sut emizuvchilar embrioni varaqasining ektoderma qavatidan hosil bo'lgan organlarni belgilang",
+       "A":"Ichak epiteliysi, tuxumdinlar, jigar",
+       "B":"O'pka,  oshqozon osti bezi,  jigar",
+       "C":"Bosh miya,  teri epiteliysi, quloq suprasi",
+       "D":"Teri epiteliysi, jabra orqa miya"
+    }, 
+    {
+       "savol":"Ochiq qon aylanish sistemasiga ega hayvonlarni aniqlang ",
+       "A":"Asalari, nereida, trixogramma",
+       "B":"Iskabtopar, bo'ka, zahkash",
+       "C":"Opplanariya, biy, termit",
+       "D":"Odam askaridasi, bronza qo'ng'izi, daryo qisqichbaqasi"
+    }, 
+    {
+       "savol":"Mitozning metafazasidagi sodir bo'ladigan jarayonni aniqlang ",
+       "A":"Xromatidalarni birlashtirib belbog' uziladi ",
+       "B":"Sitokinez kuzatiladi ",
+       "C":"Yadrocha va yadro qobig'i yo'qoladi",
+       "D":"bo'linish urchug'i to'liq shaklllanadi"
+    }, 
+    {
+       "savol":"Mitozning anafasidagi sodir bo'ladigan jarayonni aniqlang",
+       "A":"Xromosomalar eng katta va yog'on holatga o'tib oladi",
+       "B":"Yadrocha va yadro qobig' yo'[qoladi ",
+       "C":"Sitokinez kuzatiladi",
+       "D":"Xromatidalarni birlashtirib turuvchi belbog' uziladi"
+    }, 
+    {
+       "savol":"Daltonik ayol va sog' erkak oilasida tug'ilishi mumkun bo'lgan farzandlarga xos xususiyatni kursating",
+       "A":"O'g'il bolalarning 100%i rangni ajrata olmaydi",
+       "B":"O'g'il bolalarning 100%i sog'lom tug'iladi",
+       "C":"O'gil bolalarning 50%isog'lom, 50%i rangni ajrata olmaydi ",
+       "D":"Qiz bollalarning 50%i sog'lom, 50%rangni ajrata olmaydi "
+    }, 
+    {
+       "savol":"Avtotrof organizmlar berilgan javobni kursating",
+       "A":"Qo'ziqorin,  batsidiya",
+       "B":"Kladoniya, parmeliya",
+       "C":"Oq po'panak,  nostok",
+       "D":"Zang zamburug'i, ossillatoriya"
+    },
+    {
+       "savol":"Mexanik to'qimaning tirik (a)  va o'lik (b)  hujayralarini aniqlang; 1) eleksimon nay hujayralar; 2) lub tolalar; 3) kollenxima; 4) traxeidlar; 5) sklereidlaR; 6) YO'LDOSH HUJAYRALAR; ",
+       "A":"A-1, 3;B-4, 5",
+       "B":"A-3;B-2, 5",
+       "C":"A-2, 3;B-5",
+       "D":"A-1, 6;B-4"
+    },
+    {
+       "savol":"Vegatativ ko'payishi tallomida hosil bo'lgan o'simlaklar orqali sodir bo'ladigan o'simliklarni aniqlang 1) parmiliya; 2) xlorella; 3) funariya; 4) batsidiya; 5)  ulutriks; 6) usneya; 7) spirogiya; 8) klodaniya; ",
+       "A":"4, 6, 8",
+       "B":"3, 5, 7",
+       "C":"1, 2, 7",
+       "D":"1, 5, 8"
+    }, 
+    {
+       "savol":"Ho'l mevalarni hosil qiluvchi (a)  va hosil qilmaydigan (b)  o'simliklarni aniqlang. 1. vatan 2. nimrang 3. omad 4. farhod 5. gultish 6. sanzor",
+       "A":"a-1, 2, 3 b-4, 5, 6",
+       "B":"a-4, 5, 6,  b-1, 2, 3",
+       "C":"a-2, 3, 6 b-1, 4, 5",
+       "D":"a-1, 4, 5,  b-2, 3, 6"
+    }, 
+    {
+       "savol":"Quyidagi hayvonlarni tana qoplami bilan juftlab belgilang.  a) jayra; b) yexidna; c) gekkon; d) muflon; 1) jun; 2) uzun nilalar; 3) uzun qillar; 4) muguz tangachalar; 5) suyak tangachalar; 6) tixit ",
+       "A":"a-2, b-3, c-4, d-1",
+       "B":"a-3, b-4, c-5, d-1",
+       "C":"a-2, b-4, c-5, d-4",
+       "D":"a-3, b-6, c-3, d-4"
+    },
+    {
+       "savol":"Echki emar haqida to'g'ri malumotni toping",
+       "A":"o'pka devori katakchalarga bo'lingan,  mrtamarfossiz rivojlanadi",
+       "B":"yuragi to'rt kamerali,  soxuqqonli hayvon",
+       "C":"meta mata marfoz orqali rivojlanadi, kaltakesaklar turkumiga kiradi",
+       "D":"isssiq qonli organizm, sudralib yuruvchilar sinfiga mansub"
+    },
+    {
+       "savol":"Qasi hujayralar butun umri davomida bo'linib ko'payadi ",
+       "A":"Neytron, ichak epiteyliysi",
+       "B":"Neytrogliya,  suyak iligi",
+       "C":"Epidermis,  ichak epiteliysi",
+       "D":"Suyak iligi, muskul hujayralari"
+    }, 
+    {
+       "savol":"TO'g'ri fikrni aniqlash. ",
+       "A":"Yapon laminaryasi ulotriks jin siy kupayish jarayoni zoospara hosil qilishi bilan kechadi",
+       "B":"Fillofara porfira kabi suvo'tlarga mansub",
+       "C":"Yapon laminaryasi ulotriks jin siy kupayish jarayoni zoospara hosil qilishi bilan kechadi",
+       "D":"klodofora tallomi spirogira tallomi kabi shoxlangan"
+    }, 
+    {
+       "savol":"Oddiy bargli to'g' gulga ega (a),   va oddiy bargli qiyshiq gulga ega (b) bo'lgan o'simliklarni aniqlang.  1-yeryongo'q, 2-olma, 3-yanvar, 4-shirinmiya, 5-na'matak, 6-tamaki, 7-besh yaqroqli partenosissus",
+       "A":"a-2 b-3",
+       "B":"a-6 b-5",
+       "C":"a-7 b-1",
+       "D":"a-8 b-4"
+    }, 
+    {
+       "savol":"CHeksiz (a),   yerbag'ir tugmachagul (b),  bangidevona (c),  bo'yimadaron (d) kabi dorivor o'simliklar  qaysi oilagamansub ekanligini aniqlang. ",
+       "A":"a-sho'radoshlar,  b-gulxayri doshlar,  c- ituzumdoshlar, d-qoqi o'tdoshlar",
+       "B":"a-gulxayri doshlar, b- ituzumdoshlar, c-qoqi o'tdoshlar",
+       "C":"a-sho'radoshlar, b-gulxayri doshlar, c- ituzumdoshlar, d-qoqi o'tdoshlar",
+       "D":"a-karamdoshlar, b-sho'radoshlar, c- ituzumdoshlar, d-qoqi o'tdoshlar"
+    },
+    {
+       "savol":"Fotosintez jarayonifillofora (1),  funariya yo'sini (2),  spirogira (3),  astragal (4),  kabi o'simlik hujayralarining qaysi organiodiga kechadi?  a-xromatoforda; b-xromoplasda; c-xloroplastda",
+       "A":"1-b, 2-c, 3-a, 4-b",
+       "B":"1-c, 2-a, 3-c, 4-c",
+       "C":"1-a, 2-c, 3-a, 4-c",
+       "D":"1-a, 2-b, 3-a, 4-c"
+    }, 
+    {
+       "savol":"Diploid to'plamga ega somatik hujayradagi xromosoma soni 2n,  DNK soni 2c bilan belgilansa, meyoz bo'lishning anafaza IIbosqichidagi xromosoma (a)  va DNK(b) sonini aniqlang",
+       "A":"a-n, b-2c;",
+       "B":"a-2n, b-2c;",
+       "C":"a-4n, b-4c;",
+       "D":"a-2n, b--4c;"
+    }, 
+    {
+       "savol":"Odam organizmida nechta qovurg'a to'sh suyagiga birikkan(a) va nechtasi umurtqa pog'onasiga birikmagan (b) ",
+       "A":"a-16. b-6",
+       "B":"a-16. b-0",
+       "C":"a-24. b-10",
+       "D":"a-14. b-0"
+    }, 
+    {
+       "savol":"Odam organizmi ichida quyidagi qaysi moddalar o't suyiqligi ta'sirida hazm buladi?  1) albumin;2) kraxmal;3) xolesterol;4) globulin;5) lipid;6) glikogen. ",
+       "A":"3, 6",
+       "B":"2, 4",
+       "C":"3, 5",
+       "D":"1, 5"
+    },
+    {
+       "savol":"Orqa oyoqlari kamarini uchta chanoq suyaklari(a)  va uch juft chanoq suyagi (b) tashkil qilgan hayvonlarni ajrating 1) baqa 2) zag'izg'an 3) triton 4) silovsin 5) tyin 6) skat 7) tapir",
+       "A":"a-1, 3;b-2, 4",
+       "B":"a-2, 5;b-6, 7",
+       "C":"a-3, 5;b-2, 6",
+       "D":"a-1, 6;b-4, 7"
+    }, 
+    {
+       "savol":"Orqa oyoqlari kamerini 3ta chanoq suyaklari (a)  va 3juft chanoq suyagi(b) tashkil qiladigan hayvonlarni ajrating  1) baqa 2) zag'izg'an 3) triton 4) silovsin 5) tyin 6) skat 7) tapir",
+       "A":"a-1, 3;b-2, 4",
+       "B":"a-2, 5;b-6, 7",
+       "C":"a-3, 5;b-2, 6",
+       "D":"a-1, 6;b-4, 7"
+    }, 
+    {
+       "savol":"dDaun sindromi irsiy kasalligi uchun xos bo'lgan xususiyatni kursating",
+       "A":"Faqat ayollarda uchraydi",
+       "B":"Autsomalar sonini o'zgarishi natijasida sodir bo'luvchi kasallik",
+       "C":"Faqat erkaklarda uchraydi",
+       "D":"jinsiy xromosomalar sonini o'zgarishi natijasida hosil bo;luvchi kasallik"
+    },
+    {
+       "savol":"Yashil suv o'tlar . . . . :1) dengizlarda uchraydi. 2) chuchuk suvlarda uchraydi . 3) xemosintez xususiyatiga ega 4) parazid formalari mavjud 5) fotosintez uchun cO2 ni o'zlashtiradi 6) faqat ko'p hujayrali vakillari mavjud",
+       "A":"3, 5",
+       "B":"2, 3",
+       "C":"1, 5",
+       "D":"4, 6"
+    },
+    {
+       "savol":"Lansetnik embrisionining maydalanish bosqichida 128 ta blastomer hosil bo'lgan bo'lsa,  zigotaning meridinal (a) va ekvatorial (b) bo'linishlar sonini aniqlang",
+       "A":"a-5, b-3",
+       "B":"a-4, b-4",
+       "C":"a-4, b-3",
+       "D":"a-4, b-2"
+    },
+    {
+       "savol":"Odam organizmining umurtqa pog'onasi bo'yich va bel lordozida nechta umurtqa suyaglari qatnashadi",
+       "A":"19",
+       "B":"12",
+       "C":"10",
+       "D":"17"
+    }, 
+    {
+       "savol":"Yuvosh,  vazmin kuchli, muvozantlashgan,  kamharakat odamlar oliy nerv faoliyatiga ko'raqanday tipga mansupligini aniqlang",
+       "A":"xolorik",
+       "B":"sangvilik",
+       "C":"felegmatik",
+       "D":"melaxolik"
+    }, 
+    {
+       "savol":"Bitta turkumga (a) va bitta oila(b) mansub bo'lgan hayvonlarni belgilang",
+       "A":"a-qarchig'ay, tasqara;b-suvsar, bo'rsiq",
+       "B":"a-jayra, norka;b-bo'ri, tulki",
+       "C":"a-qunduz, ko;k sugur;b-ilvirs, to'qaymushugi",
+       "D":"a-suqsun, churrak;b-yetonsimon it, yaguar"
+    }, 
+    {
+       "savol":"IV qon guruhli rezus manfiy odamlarga eritrotsit tarkibida qanday oqsillar buladi? 1) gemoglobin 2) agglyutinogen B 4) agglyutin a 5) rezus omil 6) agglyutinim B ",
+       "A":"4, 5, 6",
+       "B":"1, 4, 6",
+       "C":"1, 2, 3",
+       "D":"2, 3, 5"
+    }, 
+    
+    {
+       "savol":"Aralash sekreksiya bezlarini aniqlang ",
+       "A":"Jigar, qalqon oldi brzi,  gipofiz bezi",
+       "B":"Gipofez bezi, epifiz bezi, qalqonsimon bez",
+       "C":"jinsiy bezlar, oshqozon osti bezi",
+       "D":"Beyrak osti bezi, ayronsimon bez, jinsiy bezlar"
+    }, 
+    {
+       "savol":"Qizil ko'zli erkak drozofili pashshasi,  oq ko'zli urg'ochi drozofila pashshasi bilan chachishtirildi.  Avloddagi erkak pashshalarning necha foizida ko'zining rangi oq bo'ladi",
+       "A":"100%",
+       "B":"12. 5%",
+       "C":"25%",
+       "D":"50%"
+    },
+    {
+       "savol":"Pingvin uchun xos xususiyatni aniqlang. ",
+       "A":"vena va artireya qoni yurak qorinchasida ajraladi",
+       "B":"g'ozsimonlar turkumiga kiradi",
+       "C":"tashqi quloq supasiga ega",
+       "D":"gastrulatysiya qat-qat joylashuvi bilan kechadi"
+    }, 
+    {
+       "savol":"Midiya qaysi tip(a),  omar qaysi sinf(b)  va jirafa qaysi turkum (c) vakili hisoblanadi? ",
+       "A":"a-qorin oyoqlar,  b-bo'g'im oyoqlilar, c-juft tuyoqlilar",
+       "B":"a-mollyuskalar, b-bo'g'imoyoqlilar, c-toq tuyoqlilar",
+       "C":"a-ikkipallalilar,  b-qisqichbaqasimonlar, c-juft tuyoqlilqr",
+       "D":"a-mollyuskalar, b-qisqichbaqasimonlar, c-jufttuyoqlilar"
+    }, 
+    {
+       "savol":"Matur va cherkez o'simliklari uchun umumiy tushunchaklarni aniqlang.  1) oddiy gul qo'rg'on;2) murtak xaltasi;3) urug';4) xloroplast;5) yong'on meva;6) bitta urug' palla;",
+       "A":"1, 2, 3",
+       "B":"1, 3, 6",
+       "C":"2, 4, 5",
+       "D":"3, 4, 5"
+    }, 
+    {
+       "savol":"Quyidagi o'simliklarga mos malumotlarni to'g'ri juftlangan javoblarni ko'rsating. 1) to'pguli murakkab 2) poyasi yo'g'ochlashgan. 3) ko'pyillik o'simliklar. 4) bargi oddiy. 5) guli to'g'ri. 6) chatnaydigan mevaga ega. a) nastarin;b) o'sma; c) tuxumak",
+       "A":"a-4;b-6;c-5",
+       "B":"a-6;b-2;c-3",
+       "C":"a-4;b-2;c-6",
+       "D":"a-1;b-4;c-3"
+    },
+    {
+       "savol":"To'rttala oyog;ida 18 ta barmog'i bo'ladigan organizmning qon aylanish sistemasiga oid xato fikrni toping",
+       "A":"Yiragi to'rt kamerali",
+       "B":"Yuragi 3kamerali",
+       "C":"Kichik qon aylanish doirasi yurak qorinchasiga bog'langan,  yurakning chap bo'lmachasiga tugaydi",
+       "D":"Katta qon aylanish doirasi yurak qorinchachasidan boshlanib, yurakning o'ng bo'lmachasiga tugaydi"
+    },
+    {
+       "savol":"Gullarda yelkancha,  qanotcha va qayiqcha gultojibarglariga ega oilasiga mansub o'simliklar vakillarini aniqlang",
+       "A":"soya, tirnoqgul,  no'xat,  yantoq",
+       "B":"yasmin, tuxumak, afsonak, oqquray",
+       "C":"gledichiya, qashqarbeda, afsonak",
+       "D":"mosh, burchoq, sebarga, yerbag'ir tugmachagul"
+    },
+    {
+       "savol":"\"Daum sindromi \"kasalligi uchun xos xususiyatni kursating",
+       "A":"Faqat ayollarda uchraydi",
+       "B":"Autosomalar sonining o'zgarishi natijasida sodirbo'luvchi kasallik",
+       "C":"Faqat erkaklarda uchraydi",
+       "D":"Jinsiy xromosomalar soninig o'zgarishi natijasi sodir bo'luvchi kasallik"
+    }, 
+    {
+       "savol":"Mitozning telefazasida sodir bo'ladigan jarayonni aniqlang",
+       "A":"Yadrocha va yadro qobig'i yuqoladi",
+       "B":"sitokinez kuzatiladi",
+       "C":"Xromosomalar eng kattava yo'g'on holatga o'tib oladi",
+       "D":"Xromotidalarni birlashtirib turuvchi belbog' uziladi"
+    },
+    {
+       "savol":"Chala o'zgarish bilan rivojlanuvchi hasharot turkumini aniqlang",
+       "A":"suvaraklar, chalaqttiqqanotlilar, ninachilar, to'g'ri qanotlilar'burgalar",
+       "B":"yashil temirchak, chigirtka, qora chirildoq, suluv ninacha",
+       "C":"temirchak, xasva qandalasi, turkiston termiti, moviyninachi",
+       "D":"temitlar,  qandalalar,  ninachilar,  to'g'riqanotlilar"
+    },
+    {
+       "savol":"SHakliga ko'ra yassi suyaklarni aniqlang ",
+       "A":"Yelka, bilak, son, boldir suyaklari",
+       "B":"Kurash, ensa, tepa, chanoq suyaklari",
+       "C":"Tosh o'mrov, qovurg'a suyaklari ",
+       "D":"CHakka,  peshona,  to'sh,  tepasuyaklari"
+    }, 
+    {
+       "savol":"Gipofiz bezidan ajraladigan garmonlarni aniqlang ",
+       "A":"Melatoning, somatotrop, paratgarmon",
+       "B":"Tireotrop, tiroksin, timozin",
+       "C":"Gonadrop, adrenokortikoid, vazopressin",
+       "D":"Glokogun, gastrin"
+    },
+    {
+       "savol":"DNK fragmentida Guanin nukleotidlar soni 880 ta bo'lib, u umimiy nukleotidlarning 22% ini tashkil etadi.  Ushbu fragmentidagi timin nukleotidlar sonini aniqlang   ",
+       "A":"1120",
+       "B":"1760",
+       "C":"2240",
+       "D":"880"
+    },
+    {
+       "savol":"SHimpanze somatik hujayrasining motoz bo'lishi jarayonida mos keluvchi javoblarni aniqlang;1) profazabosqichida 2 DNK li xromosomalar soni 96ta 2) anafaza yakunida bir  DNK li xromosomalar soni 96 ta ;3) metafaza bosqichida ikki DNK li xromosomalar soni48ta; 4) interfezaning G1 bosqichida ikki DNK li xromosomalar soni 48 ta; ",
+       "A":"2, 3",
+       "B":"1, 3",
+       "C":"2, 4",
+       "D":"1, 4"
+    }, 
+    {
+       "savol":"To'g'ri fikrni aniqlang . ",
+       "A":"G'o'zaning mevasi chuchmima mevasi kabi chatnamaydigan quruq meva . ",
+       "B":"Kram,  soxta kashtan va qurttaning mevasi qo'zonmeva hisoblanadi",
+       "C":"Qarag'ayda archa murtak xaktasi arxegoniyda joylashagn ",
+       "D":"Sabzi shashir va bodiyon kabi murakkab sobon to'pguliga ega"
+    }, 
+    {
+       "savol":"O'rta osiyo nokia (a),  oksitrops(b),   karrak(c),  tangao't(d) kabi qizil kitobga kiritilgan osimliklar qaysi oilaga mansub ekanligini aniqlang. ",
+       "A":"a-ra'nodoshlar,  b-burchoqdoshlar, c-murakkab guldoshlar, d- ituzumdoshlar",
+       "B":"a-burchoqdoshlar, b-ra'nodoshlar, c- ituzumdoshlar, d-murakkabguldoshlar",
+       "C":"a-ra'nodoshlar, b-burchoqdoshlar, c- ituzumdoshlar, d-dukkadoshlar",
+       "D":"a-burchoqdoshlar, b-dukkadoshlar, c- qo'qio'tdoshlar, d-qovoqdoshlar"
+    }, 
+    {
+       "savol":"Zuxrasochning gametofiti haqidagi to'g'ri fikrni ko'rsating",
+       "A":"Spora hosil qiladi, poyabargli o'simliklar",
+       "B":"Jinsiy bo'g'in hisoblanadi, fotosintez xususiyatiga ega",
+       "C":"Ikki jinsli yashil o'simta, jinsiz bo'gin hisoblanadi",
+       "D":"zigotadan rivojlanadi,  fotosibtez xususiyatiga ega"
+    }, 
+    {
+       "savol":"Uch bargchali (a)  v a toq patsimon (b)  murakkab bargga ega bo'lgan kup yillik o'simliklarni aniqlang ",
+       "A":"a-loviya,  beda;b-yeryong'oq, shirinmiya;",
+       "B":"a-sebarga, qulupnay; b-shirinmiya, namatak;",
+       "C":"a-no'xat,  burchoq;b- no'matak;",
+       "D":"a-sebarg'a, loviya; b-shirinmiya;"
+    }, 
+    {
+       "savol":"Qirqquloqlarning gametofiti haqidagi to'g'ri fikrni aniqlang. . . ",
+       "A":"Spora hosil qiladi, poyabargli o'simlik",
+       "B":"Ikkijinsli yashil o'simta, jinssiz bo'g'inhisoblanadi",
+       "C":"Jinssiz bo'g'inhisoblanadi vazigota hosil qiladi",
+       "D":"Zigotadan rivojlanadi, fotosintez xususiyatiga ega"
+    }, 
+    {
+       "savol":"Noto'g'ri fikrni aniqlang",
+       "A":"20 ta aminokislotadan 18 tasi bittadan ortiq kodon bilan kodlana oladi",
+       "B":"koddagi nukleotidlarning o'zgarishi,  oqsil molekulasidagi aminokislotalarning o'zgarishiga olib kelishi mumkun",
+       "C":"kodondagi 1 yoki 1 nechta nukleotidlarning o'zgarishi nuqtali mutatsiyalar deyiladi",
+       "D":"20ta aminokislotani ifodalash uchun 64 ta tripletli koddan foydalaniladi"
+    }, 
+    {
+       "savol":"Odam organizmi endokrin sistemasiga doir keltirilgan to'g'ri fikrni ko'rsating",
+       "A":"buyrak usti bezining mag'iz qismidan ishlab chiqaradigan adrelanin garmoni qon bosimini oshiradi",
+       "B":"qondagi gulikoza miqdorini kamaytiruvchi insulin garmoni jigarda ishlab chiqariladi ",
+       "C":"gipofiz bezining o'rta qismidan ishlab chiqariladigan melatolin garmoni pigmen almashinuvida ishtirok etadi",
+       "D":"qalqonsimon bezini tiroksin garmonini ko'p ishlab chiqarilishi miksedema kasalligini olib keladi"
+    },
+    {
+       "savol":"Odam organizmi organlari va ularning faoliyati to'g'ri keltirilgan javobni aniqlang ",
+       "A":"Nasldan naslga o'tadigan tug'ma reflekslar shartli reflekslar deyiladi ",
+       "B":"Orqamiya harakatlantiruvhi neyronlarini bakteriyalar zararlashidan poliomelit kelib chiqadi",
+       "C":"Sezuvchi nerv tolasining zararlanishi nevralgiya deyiladi ",
+       "D":"Kalla suyagi va bosh miya yarim sharlarining rivojlanmasdan qolishi akromegaliya deyiladi"
+    }, 
+    {
+       "savol":"Odam organizmidagi oshqozonning mos ravishda joylashtiring a-yuqori qismi b-pastki qismi c-chap tomonga kengaygan qismi 1-pilorik 2-tanasi 3-gordial ",
+       "A":"a-3, b-1, c-2",
+       "B":"a-2, b-1, c-3",
+       "C":"a-1, b-2, c-3",
+       "D":"a-1, b-3, c-2"
+    }, 
+    {
+       "savol":"Iskabtopar qaysi turkumga mansub? ",
+       "A":"ikiqanotlilar,  parda qanotlilar,  temirchaklar, chumolilar",
+       "B":"qo'ng'izlar, arilar, yaydoqchilar, chumolilar",
+       "C":"qo'ng'izlar,  kapalaklar, chumolilar,  pashshalar",
+       "D":"tangachaqanotlilaR,  ikkiqanotlilar, pardaqanotlilar, burgalar"
+    }, 
+    {
+       "savol":"No'xat o'simligidagi dominant belgilarni kursating",
+       "A":"Donning yashil rangi,  poyaning uzun bo'lishi ",
+       "B":"Poyaning kalta bo'lishi, dukkak shakli oddiy bo'lishi",
+       "C":"Donning sariq bo'lishi, gulrangining oq bo'lishi",
+       "D":"poyaning uzun bo'lishi, gul rangining qizil bo'lishi"
+    }, 
+    {
+       "savol":"SHakliga ko'ra yassi (2) suyaklarni soniga mos holda juftlang . a-kurak;b-peshona;c-yuqori jag';e-chanoq",
+       "A":"1) a-23;d-2;f-1;e-2; 2) c-2;b-1",
+       "B":"1) a-2b-1;d-1;f-1;20c-1",
+       "C":"1) d-2;c-2;f-1;e-2;2) a-2;b-1",
+       "D":"1) a-2;d-1;f-1;e-2;2) c-1;b-1"
+    },
+    {
+       "savol":"Mitoaning promafazasida sodir bo'ladigan jarayonni aniqlang ",
+       "A":"Yadro qobig'i va yadrochalar yo'qaqladi ",
+       "B":"Stokinez kuzatiladi",
+       "C":"Xromatidalarni birlashtirib turuvchi belbog' uziladi",
+       "D":"Bo'linish urchug'i to'liq shakllanadi"
+    }, 
+    {
+       "savol":"To'g'ayli baliqlar suyakli baliqlardan farqqilib . . . . 1) jabra qopqog'iga ega;2) miya qutusiga ega emas; 3) suzgich pufagiga ega ;40emal bilan qoplangan;5) jabra qopqoqlariga ega emas;6) gavda skeleti to'g'aydan ibirat;",
+       "A":"2, 5",
+       "B":"4, 6",
+       "C":"4, 5",
+       "D":"1, 3"
+    },
+    {
+       "savol":"Odam arganizmida qon hujayralari aqidagi ma'lumotlar to'g'ri juftlab kursatilgan javobni aniqlang 1) erirositlar 2) trombotsitlar. 3) leykasitlar. a) suyak ko'mig'ida hosil bo'ladi. b) yadrosiz hujayralar. c) kislorod tashiydi. d) qonuvishishida ishtirok etadi. e) hujayrasi yadroga ega ",
+       "A":"1-c, d, 2-a, e3-a, c",
+       "B":"1-a, c, 2a, e, 3-a, d",
+       "C":"1-a, s, 2-a, d, 3a, e, ",
+       "D":"1-c, e, 2-a, d, 3-a, b"
+    }, 
+    {
+       "savol":"Bug'doy (2n=14)  arxeosparasi meyoz bo'linishidan hosil bo'lgan yo'naltiruvchi tanacha biri 9 ta xromosomaga ega bo'lgan bo'lsa,  normal spermiy bilan urug'langan tuxum hujayradan hosil bo'gan murtakdagi va murtak haltasidagi urug'lanmagan tuxum hujayrada xromosoma to'plami qanchaga teng bo'ladi ",
+       "A":"16va9",
+       "B":"16va",
+       "C":"12va9",
+       "D":"12va5"
+    }, 
+    {
+       "savol":"Sutemuzuvchilarning tanasidagi qillar (a) tuklar, (b) va qiltiqlar(c) qandayvazifani bajaradi 1) terini sovutib turadi 2) tuyg'u organi 3) terini himoya qilib turadi 4) hayvon tanasidagi haroratni yaxshi saqlaydi 5) 0rtiqcha suz va tuzlarni chiqarib tashlaydi ",
+       "A":"a-1, b-3, c-5",
+       "B":"a-2, b-4, c-3",
+       "C":"a-3, b-2, c-1",
+       "D":"a-3, b-4, c-2"
+    }, 
+    {
+       "savol":"Yog'ochligi qattiq tez o'sadigan daraxtni belgilang ",
+       "A":"terak",
+       "B":"archa",
+       "C":"tol",
+       "D":"yong'oq"
+    }, 
+    {
+       "savol":"Tashqi sekretsiya bezlarini to'g'ri belgilang?  ",
+       "A":"Qizil o'mgach devori bezlari, jigar, limfa bezlari",
+       "B":"Me'da osti bezlari, sut bezlari,  yog'bezlari",
+       "C":"ichak devori bezlari,  ko'zyosh bezlari, so'lak bezlari",
+       "D":"oshqozon devori bezlari, ter bezlari,  qalqonoldi bezlari"
+    }, 
+    {
+       "savol":"Kamharakat,  kuchsiz, muvozanatlashmagan odamlar oliy nerv faoliyatiga ko'ra qanday tipga mansupligini aniqlang",
+       "A":"Xlorek",
+       "B":"Flegmatik",
+       "C":"Melonxolog",
+       "D":"Sagvinik"
+    }, 
+    {
+       "savol":"Gpofizbezidan ajraladigan garmonlarni aniqlang ? ",
+       "A":"glukogon gastrin, antiuretik garmon",
+       "B":"Tireotrop,  tiroksin, timozin",
+       "C":"Goonatodropadrenokartikoid, vazopressin",
+       "D":"Melatinin, somatotrop, paratgormon"
+    }, 
+    {
+       "savol":"Odam oraganizmida nechta qovurg'a to'sh suyagiga birikkan (a) vanechtasi umurtqa pog'onasiga birikmagan(b) ? ",
+       "A":"a-14, b-0",
+       "B":"a-16. b-6",
+       "C":"a-24. b-10",
+       "D":"a-16. b-0"
+    }, 
+    {
+       "savol":"Magnoliyasimonlar mansub ko'p urug'li quruq meva hosil qiluychi o'simliklarni aniqlang. 1) maxsar ;2) boychechak ;3) matur;4) lalo;5) g'o'za;6) burchoq;",
+       "A":"5, 6",
+       "B":"1, 4",
+       "C":"3, 5",
+       "D":"2, 6"
+    }, 
+    {
+       "savol":"To'pgulida ikki jinsli tilsimon yoki soxta yilsimon gullar uchraydigan oilaga mansub o'simlik vakilllarini aniqlaqlag",
+       "A":"Tirnoqgul,   ermon, bangidevona, kartoshkagul",
+       "B":"Andiz, bo'yimadaron, xrizantema, qo'qongul",
+       "C":"Qo'qio't, kungaboqar, qozonyuvgich, , sachratqi",
+       "D":"Bo'znoch, kungaboqar, qozonyuvgich,  sachratqi"
+    }, 
+    {
+       "savol":"OLga sorbariya (a),  astragan(b),  karrak (c),  ollox xiyoli(d0 kabi Qizil kitobga kiritilgan o'simliklar qaysi oilaga mansub ekanligini aniqlang. ",
+       "A":"a-gulxayridoshlar, b-dukkadoshlar, c-qoqio'tlar, d-qovoqdoshlar",
+       "B":"a-burchoqdoshlar, b-ra'nodoshlar'c-ituzumdoshlar'd-murakkabdoshdoshlar",
+       "C":"a-ra'nodoshlar'b-dukkadoshlar'c-qovoqdoshlar, d-sho'radoshlar",
+       "D":"a-ranodoshlar, b-burchoqdoshlar, c-murakkabguldoshlar, d-ituzumdoshlar"
+    }, 
+    {
+       "savol":"Hujayralarida plastidalari mavjud bo'lgan o'simlik to'qimalarini aniqlang 1) meristema. 2) traxeidlar. 3) sklereidlar. 4) epiderma. 5) xlorenxima",
+       "A":"1, 5",
+       "B":"2, 4",
+       "C":"2, 5",
+       "D":"1, 3"
+    }, 
+    {
+       "savol":"Bakteriyalarni viruslardan farqqiluvchi belgilarini aniqlang 1) hujayraviy tuzilishga ega 2) hayot shakli hisoblanadi 3) irsiy axborot saxlovchi 4) erkin hayot kechiradi 5) spora hosil qiladi 6) tarkibida uglevod saqlaydi",
+       "A":"2, 4, 6",
+       "B":"2, 3, 6",
+       "C":"1, 3, 5",
+       "D":"1, 4, 5"
+    }, 
+    {
+       "savol":"Ontegenizida pilla hosil qiluvchi bil vosita (a),  vabevosita(b) rivojlanuvchi hayotlarini aniqlang . 1) butli o'rgimchak 2) burga 3) oq pilanareya 4) chigirtka 5) tut ipak qurti kapalagi 6) yomg'ir chuvalchangi. ",
+       "A":"a-5 b-1, 3",
+       "B":"a-3 b-1, 6",
+       "C":"a-4 b-1, 5",
+       "D":"a-5 b-2, 6"
+    }, 
+    {
+       "savol":"Drozofila pashshasining qanday belgilariga javobgar genlar nogomologik xromosomalarga joylashgan bo'lib, birikmagan holda mustaqil irsiylanadi",
+       "A":"tananing kulrang bo'lishi va qanotining normal bo'lishi",
+       "B":"tananing qoramtir bo'lishi  va qanotning kalta bo'lishi ",
+       "C":"ko'zning oqrangli bo'lishi va ko'zning qizil rangda bo'lishi",
+       "D":"tananing kulrang bo'lishi vako'zning oqrangda bo'lishi"
+    }, 
+    {
+       "savol":"Odam organizmi umurtqa pog'onasining ko'krak kifozi va bo'yin laordozida nechta umurtqa suyaklari qatnashadi? ",
+       "A":"19",
+       "B":"17",
+       "C":"12",
+       "D":"10"
+    }, 
+    {
+       "savol":"Quyida keltirilgan nuqtalar o'rniga to'g'ri keltirilgan javobni aniqlang . a) II guruh qonli odamlar . . . .  guruhli odamlar uchun retsipiyent bo'ladi.  b) IVqon guruhiga ega odamlar . . . .  qon guruhiga ega odamlar . . .  . qon guruhiga donor bo'ladi",
+       "A":"a-III;b-IV ",
+       "B":"a-I;b-IV",
+       "C":"a-IV;b-IV",
+       "D":"a-I;b-II"
+    }, 
+    {
+       "savol":"Mantaga xos bo'lgan xususiyatlarni to'g'ri belgilang 1) suyakli baliqlar sinfi vakili 2) tog'ayli baliqlar sinfi vakili 3) suzgich pufagi va jabra qopqog'i bo'lmaydi 4) yurak qon tomirchasiga katta qonaylanish doirasi bo'lmaydi 5) suzgichlari tanasiga tutashib ketgan 6) tishlari va tanachalari emal bilan qoplangan",
+       "A":"2, 4, 6",
+       "B":"2, 3, 5",
+       "C":"1, 4, 5",
+       "D":"1, 3, 6"
+    }, 
+    {
+       "savol":"Sut emuzuvchilar embrioni murtak varaqasing entoderma qavatidan hosil bo'lgan organlarni belgolang",
+       "A":"Ichak epiteliysi, tuxumdonlar,  jigar",
+       "B":"Teri epiteleysi, jabra, orqa miya ",
+       "C":"Aorta,  oshqozon osti bezi, urug'don",
+       "D":"Jigar, oshqozon, jabra"
+    }, 
+    {
+       "savol":"Mitozning profozasida sodir bo'ladigan jarayonni aniqlang",
+       "A":"Sitokenez kuzatiladi",
+       "B":"Yadro qobig'i va yadrochalar yo'qoladi",
+       "C":"Xromatidalarni birlashtirib turuvchi belbog' uziladi",
+       "D":"Bo'linish urchog'i to'liq shakllanadi"
+    }, 
+    {
+       "savol":"Bug'u va begemot uchun xos umumiy xusiusiyatlarni aniqlang. ",
+       "A":"ko'richak o'simtasi juda uzun ",
+       "B":"tuyoqli sut emizuvchi hayvonlar",
+       "C":"faqat 3-barmog'i rivojlangan",
+       "D":"oshqozoni to'rt bo'lmali "
+    }, 
+    {
+       "savol":"Qalqonsimon bez kasalligini aniqlang? ",
+       "A":"Miksedema, kretinizm",
+       "B":"Tireotoksikoz, endometrik",
+       "C":"Endemik buqoq, akromegaliya",
+       "D":"Bazedov kasalligi, qandli diabet"
+    }, 
+    {
+       "savol":"O'simliklar dunyosining oxirga paydo bo'lgan vakilini toping ? ",
+       "A":"suar",
+       "B":"riniya",
+       "C":"laminariya",
+       "D":"tamaki"
+    }, 
+    {
+       "savol":"Lansetnik embrionining maydalanish bosqichida 64 ta blastomer hosil bo'lgan bo'lsa,  zigotaning meridinal(a) va ekvatorial (b) bo'linishlar sonini aniqlang. ",
+       "A":"a-4, b-4",
+       "B":"a-4, b-3",
+       "C":"a-4, b-3",
+       "D":"a-4, b-2"
+    },
+    {
+       "savol":"II qon guruhiga ega rezus musbat sog'lom qizning qon plazmasida uchraydigan moddalarni aniqlang. ",
+       "A":"antigemofil omil,  aglyutinin B, gormonlar,  vitaminlar ",
+       "B":"aglyutinin B, antitela,  insulin,  gemoglobin, glyukoza",
+       "C":"garmanlar,  vitaminlar, antitela, glyukoza, aglyutinogen A",
+       "D":"timozin,  rezus omil,  fermentlar, aglyutinin B"
+    },
+    {
+       "savol":"Oshozoni ikki bo'lmali, kloakaga ega bo'lgan hayvonlar 1) triton 2) tustovuq 3) qisqichbaqa 4) norda 5) yo'rg'a tavalug'i 6) kalxat",
+       "A":"2. 3. 6",
+       "B":"1. 4. 5",
+       "C":"2. 5. 6",
+       "D":"1. 3. 4"
+    },
+    {
+       "savol":"Gemofilik ayol va sog'lam erkak nikohidan tug'ulgan farzandning necha %i gemofili bilan kasallangan bo'ladi",
+       "A":"50%",
+       "B":"25%",
+       "C":"100%",
+       "D":"0%"
+    }, 
+    {
+       "savol":"barcha yassi chuvalchanglardagi umumiy belgilarni aniqlang . 1) kutikula 2) noto'g'ri rivojlaqnish 3) qo'sh jinslilk 4) ikki tomonlama simmetsiya 5) uchi berk ichak 6) bir uchi berk ayirish naychalari 7) yopishuv a'zosi 8) finna bosqichi",
+       "A":"1, 3, 5",
+       "B":"2, 5, 8",
+       "C":"4, 5, 7",
+       "D":"3, 4, 6"
+    }, 
+    {
+       "savol":"Aligator bilan bir sinfda (a) va begemot bilan bir turkumga (b) birlashtirilgan to'g'ri keltirilgan javobni toping. ",
+       "A":"a-gekkon, kobra, givail, b-arxar, g'izol, zubr;",
+       "B":"a-kapulsin, kapcha, gibbon, b-muflon, g'izol",
+       "C":"a-aureliya,  arxar, ildam kaltakesak, b-to'ng'iz, gibbon, oqcha",
+       "D":"a-churrak, kobra, botqoq toshbaqasi, b-arxar, bizon"
+    }, 
+    {
+       "savol":"Tuxumdan chiqqan lichinkalar xo'jayin izlaydigan parazidlarni aniqlang. 1. askarioda 2. exinokokk 3. gijji 4. jigar qurti 5. nerida 6. baqachanoq 7. qora mol tasmasimon chuvalchang",
+       "A":"4, 6",
+       "B":"3, 5, ",
+       "C":"6, 7",
+       "D":"1, 2"
+    }, 
+    {
+       "savol":"Qaysi hujayralar embrion rivojlanish davri tugagandan keyn bo'linmaydi",
+       "A":"Suyak iligi,  ichak epideliysi",
+       "B":"Neyrogliya, suyak iligi",
+       "C":"Epidermis, ichak epideliysi",
+       "D":"Neyron,  muskul hujayralari"
+    }, 
+    {
+       "savol":"Tarkibiga ko'ra uglevod necha guruhga bo'linadi",
+       "A":"2",
+       "B":"4",
+       "C":"5",
+       "D":"3"
+    }, 
+    {
+       "savol":"To'g'ri fikrni aniqlang ",
+       "A":"Pichak bakteriyalari xemosintezlovchibakteryalarga mansub ",
+       "B":"Tuganak bakteriyalari faqat bir urug' pqllali o'simliklar bilan simbioz hayot kechiradi",
+       "C":"Nostok simosintezlovchi organizm hisoblanadi ",
+       "D":"Zamburug'lar orasida fotosintezlovchi turlari uchramaydi"
+    }, 
+    {
+       "savol":"To'g'ri fikrni aniqlang ",
+       "A":"Ulotriks tollomi sprogira tallomi kabi shoxlanmagan",
+       "B":"fotosintez jarayonini ulotriks va xlorella hujayrasining xloroplaslarida kechadi ",
+       "C":"yapon laminariyasi profiri kabi qo'ngir suv o'tlari mansub",
+       "D":"yapon laminariyasi va ulotriks jinsiy kupayish jarayoni joospara hosil qilishi bilan kechadi"
+    }, 
+    {
+       "savol":"Havo shari nega geliy yoki vodorot gazi biklan to'ldiriladi",
+       "A":"chunki bugazlar havodan ko'ra yengil ",
+       "B":"chunki bugazlar havo bilann tasirlashmaydi ",
+       "C":"chinki bu gazlar tabiatda ko'pmiqdorda uchraydi",
+       "D":"chunki bu gaz molekul;aairning tezligi boshqa gazlarga qaraganda katta"
+    }, 
+    {
+       "savol":"Agar arximet kuchi jism og'irligiga teng bo'lsa. . ",
+       "A":"suyuqlikka cho'kadi",
+       "B":"suyulikning istalgan joyida muallaq turadi",
+       "C":"suyuqlikda qisman botgan holda suzub yuradi",
+       "D":"barcha javoblar to'g'ri"
+    },
+    {
+       "savol":"Odam arganizmi kichik qon aylanish doirasi ketma-ketligi to'g' berilgan qatorni aniqlang 1) chap bo'lmacha 2) kapilyarlar 3) o'pka venasi 4) o'pka arteriyasi 5) o'ng qorincha",
+       "A":"5, 3, 4, 2, 1",
+       "B":"5, 4, 2, 3, 1",
+       "C":"5, 3, 2, 4, 1",
+       "D":"1, 4, 2, 3, 5"
+    }, 
+    {
+       "savol":"Odam organizmida nechta quvurg'a to'sh suyagiga birikkan(a),  va neshtumura tqa pog'onasiga birikkan ",
+       "A":"a-10, b-24",
+       "B":"a-14, b-10",
+       "C":"a-10, b-14",
+       "D":"a-14, b-24"
+    },
+    {
+       "savol":"Bir minutda 20-22 marta nafas olishganda o'pkaning minutlik ventilatsiyasi qanchaga teng bo'ladi",
+       "A":"50-100L",
+       "B":"80-9L",
+       "C":"16-18L",
+       "D":"10-11L"
+    }, 
+    {
+       "savol":"Jigar qurtiga xos bo'lgan xususiyatni belgilang. 1) kiprikli chuvalchang l;ar sinfiga mansub 2) germofrodit 3) lichenkasi umurtqaldarda parazidlik qiladi 4) ayrim jinsli 5) tanasi kutikula bilan qoplangan 6) tana bo'shlig'iga ega ",
+       "A":"1, 3, 6",
+       "B":"1, 4, 6",
+       "C":"2, 3, 5",
+       "D":"2, 4, 5"
+    },
+    {
+       "savol":"Xorda butun umri davomida saqlanadigan umurtqalarni toping 1) gavial 2) sterlyad 3) soxta kurakburun 4) sezarka 5) beluga 6) bukri",
+       "A":"2, 4, 6",
+       "B":"1, 4, 5",
+       "C":"2, 3, 5",
+       "D":"1, 3, 6"
+    },
+    {
+       "savol":"Postembrional davrida metamorfoz kuzatiladigan organlarni belgilang ",
+       "A":"suqsun, sulov ninachi",
+       "B":"shaqildaq ilon, dasht agamasi",
+       "C":"politsina, zorka",
+       "D":"suv shillig'i, ilonbosh"
+    }, 
+    {
+       "savol":"Odam organizmidagi retsessiv belgilarni ko'rsating ",
+       "A":"Jingalik soch, malla soch",
+       "B":"Pakanalik,  polidaktiliyaya, ",
+       "C":"Sepkillarning bo'lmasligi, normal bo'y",
+       "D":"QO'y ko'z,  kulrang ko'z"
+    }, 
+    {
+       "savol":"Pingvin uchun xos xususiyatlarni aniqlang ",
+       "A":"g'ozsimonlar turkumiga kiradi",
+       "B":"vena va artireya qoni yurak qorinchasida aralashadi",
+       "C":"tashqi quloq suprasiga ega",
+       "D":"gastrulatsiya qat-qat joylashuvi bilan kechadi "
+    }, 
+    {
+       "savol":"Bu oilaning barglari yonbargchali,  oddiy, murakkab uch barkchali yoki toqsimon bo'ladi, poyada navbat bo'lib joylashadi. Tarifi keltirilgan oilaga mansub turni toping? ",
+       "A":"qoqio't",
+       "B":"jag'-jag'",
+       "C":"oq akatsiya",
+       "D":"topinambur"
+    }, 
+    {
+       "savol":"Klookaga ega bo'lgan hayvonlarni aniqlang?  1) baliq 2) triton 3) kenguru 4) gekkon 5) exidna 6) kaklik 7) tyulin 8) pingvin 9) tovushqon 10) ko'rshapalak ",
+       "A":"1, 3, 4, 9, 10",
+       "B":"2, 7, 8, 9, 10",
+       "C":"1, 3, 4, 10",
+       "D":"2, 4, 5, 6, 8"
+    }, 
+    {
+       "savol":"Qaysi javobda gen kasalligi keltirilgan ? ",
+       "A":"Sintakteliya, \"shersheviskiy-terner-sindromi\"",
+       "B":"Albiliznm, felenketoruya",
+       "C":"Gemefoliya, \"duan sindromi\"",
+       "D":"Daltonizm, \"klaynfelner-sindromi\""
+    },
+    {
+       "savol":"angara daryosi qaysi ko'lda oqib chiqadi",
+       "A":"balxash",
+       "B":"baykal",
+       "C":"onega",
+       "D":"kaspiy"
+    }, 
+    {
+       "savol":"Bug'doy o'simligining diploid navida xromosomalar navini aniqlang",
+       "A":"42",
+       "B":"14",
+       "C":"28",
+       "D":"18"
+    }, 
+    {
+       "savol":"Odam organizmidagi qon aylanish sistemasining yo'nalishi to'g'ri berilgan javobni aniqlang",
+       "A":"Yurakdan chiqadi;kichik qon aylanish doirasining  vena qon tomirlari va katta qon aylanish doirasining arteriya qon tomirlari",
+       "B":"Yurakdan chiqadi;katta qon aylanish doirasining vena qontomirlari va katta qon aylanish doirasining arteriya qon tomirlari",
+       "C":"yurakka keladi;kichik qon aylanish doirasining arteriya  qon tomirlari va kichik qon aylanish doirasining vena qon tomirlari",
+       "D":"yurakka keladi;kichik qon aylanish doirasining vena qon tomirlari va katta qon aylanish doirasining qon tomirlari"
+    }, 
+    {
+       "savol":"Zahar bezibo'lmaydigan o'rgimchaksimanlar sinfiga mansub turjumni aniqlang",
+       "A":"Flangalar",
+       "B":"CHayonlar",
+       "C":"O'rgimchaklar",
+       "D":"Qoraqurtlar"
+    }, 
+    {
+       "savol":"O'ng bo'lmacha 1),  chap bo'lmacha 2) ga keluvchi vao'ng qorincha 3),  chap qorincha 4) dan chiquvchi qon tomirlarni belgilang  (a) o'pka arteriyasi (b) aorta c) yuqoriga vena d) pastki vena e) 4ta o'pka venasi",
+       "A":"1-d;2-e;3-a;4-b;",
+       "B":"1-c;2-a;3-e;4-b;",
+       "C":"1-c;2-e;3-e;4-b;",
+       "D":"1-c;2-e;3-a;4-b, d;"
+    }, 
+    {
+       "savol":"Qaysi javobda xromosoma kasalliklari keltirilgan",
+       "A":"\"Daun sindromi\",  \"shershevskiy-terner-sindromi\"",
+       "B":"Daltonizm,  finelkotonuriya",
+       "C":"Gemofiliya, albinizm",
+       "D":"Sindaktiliya,  \"shershevskiy-terner-sindromi\""
+    }, 
+    {
+       "savol":"Organzning ikkinchi nomi va qaysi qaysi turkunga mansubligi to'g'ri ko'rsatilgan javobni belgilang. ",
+       "A":"bukri baliq-gorbusha-karpsimonlar;",
+       "B":"kapcha ilon-kobra-ilonlar;",
+       "C":"qashqadoq-bo'rsiq-sursarsiman;",
+       "D":"soxta kurakburun-qilquyruq-baqral;"
+    }, 
+    {
+       "savol":"ochiq qon aylanishiga ega hayvonlarni aniqlang",
+       "A":"Odam askaridasi, bronza qo'ng'izi, daryo qisqichbaqasi",
+       "B":"Iskab topar,  bo'ka,  trixogramma",
+       "C":"Asalari, neriida, trixogramma",
+       "D":"Oq planariya, biy, termid"
+    },
+    {
+       "savol":"Guli qiyshiq bargi qarama qarshi joylashgan o'simliklarni aniqlang. 1. do'lana. 2. qumrio't. 3. marmarak. 4. nastarin. 5. rayhon. 6. sambitgul",
+       "A":"2, 3",
+       "B":"2, 6",
+       "C":"4, 5",
+       "D":"1, 5"
+    },
+    {
+       "savol":"Sut emuzuvchilar embrioni murtak varaqasining mezoderma qavatidan hosil bo'lgan organlarni belgilang",
+       "A":"Yurak, aorta, buyraklar",
+       "B":"O'pka,  oshqozon osti bezi,  jigar",
+       "C":"Ichak epiteliysi, tuxumdonlar, jigar",
+       "D":"Teri epideliysi, jabra,  orqamiya"
+    },
+    {
+       "savol":"Glediyachi va sekvoyandentron o'simliklar uchun umumiy tushunchalarni aniqlang 1) murtak 2) murtak xaltasi 3) urug' 4) xloroplast 5) arxegoniy 6) tuguncha",
+       "A":"2, 3, 6",
+       "B":"2, 4, 6",
+       "C":"1, 3, 4",
+       "D":"1, 4, 5"
+    },
+    {
+       "savol":"Gulli o'simlikning changdonida760 ta birlamchi jinsiy hujayralar meyoz va metoz bo'linishdan so'ng hosil bo'lgan spermiylarning 40% iqo'sh urug'lashtirishda ishtirok etgan bo'lsa,  ushbu o'simliklda hosil bo'lgan urug'lar sonini aniqlang. ",
+       "A":"2432",
+       "B":"1216",
+       "C":"3648",
+       "D":"1824"
+    }, 
+    {
+       "savol":"Qaysi javobda gen kasalliklari kiritilgan? ",
+       "A":"Gemofiliya, \"Daun sindromi\"",
+       "B":"Sindakteliya, \"SHersheviskiy-terner-sindromi\"",
+       "C":"Daltonizn, \"Klaynfelner-sindiromi\"",
+       "D":"Albinizm,  fenelketonuriya"
+    }, 
+    {
+       "savol":"Tarkibida ko'ra uglevodlar berilgan qatorni aniqlang",
+       "A":"Nukleaza, glyukoza, riboza",
+       "B":"Maltuza, dezoksiriboza, amaliza",
+       "C":"Polimaraza,  selyuloza, glikogen",
+       "D":"Glikogen, kraxmal, fruktoza"
+    }, 
+    {
+       "savol":"Skatlar turkumiga xos bo'lgan xususiyatlarni to'g'ri belgilangan 1) tana skeleti suyakdan iborat 2) tanani rombsimon, disksimon va yasssi shakllarda 3) suzgichlari tanasiga tuyashgan 4) turak qorinchasidan katta qon aylanish doirasi boshlanadi 5) dum suzgichi xivchinga o'xshash 6) tishlari va tangachalari emal bilanqoplangan   ",
+       "A":"1, 3, 6",
+       "B":"2, 3, 5",
+       "C":"2, 4, 5",
+       "D":"1, 4, 6"
+    }, 
+    {
+       "savol":"To'g'ri (a) va noto'g'ri (b) rivojlanuvchi umurtqalarni aniqlang 1) chuchuk suv gidrasi 2) triton 3) zorka 4) salamandra 5) aktiniya 6) qirg'ovul 7) gekkon 8) gavial",
+       "A":"a-5, 7 b-2, 3, 4",
+       "B":"a-2, 5, 6 b-6, 7",
+       "C":"a-1, 3 b-4, 5, 7",
+       "D":"a-6, 7, 8 b-2, 4"
+    }, 
+    {
+       "savol":"Aftamatik organizmlar berilgan javobni kursating",
+       "A":"Oq po'panak, nostok",
+       "B":"Zang zamburug'i, ossilatoriya",
+       "C":"Qoziqorin, batsideliya",
+       "D":"Kladoniya, parmeliya"
+    }, 
+    {
+       "savol":"III qon guruhiga ega resurs musbat sog'lom qizning qon plazmasida ushraydigan moddalarni aniqlang. ",
+       "A":"antegemoil omil, aglyutinin a, gormonlar, vitaminlar",
+       "B":"timozin, resurs omil, fermentlar, alyutinin a",
+       "C":"alyutinin b, antitela, insulin, gemoglobin, glyukoza",
+       "D":"gormonlar, vitaminlar, antitela, glyukoza, alyutinin b"
+    },
+    {
+       "savol":"Teresken, sarsazen, itsigak hayotiy shaklga ko'ra. . . . . . . . . . . . . . . . . ",
+       "A":"Daraxtlar",
+       "B":"Butalar",
+       "C":"Yarimbutalar",
+       "D":"Ko' yillik o'tlar"
+    },
+    {
+       "savol":"zuhrasochning sporofiti haqida to'g'ri fikrni aniqlang. . . ",
+       "A":"Spora hosil qiladi, poyabargli o'simlik",
+       "B":"sporadan rivojlanadi,  fotosintez xususiyatga ega",
+       "C":"jinsiy bo'g'in hisoblanadi vazigota hosil qiladi",
+       "D":"Ko'pyillik ildizpoyali o'simlik"
+    }, 
+    {
+       "savol":"Qirqquloqning gametofiti haqida to'g'ri fikrni aniqlang. . . ",
+       "A":"jinsiy bo'g'in hisoblanadi vazigota hosil qiladi",
+       "B":"Spora hosil qiladi, poyabargli o'simlik",
+       "C":"Zigotadan hisoblanadi, fotosintez xususiyatga gea",
+       "D":"ikki jinsli yashil o'simta,  jinssiz bo'g'in hisoblanadi"
+    }, 
+    {
+       "savol":"Odam organizmidagi retsessiv belgilarni ko'rsating ",
+       "A":"Jingalik soch, malla soch",
+       "B":"Pakanalik,  polidaktiliyaya, ",
+       "C":"Sepkillarning bo'lmasligi, normal bo'y",
+       "D":"Qo'y ko'z,  kulrang ko'z"
+    }
+ ]

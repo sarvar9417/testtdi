@@ -1,0 +1,2599 @@
+[
+   {
+      "savol":"Temurda qo'rg'on uchun 32 metr devor bor. U to'g'ri to'rtburchak shaklida eng katta yuzli maydonni o'rab olmoqchi. Qanday o'lchamlar ma'qul?",
+       "A":"8 metrga 8 metr",
+       "B":"11 metrga 5 metr",
+       "C":"10 metrga 6 metr",
+       "D":"9 metrga 7 metr"
+      },
+      {
+         "savol":"1x1x1 sm o'lchamli kubni bo'yash uchun 2 g bo'yoq ketadi. 3x3x3 o'lchamli kubni bo'yash uchun qancha bo'yoq kerak bo'ladi<img src='../img/bosh1.png' alt='bosh1'> ",
+         "A":"18 g",
+         "B":"6 g",
+         "C":"27 g",
+         "D":"9"
+      },
+      {
+         "savol":"Valining o'zidan 5 yoshga kichik egizak ukalari bor. Agar uchta bolaning yoshni tashkil qilsa, Valining yoshi necha yoshda bo'ladi?",
+         "A":"9",
+         "B":"13",
+         "C":"7",
+         "D":"4"
+      },
+      {
+         "savol":"Qaysi gapda imloviy xatolikka yo'l qo'yilgan?",
+         "A":"Gerb markazida himmat va fidoiylik timsoli bo'lgan Humo qushi tasvirlangan.",
+         "B":"Qayoqdandir son-sanoqsiz yov bostirib kelibdi, ekinzorlarni payhon qilibdi.",
+         "C":"Farzand uchun eng yaxshi ustoz - ona ekanligini tadqiqotlarda e'tirof etildi.",
+         "D":"Hayotning eng og'ir, eng shafqatsiz kunlarida ham o'zini mehnatga urdi."
+      },
+      {
+         "savol":"<i>Mudofa, odamzod, birma-bir, hashorat</i> Ushbu so'zlardan nechtasida imloviy xatolik uchraydi?",
+         "D":"3",
+         "B":"2",
+         "C":"4",
+         "A":"1"
+      },
+      {
+         "savol":"Qaysi javobda  <b><u>ng</b><u> harflar birikmasi ishtirok etmagan?",
+         "B":"Ko'ngil, sen munchalar nega Kishanlar birla do'stlashding?",
+         "A":"Yuraklar shod, qalbda hayojon, Obod yurtda ungan niholmiz.",
+         "C":"Dunyo dunyo bo'lib yaraldi qachon, Hayot ohanglar taraldi qachon?",
+         "D":"Ko'kda na yulduz bor, na bir tabassum, Tabiat ingrardi, yig'lardi yum-yum."
+      },
+      {
+         "savol":"Qaysi gapda yasama ot, yasama sifat va yasama fe'l qatnashgan?",
+         "A":"Havaskor qo'shiqchi quvnoq ohangda kuyladi.",
+         "B":"Barcha ko'zlar begunoh baliqchiga tikildi.",
+         "C":"Sinfdoshlarimiz bilan maktab hovlisini tozaladik.",
+         "D":"Mayin yomg'ir gulzor husnini yanada go'zallashtirdi"
+      },
+      {
+         "savol":"Qaysi gapda sifat turkumiga kiruvchi ma'nodosh so'zlar juftligi berilgan?",
+         "A":"yaxshilik, ezgulik",
+         "B":"go'zal, chiroy",
+         "C":"epchil, chaqqon",
+         "D":"katta, kichik"
+      },
+      {
+         "savol":"Kvadrat mavzusi qaysi sinfda o'rganiladi.",
+         "D":"2 sinfda",
+         "B":"4 sinfda",
+         "C":"3 sinfda",
+         "A":"1 sinfda"
+      },
+      {
+         "savol":"Ko'p xonali sonlar konsentrida raqamlash bosqichi",
+         "A":"Sinflarga ajratish ",
+         "B":"Olti xonali sonlarni o'qish va yozish",
+         "C":"Besh-olti xonali sonlarni o'qish va yozish",
+         "D":"Millionlar sinflarini hosil qilish"
+      },
+      {
+         "savol":"Vaqtga oid tasavvurlarni tarkib toptirish (yil, oy,  hafta) nima yordamida amalga oshiriladi",
+         "A":"Soat modeli yordamida",
+         "B":"Quyosh va soat yordamida ",
+         "C":"Tabel-kalendar yordamida",
+         "D":"Yil, hafta yordamida"
+      },
+      {
+         "savol":"Ona tili metodikasining metodologik asosini nima tashkil etadi?",
+         "A":"Tilning mavjudligi",
+         "B":"Lug'at boyligi",
+         "C":"Borliqni bilish nazaryasi",
+         "D":"Barcha qonun qoidalar"
+      },
+      {
+         "savol":"O'zbekiston Respublikasining ma'muriy xaritasidan nimalar haqida ma'lumotni olish mumkin?",
+         "A":"Qoraqalpog'iston Respublikasi va har bir viloyat qayerda joylashganligini, hududining kattaligi va chegaradosh qo'shnilari haqida",
+         "B":"Qoraqalpog'iston Respublikasi va har bir viloyat qayerda joylashganligini, chegaradosh qo'shnilari iqlimi va suvlari haqida",
+         "C":"Qoraqalpog'iston Respublikasi qayerda joylashganligini, hududining kattaligi, foydali qazilmalari va chegaradosh qushnilari haqida ",
+         "D":"Har bir viloyat qayerda joylashganligi, hududning kattaligi va chegaradosh qo'shnilari tabiati, iqlimi haqida"
+      },
+      {
+         "savol":"Polizdan uzilgan a kg bodringning 235 kilogrami tuzlandi. Qolgan bodringni b kg dan qilib yashiklarga solindi Ushbu ma'lumotlar asosida harfli ifodalar tuzing",
+         "A":"a-235:b",
+         "B":"a-b-235",
+         "C":"(a-235):b",
+         "D":"(235-a)*b"
+      },
+      {
+         "savol":"Shaxboz tog'aning uyi oldida uchastkasi bor. U uchastkani 4 ta bo'lakka bo'ldi. Eng kichik qismini toping. <img src='../img/bosh2.png' alt='bosh2'>",
+         "A":"A",
+         "B":"B",
+         "C":"C",
+         "D":"D"
+      },
+      {
+         "savol":"98-3 ni tushuntirib bering.",
+         "A":"98-3=(95+5)-3=95+(5-3)=95",
+         "B":"98-3=(90+8)-3=90+(8-3)=95",
+         "C":"98-3=(90+8)-3=(90-3)+8=87+8=95",
+         "D":"98-3=98-(2+1)=(98-2)-1=96-1=95"
+      },
+      {
+         "savol":"<i>Ota-bobolarimiz, momolarimiz yoshligimizdan-oq ozodalik, saranjom-sarishtalik, halollik va harom-xarish haqida yetarli tushunchalar, ma'lumotlar bilan tanishtirib, ularni imkoniyat darajasida o'ziga xos pand-u nasixatlar bilan ongimizga singdirishga uringanlar.</i> Ushbu gapda nechta so'zda imloviy xatolik uchraydi?",
+         "A":"2",
+         "B":"1",
+         "C":"3",
+         "D":"4"
+      },
+      {
+         "savol":"Kilogramm o'lchov birligi qaysi sinfdan boshlab o'rganiladi",
+         "A":"1 sinfda",
+         "B":"4 sinfda",
+         "C":"3 sinfda",
+         "D":"2 sinfda"
+      },
+      {
+         "savol":"Qaysi gapda uch o'rinda egalik qo'shimchasi qo'llangan.",
+         "A":"Yangi yilda o'yimiz: o'ssa osmon bo'yimiz.",
+         "B":"Qaynab chiqqan dilimdan, aytay burro tilimdan.",
+         "C":"Sizga salom oyimdan, bobom hamda dadamdan.",
+         "D":"Surxon tomon yursangiz, mezbonning kattasiman."
+      },
+      {
+         "savol":"Kichik yoshli bolalarda geometrik tushunchalar o'rgatish metodikasi",
+         "A":"Alohida o'rganiladi",
+         "B":"ko'rgazmalar yordamida",
+         "C":"Birgalikda o'rganiladi",
+         "D":"O'rganilmaydi"
+      },
+      {
+         "savol":"Bolalarning savod o'rgatishga tayyorgarligini hisobga olish jihatlari qaysi javobda batafsil bayon qilingan?",
+         "A":"O'qish ko'nikmasi, yozuv ko'nikmasi, og'zaki bog'lanishli nutqi",
+         "B":"Yozuv ko'nikmasi, o'qish ko'nikmasi",
+         "C":"Yozuv ko'nikmasi: harflarning bosma yoki yozma shaklini yoza  olishi , barcha gaplarni yoza olishi, so'z va gapni o'qiy olishi",
+         "D":"Og'zaki bog'lanishli nutqi, qancha she'r yod biishi, 2 yoki 3 ertakni bilishi, tortinib yoki tortinib yoki tortinmay ayta olishi, matnga yaqinlashtirib aytib berishi, harflarni yoki so'z va gapni o'qiy olishi"
+      },
+      {
+         "savol":"O'zbekiston shimol va g'arbdan qaysi davlat bilan chegaradosh?",
+         "A":"Tojikiston",
+         "B":"Qozog'iston",
+         "C":"Qirg'iziston",
+         "D":"Turkmaniston"
+      },
+      {
+         "savol":"3-sinf o'qish darsligida berilgan \" Alpomish bolaligi\" asari qanday asar turiga kiradi?",
+         "A":"Ertak",
+         "B":"Masal",
+         "C":"She'r",
+         "D":"Hikoya"
+      },
+      {
+         "savol":"Kuchukcha sasiskani daqiqasiga 1 metr, mushukcha esa 2 metr tezlikda yedilar. Agar ular 6 metrli sasiskani ikki tomonidan yesalar, sasiskani qancha vaqt ichida yeb tugatadilar?",
+         "A":"3 minutda tugaydi",
+         "B":"4 minutda tugaydi",
+         "C":"2 minutda tugaydi",
+         "D":"1 minutda tugaydi"
+      },
+      {
+         "savol":"Buva bir qatorga 5 ta olma daraxtini ekdi. Nevara esa olma daraxtlari orasiga maymunjon butasini ekib chiqdi. Nevara nechta maymunjon butasini ekkan?",
+         "A":"1",
+         "B":"6",
+         "C":"4",
+         "D":"3"
+      },
+      {
+         "savol":"Qaysi javobda tutuq belgisini undoshni unlidan ajratib talaffuz qilish uchun qo'yilgan?",
+         "A":"ma'sul",
+         "B":"ne'mat",
+         "C":"ta'lim",
+         "D":"e'lon"
+      },
+      {
+         "savol":"Quyidagi chiqmada yurak qayerda joylashgan? <img src='../img/bosh3.png' alt='bosh3'>",
+         "A":"3",
+         "B":"1",
+         "C":"2",
+         "D":"5"
+      },
+      {
+         "savol":"<img src='../img/bosh4.png' alt='bosh4'> Ushbu rasmda qaysi daraxt tasvirlangan",
+         "A":"Chinor",
+         "B":"Eman",
+         "C":"Yong'oq",
+         "D":"Olma"
+      },
+      {
+         "savol":"Qaysi gapda imloviy xatolik uchraydi?",
+         "A":"Agar chittakning yozda hashoratlarni ovlab uchib o'tgan yo'lini bir-biriga qo'shsak, Yer shari aylanasiga tog'ri keladi.",
+         "B":"Ilmga tashna odamlar g'or ochilishi bilan kirib ulgurganlaricha bilim olib chiqishar ekan.",
+         "C":"Kitobsiz bilimli, madaniyatli kishi bo'lib yetishish, mumkin emas.",
+         "D":"Fudbolni ingiz qirollari ko'p marta taqiqlaganlar, lekin o'yin davom etaveradi."
+      },
+      {
+         "savol":"\"<i>Men otamni bir zamon Bu o'ringa keltirib, Tashlab ketgan chog'imda Qolgan edi termulib.</i>\" Ushbu parcha olingan \" Har kim ekkanini o'rar \" she'riy ertagining muallifini aniqlang.",
+         "A":"Munavvarqori Abdurashidxonov",
+         "B":"Abdulla Avloniy",
+         "C":"Murod Xidirov",
+         "D":"Zafar Diyor"
+      },
+      {
+         "savol":"<i>Mayin shamol gulzor tomondan barq urib ochilgan qizil, sariq, oq gullarning xushbo'y iforini olib keladi.</i> Ushbu gapdagi sifat turkumiga oid so'zlar sonini belgilang.",
+         "A":"4",
+         "B":"5",
+         "C":"3",
+         "D":"6"
+      },
+      {
+         "savol":"<i>Ota-bobolarimiz, momolarimiz yoshligimizdan-oq ozodalik, saranjom-sarishtalik, halollik va harom-xarish haqida yetarli tushunchalar, ma'lumotlar bilan tanishtirib, ularni imkoniyat darajsida o'ziga xos pand-u nasixatlar bilan ongimizga sindirishga uringanlar.</i> Ushbu gapda nechta so'zda imloviy xatolik uchraydi?",
+         "A":"4",
+         "B":"3",
+         "C":"2",
+         "D":"1"
+      },
+      {
+         "savol":"Qaysi so'zlarga egalik qo'shimchasi qo'shilganda asosda tovush o'zgrishi sodir bo'lmaydi?",
+         "A":"xulq, ishtirok",
+         "B":"ishtiyoq, zirak",
+         "C":"qo'shiq, bilak",
+         "D":"ekr, buloq"
+      },
+      {
+         "savol":"Berilgan shakllardan piramidani tanlan",
+         "A":"<img src='../img/bosh7.png' alt='bosh7'>",
+         "B":"<img src='../img/bosh6.png' alt='bosh6'>",
+         "C":"<img src='../img/bosh5.png' alt='bosh5'>",
+         "D":"<img src='../img/bosh8.png' alt='bosh8'>"
+      },
+      {
+         "savol":"Erining qabrini quchoqlab: \"Ey xudo, ikki bolam va erimni olding, ertangi kun maydonda yolg'iz o'g'il \"",
+         "A":"\"Pahlavon va shoir\"(Hamidjon Hamidov)",
+         "B":"\"Kitobga ixlos\" (Mirkarim Osim)",
+         "C":"\"Shahzodaning bolaligi\"(Erkin Samandar)",
+         "D":"\"Alisherning yoshligi\" (Oybek)"
+      },
+      {
+         "savol":"Qaysi birlik ortiqcha?",
+         "A":"a",
+         "B":"g",
+         "C":"sm<sup>2</sup>",
+         "D":"ga"
+      },
+      {
+         "savol":"Jadvalli ko'paytirish va bo'lish qaysi sinfda o'rganiladi",
+         "A":"3 sinfdan",
+         "B":"1 sinfdan",
+         "C":"2 sinfdan",
+         "D":"4 sinfdan"
+      },
+      {
+         "savol":"Matematik tushunchalarni shakllantirish va rivojlantirish qaysi sinfdan boshlab o'rganiladi",
+         "A":"3 sinfdan",
+         "B":"1 sinfdan",
+         "C":"4 sinfdan",
+         "D":"2 sinfdan"
+      },
+      {
+         "savol":"Didaktik maqsadga ko'ra ona tilidan dars turlari to'g'ri ko'rsatilgan javobni aniqlang.",
+         "A":"Yangi mavzuni o'rganish, aralash darslar, umumlashtiruvchi dars, ta'limiy bayon darslari.",
+         "B":"Yangi mavzuni o'rganish bilimni mustahkamlash, bilimlarni hisobga olish darslari, aralash darslar",
+         "C":"Tekshirish darsi, umumlashtirish darsi",
+         "D":"Til dalillarini kuzatish, takrorlash, umumlashtirish, yangi mavzuni o'rganish"
+      },
+      {
+         "savol":"O'qish va yozuv darslariga qo'yiladigan talablar:",
+         "A":"Umumdidaktik talablar, metodik talablar",
+         "B":"Ta'limiy talablar, tarbiyaviy talablar",
+         "C":"Ko'rgazmalikka o'rgatish",
+         "D":"O'quvchilarning imkoniyati, bilim va ko'nikma darajasini fikrlash faoliyatini hisobga olishga oid talablar"
+      },
+      {
+         "savol":"Quyashning harorati yadrosidan sirtiga tomon qanday o'zgarib boradi?",
+         "A":"Isib",
+         "B":"Pasayib",
+         "C":"O'zgarmay",
+         "D":"Ko'tarib"
+      },
+      {
+         "savol":"Ikki o'yin kubigini tashlash orqali 5 ni hosil qilish usullari nechta? (4 va 1, hamda 1 va 4 bitta hisoblanadi.)<img src='../img/bosh9.png' alt='bosh9'>",
+         "A":"Ikkita",
+         "B":"Bitta",
+         "C":"Beshta",
+         "D":"Oltita"
+      },
+      {
+         "savol":"Boshlang`ich sinflarda matematika o'qitish metodikasi kontsentrik tuzilish necha bosqichdan iborat?",
+         "D":"1 ta",
+         "B":"4 ta",
+         "C":"2 ta",
+         "A":"3 ta"
+      },
+    {
+       "savol":"5 km lik masofaga yugurish bo'yicha o'tkazilayotgan viloyat birinchiligida qatnashayotgan o'quvchilar soni 240 nafar iborat. Har bir ishtirokchining tartib soni 1 dan 240 gacha nomerlab chiqish uchun nechta raqam kerak bo'ladi?",
+       "A":"612",
+       "B":"9",
+       "C":"423",
+       "D":"240"
+    },
+    {
+       "savol":"Kichik yoshli bolalarda geometrik tushunchalar o'rgatish metodikasi",
+       "A":"Alohida o'rganiladi",
+       "B":"Ko'rgazmalar yordamida",
+       "C":"Birgalikda o'rganiladi",
+       "D":"O'rganilmaydi"
+    },
+    {
+       "savol":"\"<i>Qirq uyli ovulimni qishdan sog'-salomat olib chiqdim. Ularni o'limdan saqlab qoldim. Xalq qirilib ketsa, kimga podsholik qilardingiz? Farzand och qolsa-yu, otasidan non so'rasa, gunohmi? Siz el-yurt otasiz. Ayting, biz, fuqoralar nonni sizdan boshqa kimdan so'raylik?\" Ushbu parcha qaysi ertakdan keltirilgan?</i>",
+       "A":"\"Donishmand yigit\"",
+       "B":"\"Halollik\"",
+       "C":"\"Botir mergan va chaqimchi\"",
+       "D":"\"Ahillik-ulug' baxt\""
+    },
+    {
+       "savol":"Sholining o'sish davrida polda muntazam qancha qalinlikda suv bo'lishi kerak?",
+       "A":"10-20 sm",
+       "B":"75-90 sm",
+       "C":"45-50 sm",
+       "D":"30-40 sm"
+    },
+    {
+       "savol":"Quyidagilar qaysi biri eng qattiq va mustahkamlash qurulish materiali hisoblanadi?",
+       "A":"Marmar",
+       "B":"cherepitsa",
+       "C":"Beton",
+       "D":"G'isht"
+    },
+    {
+       "savol":"<img src='../img/bosh10.png' alt='bosh10'> Ushbu rasmda qaysi qora metal tasvirlangan?",
+       "A":"Qo'ng'ir temirtosh",
+       "B":"Magnitli temirtosh",
+       "C":"Qizil temirtosh",
+       "D":"Qora temirtosh"
+    },
+    {
+       "savol":"Arifmetik amallarning nazariy asoslari",
+       "A":"aksiomatik nazariya,miqdorlar",
+       "B":"to'plamlar, miqdorlar, aksiomatik nazariya",
+       "C":"to'plamlar nazaryasi, miqdorlar ",
+       "D":"miqdorlar, matematik mantiq"
+    },
+    {
+       "savol":"Yer yuzasining necha qismi suvdan iborat?",
+       "A":"2/3 qismi",
+       "B":"3/4 qismi",
+       "C":"1/3 qismi",
+       "D":"2/5 qismi"
+    },
+    {
+       "savol":"O'qish va yozuv darslariga qo'yiladigan maxsus metodik talablar:",
+       "A":"Dars tarbiyalovchi xarakteri bo'lishi, ta'limiy maqsadga amalga oshirishi, izchil va istiqbolli bo'lishi, samarali xilma-xil metod va usullar tanlanishi, dars materiali ilmiy va o'quvchilarining saviyasiga  mosh bo'lishi",
+       "B":"Nutqning ifodali, obrazli, aniq, mantiqiy to'g'ri bo'lishi, yozuvning mazmuni va savodli bo'lishi, tilga sezgirlik tarbiyalashi ",
+       "C":"Aqliy mehnatga o'rgatuvchi usullardan foydalanish",
+       "D":"O'rganiladigan mavzularning ilmiyligiga, izchilligiga rioya qilish va o'quvchilar talabi"
+    },
+    {
+       "savol":"Boshlang'ich sinfda o'qish darslarining didaktik maqsadi to'g'ri ko'rsatilgan qatorni toping",
+       "A":"Matnni o'qish, qayta hikoya qilish.",
+       "B":"O'quvchilarning o'qish malakalarni shakllantirish, asari matni ustida ishlash.",
+       "C":"Ijodiy qayta hikoyalash va qisqartirib qayta hikoyalash.",
+       "D":"Matnni o'qish, savol-topshiriqlar ustida ishlash."
+    },
+    {
+       "savol":"Vaqtga oid tasavvurlarni tarkib toptirish(yil, oy, hafta) nima yordamida amalga oshiriladi?",
+       "A":"Soat modeli yordamida",
+       "B":"Quyosh va soat yordamida",
+       "C":"Tabel-kalendar yordamida",
+       "D":"Yil, hafta yordamida"
+    },
+    {
+       "savol":"Murkkab masalalar:",
+       "A":"Yechilishi uchun 2 ta undan ortiq amallarni bajarishni talab qiladi",
+       "B":"Bilimlarni o'zlashtirishga, mutahkamlashga va mukammallashtirishga xizmat qiladi",
+       "C":"Bitta amalga bajariladigan masala",
+       "D":"O'z ichiga yashirin informatsiyani oladi."
+    },
+    {
+       "savol":"Murakkab masalalar:",
+       "A":"O'z ichiga yashirin informatsiyani  oladi",
+       "B":"Bilimlarni o'zlashtishga, mustahkamga va mukammalshtirishga xizmat qiladi",
+       "C":"Yechilish uchun 2 ta undan ortiq amallarni bajarishni talab qiladi",
+       "D":"Bitta amalda bajariladigan masala"
+    },
+    {
+       "savol":"Badiiy asar ustida ishlashning 2- bosqichi qaysi javobda berilgan?",
+       "A":"Tayyorgarlik bosqichi ",
+       "B":"Asar tahlili",
+       "C":"Yakuniy ishlar",
+       "D":"Kirish suhbati"
+    },
+    {
+       "savol":"Ona tili o'qitish metodikasining metodologik asosini nima tashkil qiladi?",
+       "A":"Borliqni bilish nazaryasi ",
+       "B":"Barcha qonun-qoidalari",
+       "C":"Tilning mavjudligi",
+       "D":"Lug'at boyligi"
+    },
+    {
+       "savol":"Berilgan xaritada 3 va 5 raqamlari bilan qaysi hududlar tasvirlangan? <img src='../img/bosh11.png' alt='bosh11'>",
+       "A":"Buxoro viloyati va Jizzax viloyati",
+       "B":"Samarqand viloyati va Sirdaryo viloyati",
+       "C":"Buxoro viloyati va Sirdaryo viloyati",
+       "D":"Samarqand viloyati va Jizzax viloyati"
+    },
+    {
+       "savol":"Nurliboy dedi: agar bor bo'lgan pulim yana shuncha va shu pulning yarmi bo'lsa, unga yana 1 so'm qo'shilsa, u 16 so'mga sotib olishi mumkunligini aytdi. Nurliboyning qancha puli bor edi?",
+       "A":"7 so'm",
+       "B":"6 so'm",
+       "C":"2 so'm",
+       "D":"5 so'm"
+    },
+    {
+       "savol":"Hovlida bir qator bo'lib bola turibdi. Har ikkita bolaning orasida bittadan qiz bor. Hovlida nechta qiz bor?",
+       "A":"2",
+       "B":"3",
+       "C":"1",
+       "D":"4"
+    },
+    {
+       "savol":"Quyidagi qaysi o'simlik madaniy o'simliklar orasida ko'p uchrovchi begona o'simliklar  emas?",
+       "A":"Na'matak",
+       "B":"Qo'ypechak",
+       "C":"Salomalykum",
+       "D":"Ajriq"
+    },
+    {
+       "savol":"Berilgan <b>tug'ro</b> so'zga ma'nodosh so'zni toping.",
+       "A":"gerb",
+       "B":"hudud",
+       "C":"bayroq",
+       "D":"tamg'a"
+    },
+    {
+       "savol":"<i>Yam-yashil bog' rog'larga burkangan Farg'ona vodiysi, ko'xna Samarqand-u Buxoro, Xiva azim Qashqadaryo va Surxondaryo yurtimizning maftunkor maskanlaridir.</i>Berilgan gapda qaysi turkum(lar)ga oid so'z(lar) imlosida xatolikka yo'l qo'yilgan?",
+       "A":"faqat ot turkumiga oid so'z imlosida ",
+       "B":"faqat sifat turkumiga oid so'z imlosida ",
+       "C":"ot, sifat, turkumlariga oid so'zlar imlosida ",
+       "D":"sifat, fe'l turkumlariga oid so'zlar imlosida "
+    },
+    {
+       "savol":"Yechilishi uchun 2 ta va undan ortiq amallarni bajarishni talab qiladi ",
+       "A":"Bitta amalda bajariladigan masala",
+       "B":"Murakkab masalalar",
+       "C":"Bilimlarni o'zlashtirishga, mustahkamlashga va mukammallashtirishga xizmat qiladi.",
+       "D":"O'z ichiga yashirin informatsiyani oladi."
+    },
+    {
+       "savol":"\"Mittigina, quvnoqqina, yebto'ymasgina\" deb tariflangan Sichqoncha obrazi qaysi asarda uchraydi?",
+       "A":"\"Odobli bo'lish osonmi?\"",
+       "B":"\"Xatarli uchrashuv\"",
+       "C":"\"Qo'rqoq\"",
+       "D":"\"Bo'rining tabib bo'lgani haqida ertak\""
+    },
+    {
+       "savol":"Hisoblang 200+8:2=?",
+       "A":"204",
+       "B":"104",
+       "C":"206",
+       "D":"106"
+    },
+    {
+       "savol":"Qaysi javobda o'rin-joy ma'nosini bildiradigan ot yasovchi qo'shimcha ",
+       "A":"Gulzor oralab eng chiroyli gullarni terib chiqdik.",
+       "B":"Mening otam omilkor, juda mohir paxtakor.",
+       "C":"Vodiylarni yayov kezganda bir ajib his bor edi manda.",
+       "D":"Bog'-rog'lar bahor nafasi kezadi."
+    },
+    {
+       "savol":"Qaysi javobda asosdosh so'zlar berilgan?",
+       "A":"boshla, boshqa",
+       "B":"terimchi, terla",
+       "C":"yo'liq, yo'lla",
+       "D":"suvoq, suvdon"
+    },
+    {
+       "savol":"<i>Sovuqda tustovuq sovuq qotdi.</i>. Ushbu tez aytishdagi so'zlar tarkibida qaysi undosh ishtirok etmagan? ",
+       "A":"Jarangsiz chuqur  til orqa undoshi ",
+       "B":"Jarangsiz til oldi undoshi",
+       "C":"Jarangli chuqur til orqa undoshi",
+       "D":"Jarangli til oldi undoshi"
+    },
+    {
+       "savol":"Matematika kursining mazmunini nimalar tashkil qiladi?",
+       "A":"Haqiyqiy sonlar ustida 4 amal.",
+       "B":"Natural son, 0 va ular ustida 4 amal, amaldagi komponentlar va natija orasidagi bog'lanishlar.",
+       "C":"Qo'shish va ko'paytirishning o'rin almashtirish xossasi, ko'paytirish va bo'lishning taqsimot qonuni, xossalardan chiqadigan natija.",
+       "D":"Tenglama, tengsizlik elementlari, egri chiziq, kesmalar, ko'pburchak va ularning elementlari, to'g'ri burchak va hokazolar. "
+    },
+    {
+       "savol":"Boshlang'ich sinflarda badiiy asar ustida ishlash nechta asosiy bosqichga bo'linadi?",
+       "A":"3 ta ",
+       "B":"2 ta",
+       "C":"5 ta",
+       "D":"4 ta"
+    },
+    {
+       "savol":"Ona tili o'qitish metodikasining metodologik asosini nima tashkil etadi?",
+       "A":"Lug'at boyligi",
+       "B":"Borliqni bilish nazaryasi",
+       "C":"Tilning mavjudligi",
+       "D":"Barcha qonun-qoidalar"
+    },
+    {
+       "savol":"Surxondaryo viloyatining markazi qaysi shahar hisoblanadi?",
+       "A":"Termiz shahri",
+       "B":"Denov shahri",
+       "C":"Sherobod shahri",
+       "D":"Boysun shahri"
+    },
+    {
+       "savol":"Yechilishi uchun 1 ta amal bajarishni talab qiladi",
+       "A":"Murakkab masalalar",
+       "B":"Sodda masalalar",
+       "C":"Bilimlarni o'zlashtirishga, mustahkamlashga va mukammallashtirishga xizmat qiladi",
+       "D":"O'z ichiga yashirin informatsiyani oladi"
+    },
+    {
+       "savol":"\"Tovushlar harflar\" mavzusini o'rganishda qaysi metoddan foydalaniladi?",
+       "A":"Mustaqil ish metodidan",
+       "B":"Tahlil-tarkib metodidan ",
+       "C":"Til dalillarni kuzatish metodidan ",
+       "D":"Amaliy ish metodidan"
+    },
+    {
+       "savol":"1 sinf qaysi xossa bilan tanishadilar?",
+       "A":"Tranzitiv, Distributiv",
+       "B":"O'rin almashtirish",
+       "C":"Distributiv va kommutativlik",
+       "D":"Tranzitiv va Distributiv"
+    },
+    {
+       "savol":"3-sinf o'qish darsligida berilgan Abdulla Avloniyning \"Bolari bilan pashsh \" masala qanday xulosa bilan yakunlangan?  ",
+       "A":"Mehnatning oxiri rohat, yalqovlikning oxir xorlikdir",
+       "B":"Mehnatning boshi rohat, yalqovlikning oxiri xorlikdir ",
+       "C":"Mehnatning oxiri rohat, yalqovlikning boshi xorlikdir",
+       "D":"Mehnatning oxiri xorlikdir, yalqovlikning oxiri rohat"
+    },
+    {
+       "savol":"Devorning balandligi 2m. Said 2 soatda devorning uzunligini 5 metrlik qismini bo'yadi. Shu vaqt davrida uning otasi unga nisbatan 4 m ko'proq qismini bo'yadi. Said otasi bilan birgalikda devorning necha kvadrat metr qismini bo'yadi?",
+       "A":"28 m<sup>2</sup>>",
+       "B":"20 m<sup>2</sup>>",
+       "C":"8 m<sup>2</sup>>",
+       "D":"14 m<sup>2</sup>>"
+    },
+    {
+       "savol":"Ko'poyoq birinchi oyog'iga bitta paypoq, ikkinchi oyog'iga ikkita paypoq, uchinchi oyog'iga uchta paypoq va hokazo paypoq kiydirildi. Hammasi bo'lib u 36 ta paypoq kiydi. Ko'pyoqning oyoqlari nechta ?   ",
+       "A":"6",
+       "B":"9",
+       "C":"8",
+       "D":"10"
+    },
+    {
+       "savol":"4-sinf O'qish kitobining mualliflari kim? ",
+       "A":"T. Ga'fforova va boshqalar",
+       "B":"G. Boymurodov va boshqalar",
+       "C":"S. Matjonov va boshqalar",
+       "D":"K. Qosimova va boshqalar"
+    },
+    {
+       "savol":"Qaysi javobda so'z qo'llash bilan bog'liq xatolik yuz bergan?",
+       "A":"Yod etmas emish  kishini g'urbatda kishi...",
+       "B":"O'tloqning sof havosi kishiga orom bag'ishlaydi.",
+       "C":"Bulbul, mayna, qumri Hush ohangda sayrashar.",
+       "D":"Mard to'g'ri va haq gapni gapiradi"
+    },
+    {
+       "savol":"Ushbu she'rlardan qaysi biri Qambar O'tayev qalamiga mansub?",
+       "A":"\"Non qayerdan keladi?\"",
+       "B":"\" Jala darakchisi\"",
+       "C":"\"Suv bilan suhbat\"",
+       "D":"\"So'zlovchi yomg'ir\""
+    },
+    {
+       "savol":"Tenglamani yeching:   200-x=144",
+       "A":"56",
+       "B":"66",
+       "C":"64",
+       "D":"44"
+    },
+    {
+       "savol":"To'g'ri to'trburchakning yuzi 40 kv.sm. Eni bo'yining uzunligi 10 foizini tashkil etadi. perimetrini uzunligini toping? ",
+       "A":"44 sm ",
+       "B":"54 sm ",
+       "C":"32",
+       "D":"36"
+    },
+    {
+       "savol":"Alisher Navoiy siymosi ishtirok etgan rivoyatni aniqlang.",
+       "A":"\"O'g'lon\"",
+       "B":"\"Tanbeh\"",
+       "C":"\" Yol'onchining izza bo'lishi\"",
+       "D":"\" Hidi, tilimi va mazzasida\""
+    },
+    {
+       "savol":"Ketma-ket kelgan to'rtta sonning yig'indisi 170 ga teng. Har bir kiyingi son avvalgisidan 5 ta kam. Birinchi sonni aniqlang  ",
+       "A":"35",
+       "B":"45",
+       "C":"50",
+       "D":"55"
+    },
+    {
+       "savol":"Qodiriyning aytolmagan so'zda, Dunyonoga hech to'yolmagan ko'zda, \"Jonim mening millatim\", -deb Vidolashgan chog'ida Aytilmagan bi qo'shiqsan, jon tilim! Berilgan she'riy parchada egalik qo'shimchalari necha marta qo'llanilgan?  ",
+       "A":"5",
+       "B":"6",
+       "C":"4",
+       "D":"7"
+    },
+    {
+       "savol":"Qaysi javobda imloviy xatolikka yo'l qo'yilgan? ",
+       "A":"Biz 12 qavatli binoning 6-qavatida yashaymiz.",
+       "B":"XX asrda juda ko'p kashfiyotlar qilindi. ",
+       "C":"14-yanvarda Vatan Himoyachilari kunini nishonlaymiz. ",
+       "D":"Nigora 4-sinfning a'lochi o'quvchisi hisoblanadi. "
+    },
+    {
+       "savol":"<i>Ezgu niyatimiz... ro'yobga chiqishi uchun taraqqiy topgan ma'rifatli  dunyo bilan birga yashaymiz, hamkorlik... kuchaytirishimiz, hamdo'stlik rishtalari... mustahkamlahkamlashimiz... hayot... o'zi taqozo etmoqda.</i>Ushbu gapdagi nechta so'zda nuqtalar o'rniga qaratqich kelishigi qo'shimchasi qo'yilishi lozim?",
+       "A":"4",
+       "B":"3",
+       "C":"2",
+       "D":"1"
+    },
+    {
+       "savol":"Qaysi gapda kelishik qo'shimchasini qo'llash bilan bog'liq xatolik mavjud? ",
+       "A":"Shunday qilib, men uning chinakam sehrli qalpoq ekanligini sinab ko'rishga ahd qildim.",
+       "B":"Shuni unutmangki, o'z tarixi va ajdodlarning siylagan xalqning kelajagi, albatta, porloq bo'ladi.  ",
+       "C":"Ilm ahli sizning ma'rifat yo'lida qilgan xizmatlaringizni esdlaridan chiqarmaydi, bunga ishonchim komil. ",
+       "D":"Jaloliddin nihoyatda irodali, taqdirning qaltis sinovlari qarshisida o'zini yo'qotib qo'ymaydigan botri sarkarda edi. "
+    },
+    {
+       "savol":"Joyning yuzasi dengiz sathiga nisbatan 500 m dan baland bo'lsa nim deyiladi?",
+       "A":"yassi tog'",
+       "B":"qir ",
+       "C":"Cho'qqi ",
+       "D":"Pasttekislik"
+    },
+    {
+       "savol":"Rudali foydali qazilmalariga nimalar kiradi?",
+       "A":"temir, qo'rg'oshin, mis, alyuminiy, kumir ",
+       "B":"temir, mis, alyuminiy, rux,  qo'rg'oshin ",
+       "C":"temir, granit, alyuminiy, rux, qo'rg'oshin",
+       "D":"temir, mis, rux, granit, alyuminiy"
+    },
+    {
+       "savol":"Fonematik eshitish qobilyati o'stirish deganda nima tushuniladi?",
+       "A":"So'zlovchining nutqini tushuna olishni",
+       "B":"Turli mashqlar yordamida so'zlovchining nutqini anglashlari va qayta ifodalay bilishlarini ",
+       "C":"So'zlarni to'g'ri aniq talaffuz qilish, talaffuzda ayrim tovushlarni farqlash, bo'g'indan tovushni ajrata ochilishi  ",
+       "D":"So'zlovchining nutqini tushunib, uni ifodali qaytara bilishni "
+    },
+    {
+       "savol":"Amudaryo qaysi tog'lardan boshlanadi? ",
+       "A":"Pomir tog' tizmasi",
+       "B":"Chotqol va Farg'ona tog' tizmalari",
+       "C":"Piskom va Quraman tog' tizmalari",
+       "D":"Tallas Olatog'i tizmasi"
+    },
+    {
+       "savol":"Topishmoqning javobini aniqlang: Sahar azon aytar so'fi, Boshiga kiyib qizil do'ppi.  ",
+       "A":"Xo'roz",
+       "B":"Turna",
+       "C":"So'fito'rg'ay",
+       "D":"Qizilishton"
+    },
+    {
+       "savol":"3-sinf o'qish darsligida berilgan \"chana\" hikoyasida kim bolalardan ajralib qoldi ",
+       "A":"Sardor",
+       "B":"Farhod",
+       "C":"Karim",
+       "D":"Jalil "
+    },
+    {
+       "savol":"Toshbaqa ertalab 17 metrli chuqurlikka tushib ketdi. Har kuni kunduzi  5 metrga ko'tariladi, kechasi  esa 2 metrga sirg'alib pastga tushadi. Toshbaqa necha kunda chuqurlikdan chiqadi?  ",
+       "A":"5 kunda ",
+       "B":"4 kunda ",
+       "C":"5,6 kunda ",
+       "D":"8,5 kunda "
+    },
+    {
+       "savol":"Boshlang'ich sinflarda matematika o'qitish metodikasi qaysi fanlar bilan aloqadorlikda o'qitiladi?",
+       "A":"Psixalogiya ",
+       "B":"Barcha javoblar to'g'ri ",
+       "C":"Mehnat va muzika ",
+       "D":"Tabiatshunoslik va rasm "
+    },
+    {
+       "savol":"Yuzlik konsentrida raqamlash bosqichlari :",
+       "A":"Bir bosqichda 1-100",
+       "B":"1-20, 21-100, 1-10,",
+       "C":"2 bosqichda",
+       "D":"11-20, 21-100, 1-100 gacha bosqichlar ajralib o'rganiladi."
+    },
+    {
+       "savol":"Namangan viloyatining eng yirik daryosini aniqlang.",
+       "A":"Sirdaryo",
+       "B":"Norin",
+       "C":"Amudaryo",
+       "D":"Qoradaryo"
+    },
+    {
+       "savol":"Qaysi gapda imloviy xatolikka yo'l qo'yilgan?",
+       "A":"San'atkorlarimizning mahorati anjuman ahlida unitilmas taasurot qoldirdirdi.",
+       "B":"Soy shovullab, suv qirg'oqqa uriladi, har yoqqa kumush zarralar sochiladi. ",
+       "C":"Tajriba davomida qizdirib sovitilgan mahsulot to'q qizil rangga kirdi.",
+       "D":"Gerb markazida himmat va fidoiylik timsoli bo'lgan Humo qushi tasvirlangan."
+    },
+    {
+       "savol":"O'qish darslarida qo'llaniladigan metodni ayting.",
+       "A":"Izohli o'qish",
+       "B":"Amaliy metodologik",
+       "C":"Eshituv",
+       "D":"Ko'ruv metodi "
+    },
+    {
+       "savol":"Daryo to'g'on bilan to'silib, turibina parraklarning suv aylantirishdan elektr toki olinadigan inshoot nima deb ataladi? ",
+       "A":"Gidroelektrostansiyalar",
+       "B":"Issiqlik elektostansiyasi",
+       "C":"Quyosh elektostansiyasi",
+       "D":"Atom elektostansiyasi"
+    },
+    {
+       "savol":"Ne'mat Toshpo'latning \"Mukofot\" hikoyasidagi maymunchaning ismi nima?",
+       "A":"Chiy-chiy",
+       "B":"Pi-pi",
+       "C":"Dik-dik",
+       "D":"Mi-mi"
+    },
+    {
+       "savol":"Qaysi gapda imloviy xatolik uchmaydi?",
+       "A":"Olamda tug'ilgan odamzotning biri ozroq, boshqa biri ko'proq yashaydi, so'ng baribir vafot etadi. ",
+       "B":"Qaysi biringizning qilgan yaxshiligingiz eng ulug' fazilat kasb etsa, barmog'imdagi qimmatbaho uzukni unga beraman.",
+       "C":"Qadimda odamlar dasxatlarini toshlarga, daraxt po'stloqlariga yozishgan.",
+       "D":"Mir Alisher otash zabondir, Umri boqiy omon-omondir, G'azallari fidooiy-jondir..."
+    },
+    {
+       "savol":"\"Men ekkan nihol\" sarlavhali she'ri gazetada bosilib chiqqan Qosimjon qaysi hikoya qahramoni hisoblanadi?",
+       "A":"\"Yaxshi bo'ldi \"",
+       "B":"\"Qor odamning sovg'asi ",
+       "C":"\"Xatosini tushungan bola\"",
+       "D":"\"Bobomning sovg'asi\""
+    },
+    {
+       "savol":"\"Jimildoq\" ertagida chol bilan kampir Jimjiloqni qaysi hayvon qornidan chiqarib olishadi?",
+       "A":"tuya ",
+       "B":"bo'ri ",
+       "C":"qo'y ",
+       "D":"ayiq"
+    },
+    {
+       "savol":"Qaysi gapda ham tub, yasama fe'l qatnashgan?",
+       "A":"O'zim yozib so'zlarnin, o'zim qo'shiq kuylayman.",
+       "B":"Doim so'zlaganda mazmunni ko'zla ",
+       "C":"Qo'shcha sayrar o'z tilida, qizcha boqadi unga. ",
+       "D":"Bog'bon daraxtlarning ortiqcha butoqlarini arraladi"
+    },
+    {
+       "savol":"Qaysi javobda imloviy xato bilan yozilgan sifatlar berilgan",
+       "A":"dumaloq, qip-qizil",
+       "B":"baland, tahir",
+       "C":"mosh rang, bepayon",
+       "D":"sho'x, yengil"
+    },
+    {
+       "savol":"Harfiy ifodalar bilan tanishtirish nechanchi sinfdan amalga oshiriladi?",
+       "A":"2-sinfdan",
+       "B":"1-sinfdan",
+       "C":"3-sinfdan",
+       "D":"2-4-sinflardan "
+    },
+    {
+       "savol":"54+20 hisoblash metodikasi",
+       "A":"54+20=(50+4)+20=(50+20)+4",
+       "B":"54+20=(54+10)+10=54+10",
+       "C":"54+20=(50+4)+20=50+(4+20)",
+       "D":"54+20=5 o'n+4 bir+2 o'n "
+    },
+    {
+       "savol":"Aydarko'lning katta qismi, Arnasoy va Tuzkon ko'llari qaysi vilyoat hududida joylashgang?",
+       "A":"Qashqadaryo viloyati",
+       "B":"Xorazim viloyati",
+       "C":"Jizzax viloyati",
+       "D":"Samarqand viloyati"
+    },
+    {
+       "savol":"Tog' jinslariga qaysi foydali qazilmalar kiradi?",
+       "A":"qum, tosh, shag'al, temir, granit ",
+       "B":"qum, tosh, shag'al, ohaktosh,granit",
+       "C":"qum, tosh, ko'mir, ohaktosh, granit   ",
+       "D":"qum, tosh, shag'al, ohaktosh, granit "
+    },
+    {
+       "savol":"Ikki poezd bir-biriga qarama-qarshi harakatlanmoqda. Bir yo'lning 2/5 qismini, ikkinchisi yarmini bosib o'tdi. Agar ular orasidagidastlabki masofa 200 km bo'lsa, u holda ularning uchrashuvigacha necha kilometr qoldi? ",
+       "A":"20 km ",
+       "B":"200 km ",
+       "C":"120 km ",
+       "D":"12 km "
+    },
+    {
+       "savol":"Hovlida bir qator bo'lib 4 ts bola turibdi. Har ikkita bolaning orasida bittadan qiz bor. Hovlida nechta bola bor?  ",
+       "A":"6",
+       "B":"7",
+       "C":"10",
+       "D":"8"
+    },
+    {
+       "savol":"Quyidagilardan qasi biri buta?",
+       "A":"Na'matak ",
+       "B":"Yalpiz",
+       "C":"Ayiqtovon",
+       "D":"Sachratqi"
+    },
+    {
+       "savol":"Tenglamani yeching: 3y+7y+18=108 ",
+       "A":"y=9",
+       "B":"y=7",
+       "C":"y=10",
+       "D":"y=8"
+    },
+    {
+       "savol":"1,2,3,4 sonlaridan nechta ikki xonali sonlar tuzish mumkun?",
+       "A":"16",
+       "B":"12",
+       "C":"10",
+       "D":"8"
+    },
+    {
+       "savol":"Safar, G'ani, Husan ismli bolalar qaysi asar qahramonlari hisoblanadi?",
+       "A":"\"Yaxshi bo'ldi\"",
+       "B":"\"Do'stlik \"",
+       "C":"\"Qo'rqoq\"",
+       "D":"\"Noahillik oqibati\""
+    },
+    {
+       "savol":"Nimani o'qitish kerak savoliga javob bo'lgan qatorni aniqlang",
+       "A":"Eng foydali metodlarni ilmiy nuqtai nazardan o'rganish, tanlangan metodlarni asoslash, tavsiyarni eksperimentdan o'tkazish",
+       "B":"Ta'lim metodlarini, usullari, ish turlarini, yozma ishlar, mashqlar tizimini ishlab chiqadi ",
+       "C":"Interfaol usullarni qo'llagan holda o'qitish metodini ishlab chiqadi.",
+       "D":"Ta'lim mazmuni ishlab chiqadi, dastur, darslik va qo'llanmalar yaratib beradi, ularning samaradorligini tekshiradi. "
+    },
+    {
+       "savol":"Quyosh harakatlanadimi?",
+       "A":"orbita bo'ylab harakatlanadi",
+       "B":"bir joyda turadi",
+       "C":"planetalar orbitasini kesib o'tadi ",
+       "D":"bir joyda turmaydi"
+    },
+    {
+       "savol":"Uchburchakning bir tomoni 28 cm. Ikkinchi tomoni birinchi tomonidan 20 mm ga qisqa. Uchunchi tomoni ikkinchi tomonining 3/4 qismiga teng. Uchburchakning perimetrini toping. ",
+       "A":"73.5",
+       "B":"68.3",
+       "C":"54.5",
+       "D":"42"
+    },
+    {
+       "savol":"Fermada qo'y va tovuq bor. Hammasi bo'lib 5  ta bosh va 14 ta oyoqni tashkil etadi. Fermada nechta qo'y va tovular bor?",
+       "A":"3 ta tovuq, 2 ta qo'y  ",
+       "B":"2 ta, 3 ta qo'y ",
+       "C":"2 ta, 4 ta qo'y",
+       "D":"3 ta, 3 ta qo'y"
+    },
+    {
+       "savol":"Havoning ma'lum vaqt va joydagi holatlari nima deb ataladi?",
+       "A":"Iqlim ",
+       "B":"Ob havo ",
+       "C":"Shabada",
+       "D":"Shamol "
+    },
+    {
+       "savol":"<img src='../img/bosh12.png' alt='bosh12'> Ushbu rasmda 4 raqami bilan odamning qaysi a'zosi ko'rsatilgan?",
+       "A":"Oshqozon",
+       "B":"yurak ",
+       "C":"ichak ",
+       "D":"jigar"
+    },
+    {
+       "savol":"Qaysi sayyoralar Quyosh sistemasidagi kichik sayyoralar turkumiga mansub?",
+       "A":"Merkuriy, Venera,Yer, Mars ",
+       "B":"Merkuriy, Venera, Yer, Neptun ",
+       "C":"Uran, Venera, Yer, Mars ",
+       "D":"Merkuriy, Uran, Yer, Mars"
+    },
+    {
+       "savol":"Oy Yer sharni qancha vaqtda bir aylanib chqadi? ",
+       "A":"27 sutka 8 soat ",
+       "B":"24 sutka 6 soat ",
+       "C":"30 sutka 6 soat ",
+       "D":"26 sutka 8 soat "
+    },
+    {
+       "savol":"3-snf o'qish darsligda berlgan \"Xo'roz nega uchmaydi?\" ertagda, qanday qushlar xo'rozni uyg'otmoqchi bo'lishadi?  ",
+       "A":"Ukki, Qizilishton, Mayna, Kaklik",
+       "B":"Ukki, Qizilishton, Mayna, Kakku",
+       "C":"Ukki, Turna, Mayna, Kaklik",
+       "D":"Ukki, Turna, Mayna, Kakku"
+    },
+    {
+       "savol":"Ikki haydovchi g'alla tashiydi. Ulardan biri kuniga 3 reys, ikkinchi 5 reys yurdi. Ikkinchi haydovchi birinchi haydovchiag nisbatan 30 t g'alla tashidi. Agar harbir reysda bir xil miqdordagi g'alla tashilgan bo'lsa, haydovchilarning har biri qancha g'alla tashigan? ; ",
+       "A":"45 va 75 tonna ",
+       "B":"45 va 85 tonna ",
+       "C":"35 va 75 tonna ",
+       "D":"35 va 85 tonna "
+    },
+    {
+       "savol":"Maxraji  11 bo'lgan kasr ko'rinishida yozib bo'ladigan kasrlarni ko'rsating: 9/11; 22/77; 11/12; 11/77; 33/121; 7/77;",
+       "A":"9/11; 33/121; 7/77;",
+       "B":"9/11; 22/77; 11/12;",
+       "C":"9/11; 11/77; 33/121;",
+       "D":"9/11; 22/77; 7/77;"
+    },
+    {
+       "savol":"Ifodaning qaysi qiymati eng katta?",
+       "A":"280:(7-6)+6",
+       "B":"(280:7-6)*7",
+       "C":"280:7-(6+6)   ",
+       "D":"280:7-6*6"
+    },
+    {
+       "savol":"Toshkent viloyatida yoz va qish fasllarining o'rtacha harorati qancha?    ",
+       "A":"yozda harorat +38<sup>o</sup> C atrofida, qishda -15<sup>o</sup> C gacha sovuq bo'ladi",
+       "B":"yozda harorat +48<sup>o</sup> C atrofida, qishda -13<sup>o</sup> C gacha sovuq bo'ladi",
+       "C":"yozda harorat +48<sup>o</sup> C atrofida, qishda -15<sup>o</sup> C gacha sovuq bo'ladi",
+       "D":"yozda harorat +38<sup>o</sup> C atrofida, qishda -13<sup>o</sup> C gacha sovuq bo'ladi"
+    },
+    {
+       "savol":"3-sinf o'qish darsligida berilgan O'tkir Hoshimovning \"Chana\" hikoyasida kim Farhoddan chana uchirishni kimlar so'radi?'",
+       "A":"Dildora, Bahodir",
+       "B":"Durdona, Bahodir ",
+       "C":"Durdona, Bahrom",
+       "D":"Dildora, Bahrom "
+    },
+    {
+       "savol":"3-sinf o'qish darsligida berilgan \"Jumboq hikoya \" hikoyasining muallifi kim?",
+       "A":"Safar Barnoyev",
+       "B":"Abdulla Avloniy",
+       "C":"Muhabbat Hamidova",
+       "D":"Mirkarim Osim "
+    },
+    {
+       "savol":"Bu shakl doira markaziga nisbatan eng kam necha gradusga burilsa, yana o'z holatiga qaytadi? <img src='../img/bosh13.png' alt='bosh13'>",
+       "A":"90 gradus ",
+       "B":"45 gradus ",
+       "C":"180 gradus ",
+       "D":"360"
+    },
+    {
+       "savol":"Alining 20 smli kaltagi bor edi. U kaltagini 2 smdan necha marta sindirishi kerak? ",
+       "A":"9",
+       "B":"10",
+       "C":"11",
+       "D":"5"
+    },
+    {
+       "savol":"Buva nevaradan 7 marta katta. Ularning birgalikdagi yoshi 80 ni tashkil etadi. Nevara necha yoshda?",
+       "A":"10",
+       "B":"17",
+       "C":"70",
+       "D":"20"
+    },
+    {
+       "savol":"Bir xonali songa xuddi shunday son yozilsa, u necha martaga kattaklashadi?",
+       "A":"10",
+       "B":"11",
+       "C":"9",
+       "D":"2"
+    },
+    {
+       "savol":"Boshlang'ich sinflarda matematikaga ixtisoslashgan sinflar qaysi sinfdan boshlab tashkil etiladi.",
+       "A":"1-sinfdan",
+       "B":"2-sinfdan",
+       "C":"3-sinfdan",
+       "D":"4-sinfdan"
+    },
+    {
+       "savol":"Sinfdan tashqari o'qishga rahbarlikning asosiy shakli qaysi javobda berilgan?",
+       "A":"ona tili darslari ",
+       "B":"Maxsus sinfdan tashqari o'qish darslari ",
+       "C":"Sinfda o'qish darslari ",
+       "D":"O'quvchilarning badiiy obrazlarni idrok etishini kuzatish"
+    },
+    {
+       "savol":"Tovush ustida ishlash jarayonidagi analitik mashq turlari qayd ertilgan javobni toping.",
+       "A":"Nutq(gap)dan so'zni ajratish, so'zni bo'g'inga bo'lish va urug'li bo'g'inni ajratish; o'rganiladigan yangi tovushni ajratish  ",
+       "B":"Nutqning turlarini farqlash",
+       "C":"Nutqdan kerakli so'zlarni tanlab olish  ",
+       "D":"O'rgatilgan tovush-harflardan kesma harf va bo'g'inlar asosida bo'g'in, gap tuzish, o'qishda ularning tarkibini o'zlashtirish va o'qishni mashq qilish  "
+    },
+    {
+       "savol":"Quyosh nurlari Yer ekvatorining  pastki qismini ko'proq yoritgan vaqt qaysi faslga to'g'ri keladi?'",
+       "A":"qish ",
+       "B":"bahor ",
+       "C":"kuz ",
+       "D":"yoz "
+    },
+    {
+       "savol":"Qaysi sayyoralarda tabiiy yo'ldoshlari yo'q?",
+       "A":"Saturn, Venera",
+       "B":"Uran, Saturn",
+       "C":"Merkuriy, Venera",
+       "D":"Merkuriy, Uran"
+    },
+    {
+       "savol":"Amalarni bajaring:  (11432+128*31):25-5",
+       "A":"611",
+       "B":"520",
+       "C":"880",
+       "D":"770"
+    },
+    {
+       "savol":"Qaysi gapda imloviy uchraydi?",
+       "A":"Ilmga tashna odamlar g'or ochilishi bilan kirib ulgirganlarcha bilim olib chiqishar ekan.",
+       "B":"Kitobsiz bilimli, madaniyatli kishi bo'lib yetishish mumkin emas ",
+       "C":"Futbolni ingliz qirollari ko'p marta taqiqlaganlar, lekin o'yin davom etaveradi",
+       "D":"Agar chittakning yozda hasharotlarni ovlab uchib yo'lini bir-biriga qo'shsak, "
+    },
+    {
+       "savol":"Markaziy Osiyo davlatlari orasida aholisi eng ko'p davlat qaysi? ",
+       "A":"Tojikiston",
+       "B":"O'zbekiston",
+       "C":"Qirg'iziston",
+       "D":"Qozog'iston"
+    },
+    {
+       "savol":"3-sinf o'qish darsligida berilgan Yusuf Fayzulloning \" Balli buva \" hikoyasida otoxonni  nima uchun \" Polvon ota\" deb murojaat etishar edi? ",
+       "A":"Bir o'zi yigirma kishining ishini bajargani uchun ",
+       "B":"Og'ir toshni dast ko'targani uchun ",
+       "C":"Raqibini yengani uchun ",
+       "D":"Kurashda g'olib chiqqani uchun "
+    },
+    {
+       "savol":"Sayyoraning daftari Alinikidan 3 marta ko'p. Aliniki esa Sayyoranikidan 4 taga kam. Sayyor nechta daftari bor?  ",
+       "A":"2",
+       "B":"5",
+       "C":"6",
+       "D":"82"
+    },
+    {
+       "savol":"3-sinf o'qish darsligda \"Donishmand yigit\" ertagida cholning necha nafar o'g'li bor edi? ",
+       "A":"2 nafar ",
+       "B":"3 nafar ",
+       "C":"5 nafar ",
+       "D":"4 nafar "
+    },
+    {
+       "savol":"Eng kamida nechta halqani ochib-yopib, o'n beshta halqadan yaxlit bitta zanjir hosil qila olasiz? <img src='../img/bosh14.png' alt='bosh14'>",
+       "A":"4",
+       "B":"5",
+       "C":"6",
+       "D":"3"
+    },
+    {
+       "savol":"9,7<x<11,12  tengsizlikni qanoatlantiruvchi nechta natural son mavjud?",
+       "A":"2",
+       "B":"3",
+       "C":"4",
+       "D":"1"
+    },
+    {
+       "savol":"Qaysi voqea tasviri Oybek qalamiga mansub \"Alisherning bolaligi\" asarida o'chraydi? ",
+       "A":"Bo'lajak buyuk shoir marhum otasining ruhi bilan suhbatlashadi.",
+       "B":"Bosh qaxramon do'st bilan parvoz qilayotgan kabutarlar qaqsini tomosha qiladi.",
+       "C":"Asar qahramoni kutubxonadagi yong'inda etagining yonayotganiga ham parvo qilmay, bir necha kitobni quchoqlab olib chiqadi.",
+       "D":"Sulton taxtiravoni o'rnatilgan fil changalzorlar orasidan ketayotganda bexosdan botqoqqa botib qoladi"
+    },
+    {
+       "savol":"STO' darslarining bosqichlari qaysi javobda to'g'ri ko'rsatilgan? ",
+       "A":"Kirish suhbati: 1-bosqich asarni o'qib berish 2-bosqich yakunlovchi suhbat: 3-bosqich",
+       "B":"Tayyorgarlik 1-bosqich, boshlang'ich 2-bosqich, asosiy 3-bosqich",
+       "C":"O'qituvchi o'qib beradi 1-bosqich, magnitafondan eshitiradi 2-bosqich, asar muharriri bilan tanishishi 3-bosqich",
+       "D":"Agar rasmlarni tomosha qilish 1-boshqich asar muallifi bilan 2-bosqich asar muharri bilan tanishish 3-boshqich "
+    },
+    {
+       "savol":"Undosh tovushlar yordamida ma'nosi farqlangan so'zlar qatorini belgilang ",
+       "A":"tor-tosh",
+       "B":"sut-sot",
+       "C":"yo'l-yil",
+       "D":"bor-bir"
+    },
+    {
+       "savol":"Bir xil yo'nalishni ko'rsatadigan eng kam strelkalar soni qancha? <img src='../img/bosh15.png' alt='bosh15'",
+       "A":"1",
+       "B":"2",
+       "C":"3",
+       "D":"4"
+    },
+    {
+       "savol":"Umar tomorqa 12 soatda, Vali esa xuddi shunday tomorqani 4 soatda chopadi. Tomorqani birga chopish uchun ularga qancha vaqt kerak bo'ladi?  ",
+       "A":"4 soat ",
+       "B":"3 soat ",
+       "C":"5 soat",
+       "D":"2 soat"
+    },
+    {
+       "savol":"Alida, Bobirda Valida hammasi bo'lib 11 ta shar bor. Alining sharlari Boburnikidan 2 ta kam, ",
+       "A":"4",
+       "B":"2",
+       "C":"5",
+       "D":"2"
+    },
+    {
+       "savol":"Yer ostidan qaynoq suyuq holatda otilib chiqadigan modda nima deb ataladi?",
+       "A":"Lava",
+       "B":"Magma",
+       "C":"Vulqon bombasi",
+       "D":"Balchiq"
+    },
+    {
+       "savol":"Quyidagilardan qaysi biri metal emas?",
+       "A":"Kumush",
+       "B":"Oltin",
+       "C":"Torf",
+       "D":"Mis"
+    },
+    {
+       "savol":"Bayrog'in ko'ksiga Bosib jon bergan Najmiddin Kubrosi Bordir bu yurtning. (Muhammmad Yusuf) Berilgan parchadagi kesim(lar)ni aniqlang.",
+       "A":"ko'ksida, bosib",
+       "B":"bordir",
+       "C":"jon bergan",
+       "D":"jon bergan, bordir"
+    },
+    {
+       "savol":"Qaysi gapda so'z yasovchi qo'shimcha qatnashmagan",
+       "A":"Bilimli ming yashar.",
+       "B":"Daraxt yaprog'i bilan go'zal",
+       "C":"Odobli bola elga manzur",
+       "D":"Yomon yo'ldoshdan tayoq yaxshi"
+    },
+    {
+       "savol":"Otliq 3 soatda 45 km, piyoda esa 2 soatda 10 km yo'l yurdi. Otliqning tezligi piyodaning tezligidan necha marta ortiq",
+       "A":"3 marta ortiq",
+       "B":"10 marta ortiq",
+       "C":"Tezliklari bir xil",
+       "D":"2 marta ortiq"
+    },
+    {
+       "savol":"\"Kunlardan bir kun oshpazimizning xonadonida sen dunyoga kelding, lekin bir oy o'tar o'tmas onang bechora vafot etdi. Biz seni o'z tarbiyamizga oldik. Onang vafotidan biroz vaqt o'tgandan keyin otang ham qayg'u-hasrat o'tida kuyib vafot etdi. Sen o'z ota-onangni9 bilmaysan, biz ham senga haqiqiy ota-onangni bildirmadik. Xalq seni shahar hokimining o'g'li deb tushundi. Sening ma'naviy otang vafot etgandan so'nguning vorisi sifatida sen shahar hokimi bo'lding.\" Ushbu parcha qaysi ertakdan olingan?",
+       "A":"\"Zeyrak uch yigit\"",
+       "B":"\"Hiylagarning jazosi\"",
+       "C":"\"Hunarsiz kishi o'limga yaqin\"",
+       "D":""
+    },
+    {
+       "savol":"Munkib ketganidan savatidagi qulupnaylar sochilib ketgan qizning ustidan kulib o'zi ham qoqilib yiqilgan bolaning qilmishi qaysi asarda tasvirlangan",
+       "A":"\"Xatosini tushingan bola\"",
+       "B":"\"Odobli bo'lish osonmi?\"",
+       "C":"\"Nurxon bilan Burxon\"",
+       "D":"\"Sohiba kimdan hafa\""
+    },
+    {
+       "savol":"Matematik tushumchalarni shakllantirish va rivojlantirish qaysi sinfdan boshlab o'rgatiladi",
+       "A":"3 sinf",
+       "B":"2 sinf",
+       "C":"1 sinf",
+       "D":"4 sinf"
+    },
+    {
+       "savol":"Yuz ichida raqamlash",
+       "A":"ikkita bosqich 1-20,21-100",
+       "B":"3 ta bosqich 1-10, 11-20, 21-100",
+       "C":"ikkita bosqich 11-20, 21-100 gacha bosqichlar ajratib o'rgatiladi",
+       "D":"bir bosqichda 1-100"
+    },
+    {
+       "savol":"10 ichida qo'shish va ayirishni o'rganishda qaysi hossa bilan tanishiladi?",
+       "A":"Tranzitiv, Distributivlik",
+       "B":"O'rin almashtirish",
+       "C":"Tranzitiv va Distributevlik",
+       "D":"Distributevlik va Komunikativlik"
+    },
+    {
+       "savol":"Boshlang'ich sinflarda o'qitishga tayyorgarlik ishlarining shakllari qaysi javobda qayt etilgan ?",
+       "A":"Matn tahliliga oid savol-javob o'tkazish",
+       "B":"Darslikdagi savol asosida suhbat",
+       "C":"Ekskursiya, film namoyesh qilish, o'qituvchi hikoyasi",
+       "D":"O'quvchining tasurotlari"
+    },
+    {
+       "savol":"O'zbekiston Respublikasining \"Ta'lim to'g'risida\"gi qonun qachon qabul qilingan va unda boshlang'ich ta'lim necha yil deb belgilangan?",
+       "A":"1996, 1-3-sinflar",
+       "B":"1997, 1-4-sinflar",
+       "C":"1998, 1-2-sinflar",
+       "D":"1993, 1-4-sinflar"
+    },
+    {
+       "savol":"\"Tovushlar va harflar\" mavzusini o'rganishda qaysi metoddan foydalaniladi",
+       "A":"Mustaqil ish metodidan",
+       "B":"Amaliy ish metodidan",
+       "C":"Tahlil-tarkib metodidan",
+       "D":"Til dalellarini kuzatish metodidan"
+    },
+    {
+       "savol":"1500-2500 m balandlikdagi tog' yonbag'irlarida qanday daraxtlar o'sadi",
+       "A":"archa, yong'oq, qayin, terak",
+       "B":"archa, chinor, yong'oq, qayin, tol",
+       "C":"archa, toron, tol, terak",
+       "D":"archa, yong'oq, kashtan, terak"
+    },
+    {
+       "savol":"Yer sharining quyosh atrofida bir tomonga og'gan holatda aylanishidan nima hosil bo'ladi",
+       "A":"yil",
+       "B":"yil fasli",
+       "C":"vaqt birliklari",
+       "D":"sutka"
+    },
+    {
+       "savol":"Quyosh nuri yerga n3echa menutda yetib keladi",
+       "A":"8",
+       "B":"28",
+       "C":"18",
+       "D":"22"
+    },
+    {
+       "savol":"3-sinf o'qish darsligida berilgan \"Dog'da qolgan qarg'a\" ertagi qaysi xalq tomonidan yaratilgan",
+       "A":"Laos xalq ertagi",
+       "B":"Qozoq xalq ertagi",
+       "C":"Xind xalq ertagi",
+       "D":"Qirg'iz xalq ertagi"
+    },
+    {
+       "savol":"3-sinf o'qish darsligida berilgan \"Donolarning donosi\" matnni muallifi kim?",
+       "A":"Quddus Muhammadiy",
+       "B":"Abduqodir Hayitmetov",
+       "C":"Abdulla Oripov",
+       "D":"Qudrat Hikmat"
+    },
+    {
+       "savol":"Yoqilg'i quyish shahobchasiga 3200 l benzin keltirildi. Tushgacha 1/4 qismi, tushdan keyin 3/5 qismi sotildi . Shahobchada qancha benzin qoldi?",
+       "A":"500 litr",
+       "B":"550 litr",
+       "C":"480 litr",
+       "D":"300 litr"
+    },
+    {
+       "savol":"Qaysi sonni ushbu 600000000000+40000000+500000+10000+6 xona (razryad) qo'shiluvchilari ko'rinishida ifodalash mumkin?",
+       "A":"6004005106",
+       "B":"600040510006",
+       "C":"6040510006",
+       "D":"6405106"
+    },
+    {
+       "savol":"Yuzasi 48 ga bo;lgan maydonga har biri 6 sotixdan bo'lgan qancha dala hovli joylashadi",
+       "A":"8 dala hovli",
+       "B":"80 dala hovli",
+       "C":"800 dala hovli",
+       "D":"100 dala hovli"
+    },
+    {
+       "savol":"Tenglamani yeching: x/(374*259)=86",
+       "A":"96866",
+       "B":"8330476",
+       "C":"1126",
+       "D":"8033466"
+    },
+    {
+       "savol":"Buva nevaradan 7 marta katta. Ularning birgalikdagi yoshi 80 ni tashkil qiladi. Nevara necha yoshda",
+       "A":"17 yosh",
+       "B":"10 yosh",
+       "C":"70 yosh",
+       "D":"20 yosh"
+    },
+    {
+       "savol":"Nodiraning cho'ntagida yong'oqlar bor. O'ng cho'ntagidagi yong'oqlar chapdagi cho'ntagidan 2 marta ko'p. Agar Nodiraning hammasi bo'lib 15 ta yong'og'i bo'lsa, o'ng cho'ntagida nechta yong'oq bor?",
+       "A":"10",
+       "B":"12",
+       "C":"6",
+       "D":"5"
+    },
+    {
+       "savol":"Ko'mir necha xil bo'ladi?",
+       "A":"4",
+       "B":"2",
+       "C":"5",
+       "D":"3"
+    },
+    {
+       "savol":"Havoning ma'lum vaqt va joydagi holatlari nima deb ataladi?",
+       "A":"Iqlim",
+       "B":"Shamol",
+       "C":"Ob-havo",
+       "D":"Shabada"
+    },
+    {
+       "savol":"Qaysi maqoldagi bir so'zda sirg'aluvchi undosh(lar) ishtirok etgan?",
+       "A":"ona yurting - oltin beshiging.",
+       "B":"sayoq yursang, tayoq yeysan.",
+       "C":"o'nta bo'lsa, o'rni boshqa.",
+       "D":"Kattaga hurmatda, kichikka izzatda bo'l."
+    },
+    {
+       "savol":"Qaysi gapda imloviy xatolik uchraydi?",
+       "A":"olamda tug;ilgan odamzodning biri ozroq, boshqa biri ko'proq yashaydi, so'ng baribir vafot etadi.",
+       "B":"Qaysi biringizning qilgan yaxshiligingiz eng ulug' fazilat kasb etsa, barmog'imdagi qimmat baho uzukni unga beraman.",
+       "C":"Mir Alisher otash zabondir,",
+       "D":"Qadimda odamlar dastxatlarini toshlarga, daraxt po'stloqlari yozishgan"
+    },
+    {
+       "savol":"Quyidagi asarlarning qaysi biri masal janriga mansub",
+       "A":"\"Qaysar buzoqcha\" (O.Qo'chqorbekov)",
+       "B":"\"Chumchuqcha\" (M.Murodov)",
+       "C":"\"Qush tili\" (Mirtemir)",
+       "D":"\"Danakvoy\" (Y.Sa'dullayeva)"
+    },
+    {
+       "savol":"\"Davlat emas, ilm eskirmaydi, chirimaydi, nobud bo'lmaydi. Lekin mol-mulk chiriydi, oftobda rangi o'chadi, sovuqda qotadi, olovda kuyadi. \"Ilm afzal\" ertagida ushbu so'zlarni otasiga kim aytadi? ",
+       "A":"to'ng'ich o'g'il",
+       "B":"qizi",
+       "C":"o'rtancha o'g'li",
+       "D":"kenja o'g'li"
+    },
+    {
+       "savol":"Ota-bobolarimiz, momolarimiz yoshligimizdan-oq ozodalik, saramjon-sarishtalik, halollik va harom-harish haqida yetarli tushimchalar, ma'lumotlar bilan tanishtirib, ularni imkoniyat darajasida o'ziga xos pand-u nasixatlar bilan ongimizga singdirishga uringanlar. Ushbu gapda nechta so'zda imloviy xatolik uchraydi?",
+       "A":"4",
+       "B":"3",
+       "C":"2",
+       "D":"1"
+    },
+    {
+       "savol":"Qaysi javobda ng harflar birikmasi ishtirok etmagan?",
+       "A":"Barcha shodlik senga bo'lsin, bor sitam, zorlik menga. Barcha dildorlik senga-yu, barcha xushtorlik menga",
+       "B":"Dunyo dunyo bo'lib yaraldi qachon, Hayot otashlari taraldi qachon",
+       "C":"O'qituvchim, ustozim, yaqinsiz yuragimga, Har so'zingiz mo'tabar, qatordir tilagimga",
+       "D":"Sahroyi Kabirda yozsam ko'nglimni, Ruhimda chinorday turding, Vatanim"
+    },
+    {
+       "savol":"Yonma-yon kelgan bir-xil jarangli undoshlarning biri tushirilganda so'z ma'nosi o'zgaradigan javobni belgilang.",
+       "A":"mashshoq",
+       "B":"silla",
+       "C":"izzat",
+       "D":"qattiq"
+    },
+    {
+       "savol":"To'g'ri to'rtburchakning bo'yi 46 sm, eni bo'yining 40 foizidan 2.4 ga kichik. To'g'ri to'rtburchakning tomonlari ayirmasini toping[sm da] ",
+       "A":"62",
+       "B":"30",
+       "C":"36",
+       "D":"40"
+    },
+    {
+       "savol":"Ikki sonning yig'indisi 1970, ularning ayirmasi esa 662. Shu sonlarni kichigini choragini toping.",
+       "A":"166",
+       "B":"664",
+       "C":"329",
+       "D":"1316"
+    },
+    {
+       "savol":"Sultondan zindondan asirlikda yotgan 200 dan ortiq yurtsdoshlarini ozod qilishni so'ragan qahramon qaysi asarda uchraydi?",
+       "A":"\"Pahlavon va shoir\" (Hamidjon Hamidov)",
+       "B":"\"Kitobga ixlos\" (Mirkarim Osim)",
+       "C":"\"Shahzodaning bolaligi\" (Erkin Samandar)",
+       "D":"\"Alisherning yoshligi\" (Oybek)"
+    },
+    {
+       "savol":"Aydarko'lningkatta qismi, Arnasoy va Tuzkon ko'llari qaysi viloyat hududida joylashgan?",
+       "A":"Qashqadaryo viloyati",
+       "B":"Jizzax viloyati",
+       "C":"Samarqand viloyati",
+       "D":"Xorazm viloyati"
+    },
+    {
+       "savol":"Matematik tushumchalarni shakllantirish va rivojlantirish qaysi sinfdan boshlab o'rganiladi?",
+       "A":"1 sinfdaq",
+       "B":"4 sinfda",
+       "C":"3 sinfda",
+       "D":"2 sinfda"
+    },
+    {
+       "savol":"so'zning tovush tarkibini bilishning qanday ahamiyati bor?",
+       "A":"Ta'limning keyingi boshqichlarida o'qishning muvaffaqiyatli davom ettirish imkoniyatini beradi",
+       "B":"o'qish va yozishni tezroq egallashga yordam beradi",
+       "C":"so'zlarni to'g'ri talaffuz qilish, so'zdagi harflarni tushirib qoldirmay yoki o'rnini almashtirmay yozish malakasini shakllantirish uchun kerak ",
+       "D":"so'z turkumlarini o'rganishda so'zlarni tarkibiy qismlarga ajrata olish malakalarini shakllantiradi"
+    },
+    {
+       "savol":"2-sinf o'quvchilarining o'qish malakasi qaysi bosqichga to'g'ri keladi?",
+       "A":"Bo'g'inlab sidirg'a o'qish bosqichi",
+       "B":"harflarni qo'shgan holda bo'g'inlab o'qish",
+       "C":"sidirg'a o'qish bosqichi",
+       "D":"bo'g'inlab o'qish bosqichi"
+    },
+    {
+       "savol":"Ko'p xonali sonlar konsentrida raqamlash bosqichi",
+       "A":"Millionlar sinflarini hosil qilish",
+       "B":"Besh-olti xonali sonlarni o'qish va yozish",
+       "C":"Sinflarga ajratish",
+       "D":"Olti xonali sonlarni o'qish va yozish"
+    },
+    {
+       "savol":"Amudaryo qaysi tog'larda boshlanadi",
+       "A":"Talas Olatog'i tizmasi",
+       "B":"Chotqol va Farg'ona tog' tizmalari",
+       "C":"Pomir tog' tizmasi",
+       "D":"Piskom va Qurama tog' tizimlari"
+    },
+    {
+       "savol":"3-sinf O'qish darsligida berilgan \"Donishmand yigit\" ertagidea otasining asl maqsadini qaysi o'g'li to'g'ri tushinadi?",
+       "A":"4",
+       "B":"5",
+       "C":"3",
+       "D":"7"
+    },
+    {
+       "savol":"Sirdaryo viloyatidagi eng yirik kanalni aniqlang",
+       "A":"Do'stlik kanali",
+       "B":"Sherobod kanali",
+       "C":"Zang kanali",
+       "D":"Kegayli kanali"
+    },
+    {
+       "savol":"Oshxonada 7 ta kulcha 29 so'm turadi. Shunday 14 ta kulcha qancha turadi?",
+       "A":"58 so'm",
+       "B":"43 so'm",
+       "C":"36 so'm",
+       "D":"52 so'm"
+    },
+    {
+       "savol":"Biz bilamizki mushuk 1 kunda 1 ta sichqonni ovlaydi. 5 ta mushuk 15 ta sichqonni necha kunda ovlaydi?",
+       "A":"2 kun",
+       "B":"15 kun",
+       "C":"3 kun",
+       "D":"5 kun"
+    },
+    {
+       "savol":"Quyidagilardan qaysi biri eng qattiq va mustahkam qurilish materiali hisoblanadi",
+       "A":"Marmar",
+       "B":"Cherepitsa",
+       "C":"Beton",
+       "D":"G'isht"
+    },
+    {
+       "savol":"Uchburchakning perimetri 36 sm, to'g'rito'rtburchakning perimetri esa 3 marta kam. Uchburchakning perimetri to'g'rito'rtburchak perimetridan necha santimetr ko'p?",
+       "A":"33",
+       "B":"24",
+       "C":"72",
+       "D":"12"
+    },
+    {
+       "savol":"\"Jala darakchisi\" she'rining muallifini aniqlang",
+       "A":"Abdurahmon Akbar",
+       "B":"Habib Rahmat",
+       "C":"Zafar Diyor",
+       "D":"Qambar O'tayev"
+    },
+    {
+       "savol":"Qaysi ertakda ota o'g'illariga: \"Bolalarim , men sizni yeyish-ichishdan kamsitmay o'stirdim. Endi otlaninglar, turli shaharlarga borib, qo'rg'on solib kelinglar\" deya topshiriq berib yubordi",
+       "A":"\"Donishmand yigit\"",
+       "B":"\"Ziyrak uch yigit\"",
+       "C":"\"Halollik\"",
+       "D":"\"Ahillik - ulug' baxt\""
+    },
+    {
+       "savol":"\"Eng ulug'fazilat\" ertagida ota \"dunyoda eng ulug' fazilat\" deb nimaga aytadi",
+       "A":"do'stlarga yordam berish",
+       "B":"yomonlikka yaxshilik qilish",
+       "C":"ilm-ma'rifatli bo'lishni",
+       "D":"xayr ehson qilishni"
+    },
+    {
+       "savol":"Quyidagilardan qaysi biri adabiy ertak hisoblanadi",
+       "A":"\"Qor odamni sovg'asi\" (O.Husanov)",
+       "B":"\"Laqma it\" (Sh.Sa'dulla)",
+       "C":"\"Baqa bilan taqa\" (A.Abdurazzoq)",
+       "D":"\"Bo'rining tabib bo'lgani haqidagi ertak\" (A.Obidjon)"
+    },
+    {
+       "savol":"0,1,2,3,4 sonlaridan nechta ikki honali sonlar tuzish mumkin?",
+       "A":"48",
+       "B":"16",
+       "C":"8",
+       "D":"24"
+    },
+    {
+       "savol":"Shkala so'zining ma'nosi to'g'ri ko'rsatilgan javobni belgilang",
+       "A":"Chiziqcha",
+       "B":"Hech nima",
+       "C":"Zinapoya",
+       "D":"Doira,aylana"
+    },
+    {
+       "savol":"Qaysi javobda ma'noda qo'llangan sifat qatnashgan?",
+       "A":"Bolalikdan iliq xotiralar qolgan",
+       "B":"Yumshoq yostiqqa boshini qo'ydi",
+       "C":"Achchiq qalampirni bilmay tishlab oldi",
+       "D":"Keng dalalarda chopib uynaymiz"
+    },
+    {
+       "savol":"Faqat jarangli undoshlar berilgan javobni belgilang.",
+       "A":"y,v",
+       "B":"r,k",
+       "C":"q,p",
+       "D":"j,s"
+    },
+    {
+       "savol":"Qaysi gapda imloviy xatolik uchraydi",
+       "A":"Ushbu qonunninghayotga tadbiq etilishi biz uchun katta ahamiyatga ega.",
+       "B":"Ovqat tanovul qilishdan avval qo'llaringizni sovunlab yuvishni unutmang",
+       "C":"Soy shovillab, suvi qirg'oqqa uriladi, har yoqqa kumush zarralar sochiladi",
+       "D":"Gerb markazida himmat va fidoiylik timsoli bo'lgan Humo qushi tasvirlangan"
+    },
+    {
+       "savol":"O'rinli va foydali gaplarni yumshoqlik hamda bosiqlik bilan aytishga odatlaning. Ushbu gapda yasama so'zlar qaysi bo'lak(lar) vazifasida qo'llangan?",
+       "A":"aniqlovchi, hol, kesim",
+       "B":"aniqlovchi, to'ldiruvchi, kesim",
+       "C":"ega, to'ldiruvchi, kesim",
+       "D":"ega, aniqlovchi, hol"
+    },
+    {
+       "savol":"Madaniy a...loq ...ayotning turli jab...alarida, ...ursandchilik va sinovli kunlarimizda, ...ayrlashishimizda, ...amrohimiz bilan munosabatimizda, ...ullas, ...ar bir ...atti-harakatimizda namayon bo'ladi. Ushbu gapdagi nechta so'zda nuqtalar o'rniga x undoshi qo'yiladi?",
+       "A":"4",
+       "B":"6",
+       "C":"5",
+       "D":"3"
+    },
+    {
+       "savol":"Yozuv darslarida o'quvchilar egallashi lozim bo'lgan malakalar izchil berilgan qatorni belgilang",
+       "A":"Alifbodagi barcha harflarning bosh va kichik shaklini to'g'ri ulab yozish, 2-3 so'zli gaplarni o'qituvchi yordamida yozish, ko'chirib yozish, diktovka bilan yozish.",
+       "B":"Partada to'g'ri o'tirish, daftarni to'g'ri qo'yish, ruchkani to'g'ri ushlash, yozuv yo'li ichida yozish",
+       "C":"Partada to'g'ri o'tirish, ruchkani 3 barmoq orasida ushlash, daftarni parta ustida 65 gradus qiyalikda tutish, alifbodagi kichik va katta harflarni grafik jihatdan to'g'ri shakllantirish va ulash, so'z va 2-3 so'zli gap yozish, diktovka bilan yozish, ijodiy yozish",
+       "D":""
+    },
+    {
+       "savol":"gramatik tahlil qanday tahlillarni o'z ichiga oladi",
+       "A":"Fonetik tahlil, mormologik tahlil ",
+       "B":"Fometik tahlil,sintaktik tahlil",
+       "C":"Morfologik tahlil, sintaktik tahlil",
+       "D":"Gramatik tahlil,sintaktik tahlil"
+    },
+    {
+       "savol":"2-sinfda o'quvchilarga bayon yozdirish necha xil tartibda olib boriladi?",
+       "A":"4 xil",
+       "B":"3 xil",
+       "C":"2 xil",
+       "D":"3-4 xil"
+    },
+    {
+       "savol":"Boshlang'ich sinflarda badiiy asar ustida ishlash nechta asosiy bosqichga bo'linadi?",
+       "A":"5",
+       "B":"2",
+       "C":"4",
+       "D":"3"
+    },
+    {
+       "savol":"Tabiiy xaritada tasvirlangan joyning rangiga qarab nimani bilsa bo'ladi?",
+       "A":"shu joyning dengiz sathidan qancha uzoqligini",
+       "B":"shu joyning dengiz sathidan qancha kengligini",
+       "C":"shu joyning dengiz sathidan qancha balandligini",
+       "D":"shu joyning dengiz sathidan qancha yaqinligini"
+    },
+    {
+       "savol":"3 sinf o'qish darsligida berilgan \"Ibn Sinoning shogirtlari\" 3-sinf o'qish darsligida berilgan qanday asar turiga kiradi?",
+       "A":"Ertak",
+       "B":"Hikoya",
+       "C":"Rivoyat",
+       "D":"Afsona"
+    },
+    {
+       "savol":"Gaz holatidagi yoqilg'i nima deb ataladi?",
+       "A":"Benzin",
+       "B":"Tabiiy gaz",
+       "C":"Kerosin",
+       "D":"Propan"
+    },
+    {
+       "savol":"Yam yashil bog' rog'larga burkangan Farg'ona vodiysi, ko'xna Samarqand -u Buxoro, Xiva, azim Qashqadaryo va Surxondaryo yurtimizning maftunkor maskanlaridir. Berilgan parchada necha o'rida sifat turkumiga mansub so'zlar imlosida xatolik uchraydi?",
+       "A":"3",
+       "B":"2",
+       "C":"4",
+       "D":"1"
+    },
+    {
+       "savol":"Qaysi gapda imloviy xatolik uchramaydi?",
+       "A":"Agar chittakning yozda hasharotlarni ovlab uchib o'tgan yo'lini bir-biriga qo'shsak, Yer shari aylanasiga to'g'ri keladi",
+       "B":"Fudbolni ingliz qirollari ko'p marta ta'qiqlaganlar, lekin o'yin davom etaveradi",
+       "C":"ilmga tashna odamlar g'or ochilishi bilan kirib ulgirganlaricha bilim olib chiqishar ekan",
+       "D":"Kitobsiz bilimli, madaniyatli kishi bo'lib yetishish mumkin"
+    },
+    {
+       "savol":"To'g'ri yozilgan so'zlar",
+       "A":"hashorat, zahira, hovliqmoq",
+       "B":"hasharot, zaxira, hovliqmoq",
+       "C":"xashorot, zaxira, xovliqmoq",
+       "D":"xasharot, zahira, xovliqmoq"
+    },
+    {
+       "savol":"Yonma-yon kelgan bir xil jarangli undoshlar qatnashgan otlar berilgan javobni belgilang ",
+       "A":"jarroh, pilla",
+       "B":"izzat, jajji",
+       "C":"qattiq, hassa",
+       "D":"malla, novvot"
+    },
+    {
+       "savol":"1 dm necha sm?",
+       "A":"100",
+       "B":"1",
+       "C":"10",
+       "D":"1000"
+    },
+    {
+       "savol":"Qaysi javobda imloviy xatolik uchraydi?",
+       "A":"Til va tafakkur doimo bir-birini taqozo qiladi, bir-birining yashashi va rivojlanishiga yordam beradi",
+       "B":"Tafakkur jarayonining natijasi hamisha biror-bir fikrdan iborat bo'lib, bu fikr tushumcha, hukm, xulosa tarzida til vositasida namoyon bo'ladi",
+       "C":"mavjudodning ko'rinmas ichki jihatlari ham so'z shaklida o'zlashtiriladi va til vositasi bilan o'zgalarga tushintiriladi",
+       "D":"Tafakkur zohiriy olamning inson miyasida umumlashgan, til bilan ifodalanadi "
+    },
+    {
+       "savol":"Qaysi gapda yasama fe'l qatnashmagan?",
+       "A":"sizga muhtojlik sezgan kishilarga yordamlashing.",
+       "B":"Mustaqillik yillarida o'lkamizda ko'plab bog'lar yaratiladi",
+       "C":"Har kim iqtisodni o'z xonadonidan  boshlamog'i kerak",
+       "D":"Yeltillagan husayniga boq, Donasidan go'yo bol tomar"
+    },
+    {
+       "savol":"Qaysi javobda buyruq gap berilgan?",
+       "A":"yaxshi gap bilan ilon inidan.",
+       "B":"do'stsiz boshim - tuzsiz oshim.",
+       "C":"bugungi ishni ertaga quyma",
+       "D":"yurgan daryo o'tirgan - bo'yra"
+    },
+    {
+       "savol":"Qaysi javobda egalik qo'shimchasi ta'sirida tarkibida tovush tushishi yuz bergan so'z qatnashgan",
+       "A":"Yigitlikda yig'ilgan ilmning mag'zini, Qarilik chog'i xarj qil oni",
+       "B":"Mening go'zal yurtimni O'zbekiston deydilar",
+       "C":"Uning yoqimsiz qilig'i ko'pchilikni ranjitdi",
+       "D":"Qush edim qanotlarim qayerildi"
+    },
+    {
+       "savol":"qaysi birlik ortiqcha",
+       "A":"g",
+       "B":"sm",
+       "C":"a",
+       "D":"ga"
+    },
+    {
+       "savol":"Bir son ikkinchisidan 76 ta kam, ularning yig'indisi esa 2264. Shu sonlarning kattasini 10 foizinitoping",
+       "A":"117",
+       "B":"190",
+       "C":"107",
+       "D":"109"
+    },
+    {
+       "savol":"\"Bir xurmacha shavla\" ertagida kampir nimaning evaziga qizchaga shavla pishiradigan xurmacha sovg'a qiladi?",
+       "A":"qizcha uning uyini tozalagani uchun",
+       "B":"qizcha uni maymunjon bilan siylagani uchun",
+       "C":"qizcha uni xavf-xatardan ogohlantirgani uchun",
+       "D":"qizcha uning kalava ipini topib bergani uchun"
+    },
+    {
+       "savol":"qaysi qatorda raqamlar berilgan",
+       "A":"1,2,3,4,5,6,7,8,9,10",
+       "B":"0,1,2,3,4,5,6,7,8,9",
+       "C":"0,10,20,30,40,50,60,70,80,90",
+       "D":"0,1,2,3,4,5,6,7,8,9,140"
+    },
+    {
+       "savol":"67+3 ni hisoblash metodikasini ko'rsating",
+       "A":"67+3=67+1+1+1=70",
+       "B":"67+3=67+(1+2)ss",
+       "C":"67+3=60+(7+3)=60+10=70",
+       "D":"67+3=(60+3)+7=63+7=70"
+    },
+    {
+       "savol":"Boshlang`ich sinflarda o`rganiladigan ko`pgina she`rlarni tahlil qilib, ifodali o`qish mashq qilingach, o`quvchilarga qanday vazifa topshiriladi?",
+       "A":"She`rning mazmuni badiiy ravishda so`zlab berish",
+       "B":"Ma`nosi notanish so`zlar ustida ishlash",
+       "C":"She`rni ifodali yod aytib berish",
+       "D":"She`r qahramonlari haqida badiiy mulohaza yuritish"
+    },
+    {
+       "savol":"Savod o`rgatishning asosiy metodi ko`rsatilgan javobni belgilang.",
+       "A":"Analitik-sintetik tovush metodi",
+       "B":"Suhbat va tushuntirish metodi",
+       "C":"Muammoli yarim izlanish metodi",
+       "D":"Suhbat metodi"
+    },
+    {
+       "savol":"Quyi Amudaryo davlat biosfera rezervatining katta qismini qanday o`simliklar egallagan?",
+       "A":"Dasht o`simliklari",
+       "B":"o`rmon o`simliklari",
+       "C":"to`qay o`simliklari",
+       "D":"Cho`l o`simliklari"
+    },
+    {
+       "savol":"Qoraqolpog`iston Respublikasi hududida joylashgan ko`llarni aniqlang.",
+       "A":"Sherobod, Zang, Dovutko`l, Mashanko`l",
+       "B":"Sariqamish, Jiltirbos, Zarafshon, Tuzkon",
+       "C":"Sariqamish,Jiltirbos, Dovutko`l, Mashanko`l",
+       "D":"Sherobod, Jiltirbos, Dovutko`l, Mashanko`l"
+    },
+    {
+       "savol":"3-sinf o`qish darsligida berilgan \"Vaqting ketti- naqding ketti\" ertagida kompyuter o`yinlari xonasini kim ochgan?",
+       "A":"Bo`rsildoq",
+       "B":"Ziyrakbek",
+       "C":"Foydaxo`r",
+       "D":"Qoyilbek"
+    },
+    {
+       "savol":"3-sinf o`qish darsligida berilgan \"Boburnoma\" asarining muallifi kim?",
+       "A":"Mirzo Karim",
+       "B":"Abdulla Avloniy",
+       "C":"Safar Barnoyev",
+       "D":"Mirkarim Osim"
+    },
+    {
+       "savol":"Ikki uchastkadan piyoz yig`ishdi. Bittasdian 19 qop, ikkinchisidan 25 qop yig`ishdi. Agar birinchisidan ikkinchisiga nisbatan 360 kg kam yig`ilgan bo`lsa, birinchi uchastkadan qancha piyoz yig`ishdi?",
+       "A":"1140 kilogramm",
+       "B":"11040 kilogramm",
+       "C":"500 kilogram",
+       "D":""
+    },
+    {
+       "savol":"Tushlik uchun ona 6 daqiqada, o`g`li esa yarim soatda kartoshka tozaladi. Ikkalasi birga kartoshkani tozalashi uchun qancha vaqt kerak bo`lgan?",
+       "A":"5 daqiqa",
+       "B":"4 daqiqa",
+       "C":"10 daqiqa",
+       "D":"6 daqiqa"
+    },
+    {
+       "savol":"Biz bilamizki mushuk bir kunda 1 ta sichqonni ovlaydi. 2 ta mushuk 2 ta sichqonni necha kunda ovlaydi?",
+       "A":"2 kunda",
+       "B":"kunning yarmi",
+       "C":"1 kun",
+       "D":"3 kun"
+    },
+    {
+       "savol":"Onta velosipeda 27 ta g`ildirak. Ular orasida to`rt g`ildirakligi yo`q. Uxh g`ildirakli velosipedlar nechta?",
+       "A":"7",
+       "B":"3",
+       "C":"4",
+       "D":"5"
+    },
+    {
+       "savol":"Odamlar tomonidan ekilib, parvarish qilinadigan o`simliklar nima deb ataladi?",
+       "A":"Tabiiy o`simliklar",
+       "B":"Madaniy o`simliklar",
+       "C":"Yuksak o`simliklar",
+       "D":"Efemer va efemeroidlar"
+    },
+    {
+       "savol":"Qaysi hoaltda Yer yuzida kislorod miqdori ko`p bo`ladi?",
+       "A":"Odamlar ko`p bo`lsa ",
+       "B":"O`simliklar ko`p bo`lsa",
+       "C":"Okeanlar ko`p bo`lsa",
+       "D":"Hayvonlar ko`p bo`lsa"
+    },
+    {
+       "savol":"Tabiatda qor qachon yog`adi?",
+       "A":"Havo sovib 0 <sup>o</sup> C dan pasayganda",
+       "B":"Yomg`ir yog`ganidan keyin",
+       "C":"Quyosh ko`rinmay qolganda",
+       "D":"osmon bulut bo`lganda"
+    },
+    {
+       "savol":"Odam miyasining necha foizi suvdan iborat?",
+       "A":"90 %",
+       "B":"80 %",
+       "C":"75 %",
+       "D":"70 %"
+    },
+    {
+       "savol":"Ona tili o`qitish metodikasi bilish nazariyasidan tashqari yana qanday fanlarning ma`lumotlariga asoslanadi?",
+       "A":"Musiqa, geografiya",
+       "B":"Psixologiya, pedagogika",
+       "C":"pedagogika, anatomiya",
+       "D":"Matematika, ona tili"
+    },
+    {
+       "savol":"\"Ma`rifat\" gazetasi nechanchi yildan chop etila boshlagan?",
+       "A":"1964 yildan",
+       "B":"1991 yildan",
+       "C":"1931 yildan",
+       "D":"1930 yildan"
+    },
+    {
+       "savol":"Qaysi javobda ng harflar birikmasi ishtirok etmagan?",
+       "A":"Kundan kunga oboddir vatan, Kelajak nafasi kezar yurtimda.",
+       "B":"Sohillarda uzoq o`y surdim, Dengiz to`lib, chayqaldi yurak.",
+       "C":"Dunyo dunyo bo`lib yaraldi qachon, hayot ohanglari taraldi qachon?",
+       "D":"Ko`kda na yulduz bor, na bir tabassum, Tabiat ingrardi, yig`lardi yum-yum."
+    },
+    {
+       "savol":"1 m necha dm?",
+       "A":"1",
+       "B":"1000",
+       "C":"10",
+       "D":"100"
+    },
+    {
+       "savol":"\"Qirq uyli ovulimda qishdan sog`-salomat olib chiqdim. Ularni o`limdan saqlab qoldim. Xalq qirilib ketsa, kimga podsholik qilardingiz? farzand och qolsa-yu, otasidan non so`rasa, gunohmi? Siz el-yurt otasisiz Ayting-chi,biz, fuqarolar nonni sizdan boshqa kimdan so`raylik?\" Ushbu parcha qaysi ertakdan keltirilgan?",
+       "A":"\"Botir mergan va chaqimchi\"",
+       "B":"\"Halollik\"",
+       "C":"\"Ahillik-ulug` baxt\"",
+       "D":"\"Donishmand yigit\""
+    },
+    {
+       "savol":"Quyidagilardan qaysi biri adabiy ertak hisoblanmaydi?",
+       "A":"\"Bo`rining tabib bo`lgani haqida ertak\" (A.Obidjonov)",
+       "B":"\"Qor odamning sovg`asi\" (O.Husanov)",
+       "C":"\"Baqa bilan taqa\" (A.Abdurazzoq)",
+       "D":"\"Laqma it\" (Sh.Sa`dulla)"
+    },
+    {
+       "savol":"O`z mano`sida berilgan jumlani toping.",
+       "A":"Qattiq yer",
+       "B":"Qattiq gap",
+       "C":"Qattiq shamol",
+       "D":"Qattiq sovuq"
+    },
+    {
+       "savol":"Qaysi ko`mir turi toshko`mirag nisbatan yumshoqroq bo`lib, oson maydalanadi?",
+       "A":"Briket ko`miri",
+       "B":"Kokslangan ko`mir",
+       "C":"Qo`ng`ir ko`mir",
+       "D":"Dag`al ko`mir"
+    },
+    {
+       "savol":"Uchta tovuq 3 kun ichida 3 ta tuxum qo`yadi. Bitta tovuq 12 kun ichida nechta tuxum qo`yadi?",
+       "A":"4 tuxum",
+       "B":"1 tuxum",
+       "C":"15 tuxum",
+       "D":"12 tuxum"
+    },
+    {
+       "savol":"Malika va Karim ko`pqavatli uyning bitta yo`lakchasida iste`qomat qilishdai. Malika maktabdan qaytganda uyning o`ng tomonidan to`rtinchi yo`lakchasiga kiradi. Karim esa o`qishdan qaytganida uyning chap tomonidan to`rtinchi yo`lakchasiga kiradi. Ko`pqavatli uyning yo`lakchalari nechta?",
+       "A":"7",
+       "B":"8",
+       "C":"5",
+       "D":"4"
+    },
+    {
+       "savol":"1000 ichida nomerlash bu...",
+       "A":"100-1000 gacha sonlar bilan tanishtiriladi",
+       "B":"3 xonali son tarkibi bilan tanishtiriladi",
+       "C":"Yangi sanoq birligi \"minglik\" bilan tanishtirish",
+       "D":"Tayyorgarlik, 1 sanoq birligidan ikkinchisiga o`tish"
+    },
+    {
+       "savol":"Boshlang`ich sinflarda matematika o`qitish metodikasi qaysi fanlar bilan aloqadorlikda o`qitiladi?",
+       "A":"barcha javoblar to`g`ri",
+       "B":"tabiatshunoslik va rasm",
+       "C":"Mehnat va muzika",
+       "D":"Psixologiya, pedagogika"
+    },
+    {
+       "savol":"Men shu yerda ulg`aydim, vatanimni sevaman. Kerak bo`lsa yurt uchun Jonimni ham beraman Ushbu misralar olingan she`r nomi hamda muallifini aniqlang",
+       "A":"\"Iqboli buyuksan\" (Abdulla Oripov)",
+       "B":"\"Vatan\" (Miraziz A`zam)",
+       "C":"\"O`zbekiston\" (Orif To`xtash)",
+       "D":"\"Vatan mo`tabardir\" (Xurshid Davron)"
+    },
+    {
+       "savol":"Qaysi javobda ng harflar birikmasi ishtirok etmagan?",
+       "A":"Dunyo dunyo bo`lib yaraldi qachon, Hayot ohanglari taraldi qachon?",
+       "B":"O`qituvchim, ustozim, yaqinsiz yuragimga, Har so`zingiz mo`tabar, qanotdir tilagimga.",
+       "C":"Barcha shodlik senga bo`lsin, bor sitam, zorlik menga, barcha dildorlik senga-yu, barcha xushtorlik menga.",
+       "D":"Sahroyi Kabirda yozsam ko`nglimni, ruhimda chinorday turding, Vatanim."
+    },
+    {
+       "savol":"Jadvalli ko`paytirish va bo`lish qaysi sinfda o`rganiladi?",
+       "A":"2 sinfdan",
+       "B":"4 sinfdan",
+       "C":"3 sinfdan",
+       "D":"1 sinfdan"
+    },
+    {
+       "savol":"O`quvchilarning mustaqil faoliyatlari darajasiga ko`ra klassifikatsiyalanuvchi metodlar qaysilar?",
+       "A":"Ijodiy metod, evristik metod, ko`rgazmali metod, interfaol metodlar.",
+       "B":"Interfaol metodlar, taqdimotlar, didaktik o`yinlar, rolli o`yinlar, bahs-munozara metodi.",
+       "C":"Izohli illyustrativ metod, reproduktiv metod, bilimlarni muammoli bayon qilish metodi, evrisik yoki qisman izlanish metodi.",
+       "D":"Interfaol metodlar, didaktik o`yinlar, debatlar, ijodiy ishlar"
+    },
+    {
+       "savol":"Agar bilimni shakllantirish xarakteriga asoslanilsa, grammatik mashqlar qanday guruhlarga bo`linadi?",
+       "A":"morfologik mashqlar va sintaktik mashqlar",
+       "B":"taqqoslash va umumlashtirish mashqlari",
+       "C":"leksik-morfologik mashqlar va analitik mashqlar",
+       "D":"sintetik mashqlar va leksik mashqlar"
+    },
+    {
+       "savol":"Boshlang`ich matematika tuzilishi kursining mazmuni nimalardan iborat?",
+       "A":" Maqsadi va metodlaridan iborat.",
+       "B":"Maqsadi, mazmunidan iborat.",
+       "C":"Maqsadi, mazmuni, metodlari, vositalari, turlaridan iborat.",
+       "D":"O`qitish vositalaridan iborat."
+    },
+    {
+       "savol":"Ikki chiziqdan yuqoriga ko`tarilib yoziladigan harflarning bo`yi necha mm bo`lishi kerak?",
+       "A":"8 mm",
+       "B":"5 mm",
+       "C":"9 mm",
+       "D":"6 mm"
+    },
+    {
+       "savol":"Murakkab masalalar ...",
+       "A":"Bilimlarni o`zlashtirishga, mustahkamlashga va mukammallashtirishga xizmat qiladi.",
+       "B":"Yechilishi uchun 2 ta undan ortiq amallarni bajarishni talab qiladi",
+       "C":"O`z ichiga yashirin informatsiyani oladi",
+       "D":"Bitta amalda bajariladigan masala"
+    },
+    {
+       "savol":"\"Tovushlar va harflar\" mavzusini o`rganishda qaysi metoddan foydalaniladi?",
+       "A":"Mustaqil ish metodidan",
+       "B":"Amaliy ish metodidan",
+       "C":"Tahlil-tarkib metodidan",
+       "D":"Til dalillarini kuzatish metodidan"
+    },
+    {
+       "savol":"Matematika kursining mazmuni nimalar tashkil qiladi?",
+       "A":"Haqiqiy sonlar ustida 4 amal",
+       "B":"Natural son,0 va ular ustida 4 amal, amallardagi komponentlar va natija orasidagi bog`lanishlar",
+       "C":"Qo`shish va ko`paytirishning o`rin almashtirish xossasi, ko`paytirish va bo`lishning taqsimot qonunim xossalardan chiqadigan natija.",
+       "D":"Tenglama, tengsizlik elementlari, egri chiziq, kesmalar, ko`pburchak va ularning elementlari, to`g`ri burchak va hokazoalr."
+    },
+    {
+       "savol":"Yer sharining qarama-qarshi tomonidagi odamlar bizga nisbatan qanday holatda bo`ladi?",
+       "A":"Oyoqlari pastda, boshlari yuqorida",
+       "B":"Oyoqlari yuqorida, boshlari pastda",
+       "C":"Oyoqlari pastda, boshlai pastda",
+       "D":"O`zgarish"
+    },
+    {
+       "savol":"Pasttekislik dengiz sathidan qancha balandlikda bo`ladi?",
+       "A":"200 m gacha",
+       "B":"500 m gacha",
+       "C":"500 m ortiq",
+       "D":"200 m ortiq"
+    },
+    {
+       "savol":"Namangan viloyatining eng yirik daryosini aniqlang.",
+       "A":"Sirdaryo",
+       "B":"Amudaryo",
+       "C":"Qoradaryo",
+       "D":"Norin"
+    },
+    {
+       "savol":"3sinf o`qish darsligida berilgan \"Beminnat yordam\" rivoyatida bog`bon qanday daraxt ekdi?",
+       "A":"Terak",
+       "B":"Qayrag`och",
+       "C":"Tok",
+       "D":"Tol"
+    },
+    {
+       "savol":"Topishmoqning javobini aniqlang ; Kelib og`zini ochar, Tishlab olsa, qochar.",
+       "A":"qaychi",
+       "B":"arra",
+       "C":"ombur",
+       "D":"randa"
+    },
+    {
+       "savol":"Kema 1000 ta yo`lovchi va 30 ta ekipaj a`zolariga mo`ljallangan. Har bir qutqaruv qayig`iga faqat 50 ta odam sig`adi. Zarurat tug`ilganda barcha yo`lovchilar va barcha ekipaj a`zolarini joylashtirish uchun, kemada qancha qutqaruv qayig`i bo`lishi kerak?",
+       "A":"21 ta",
+       "B":"20 ta",
+       "C":"30 ta",
+       "D":"22 ta"
+    },
+    {
+       "savol":"Tanzilla to`g`riburchak shaklidagi salfetkaga kashta tikmoqchi. Salfetka tomonlari o`lchamlari 20 sm va 30 sm. Tanzillaga qancha santimetr kashta kerak bo`ladi?",
+       "A":"100 sm",
+       "B":"150 sm",
+       "C":"200 sm",
+       "D":"50 sm"
+    },
+    {
+       "savol":"Sinf 6 dan sanamoqda; 6,12,18 ... har bir o`quvchibitta sonni aytdi. Agar oxirgi son 96 bo`lsa, sinfda nechta o`quvchi bor?",
+       "A":"19 o`quvchi",
+       "B":"16 o`quvchi",
+       "C":"15 o`quvchi",
+       "D":"12 o`quvchi"
+    },
+    {
+       "savol":"Dam olish haftasida chorshanba bor. Bu fikr ...",
+       "A":"To`g`ri",
+       "B":"Ehtimoli kam",
+       "C":"To`g`ri bo`lishi mumkin",
+       "D":"Mumkin emas"
+    },
+    {
+       "savol":"5 kishi uchrashib, qo`l berib ko`rishishdi. Qancha qo`llar bir-biri bilan ko`rishishdi?",
+       "A":"15",
+       "B":"20",
+       "C":"10",
+       "D":"5"
+    },
+    {
+       "savol":"Nodiraning cho`ntagida yong`oqlar bor. O`ng cho`ntagidagi yong`oqlar chapdagi cho`ntagidan 2 marta ko`p. Agar Nodiraning hammasi bo`lib 15 ta yong`og`i bo`lsa, o`ng cho`ntagida nechta yong`oq bo`lgan?",
+       "A":"6",
+       "B":"10",
+       "C":"12",
+       "D":"5"
+    },
+    {
+       "savol":"Uchta archadan 27 ta qush o`tirgan edi. Agar birinchi archadan ikkinchi archaga 5 ta qush uchib o`tsa, ikkinchi archadan uchinchisiga 3 ta qush uchib o`tgandan so`ng, har bir archadagi qushlar soni teng bo`ldi. Dastlab ikkinchi archada nechta qush o`tirgan edi?",
+       "A":"9",
+       "B":"6",
+       "C":"7",
+       "D":"14"
+    },
+    {
+       "savol":"Tarkibida o`simlik uchun ozuqa bo`ladigan moddalar yetarli bo`lgan tuproq qanday nomlanadi?",
+       "A":"Donador tuproq",
+       "B":"Bo`z tuproq",
+       "C":"Unumdor tuproq",
+       "D":"Berch tuproq"
+    },
+    {
+       "savol":"Quyidagi qaysi viloyatdan granit qazib olinmaydi?",
+       "A":"Samarqand",
+       "B":"Namangan",
+       "C":"Sirdaryo",
+       "D":"Toshkent"
+    },
+    {
+       "savol":"Quyidagilarning qaysi biri qora metall hisoblanadi?",
+       "A":"Oltin",
+       "B":"Mis",
+       "C":"Temir",
+       "D":"Kumush"
+    },
+    {
+       "savol":"Ko`mir necha xil bo`ladi?",
+       "A":"3",
+       "B":"5",
+       "C":"2",
+       "D":"4"
+    },
+    {
+       "savol":"Xalqimiz shunday deydi; \"Hunar-zar, hunarsiz-xor\" nima uchun bosh harf bilan yoziladi",
+       "A":"Muallifning gapi ko`chirma gapdan oldin kelsa",
+       "B":"To`g`ri javob berilmagan",
+       "C":"Ko`chirma gap oxirida kelsa",
+       "D":"Muallifning gapi o`rtasida kelsa"
+    },
+    {
+       "savol":"Qaysi javobda ng harflar birikmasi ishtirok etmagan?",
+       "A":"barcha shodliklar senga bo`lsin, bor sitam zorlik menga, Barcha dildorlik senga-yu, barcha xushtorlik menga",
+       "B":"o`qituvchim. ustozim, yaqinsiz yuragimga, Har so`zingiz mo`tabar, qanotdir tilagimga.",
+       "C":"Sahroyi Kabirda yozsam ko`nglimni, Ruhimda chinorday turding, Vatanim",
+       "D":"Dunyo dunyo bo`lib yaraldi qachon, Hayot ohanglari taraldi qachon?"
+    },
+    {
+       "savol":"Ota-bobolarimiz, momolarimiz yoshligimizdan-oq ozodalik, saramjon-sarishtalik, halollik va harom-xarish haqida yetarli tushinchalar, ma`lumotlar berib, ularni imkoniyat darajasida o`ziga xos pand-nasihatlar bilan ongigimizga singdirishga urunganlar. Ushbu gapda nechta so`zda imloviy xatolik uchraydi?",
+       "A":"3",
+       "B":"4",
+       "C":"2",
+       "D":"5"
+    },
+    {
+       "savol":"Qaysi javobda buyruq gap berilgan?",
+       "A":"Avval o`yla keyin so`yla",
+       "B":"Sayoq yurgan tayoq yer",
+       "C":"Qalovini topsa, qor ham yog`adi",
+       "D":"ish ishtaha ochar, dangasa ishdan qochar"
+    },
+    {
+       "savol":"Qaysi gapda uch xil kelishik qo`shimchasi qo`llangan?",
+       "A":"Majnuntolning yuvilgan sochlarini taraydi.",
+       "B":"Mehrining nurini baxsh etadi har yoshga.",
+       "C":"Ikki yaproq bir tanda kezar yozda chamanda.",
+       "D":"Unga loyiq maqol bor; \"Bekorchidan el bezor\". "
+    },
+    {
+       "savol":"Qaysi javobda sifat yasovchi qo`shimcha ta`sirida asosda tovush o`zgarishi yuz bergan?",
+       "A":"bo`yoq",
+       "B":"taroq",
+       "C":"qaynoq",
+       "D":"o`tloq"
+    },
+    {
+       "savol":"Nuqtalar o`rniga mos javobni aniqlang: Berilgan yig`indi va qo`shiluvchilardan biri bo`yticha ikkinchi qo`shiluvchini topish ... deyiladi.",
+       "A":"Qo`shish",
+       "B":"Bo`lish",
+       "C":"Ayirish",
+       "D":"Ko`paytirish"
+    },
+    {
+       "savol":"To`g`ri to`rtburchakning yuzi 40 kv.sm. Eni bo`ying uzunligini 10 joizini tashkil etadi. Uning bo`yining uzunligini toping?",
+       "A":"10 sm",
+       "B":"20 sm",
+       "C":"24 sm",
+       "D":"22 sm"
+    },
+    {
+       "savol":"\"Kichik Vatan\" asarining janri va muallifini aniqlang.",
+       "A":"hikoya N.Norqobil",
+       "B":"hikoya A.Jo`rayev",
+       "C":"she`r Q.Hikmat",
+       "D":"she`r Sh.Sa`dulla"
+    },
+    {
+       "savol":"angara daryosi qaysi ko'lda oqib chiqadi",
+       "A":"balxash",
+       "B":"baykal",
+       "C":"onega",
+       "D":"kaspiy"
+    },
+    {
+       "savol":"10 ichida qo`shish va ayirishni o`rganishda qaysi xossa bilan tanishadilar?",
+       "A":"O`rin almashtirish",
+       "B":"Distributivlik va kommutativlik",
+       "C":"Tranzitiv va Distributivlik",
+       "D":"Tranzitiv, Distributivlik"
+    },
+    {
+       "savol":"So`z turkumlarini o`rganish bilan bog`liq holda so`zning tarkibi ustida ishlash qaysi sinflarga to`g`ri keladi?",
+       "A":"2-3-sinflarga",
+       "B":"1-4-sinflarga",
+       "C":"3-4-sinflarga",
+       "D":"1-2-sinflarga"
+    },
+    {
+       "savol":"Sinfdan tashqari ishlarni tashkil etish turlari.",
+       "A":"Barcha javoblar to`g`ri",
+       "B":"Matematika to`garagi va matematik tanlovlar",
+       "C":"Matematik ekskursiya",
+       "D":"Matematika kechasi"
+    },
+    {
+       "savol":"matematik tushunchalarni shaklantirish va rivojlantirish qaysi sinfdan boshlab o`rganiladi?",
+       "A":"2 sinfda",
+       "B":"1 sinfda",
+       "C":"3 sinfda",
+       "D":"4 sinfda"
+    },
+    {
+       "savol":"Buvi sharbat qaynatdi.Sharbat uchun 2 kg olma, 1 kg shakar 3 litr suv ishlatiladi. Ular 12 kg olma sharbatini qaynatish uchun necha kg shakar va qancha suv kerak bo`ladi?",
+       "A":"6 kg shakar va 18 litr suv",
+       "B":"6 kg shakar va 12 litr suv",
+       "C":"4 kg shakar va 12 litr suv",
+       "D":"5 kg shakar va 18 litr suv"
+    },
+    {
+       "savol":"Tog`, adir, o`rmon, yaylov va cho`llarda o`sadigan o`simliklar nima deb ataladi?",
+       "A":"Madaniy o`simliklar",
+       "B":"Tabiiy o`simliklar",
+       "C":"Efemer va efemeroidlar",
+       "D":"Yuksak o`simliklar"
+    },
+    {
+       "savol":"Qaysi javobda o`zaro ma`nodosh fe`llar juftligi berilgan?",
+       "A":"yanglishmoq-adashmoq",
+       "B":"suvsamoq-suvlamoq",
+       "C":"takrorlamoq-sinamoq",
+       "D":"qaytmoq-ketmoq"
+    },
+    {
+       "savol":"Qaysi so`zlarga egalik qo`shilganda asosda tovush o`zgarishi sodir bo`lmaydi?",
+       "A":"qo`shiq,bilak",
+       "B":"erk,buloq",
+       "C":"xulq, ishtirok",
+       "D":"ishtiyoq, zirak"
+    },
+    {
+       "savol":"1 m necha sm?",
+       "A":"100",
+       "B":"10",
+       "C":"1",
+       "D":"1000"
+    },
+    {
+       "savol":"Eni 500 m bo`yi 1200 bo`lgan to`g`ri t`o`rtburchak shaklidagi maydon necha gektar?",
+       "A":"600",
+       "B":"6",
+       "C":"60",
+       "D":"6000"
+    },
+    {
+       "savol":"To`g`ri to`rtburchakning bo`yi 46 sm, eni bo`yining 40 foizidan 2.4 ga kichik. To`g`ri to`rtburcahkning tomonlari ayirmasi 120 sonidan necha marta kichik?",
+       "A":"4",
+       "B":"3",
+       "C":"5",
+       "D":"kichik emas"
+    },
+    {
+       "savol":"Maktabimiz bog`ida sayraydi bulbul, Beg`ubor osmonda uchar bemalol. Erkinhavolardan yayraydi ko`ngil, Biz Vatan umidi,sog`lom, barkamol. Ushbu parcha qaysi she`rdanolingan?",
+       "A":"\"Istiqbol bolalari\"",
+       "B":"\"Gulg`unchalarmiz\"",
+       "C":"\"Yurtim jamoli\"",
+       "D":"\"mardlik va aql yorug`ligi\""
+    },
+    {
+       "savol":"\"Qor odamning sovg`asi\" hikoyasida ishtirok etgan qahramonlarni aniqlang.",
+       "A":"Kamoljon, Alisher",
+       "B":"Ozod, Nosir",
+       "C":"Murod, Obid, Rustam aka",
+       "D":"Qosimjon, Odil, Tohir."
+    },
+    {
+       "savol":"Onam keng hovliga ko`lablatib suv sepdi. Ushbu gapdagi bo`laklar etma-ketligi to`g`ri ko`rsatilgan javobni belgilang.",
+       "A":"ega, aniqlovchi, hol, to`liruvchi, kesim",
+       "B":"ega, aniqlovchi, hol, hol to`ldiruvchi, kesim.",
+       "C":"ega, aniqlovchi, to`ldiruvchi, hol, to`ldiruvchi, hol, kesim",
+       "D":"ega, aniqlovchi, hol, aniqlovchi, to`ldiruvchi, kesim"
+    },
+    {
+       "savol":"Boburning otasining ismi kim?",
+       "A":"Humoyun",
+       "B":"Shphruh Mirzo",
+       "C":"Umarshayx Mirzo",
+       "D":"Mirzo Ulug`bek"
+    },
+    {
+       "savol":"3-sinf o`qish darsligida berilgan \"Jumboq hikoya\" hikoyasining muallifi kim?",
+       "A":"Muhabbat Hamidova",
+       "B":"Abdulla Avloniy",
+       "C":"Mirkarim Osim",
+       "D":"Safar Barnoyev"
+    },
+    {
+       "savol":"3-sinf o`qish darsligida berilgan \"Ona tilim\" hikoyasining muallifi kim?",
+       "A":"Quddus Muhammadiy",
+       "B":"Tursunboy Adashboyev",
+       "C":"Abdulla Oripov",
+       "D":"Qudrat Hikmat"
+    },
+    {
+       "savol":"O`zbekiston Respublikasining ma`muriy xaritasidan nimalar haqida ma`lumotlarni olish mumkin?",
+       "A":"Qoraqalpog`iston Respublikasi qayerda joylashganligi, hududining kattaligi, foydali qazilmalar va chegaradosh qo`shnilari haqida",
+       "B":"Qoraqalpog`iston Respublikasi va har bir viloyat qayerda joylashganligi, hududining kattaligi va chegaradosh qo`shnilari haqida",
+       "C":"har bir viloyat qayerda joylashganligi, hududining kattaligi va chegaradosh qo`shnilari, tabiati, iqlimi haqida",
+       "D":"Qoraqalpag`istan Respublikasi va har bir viloyat qayerda joylashganligi va chegaradosh qo`shnilari, iqlimi va suvlari haqida"
+    },
+    {
+       "savol":"O`quvchilar lug`at boyligini oshirish maqsadida har kuni nechta yangi so`z o`rganishi kerak?",
+       "A":"4-6 ta",
+       "B":"6-8 ta",
+       "C":"8-10 ta",
+       "D":"4-5 ta"
+    },
+    {
+       "savol":"Umumiy o`rta ta`lim muassasalarining dars jadvalini ishlab chiqish uchun nima asos bo`ladi?",
+       "A":"Tayanch o`quv reja",
+       "B":"O`quv dasturi",
+       "C":"O`quv metodik majmua",
+       "D":"Malaka talablari"
+    },
+    {
+       "savol":"Jamoaning rivojlanish darajasini aniqlashning eng ishonchli usuli",
+       "A":"Anketa tarqatish pedagogik vaziyatlarni vujudga keltirishningdan iborat",
+       "B":"o`quvchilarni darsda, darsdan tashqari, maktabda, maktabdan tashqarida o`zaro faol hamkorlik qilish jarayonida kuzatishdan iborat ",
+       "C":"bolalarning xulq-atvorini jamoa bo`lib tahlil etishdan iborat",
+       "D":"Tushuntirish va suhbat usulidan"
+    },
+    {
+       "savol":"Didaktik maqsadga ko`ra ona tilidan dars turlari to`g`ri ko`rsatilgan javobni aniqlang.",
+       "A":"yangi mavzu o`rganiladigan, aralash darslar, umumlashtiruvchi dars, ta`limiy bayon darslari",
+       "B":"Tekshirish darsi, umumlashtirish darsi",
+       "C":"Yangi mavzuni o`rganish, bilimni mustahkamlash, bilimlarni hisobga olish darslari, aralash darslar",
+       "D":"Til dalillarini kuzatish, takrorlash, umumlashtirish, yangi mavzuni o`rganish"
+    },
+    {
+       "savol":"Sinfdan tashqari ishlarni tashkil etish turlari.",
+       "A":"matematika to`garagi va matematik tanlovlar",
+       "B":"matematik ekskursiya",
+       "C":"Barcha javoblar to`g`ri",
+       "D":"matematika kechasi"
+    },
+    {
+       "savol":"Ona tili o`qitish metodikasining metodologik asosini nima tashkil etadi?",
+       "A":"Borliqni bilsih nazariyasi",
+       "B":"Barcha qonun-qoidalar",
+       "C":"Tilning mavjudligi",
+       "D":"Lug`at boyligi"
+    },
+    {
+       "savol":"Qaysi sayyoralar Quyosh sistemasidagi katta sayyoralar turkumiga mansub?",
+       "A":"Yupiter, Saturn, Uran, Oy",
+       "B":"yupiter, Mars, Uran, Neptun",
+       "C":"Yupiter, Saturn, Uarn, Neptun",
+       "D":"Yupiter, Saturn, Venera, Neptun"
+    },
+    {
+       "savol":"Tog` o`simliklari orasida qanday zaharli o`simliklar uchraydi?",
+       "A":"Mushukquyruq, toron, qiziltikan",
+       "B":"Ixroj, akonit, prangos, bangidevona",
+       "C":"Nor shirach, kobra shirach, tog`beka",
+       "D":"Kallakchali to`ng`izbosh, kiyiko`t, oq tobulg`i"
+    },
+    {
+       "savol":"tabiat yodgorliklari keltirilgan qatorni aniqlang.",
+       "A":"Qo`ytosh, Qirqqiz, Odamtosh, Zomin davlat qo`riqxonasi",
+       "B":"Teshiktosh g`ori, Obirahmat g`ori, Xo`jalentdagi qadimgi chinorlar",
+       "C":"Qo`ytosh, Surxon davlar qo`riqxonasi, Qirqqiz, Odamtosh",
+       "D":"teshiktosh go`ri,Obirahmat g`ori, Parkent archazorlari va Tashkent sity"
+    },
+    {
+       "savol":"3-sinf o`qish darsligida berilgan \"Mttivoy Va Karlson\" asarining muallifi berilgan qatorni aniqlang.",
+       "A":"Anvarbek Duysinbiyev",
+       "B":"Astrid Lindgren",
+       "C":"Janni Rodari",
+       "D":"Karlo Kollodi"
+    },
+    {
+       "savol":"3-sinf o`qish darsligida berilgan \"Pinokkioning sarguzashtlari\" ertagida keksa Jepettoga bolalar nima deb laqab qoyishgan edi?",
+       "A":"Zog`ora baliq",
+       "B":"Kulcha Jepetto",
+       "C":"Zog`ora non",
+       "D":"Shirmoy non"
+    },
+    {
+       "savol":"O`nlik kasr ko`rinishida yozing: 348/10",
+       "A":"3.48",
+       "B":"34.8",
+       "C":"0.348",
+       "D":"348"
+    },
+    {
+       "savol":"Iroda 12 yoshda. Irodaning buvasi undan 5 marta katta, bobosi esa buvasidan 3 yosh katta. Irodaning bobosi necha yoshda?",
+       "A":"63",
+       "B":"60",
+       "C":"65",
+       "D":"36"
+    },
+    {
+       "savol":"Testda ko`rsatilgan sonlar ichidan 4/19 va 7/19 orasida yotadiganini aniqlang:",
+       "A":"5/19",
+       "B":"9/19",
+       "C":"3/19",
+       "D":"6/19"
+    },
+    {
+       "savol":"Buvi sharbat qaynatti. Sharbat uchun 2 kg olma, 1 kg shakar 3 litr suv ishlatildi. Ular 12 kg olma sharbatini qaynatishi uchun necha kg sahkar va qancha suv kerak bo`ladi?",
+       "A":"6 kg shakar va 18 litr suv",
+       "B":"6 kg shakar va 12 litr suv",
+       "C":"4 kg shakar va 12 litr suv",
+       "D":"5 kg shakar va 18 litr suv"
+    },
+    {
+       "savol":"Sholi ekiladigan pollarning chuqurligi qancha?",
+       "A":"30-40 sm",
+       "B":"45-50 sm",
+       "C":"45-55 sm",
+       "D":"75-90 sm"
+    },
+    {
+       "savol":"Berilgan tug`ro so`zga ma`nodosh so`zni toping.",
+       "A":"gerb",
+       "B":"hudud",
+       "C":"tamg`a",
+       "D":"bayroq"
+    },
+    {
+       "savol":"Yumshoq bug`doy navi qachon ekiladi?",
+       "A":"Kuzda",
+       "B":"Kech kuzda",
+       "C":"Bahorda",
+       "D":"Yoz va kuz oralig`ida"
+    },
+    {
+       "savol":"ketma-ket kelgan to`rtta sonning yig`indisi 170 ga teng. har bir keyingi son avvalgisidan 5 ta kam. Birinchi sonni toping.",
+       "A":"35",
+       "B":"45",
+       "C":"50",
+       "D":"55"
+    },
+    {
+       "savol":"O`quvchilarning lug`at boyligini oshirish maqsadida har kuni nechta yangi so`z o`rganish kerak?",
+       "A":"4-6 ta",
+       "B":"6-8 ta",
+       "C":"8-10 ta",
+       "D":"4-5 ta"
+    },
+    {
+       "savol":"Qaysi javobda imloviy xatolik uchraymaydi?",
+       "A":"Tafakkur zoxiriy olamning inson miyasida umumlashgan, til bilan ifodalanadigan in`ikosidir.",
+       "B":"Mavjudodning ko`rinmas ichki jihatlari ham so`z shaklida o`zlashtiriladi va til vositasi bilan o`zgalarga tushuntiriladi.",
+       "C":"Tafakkkur jarayonining natijasi hamisha biror-bir fikrdan iborat bo`lib, bu fikr tushuncha, hukm, xulosa tarzida til vositasida namoyon bo`ladi.",
+       "D":"Til va taffur doimo bir-birini taqazo qiladi, bir-birining yashashi va rivojlanishiga yordam beradi."
+    },
+    {
+       "savol":"Quyidagi asarlardan qaysi birida Registon maydonida yuz bergan yong`in haqidagi voqea tasvirlangan?",
+       "A":"\"Kitobga ixlos\" (Mirkarim Osim)",
+       "B":"\"Pahlavon va shoir\" (Hamidjon Hamidov)",
+       "C":"\"Shaxzodaning bolaligi\" (Erkin Samandar)",
+       "D":"\"Alisherning yoshligi\" (Oybek)"
+    },
+    {
+       "savol":"Qaysi gapda imloviy xatolikka yo`l qo`yilgan?",
+       "A":"Hayotning eng og`ir, eng shafqatsiz kunlarida ham o`zini mehnatga urdi.",
+       "B":"Gerb markazida himmat va fidoiylik timsoli bo`lgan Humo qushi tasvirlangan.",
+       "C":"Farzand uchun eng yaxshi ustoz - ona ekanligi tadqiqotlarda e`tirof etildi",
+       "D":"Qayoqdandir son-sanoqsiz yov bostirib kelibdi, ekinzorlarni payhon qiibdi"
+    },
+    {
+       "savol":"Ota-bobolarimiz, momolarimiz yoshligimizdanoq ozodalik, saaramjon-sarishtalik, xalollik va harom-xarish haqida yetarli tushinchalar, ma`lumotlar bilan tanishtirib, ularni imkoniyat darajasida o`ziga xos pand-u nasixatlar bilan ongimizga sindirishga urunganlar. Ushbu gapda nechta so`zda imloviy xatolik uchraydi?",
+       "A":"5",
+       "B":"4",
+       "C":"6",
+       "D":"3"
+    },
+    {
+       "savol":"Qaysi javobda buyruq gap berilmagan",
+       "A":"Oz so`zla, ko`p tingla.",
+       "B":"Ish ishtaha ochar, dangasa ishdan qochar.",
+       "C":"Yaxshiga yondosh, yomondan qoch.",
+       "D":"Oltin olma, duo ol."
+    },
+    {
+       "savol":"Qaysi javobda egalik qo`shimchasi ta`sirida tarkibida tovush tushishi yuz bergan so`z qatnashgan?",
+       "A":"Qush edim, qanotlarim qayrildi.",
+       "B":"Mening go`zal yurtimni O`zbekiston deydilar.",
+       "C":"Yigitlikda yig` ilmning mag`zini, Qarilik chog`i xarj qil oni",
+       "D":"Uning yoqimsiz qilig`i ko`pchilikni ranjitdi."
+    },
+    {
+       "savol":"Ifodani soddalashtiring. (a-7)-(b-4)=",
+       "A":"a-b-3",
+       "B":"a-b-11",
+       "C":"a-b+3",
+       "D":"a+b-11"
+    },
+    {
+       "savol":"To`g`ri to`rtburchakning eni a sm, bo`yi enidan b sm ortiq. Shu to`g`ri to`rtburchakning perimetrini toping.",
+       "A":"P=2a+4b",
+       "B":"P=2a+2b",
+       "C":"P=4a+2b",
+       "D":"P=4a-2b"
+    },
+    {
+       "savol":"\"...<<Zo`ravon>>ligi shuki, u yurgan yo`lida va o`tirgan yerida yon-veridagilarni turtib-netib, tegajog`lik qilaveradi. <<Do`mbirachi>>ligi shuki, agar sinfda biron bola xiyol yanglishsa, u lunjini pufak qilib olib, ikki barmog`i bilan <<taka-tum>>ni chalib yuboradi. O`zi yanglishganda-chi, biron kishining kulishga haddi bormi? Zo`ravonligini ko`rsatib qo`ydi-ku...\" Ushbu parchada qaysi hikoya qahramoni tasvirlangan",
+       "A":"\"Bobomning sovg`asi\"",
+       "B":"\"Yaxshi bo`ldi\"",
+       "C":"\"Qodir bilan Sobir\"",
+       "D":"\"Xatosini tushungan bola\""
+    },
+    {
+       "savol":"\"Bobomning sovg`asi\" hikoyasida ishtirok etgam qahramonlarni aniqlang.",
+       "A":"Ozod, Nosir",
+       "B":"Kamoljon, Alisher",
+       "C":"Murod, Obid, Rustam aka",
+       "D":"Qosimjon, Odil, Tohir"
+    },
+    {
+       "savol":"Psixologo-lingvistik nuqtai nazardan analitik-sintetik tovush metodida nimalarga ahamiyat beriladi?",
+       "A":"Savod o`rgatishda o`quvchining o`qish va yozishni bila olishi, gaplarni ifodali qilib o`qiy olishi hisobga olinadi",
+       "B":"Savod o`rgatishdao`quvchilarning fonometik eshitish qobiliyatlari, tovushlarning to`g`ri talaffuz qilishlari, analiz va sintez mashqlari asos qilib olinadi",
+       "C":"Savod o`rgatishda bolaning egallagan nutq malakasiga asoslanadi, tovush va harfini o`rgatishning qulay tartibi, ularning mosligi va osonligi, ta`limning tarbiyaviy va o`stiruvchan xarakteri hisobga olinadi",
+       "D":"Savod o`rgatishda o`quvchining xotirasi, tovush va harflarni taniy olishi, bo`g`inlanib o`qiy olishi asos qilib olinadi"
+    },
+    {
+       "savol":"Ona tili o`qitish metodikasi bilish nazariyasidan tashqari yana qanday fanlarning ma`lumotlariga asoslanadi?",
+       "A":"Psixologiya, pedagogika",
+       "B":"pedagogika, anatomiya",
+       "C":"Musiqa, geografiya",
+       "D":"Matematika, ona tili"
+    },
+    {
+       "savol":"Boshlang`ich sinflarda matematikadan fakultativ mashg`ulotlar qaysi sinflarda tashkil etiladi?",
+       "A":"Barcha boshlang`ich sinflarda",
+       "B":"Faqat birinchi sinfda",
+       "C":"Uchinchi sinfda",
+       "D":"Ikkinchi sinfda"
+    },
+    {
+       "savol":"O`zbekiston Respublikasining \"Ta`lim to`g`risida\"gi qonuni qachon qabul qilingan va undan boshlang`ich ta`lim necha yil deb e`lon qilingan?",
+       "A":"1998, 1-2-sinflar",
+       "B":"1997, 1-4-sinflar",
+       "C":"1993, 1-4-sinflar",
+       "D":"1996, 1-3-sinflar"
+    },
+    {
+       "savol":"Tilga oid tushunchalarni shakllantirish jarayoni shartli ravishda necha bosqichga bo`linadi?",
+       "A":"3 bosqichga",
+       "B":"5 bosqichga",
+       "C":"4 bosqichga",
+       "D":"2 bosqichga"
+    },
+    {
+       "savol":"Boshlang`ich sinf matematika kontsentrik tuzulishiga ko`ra geometriya elementlari qachon kiritiladi?",
+       "A":"100 ichida",
+       "B":"Ko`p xonali sonlar ustida",
+       "C":"10 ichida",
+       "D":"Ming ichida"
+    },
+    {
+       "savol":"Ona tili o`qitish metodikasi qanday fanlar qatoriga kiradi?",
+       "A":"Pedagogik fan",
+       "B":"Tabiiy fan",
+       "C":"Ilmiy nazariy fan",
+       "D":"ilmiy-tabiiy fan"
+    },
+    {
+       "savol":"Boshlang`ich sinflarda badiiy asar ustida ishlash nechta asosiy bosqichga bo`linadi?",
+       "A":"2 ta",
+       "B":"4 ta",
+       "C":"5 ta",
+       "D":"3 ta"
+    },
+    {
+       "savol":"Qutining balandligi 48 sm. Mashxura qutidan ikki yarim barobar baland. MAshxuraning bo`yini toping. <img src='../img/boshlan1.png' alt='boshlan1'>",
+       "A":"124 sm",
+       "B":"96 sm",
+       "C":"120 sm",
+       "D":"118 sm"
+    },
+    {
+       "savol":"Qayiq 8683 so`m turadi. Shunday 6 ta qayiq qancha turadi? <img src='../img/boshlan2.png' alt='boshlan2'> ",
+       "A":"51098 so`m",
+       "B":"52098 so`m",
+       "C":"48088 so`m",
+       "D":"52688 so`m"
+    },
+    {
+       "savol":"Rasmda nechta kub bor? <img src='../img/boshlan3.png' alt='boshlan3'>",
+       "A":"50",
+       "B":"55",
+       "C":"60",
+       "D":"45"
+    },
+    {
+       "savol":"<img src='../img/boshlan4.png' alt='boshlan4'> ushbu rasmda 3 raqami bilan odamning qaysi a`zosi ko`rsatilgan?",
+       "A":"Buyrak",
+       "B":"Jigar",
+       "C":"Yurak",
+       "D":"Ichak"
+    },
+    {
+       "savol":"<img src='../img/boshlan5.png' alt='boshlan5'> Ushbu rasmda 2 raqami bilan nima ko`rsatilgan?",
+       "A":"Tos suyagi",
+       "B":"Umurtqa pog`onasi",
+       "C":"Bosh suyagi",
+       "D":"Ko`krak qafasi"
+    },
+    {
+       "savol":"Diagrammada maktabdagi o`quvchilar soni ko`rsatilgan. <img src='../img/boshlan6.png' alt='boshlan6'> So`ngi ikki yildagi maktabdagi barcha o`quvchilar sonini hisoblang.",
+       "A":"150",
+       "B":"255",
+       "C":"254",
+       "D":"250"
+    },
+    {
+       "savol":"<img src='../img/boshlan20.png' alt='boshlan20'> Ushbu rasmda qaysi daraxt tasvirlangan?",
+       "A":"Shumtol",
+       "B":"Terak",
+       "C":"Eman",
+       "D":"Qayin"
+    },
+    {
+       "savol":"Rasmda nechta har xil plitka bor? <img src='../img/boshlan7.png' alt='boshlan7'>",
+       "A":"4",
+       "B":"3",
+       "C":"2",
+       "D":"Ular bir xil"
+    },
+    {
+       "savol":"Shaklning yuzini toping. <img src='../img/boshlan8.png' alt='boshlan8'>",
+       "A":"57 cm<sup2>",
+       "B":"48 cm<sup2>",
+       "C":"60 cm<sup2>",
+       "D":"75 cm<sup2>"
+    },
+    {
+       "savol":"har bir qog`oz paketdagi olamalar soni teng. Bu yerda barchasi 35 ta olma bor. Uchinchi paketda qancha olma bor? <img src='../img/boshlan9.png' alt='boshlan9'> ",
+       "A":"9",
+       "B":"13",
+       "C":"11",
+       "D":"10"
+    },
+    {
+       "savol":"<img src='../img/boshlan4.png' alt='boshlan4'> Ushbu rasmda 4 raqami bilan odamning qaysi a`zosi ko`rsatilgan?",
+       "A":"Jigar",
+       "B":"Oshqozon",
+       "C":"Yurak",
+       "D":"Ichak"
+    },
+    {
+       "savol":"Quyidagilardan qaysinisi tabiat hodisasi emas?",
+       "A":"<img src='../img/boshlan10.png' alt='boshlan10'>",
+       "B":"<img src='../img/boshlan11.png' alt='boshlan11'>",
+       "C":"<img src='../img/boshlan12.png' alt='boshlan12'>",
+       "D":"<img src='../img/boshlan13.png' alt='boshlan13'>"
+    },
+    {
+       "savol":"Tomonlari 60 sm va 9 sm bo`lgan to`g`ri burchakli to`rtburchakdan tomoni 3 sm bo`lgan kvadrat qirqib olindi. Qolgan qismining yuzini toping. <img src='../img/boshlan14.png' alt='boshlan14'>",
+       "A":"54 cm<sup2>",
+       "B":"64 cm<sup2>",
+       "C":"45 cm<sup2>",
+       "D":"30 cm<sup2>"
+    },
+    {
+       "savol":"Menga 4 ta har xil raqamli parol kerak. Men raqamlar yig`indisi eng katta bo`lgan kodni tanladim. Raqamlar yig`indisini toping. <img src='../img/boshlan15.png' alt='boshlan15' ",
+       "A":"30",
+       "B":"31",
+       "C":"28",
+       "D":"29"
+    },
+    {
+       "savol":"Berilgan shakllardan paralapipedni tanlang.",
+       "A":"<img src='../img/boshlan16.png' alt='boshlan16'",
+       "B":"<img src='../img/boshlan17.png' alt='boshlan17'",
+       "C":"<img src='../img/boshlan18.png' alt='boshlan18'",
+       "D":"<img src='../img/boshlan19.png' alt='boshlan19"
+    }
+ ]

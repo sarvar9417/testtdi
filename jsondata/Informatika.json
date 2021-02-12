@@ -1,0 +1,779 @@
+[
+    {
+       "savol":"Excel ish kitobi sahifalarini(list) ko'chirish yoki ulardan nusxa olish qanday amlga oshiriladi?",
+       "A":"List nomlari keltirilgan qatorning konteksli menyusidan скопироват / переместит buyrug'i orqali",
+       "B":"Fayl menyusidan переместит/скопироват buyrug'i orqali",
+       "C":"List nomlari keltirilgan qatorning переместит/скопироват buyrug'i orqali",
+       "D":"Vid menyusidan переместит/скопироват buyrug'i orqali"
+    },
+    {
+       "savol":" Vali 9 lik sanoq sistemasidagi sonlarni 6 dan boshlab ketma ket joy qoldirmay yoza boshladi. Vali yozgan sonlar 12 ta bo'lsa, so'ngi sonni.",
+       "A":"18",
+       "B":"20",
+       "C":"21",
+       "D":"17"
+    },
+    {
+       "savol":" Vali 16 lik sanoq sistemasidagi sonlarni F dan boshlab ketma ket joy qoldirmay yoza boshladi. Vali yozgan raqamlar soni 23 ta bo'lsa, oxirgi raqamni aniqlang.",
+       "A":"A",
+       "B":"B",
+       "C":"9",
+       "D":"C"
+    },
+    {
+       "savol":"Ali tomonlari 1101(2) va 101(2) bo'lgan to'g'ri to'rtburchakli xona polini bo'yayotgan edi. Xonaning tomoni 111(2) bo'lgan kvadrat qismiga bo'yoq yetmay qoldi. Ali bo'yagan joyni yuzasini aniqlang.",
+       "A":"10000",
+       "B":"10101",
+       "C":"10010",
+       "D":"10011"
+    },
+    {
+       "savol":" Vali 2 lik sanoq sistemasidagi sonlarni 0 dan boshlab ketma ket joy qoldirmay yoza boshladi. Vali yozgan raqamlar soni 46 ta bo'lsa, Vali yozgan oxirgi sonni aniqlang.",
+       "A":"1110",
+       "B":"10111",
+       "C":"10001",
+       "D":"110"
+    },
+    {
+       "savol":" Vali 2 lik sanoq sistemasidagi sonlarni 7 dan boshlab ketma ket joy qoldirmay yoza boshladi. Vali yozgan raqamlar soni 55 ta bo'lsa, Vali yozgan oxirgi sonni aniqlang.",
+       "A":"10011",
+       "B":"10000",
+       "C":"110111",
+       "D":"11111"
+    },
+    {
+       "savol":"MS Wordda hujjat boshiga o'tish uchun qaysi klavishlar kombinatsiyasi bosiladi.",
+       "A":"CTRL+HOME",
+       "B":"CTRL+Up",
+       "C":"CTRL+PAGEUP",
+       "D":"CTRL+ENTER"
+    },
+    {
+       "savol":"Shunday natural N(2) sonni topingki, 127(10) sonidan N sonini ayirgandagi natijaning 2 lik sanoq sistemasidagi ko'rinishi faqat 1 lardan iborat bo'lsin.",
+       "A":"1000000",
+       "B":"1111111",
+       "C":"1010010",
+       "D":"101110"
+    },
+    {
+       "savol":" Vali 8 lik sanoq sistemasidagi sonlarni 7 dan boshlab ketma ket joy qoldirmay yoza boshladi. Vali yozgan raqamlar soni 27 ta bo'lsa, oxirgi raqamni aniqlang.",
+       "A":"4",
+       "B":"0",
+       "C":"2",
+       "D":"3"
+    },
+    {
+       "savol":" Vali 8 lik sanoq sistemasidagi sonlarni 7 dan boshlab ketma ket joy qoldirmay yoza boshladi. Vali yozgan raqamlar soni 27 ta bo'lsa, oxirgi sonni aniqlang.",
+       "A":"24",
+       "B":"20",
+       "C":"22",
+       "D":"17"
+    },
+    {
+       "savol":"Soli chorak davomida 10(3), 12(3), 11(3), 11(3), 10(3), 12(3), 12(3), 10(3), 11(3) baholar oldi. Ustozi uning chorak bahosiga shu baholarning o'rta arifmatigini qo'ydi, Solining chorak bahosini 2lik sanoq sistemasida aniqlang.",
+       "A":"100",
+       "B":"101",
+       "C":"11.5",
+       "D":"11"
+    },
+    {
+       "savol":"Shunday natural N(2) sonni topingki, 151(10) sonidan N sonini ayirgandagi natijaning 2 lik sanoq sistemasidagi ko'rinishi faqat 1 lardan iborat bo'lsin.",
+       "A":"11000",
+       "B":"10011",
+       "C":"1111",
+       "D":"111101"
+    },
+    {
+       "savol":"Shunday natural N(10) sonni topingki, 151(10) sonidan N sonini ayirgandagi natijaning 2 lik sanoq sistemasidagi ko'rinishi faqat 1 lardan iborat bo'lsin.",
+       "A":"24",
+       "B":"20",
+       "C":"32",
+       "D":"12"
+    },
+    {
+       "savol":"Quyida berilgan ifoda natijasidagi 1 raqamlari sonini aniqlang: 10111*10111+10*10",
+       "A":"2",
+       "B":"3",
+       "C":"4",
+       "D":"5"
+    },
+    {
+       "savol":"Quyidagi ifoda natijasi rost bo'ladigan eng kichik butun sonni toping: NOT(x<9) AND NOT(x-toq son)",
+       "A":"8",
+       "B":"9",
+       "C":"10",
+       "D":"11"
+    },
+    {
+       "savol":"Ali aytdi \"Halil 2dan katta ball oldi\", Vali aytdi \"Halil 3 dan katta ball oldi\", Soli aytdi \"Halil 4 dan katta ball oldi\". Agar ular aytgan mulohazalardan faqat bittasi rost bo'lsa, u holda Halil olgan ballni aniqlang.",
+       "A":"3",
+       "B":"2",
+       "C":"5",
+       "D":"4"
+    },
+    {
+       "savol":"Likobchada olma, nok , anor, bor edi. Ali, Vali, va Soli likobchadagi mevalarni bo'lib olishdi. Quyidagi mulohazalarning faqat bittasi rostligi ma'lum: \"Ali olma olgan\", \"Vali anor olgan\", \"Soli nok olmagan\", agar Soli olma olmagani ma'lum bo'lsa, u holda ularnig har biri olgan mevani aniqlang.",
+       "A":"Ali-nok, Vali-olma, Soli-anor",
+       "B":"Ali-anor, Vali-olma, Soli-nok",
+       "C":"Ali-olma, Vali-nok, Soli-anor",
+       "D":"Ali-olma, Vali-anor, Soli-nok"
+    },
+    {
+       "savol":"Quyidagi ifoda natijasi rost bo'ladigan eng katta butun sonni aniqlang: NOT(x<=15) AND (x<20)",
+       "A":"19",
+       "B":"15",
+       "C":"16",
+       "D":"20"
+    },
+    {
+       "savol":"Ali, Vali va Soli imtihonda 3 xil ball olishdi: 3 yoki 4 yoki 5. Quyidagi mulohazalardan faqat bittasi rostligi ma'lum. \"Ali 3 ball olgan\", \"Vali 5 ball olgan\", \"Soli 4 ball olmagan\". Agar Ali 4 ball olmagani ma'lum bo'lsa. U holda o'quvchilar olgan ballarni aniqlang.",
+       "A":"Ali-5 ball, Vali-4 ball, Soli-3 ball",
+       "B":"Ali-5 ball, Vali-3 ball, Soli-4 ball",
+       "C":"Ali-3 ball, Vali-4 ball, Soli-5 ball",
+       "D":"Ali-3 ball, Vali-5 ball, Soli-4 ball"
+    },
+    {
+       "savol":"Qaysi javobda kompyuterni virus bilan zararlanishiga olib keluvchi ehtimollik ko'rsatilgan?",
+       "A":"Turli disklar va tarmoqdan foydalanish",
+       "B":"Bemor odam kompyuterdan foydalanishi",
+       "C":"Man badagi elektr tokini ko'payib yoki kamayib ketishi",
+       "D":"Kompyuterni iflos holda saqlash"
+    },
+    {
+       "savol":"Quyidagi ifoda natijasi rost bo'ladigan eng kichik butun sonni toping: NOT(x<9) AND NOT(x-toq son)",
+       "A":"10",
+       "B":"9",
+       "C":"8",
+       "D":"11"
+    },
+    {
+       "savol":"Wordda jadvalning o'zaro qo'shni yacheykalarini birlashtirish qanday amalga oshiriladi?",
+       "A":"Maket-Obyedineniye-Obyedinit yacheyki - buyrug'i tanlanadi",
+       "B":"MAket-Viravneniye - buyrug'i tanlanadi",
+       "C":"Maket-Stroki i Stolbsi-Udalit - buyrug'i tanlanadi",
+       "D":"Konstruktor-Stili tablits - buyrug'i tanlanadi"
+    },
+    {
+       "savol":"Ma'lumotlar ombori nima?",
+       "A":"Biror predmet sohasidan olingan aniq obyektlar haqida aniq ma'lumotlar to'plami",
+       "B":"Ma'lumotlat ombori yordamida bazaga yangi ma'lumotlar kiritiladi yoki borlari ko'rib chiqiladi",
+       "C":"Bu ma'lumotlar saqlanadigan fayl",
+       "D":"Ma'lumotlar bilan to'ldirilgan ixtiyoriy jadval"
+    },
+    {
+       "savol":"Fayllar nomlari, ularning hajmi, yaratilgan yoki yangilangan vaqti va h.z alr saqlanadigan diskdagi maxsus joyga ... deyiladi?",
+       "A":"Katalog",
+       "B":"Yorliq",
+       "C":"Menyu",
+       "D":"Dastur"
+    },
+    {
+       "savol":"Ali aytdi: Ikkilik sanoq sistemasida ketma-ket kelgan 3 ta natural sonning o'rta arifmetigi natural son bo'ladi. Vali aytdi: Uchlik sanoq sistemasida ketma ket kelgan 4 ta natural sonning o'rta arifmetigi natural son bo'ladi. Ular aytgan mulohazalarning mantiqiy natijasini  aniqlang.",
+       "A":"Ali=yolg'on, Vali=rost",
+       "B":"Ali=rost, Vali-rost",
+       "C":"Ali=rost, Vali=yolg'on",
+       "D":"Ali=yolg'on, Vali=yolg'on"
+    },
+    {
+       "savol":"Quyidagi Ifoda natijasi rost bo'ladigan eng kichik butun sonni aniqlang: NOT(X<=43) AND NOT(X sonida ikkita bir xil raqam qatnashmagan)",
+       "A":"44",
+       "B":"45",
+       "C":"55",
+       "D":"43"
+    },
+    {
+       "savol":"Ali aytdi \"Halil 3 dan kichik ball oldi\", Vali aytdi \"Halil 4 dan kichik ball oldi\", Soli aytdi \"Halil 5 dan kichik ball oldi\". Agar ular aytgan mulohazalardan faqat bittasi rost bo'lsa, u holda Halil olgan ballni aniqlang.",
+       "A":"4",
+       "B":"2",
+       "C":"5",
+       "D":"3"
+    },
+    {
+       "savol":"Quyidagi butun sonlardan NOT(X>49) AND NOT(X<9)=Yolg'on tenglikni qanoatlantiradiganlarini aniqlang: 2, 50, 49, 123, 45, 16, 15, 42, 66",
+       "A":"2, 50, 123, 66",
+       "B":"49, 45, 16, 15, 42",
+       "C":"50",
+       "D":"2"
+    },
+    {
+       "savol":"Quyidagi butun sonlardan NOT(X>49) AND NOT(X<9)=Rost tenglikni qanoatlantiradiganlarini aniqlang: 2, 50, 49, 123, 45, 16, 15, 42, 66",
+       "A":"49, 45, 16, 15, 42",
+       "B":"2, 50, 123, 66",
+       "C":"50",
+       "D":"2"
+    },
+    {
+       "savol":"Ali daftar, kitob, yozuv qurollarini 3 xil rangli qutilarda saqlaydi. U shunday dedi: qizil quti daftarlardan o'ngroqda, kitoblar esa qizil sandiqdan o'ngroqda joylashgan, Agar yashil quti sariq qutidan chaproqda joylashgan bo'lsa, u holda kitoblar solingan qutining rangini aniqlang.",
+       "A":"sariq",
+       "B":"yashil",
+       "C":"qizil",
+       "D":"aniqlab bo'lmaydi"
+    },
+    {
+       "savol":"Ali daftar, kitob, yozuv qurollarini 3 xil rangli qutilarda saqlaydi. U shunday dedi: qizil quti daftarlardan o'ngroqda, kitoblar esa qizil sandiqdan o'ngroqda joylashgan, Agar yashil quti sariq qutidan o'ngroqda joylashgan bo'lsa, u holda kitoblar solingan qutining rangini aniqlang.",
+       "A":"yashil",
+       "B":"sariq",
+       "C":"qizil",
+       "D":"aniqlab bo'lmaydi"
+    },
+    {
+       "savol":"Arxiv fayl nima? Bu - ...",
+       "A":"bir yoki bir nechta fayllarning zichlangan holda yagona faylga birlashtirilishi",
+       "B":"arxivlashning bir turi",
+       "C":"arxiv dasturi joylashgan papkadagi fayl",
+       "D":"maxsus papka bo'lib unda fayllar saqlanadi."
+    },
+    {
+       "savol":"Muayyan asosga ega sanoq sistemasida 12 soni 110 shaklida yoziladi. Ushbu asosni ko`rsating. ",
+       "A":" 3",
+       "B":" 2",
+       "C":" 4",
+       "D":" 5"
+    },
+    {
+       "savol":"  126 sonini ikkilik yozuvdagi muhim nollari nechta?",
+       "A":" 1",
+       "B":" 0",
+       "C":" 2",
+       "D":" 3"
+    },
+    {
+       "savol":"MS Wordda WordArt ni ishga tushirish uchun ... ",
+       "A":"VStavka obyektidan WordArt buyrug'i tanalanadi",
+       "B":"Fayl obyektidan WordArt buyrug'i tanalanadi",
+       "C":"Dizayn obyektidan WordArt buyrug'i tanalanadi",
+       "D":"Parametri stranitsa obyektidan WordArt buyrug'i tanalanadi"
+    },
+    {
+       "savol":"Ali aytdi: \"Ikkilik sanoq sistemasida ketma ket kelgan 4 ta natural sonning yig'indisi 11(2) ga bo'lganda natural son bo'ladi\", Vali aytdi: \"Uchlik sanoq sistemasida ketma-ket kelgan 6 ta natural sonning yig'indisini 10(3) ga bo'lganda natural son hosil bo'ladi\". Ularning mulohazalrining mantiqiy natijasini aniqlang. Qavslar ichida sanoq sistemasining asosi berilgan. ",
+       "A":"Ali=yolg'on, Vali=rost",
+       "B":"Ali=yolg'on, Vali=yolg'on",
+       "C":"Ali=rost, Vali=yolg'on",
+       "D":"Ali=rost, Vali=rost"
+    },
+    {
+       "savol":"MS Excel. A1=3 va B1=4 bo'lsin. A1:B1 blok belgilandi va 1-satr bo'ylab chapdan o'ngga BA1 katakkacha avtoto'ldirish marker yordamida nusxalandi, ya'ni blokning o'ng quyi burchagida joylashgan qora kvadrat belgisini sichqoncha yordamida ushlab 1-satr bo'ylab chapdan o'ngga siljitildi. AF1 katak qiymatini aniqlang. Foydali ma'lumot - alifbo: ABCDEFGHIJKLMNOPQRSTUVWXYZ ",
+       "A":"34",
+       "B":"41",
+       "C":"3",
+       "D":"27"
+    },
+    {
+       "savol":"MS Excel. A1=5 va B1=6 bo'lsin. A1:B1 blok belgilandi va 1-satr bo'ylab chapdan o'ngga BA1 katakkacha avtoto'ldirish marker yordamida nusxalandi, ya'ni blokning o'ng quyi burchagida joylashgan qora kvadrat belgisini sichqoncha yordamida ushlab 1-satr bo'ylab chapdan o'ngga siljitildi. AC1 katak qiymatini aniqlang. Foydali ma'lumot - alifbo: ABCDEFGHIJKLMNOPQRSTUVWXYZ ",
+       "A":"33",
+       "B":"40",
+       "C":"3",
+       "D":"27"
+    },
+    {
+       "savol":"Kompyuterning tizimli bloki qaysi qurulmalardan tashkil topgan? ",
+       "A":"Asosiy plata, qattiq disk, tezkor xotira, disk yurutuvchi, elektr ta'minlagich",
+       "B":"Qattiq disk, tezkor xotira, protsessor",
+       "C":"Asosiy plata, Qattiq disk, tezkor xotira protsessor",
+       "D":"Modem, qattiq disk, tezkor xotira, protsessor, ta'minlagich"
+    },
+    {
+       "savol":"Qaysi javobda axborot tashuvchi vositalar keltirilgan? ",
+       "A":"Kitob, disk, fleshka",
+       "B":"Televizor, skaner",
+       "C":"Telefon, kalonka",
+       "D":"Ruchka, printer"
+    },
+    {
+       "savol":"Qanday turdagi printerlar mavjud",
+       "A":"Lazerli, purkagichli, ignali",
+       "B":"Epson, HP Laser Jet",
+       "C":"EGA, VGA, SVGA",
+       "D":"Compaq, Pentium"
+    },
+    {
+       "savol":"MS Excel dasturida daraja amalini ko'rsating ",
+       "A":"^",
+       "B":"**",
+       "C":"/",
+       "D":"&"
+    },
+    {
+       "savol":"MS Word dasturi ma'lumotnomasini (Spravka) chiqarish qaysi tugma orqali amlga oshiriladi? ",
+       "A":"F1",
+       "B":"F10",
+       "C":"F5",
+       "D":"F2"
+    },
+    {
+       "savol":"Excel ish kitoni sahifalarini(list) ko'chirish yoki ulardan nusxa olish qanday amlga oshiriladi?",
+       "A":"List nomlari keltirilgan qatorning konteksli menyusidan скопироват / переместит buyrug'i orqali",
+       "B":"Fayl menyusidan переместит/скопироват buyrug'i orqali",
+       "C":"List nomlari keltirilgan qatorning переместит/скопироват buyrug'i orqali",
+       "D":"Vid menyusidan переместит/скопироват buyrug'i orqali"
+    },
+    {
+       "savol":"Excel dasturida juda katta va juda kichik sonlar qanday formatda beriladi?",
+       "A":"Eksponentsial",
+       "B":"Finans",
+       "C":"Pullik",
+       "D":"Umumiy"
+    },
+    {
+       "savol":"Qaysi javobda kimpyuterni virus bilan zararlanishiga olib keluvchi ehtimollik ko'rsatilgan?",
+       "A":"Turli disklar va tarmoqdan foydalanish",
+       "B":"Bemor odam kompyuterdan foydalanishi",
+       "C":"Man badagi elektr tokini ko'payib yoki kamayib ketishi",
+       "D":"Kompyuterni iflos holda saqlash"
+    },
+    {
+       "savol":"'MS Word'da jadvalning o'zaro qo'shni yacheykalarini birlashtirish qanday amalga oshiriladi?",
+       "A":"Maket-ob'yedineniye-obyedinet yacheyki buyrug'i tanlanadi?",
+       "B":"Maket-Viravneniye buyrug'i tanlanadi",
+       "C":"Konstruktor-Stili tablits buyrug'i tanlanadi",
+       "D":"Maket-Stroki i stolbsi-Udalit buyrug'i tanlanadi"
+    },
+    {
+       "savol":"MS Excel  jadvallarida ustun sarlovhasiga sichqoncha ko'rsatkichi bilan bosilsa nima nima sodir bo'ladi?",
+       "A":"Sichqoncha bosilgan ustun ajraladi",
+       "B":"Sichqoncha bosilgan ustin bosmaga chiqariladi",
+       "C":"Xech qanday o'zgarish bo'lmaydi",
+       "D":"Sichqoncha bosilgan ustun o'chiriladi"
+    },
+    {
+       "savol":"Excel ish kitobida kamida necha sahifa list bo'lishi mumkin?",
+       "A":"1 ta",
+       "B":"Istalgancha",
+       "C":"2 ta",
+       "D":"3 ta"
+    },
+    {
+       "savol":"Elektron jadvalning A1 katakchasiga 10 yozilgan, B1 katakchaga =A1/2, C1 katakchaga =СУММ(A1:B1)*2 kiritilgan. C1 Katakchadagi qiymatni aniqlang.",
+       "A":"30",
+       "B":"10",
+       "C":"20",
+       "D":"15"
+    },
+    {
+       "savol":"MS Excel. A1 katakdagi sonni B1 katakdagi 0 dan farqli songa karrali yoki karrali emasligini aniqlovchi formulani ko'rsating.",
+       "A":"=ЕСЛИ(ОСТАТ(A1;B1)=0; \"Karrali\"; \"Karrali emas\") ",
+       "B":"=ЕСЛИ(A1-B1=B1*ЦЕЛОЕ(A1/B1); \"Karrali\"; \"Karrali emas\")",
+       "C":"=ЕСЛИ(A1-B1*ЦЕЛОЕ(A1/B1)=0; \"Karrali\"; \"Karrali emas\")",
+       "D":"=ЕСЛИ(ОСТАТ(A1;B1)<>0; \"Karrali\"; \"Karrali emas\")"
+    },
+    {
+       "savol":"Ma'lumotlar ombori nima?",
+       "A":"Biror predmet sohasidan olingan aniq obyektlar haqidagi ma'lumotlar to'plami",
+       "B":"Bu ma'lumotlar saqlanadigan fayl",
+       "C":"Ma'lumotlar bilan to'ltirilgan ixtiyoriy jadval",
+       "D":"Ma'lumotlar ombori yordamida bazaga yangi ma'lumotlar kiritiladi yoki borlari ko'rib chiqiladi"
+    },
+    {
+       "savol":"MS Excel  jadvallarida satr tartib raqamiga sichqoncha ko'rsatkichi bilan bosilsa nima nima sodir bo'ladi?",
+       "A":"Sichqoncha bosilgan satr ajraladi",
+       "B":"Sichqoncha bosilgan satr bosmaga chiqariladi",
+       "C":"Xech qanday o'zgarish bo'lmaydi",
+       "D":"Sichqoncha bosilgan satr o'chiriladi"
+    },
+    {
+       "savol":"A1 va B1 taklarga mos ravishda 10 va 12 sonlari kiritilgan. Agar C1 katakka =(A1+B1)/2 va d1 katakka =EСЛИ(КОРEНъ(C1)>8);A1+C1;B1+C1) formulalari kiritilsa D1 katkdagi qiymatni aniqlang.",
+       "A":"23",
+       "B":"22",
+       "C":"21",
+       "D":"24"
+    },
+    {
+       "savol":"Wordda hijjat boshiga o'tish uchun qaysi klavishlar kombinatsiyasi bosiladi?",
+       "A":"CTRL+Home",
+       "B":"CTRL+PageUP",
+       "C":"CRTL+Up",
+       "D":"CTRL+Down"
+    },
+    {
+       "savol":"Wordda CTRL+A klavishlar kombinatsiyasi nima vazifani bajaradi?",
+       "A":"Hujjatning hammasini belgilaydi",
+       "B":"Hujjatni chop etish",
+       "C":"NUsxa olish",
+       "D":"Qidirish oynasini ochish"
+    },
+    {
+       "savol":"Web-sahifalarni tarmoq orqali jo'natish uchun ... bayonnomasidan foydalaniladi.",
+       "A":"http",
+       "B":"www",
+       "C":"ftp",
+       "D":"dns"
+    },
+    {
+       "savol":"Printer nima?",
+       "A":"Kompyuterdagi ma'lumorni chop etish uchun ishlatiladigan qurilma",
+       "B":"Ma'lumotlarni diskdan kompyuterga ko'chirish qurilmasi",
+       "C":"Matnli va grafik ma'lumotlarni tasvirlovchi qurilma",
+       "D":"Foydalanuvchi tomonidan ma'lumotlarni kompyuterga kiritish qurilmasi"
+    },
+    {
+       "savol":"MS Excel dasturida A5:C8 Bloki tanlangan. Bu diapazonga nechta katak kiradi?",
+       "A":"12",
+       "B":"15",
+       "C":"18",
+       "D":"9"
+    },
+    {
+       "savol":"MS Excel dasturida qanday ma'lumotlar turi mavjud emas?",
+       "A":"Grafik",
+       "B":"Matnli",
+       "C":"Raqamli",
+       "D":"Sana va Vaqt"
+    },
+    {
+       "savol":"Fayl nomlari, ularning hajmi, yaratilgan yoki yangilangan vaqti va h.z.larsaqlanadigan diskdagi maxsus joyga ... deyiladi.",
+       "A":"katalog",
+       "B":"menyu",
+       "C":"yorliq",
+       "D":"dastur"
+    },
+    {
+       "savol":" MS Excel dasturidagi ЕСЛИ() funksiyasi nechta argumentga ega?",
+       "A":"3 ta",
+       "B":"2 ta",
+       "C":"4 ta",
+       "D":"1 ta "
+    },
+    {
+       "savol":"MS Excel. Kataklar uchun quyidagi tenglik o'rinli bo'ladigan qiymatlarni aniqlang. ЗНАК(A1+B1+C1)*3=EСЛИ(A1+B1)>=C1/2;C1/4;B1+1)",
+       "A":"A1=-6, B1=15, C1=12",
+       "B":"A1=-4, B1=9, C1=7",
+       "C":"A1=3, B1=6, C1=18",
+       "D":"A1=7, B1=7, C1=7"
+    },
+    {
+       "savol":" MS Excel.  A1=9,  A2=-9, B1=-18, B2=7,   C1=Informatika, C2=Universitet, D1=ABS($A1+B1)+Длстр(C1)  berilgan. Agar  D1 katakni  D2 katakka  nusxalansa,  D1 va D2 kataklarda  hosil  bo'ladigan sonlar  yig'indisini  toping. ",
+       "A":"33",
+       "B":" -11",
+       "C":"30",
+       "D":"38"
+    },
+    {
+       "savol":" MS Excel A1=9, A2=-9, B1=-14, B2= 4, C1=Informatika, C2=Universitet, D1 = ABS($A1+B1) + НАЙТИ(\"x\";$C1) berilgan. Agarda D1 katakni D2 katakka nusxalansa, D1 va D2 kataklarda hosil bo`lgan sonlar yig`indisini toping. ",
+       "A":"ЗНАЧ xatoligi sodir bo`ladi",
+       "B":"10",
+       "C":"18",
+       "D":"21"
+    },
+    {
+       "savol":" MS Excel A1=9, A2=-9, B1=-18, B2= 7, C1= Informatika, C2=Universitet, D1 = ABS($A1+ B1) + Длстр(C1) berilgan. Agarda D1 katakni D2 katakka nusxalansa, D1 va D2 kataklarda hosil bo`lgan sonlar yig`indisini toping. ",
+       "A":"33",
+       "B":" -11",
+       "C":"30",
+       "D":"38"
+    },
+    {
+       "savol":" MS Excel. A1:B3 diapazonda nechta yacheyka mavjud? ",
+       "A":"6",
+       "B":"5",
+       "C":"4",
+       "D":"8"
+    },
+    {
+       "savol":" MS Excel 2010 ning standart varag`ida harflar orqali belgilanuvchi ustunlar nechta? ",
+       "A":"16384",
+       "B":"1048576",
+       "C":"256",
+       "D":"32768"
+    },
+    {
+       "savol":" MS Excelda berilgan quyidagi formula natijasini aniqlang: =ЕСЛИ(700/70-1>=9;2019;2018) ",
+       "A":"2019",
+       "B":"2018",
+       "C":"ЛОЖ",
+       "D":"ИСТИНА"
+    },
+    {
+       "savol":" MS Excel daturida L11 katakdagi =D6*$AB25$ ko`paytmaning M20 katakdagi nusxasini toping. ",
+       "A":"=E15*$AB34",
+       "B":"=D6*$AB$34",
+       "C":"=E15*$BC34",
+       "D":"=D6*$AC25"
+    },
+    {
+       "savol":" 2000 Kbayt axborot necha bitga teng?",
+       "A":"20^3*2^11",
+       "B":"20^3*2^9",
+       "C":"20^2*2^10",
+       "D":"10^2*2^13"
+    },
+    {
+       "savol":" A1=-5, B1=6, B2=4 bo`lsin. Quyidagi formula natijasi -24 ga teng bo`lishi uchun A2 katakka kiritilishi kerak bo`lgan qiymatni aniqlang. =ЕСЛИ(ИЛИ(А1+B2>-A2*B1;A1*B1>0);A1*B2-B1-A2;A1*B1+B2+A2)",
+       "A":"2",
+       "B":"-1",
+       "C":"0",
+       "D":"4"
+    },
+    {
+       "savol":" A1=-5, B1=6, B2=4 bo`lsin. Quyidagi formula natijasi -24 ga teng bo`lishi uchun A2 katakka kiritilishi kerak bo`lgan qiymatni aniqlang. =ЕСЛИ(ИЛИ(А1+B2>A2*B1;A1*B1>0);A1*B2-B1-A2;A1*B1+B2-A2)",
+       "A":"-2",
+       "B":"-1",
+       "C":"0",
+       "D":"4"
+    },
+    {
+       "savol":" MS Access dasturining asosiy elementlarini aniqlang.",
+       "A":"jadval, so`rov, forma, makros, modul, hisobot",
+       "B":"tugma, maydon, forma, makros, modul, yozuv",
+       "C":"jadval, so`rov, servis, modul, hisobot",
+       "D":"matn, rasm, forma, makros, modul, jadval"
+    },
+    {
+       "savol":" Uchburchak katetlaridan biri 73 ga teng(11 lik sanoq sistemasida), ikkinchisi esa 17 ga teng(11 lik sanoq sistemasida). Uchburchakning gepotenuzasini 11 lik sanoq sistemasida toping.",
+       "A":"75",
+       "B":"78",
+       "C":"77",
+       "D":"74"
+    },
+    {
+       "savol":" MS Excel. A1=1, A2=-9, B1=-12, B2=14, C1=Informatika, C2=Universitet, D1=ABS($A1+B1)+НАЙТИ(''i'';$C1;5) berilgan. Agar D1 katakni D2 katakka nusxalasa, D1 va D2 kataklarida hosil bo`ladigan sonlar yig`indisini toping.",
+       "A":"33",
+       "B":"30",
+       "C":"38",
+       "D":"-6"
+    },
+    {
+       "savol":" MS Excel. A1=10, B1=20, C1=3, A2=40, B2=50, C2=Universitet berilgan bo`lsa, =ПСТР(C2;5+СЧЁТЕСЛИ(A1:В2;''>19''); C1 ) formula qiymatini toping.",
+       "A":"ite",
+       "B":"rsi",
+       "C":"ive",
+       "D":"Uni"
+    },
+    {
+       "savol":" Ekranning har bir pikseli 58 ta rangning birida aks etadi. Ekran kvadrat shaklda bo`lib, u xotiradan 243 kilobayt joy egallaydi. Ekranning tomoni necha pikselga tengligini aniqlang.",
+       "A":"576",
+       "B":"579",
+       "C":"586",
+       "D":"571"
+    },
+    {
+       "savol":" MS Excel. A1=6, A2=-9, B1=-11, B2=1, C1=Informatika, C2=Universitet, D1=ABS ( $A1+B1) +ДЛСТР(ПСТР($C1;2;8)) berilgan. Agar D1 katakni D2 katakka nusxalansa, D1 va D2 kataklarida hosil bo`ladigan sonlar yig`indisini toping.",
+       "A":"29",
+       "B":"30",
+       "C":"22",
+       "D":"-13"
+    },
+    {
+       "savol":" $A(1001110;101100)$(2 lik sanoq sistemasida) nuqta va B(42;47) (16 lik sanoq sistemasida) nuqtaning koordinatalari ma`lum bo`lsin. $A$ va $B$ nuqtalar orasidagi eng qisqa masofani (8 lik sanoq sistemasida) aniqlang.",
+       "A":"1111",
+       "B":"1110",
+       "C":"1101",
+       "D":"10000"
+    },
+    {
+       "savol":" MS Excel. A1=3, B1=6, C1=3, A2=12, B2=15, C2=Informatika berilgan bo`lsa, =ПСТР(C2;5+СЧЁТЕСЛИ(A1:В2;''>11''); C1 ) formula qiymatini toping.",
+       "A":"ati",
+       "B":"Info",
+       "C":"mat",
+       "D":"rma"
+    },
+    {
+       "savol":" MS Excel. A1=57, B1=114, C1=4, A2=228, B2=285, C2=Avtomexanik berilgan bo`lsa, =ПСТР(C2; 5+СЧЁТЕСЛИ(A1:B2; ''>56'');C1) formula qiymatini toping.",
+       "A":"nik",
+       "B":"anik",
+       "C":"Avtom",
+       "D":"xani"
+    },
+    {
+       "savol":" MS Excel. A1=57, B1=114, C1=4, A2=228, B2=285, C2=Avtomexanik berilgan bo`lsa, =ПСТР(C2; 5+СЧЁТЕСЛИ(A1:B2; ''>56'');C1) formula qiymatini toping.",
+       "A":"nik",
+       "B":"anik",
+       "C":"Avtom",
+       "D":"xani"
+    },
+    {
+       "savol":" MS Excel. Berilgan: G1=1, H1=-1, I1=2, J1=5, K1=3. L1 katakka =G$1*H1+I$1-$J$1 formula kiritilgan va shu katak M1, N1, O1, P1 kataklarga nusxalangan. =M1+P1 formulaning qiymatini aniqlang.",
+       "A":"-21",
+       "B":"-17",
+       "C":"-7",
+       "D":"-19"
+    },
+    {
+       "savol":" 10 lik sanoq sistemasidagi juft sonlar barcha sanoq sistemasida juft hisoblanishini inobatga olib, [DDA; 1003] oraliqdagi hamma juft sonlar yig`indisini toping (barcha sonlar 14 lik sanoq sistemasida qaralmoqda). ",
+       "A":"3DDA",
+       "B":"3DAA",
+       "C":"3DDD",
+       "D":"3DDDA"
+    },
+    {
+       "savol":" Yozilayotgan matnning faqat mazmuni ahamiyatga ega bo`lganda qo`llaniladigan matn yozish dasturlari qanday nomlanadi? ",
+       "A":"matn muharrirlari",
+       "B":"matn protsessorlari",
+       "C":"Bloknot",
+       "D":"MS Word"
+    },
+    {
+       "savol":" Hujjatlar matn yoziladigan dasturlarning qanday turida tayyorlanadi? ",
+       "A":"matn protsessorlari",
+       "B":"matn  muharrirlarida",
+       "C":"matn jamlanmalarida",
+       "D":"elektron jadvallarda"
+    },
+    {
+       "savol":" Matn muharrirlari va matn muharrirlaridagi  alifbo harflari, raqamlar va turli belgilar qanday ataladi?",
+       "A":"shrift",
+       "B":"alifbo",
+       "C":"format",
+       "D":"matn"
+    },
+    {
+       "savol":" ... -- belgilar ketma-ketligi bo`lib, ular bir-biridan probel, nuqta, vergul, nuqtali vergul, ikki nuqta, qavs, teri, uzun teri, yoki qo`shtirnoq bilan ajratilib yoziladi. ",
+       "A":"so`z",
+       "B":"satr",
+       "C":"matn",
+       "D":"gap"
+    },
+    {
+       "savol":" Matn protsessorlarida tayyorlangan matn qanday nomlanadi? ",
+       "A":"hujjat",
+       "B":"matn",
+       "C":"loyiha",
+       "D":"satr"
+    },
+    {
+       "savol":" MS Word dasturida mazmunan va grammatik bog`langan mulohazaning yozma ko`rinishi qanday nomlanadi. ",
+       "A":"matn",
+       "B":"gap",
+       "C":"satr",
+       "D":"hujjat"
+    },
+    {
+       "savol":" Matn muharrirlari yoki matn protsessorlarida bitta chiziqda yozilgan so`zlar, harflar yoki belgilar ketma-ketligi qanday nomlanadi? ",
+       "A":"satr",
+       "B":"gap",
+       "C":"matn",
+       "D":"hoshiya"
+    },
+    {
+       "savol":" Matn protsessorlarida sahifa chetida toza saqlanadigan qism qanday nomlanadi? ",
+       "A":"hoshiya",
+       "B":"abzas",
+       "C":"satr",
+       "D":"bo`sh joy"
+    },
+    {
+       "savol":" Matn protsessorlarida bosh satri bo`lgan satrlar ketma-ketligi qanday ataladi? ",
+       "A":"abzas",
+       "B":"matn",
+       "C":"hujjat",
+       "D":"gap"
+    },
+    {
+       "savol":" Matnning belgilab olingan bo`lagi qanday nomlanadi? ",
+       "A":"fragment",
+       "B":"satr",
+       "C":"soha",
+       "D":"format"
+    },
+    {
+       "savol":" Matn protsessorlarida hujjat chiroyli ko`rinishga keltirilishi uchun shrift turi, rangi va abzas tekislanishi, chegara chizish kabi kabi bezaklar bilan boyitilishi qanday ataladi? ",
+       "A":"Formatlash",
+       "B":"Fragmentlash",
+       "C":"Word Art",
+       "D":"Hujjatlash sozlash"
+    },
+    {
+       "savol":" MS Word dasturida keyingi shrift avvalgi shriftni, keyingi abzas avvalgi abzasni, yangi sahifa avvalgi sahifa formatlarini o`zida to`liq saqlab qolishi qanday ataladi?",
+       "A":"Vorislik",
+       "B":"Fragment",
+       "C":"Bosh satr",
+       "D":"Sozlash"
+    },
+    {
+       "savol":" MS Word dasturida matn fragmentidan nusxa olish uchun qanday klavishlar majmuidan foydalaniladi? ",
+       "A":"Ctrl+C",
+       "B":"Ctrl+A",
+       "C":"Ctrl+S",
+       "D":"Ctrl+V"
+    },
+    {
+       "savol":" MS Word dasturida yurgichdan o`ng tomondagi belgilarni o`chirish uchun qanday klavish yoki klavishlar majmuidan foydalaniladi? ",
+       "A":"Delete",
+       "B":"Backspace",
+       "C":"Ctrl+D",
+       "D":"Ctrl+Enter"
+    },
+    {
+       "savol":" MS Word dasturida yangi abzasga o`tish uchun qanday klavish yoki klavishlar majmuidan foydalaniladi? ",
+       "A":"Enter",
+       "B":"Ctrl+Enter",
+       "C":"Delete",
+       "D":"Shift"
+    },
+    {
+       "savol":" MS Word daturida matnning belgilangan biror qismi nima deb ataladi? ",
+       "A":"Blok",
+       "B":"Satr",
+       "C":"Sahifa",
+       "D":"Gap"
+    },
+    {
+       "savol":" MS Word dasturida matn yozish qoidalariga oid to`g`ri mulohazani toping. ",
+       "A":"yangi abzasga o`tish uchun Enter klavishi bosiladi",
+       "B":"joriy satr oxiriga o`tish uchun Home klavishi bosiladi",
+       "C":"joriy satr boshiga o`tish uchun End klavishi bosiladi",
+       "D":"hujjat boshiga o`tish uchun  Shift+Home klavishlari bosiladi"
+    },
+    {
+       "savol":" MS Word dasturida hujjatni to`liq belgilash qanday klavishlar majmui yordamida amalga oshiriladi?  ",
+       "A":"Ctrl+A",
+       "B":"Ctrl+C",
+       "C":"Ctrl+D",
+       "D":"Ctrl+S"
+    },
+    {
+       "savol":" Kompyuter xotirasiga kiritilgan ma’lum bir strukturaga ega, o`zaro bir biri bilan bog`langan va tartiblangan ma’lumotlar majmuasi qanday nomlanadi.",
+       "A":"Ma'lumotlar ombori",
+       "B":"Ma'lumotlar modeli",
+       "C":"MOBT",
+       "D":"Axborot"
+    },
+    {
+       "savol":" Ma'lumotlar ombori tuzilish usullariga ko`ra qanday guruhlarga bo`linadi?",
+       "A":"relyatsion, iyerarxik, to`rli",
+       "B":"relyatsion, to`rli, tartiblangan",
+       "C":"tartiblangan va tartiblanmagan",
+       "D":"tuzulmalashtirilgan va tuzulmalashtirilmagan"
+    },
+    {
+       "savol":" MS Excel. A1:B3 diapazonda nechta yacheyka mavjud? ",
+       "A":"6",
+       "B":"5",
+       "C":"4",
+       "D":"8"
+    },
+    {
+       "savol":" MS Excel 2010 ning standart varag`ida harflar orqali belgilanuvchi ustunlar nechta? ",
+       "A":"16384",
+       "B":"1048576",
+       "C":"256",
+       "D":"32768"
+    },
+    {
+       "savol":" MS Excelda berilgan quyidagi formula natijasini aniqlang: =ЕСЛИ(700/70-1>=9;2019;2018) ",
+       "A":"2019",
+       "B":"2018",
+       "C":"ЛОЖ",
+       "D":"ИСТИНА"
+    },
+    {
+       "savol":" MS Excel daturida L11 katakdagi =D6*$AB25$ ko`paytmaning M20 katakdagi nusxasini toping. ",
+       "A":"=E15*$AB34",
+       "B":"=D6*$AB$34",
+       "C":"=E15*$BC34",
+       "D":"=D6*$AC25"
+    },
+    {
+       "savol":" Kompyuter tizimida ro`yxatdan o`tganda har bir foydalanuvchiga faqatgina A, B, C, D, E belgilarini o`z ichiga olgan 30 ta belgidan iborat parol beriladi. Bunda kompyuter xotirasida barcha belgilar bir xil va eng kam sonli bitlar bilan kodlangan. 24 ta kompyuter parolini saqlash uchun necha bayt kerakligini aniqlang. ",
+       "A":"270",
+       "B":"180",
+       "C":"360",
+       "D":"240"
+    },
+    {
+       "savol":" Kompyuter tizimida ro`yxatdan o`tganda har bir foydalanuvchiga faqatgina A, B, C, D, E belgilarini o`z ichiga olgan 30 ta belgidan iborat parol beriladi. Bunda kompyuter xotirasida barcha belgilar bir xil va eng kam sonli bitlar bilan kodlangan. 12 ta kompyuter parolini saqlash uchun necha bayt kerakligini aniqlang. ",
+       "A":"135",
+       "B":"90",
+       "C":"180",
+       "D":"120"
+    }
+ ]

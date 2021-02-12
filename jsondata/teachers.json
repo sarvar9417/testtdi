@@ -1,0 +1,99 @@
+[
+    {
+        "surname":"Murodullayev", 
+        "name": "Sarvar", 
+        "fathername":"Usmon o'g'li",
+        "viloyat":"Navoiy",
+        "tuman":"Xatirchi",
+        "maktab":"33-maktab",
+        "fan":"Boshlang`ich ta`lim",
+        "toifa": "Mutaxassis"
+    },
+
+    {
+        "surname":"Himmatov", 
+        "name": "Shoxrux", 
+        "fathername":"Oripovich",
+        "viloyat":"Navoiy",
+        "tuman":"Karmana",
+        "maktab":"17-maktab",
+        "fan":"Informatika",
+        "toifa": "Ikkinchi toifa"
+    },
+
+    {
+        "surname":"Abdinazarova", 
+        "name": "Shaxnoza", 
+        "fathername":"Abdinazarovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Informatika",
+        "toifa": "Birinchi toifa"
+    },
+
+    {
+        "surname":"Abruyev",
+        "name":"Shaxboz",
+        "fathername": "Shirinboyevich",
+        "viloyat":"Navoiy",
+        "tuman":"Karmana",
+        "maktab":"31-maktab",
+        "fan":"Informatika",
+        "toifa":"Mutaxassis"
+    },
+
+    {
+        "surname":"Isayev",
+        "name":"Gulzoda",
+        "fathername": "O'rinovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Informatika",
+        "toifa":"2-toifa"
+    },
+
+    {
+        "surname":"Abdusalimova",
+        "name":"Maxfuza",
+        "fathername": "Ulug'bek qizi",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Informatika",
+        "toifa":"Mutaxassis"
+    },
+
+    {
+        "surname":"Raxmonova",
+        "name":"Zarifa",
+        "fathername": "Qambarovna",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Informatika",
+        "toifa":"2-toifa"
+    },
+
+    {
+        "surname":"Abdiyeva",
+        "name":"Shohista",
+        "fathername": "Odil qizi",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Informatika",
+        "toifa":"Mutaxassis"
+    },
+    {
+        "surname":"Norisov",
+        "name": "Islom",
+        "fathername":"Faxriddin o'g'li",
+        "viloyat":"Navoiy",
+        "tuman":"Navoiy shahar",
+        "maktab":"17-maktab",
+        "fan":"Fizika",
+        "toifa":"O'quvchi"
+    }
+]
