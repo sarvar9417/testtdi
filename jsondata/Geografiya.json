@@ -1,17 +1,20 @@
 [
+   {
+
+   },
     {
        "savol":"<img src='../img/geo1.jpg' alt='geo1'> Ushbu rasmda saiq bilan qanday hududlar ko'rsatilgan",
-       "A":"topik savannalar",
-       "B":"ekstraaid zonalar",
-       "C":"cho'llar chalacho'llar",
+       "C":"topik savannalar",
+       "B":"ekstraid zonalar",
+       "A":"cho'llar chalacho'llar",
        "D":"gumid zonalar"
     },
     {
        "savol":"<img src='../img/geo2.jpg' alt='geo2'> ushbu xaritada A va B harflar bilan qaysi dengizga tegishli qo'ltiqlar ko'rsatilgan ",
-       "A":"shimoliy ",
+       "D":"shimoliy ",
        "B":"boltiq",
        "C":"kara",
-       "D":"norvegiya"
+       "A":"norvegiya"
     },
     {
        "savol":"<img src='../img/geo3.jpg' alt='geo3'> ushbu xaritada Kuba oroli qaysi harf bilan ko'rsatilgan? ",
@@ -22,34 +25,34 @@
     },
     {
        "savol":"Sho'r ko'llardan insonlar qanday maqsadlarda foydalanadi",
-       "A":"chorva mollarini sug'orish, tuz qazib olish ",
-       "B":"tuz qazib olish, ayrim kasalliklarni davolashda ",
+       "B":"chorva mollarini sug'orish, tuz qazib olish ",
+       "A":"tuz qazib olish, ayrim kasalliklarni davolashda ",
        "C":"baliqchilik va ayim kasalliklarni davolashda ",
        "D":"baliqchilik va parrandachilikda"
     },
     {
        "savol":"O'zbekistonda jahonda ipak ishlab chiqarish nechchinchi o'rinni egallaydi",
-       "A":"uchinchi",
+       "D":"uchinchi",
        "B":"oltinchi ",
        "C":"beshinchi",
-       "D":"to'rtinchi"
+       "A":"to'rtinchi"
     },
     {
-       "savol":"<img src='../img/geo4.jpg' alt='geo4'> ushbu xaritada ajratib ko'rsatadigan hududlardan qaysi birining aholisi ispan tilida so`zlashadi?",
+       "savol":"",
        "A":"A",
        "B":"C",
        "C":"D",
        "D":"B"
     },
     {
-       "savol":"<img src='../img/geo5.jpg' alt='geo5'> ushbu xaritada harf bilan ko'rsatilgan qaysi geogradiya obyekt qutbga nisbatan uzuqroqda joylashgan?",
+       "savol":"",
        "A":"D",
        "B":"B",
        "C":"E",
        "D":"A"
     },
     {
-       "savol":"<img src='../img/geo6.jpg' alt='geo6'> ushbu rasmda raqamlar ostida yashiringan davlatlarning qaysilari qora dengizga to'g'ridan to'g'ri-to'g'ri chiqish imkoniyatiga ega? ",
+       "savol":"",
        "A":"liviya",
        "B":"iskandariya",
        "C":"karvagen",
@@ -57,8 +60,8 @@
     },
     {
        "savol":"o'rta okean tizimlarining uzunligidan 215 marta qisqa masofani o'rtacha tezlik bilan haakatlanuvchi kishi qancha vaqtda bosib o`tadi?",
-       "A":"51,4 soat",
-       "B":"2 sutka 7 soat 48 daqiqa",
+       "B":"51,4 soat",
+       "A":"2 sutka 7 soat 48 daqiqa",
        "C":"2 sutka 5 soat 13 daqqa",
        "D":"55,5 soat"
     },
@@ -71,9 +74,9 @@
     },
     {
        "savol":"2017-yil mamlakatimizda sanoat tarmoqlarining mahsulot ishlab chiqarish tarkibida yengil sanoatning salmog'i qancha tashkil qildi",
-       "A":"15,1%",
+       "C":"15,1%",
        "B":"1,2%",
-       "C":"16,3%",
+       "A":"16,3%",
        "D":"18,9%"
     },
     {
@@ -99,8 +102,8 @@
     },
     {
        "savol":"globus yoki xarita istalgan nuqtaning kengligini aniqlash uchun nimani bilish zarur",
-       "A":"nuqtaning qutublarga nisbatan joylashganligi",
-       "B":"nuqtaning qasi parallelda joylashganini",
+       "B":"nuqtaning qutublarga nisbatan joylashganligi",
+       "A":"nuqtaning qasi parallelda joylashganini",
        "C":"nuqtaning qaysi meridianda joylashganini",
        "D":"nuqtaning qaysi yaimsharda joylashganini"
     },
@@ -113,9 +116,9 @@
     },
     {
        "savol":"qaysi davlat jahonda aholisining soni bo'yicha 11-o'rinni egallaydi?",
-       "A":"meksika",
+       "C":"meksika",
        "B":"vyetnam",
-       "C":"yaponiya",
+       "A":"yaponiya",
        "D":"filippin"
     },
     {
@@ -127,31 +130,31 @@
     },
     {
        "savol":"termiz shaxri 37,2gradus shimoliy kenglikda joylashgan bo'lsa, shahardan janubiy qutbgacha bo'lgan masofani gradus va kilomtrda aniqlang",
-       "A":"127,2gradus va 14131,92 km",
-       "B":"172,2gradus va 14131,82 km",
+       "B":"127,2gradus va 14131,92 km",
+       "A":"172,2gradus va 14131,82 km",
        "C":"172,2gradus va 14531,92 km",
        "D":"127,2gradus va 15311,92 km"
     },
     {
        "savol":"2018-yil ma'lumotlarga ko'ra ,qahva hosilini yetishtirish bo'yicha jahonda qaysi davlat yetakchilik qiladi?",
-       "A":"hindiston",
-       "B":"braziliya",
+       "B":"hindiston",
+       "A":"braziliya",
        "C":"indoneziya",
        "D":"vyetnam"
     },
     {
        "savol":"<img src='../img/geo7.jpg' alt='geo7'> rasmda 2 raqami bilan relyefningqanday shakli ko'rsatilgan?",
-       "A":"terrasa",
+       "C":"terrasa",
        "B":"surilma",
-       "C":"gorst",
+       "A":"gorst",
        "D":"graben"
     },
     {
        "savol":"<img src='../img/geo8.jpg' alt='geo8'> ushbu rasmda 2 va 4 raqamlari bilan relyefning qanday shakllari ko'rsatilgan?",
-       "A":"pasttekislik va yassitog'lilik",
+       "D":"pasttekislik va yassitog'lilik",
        "B":"qirlar va yassitog'lar",
        "C":"qirg'oq va pasttekislik",
-       "D":"pasttekislik va qirlar"
+       "A":"pasttekislik va qirlar"
     },
     {
        "savol":"<img src='../img/geo9.jpg' alt='geo9'> ushbu rasmda ko'rsatilgan qaysi birining geografik uzunligi eng katta ",
@@ -169,30 +172,30 @@
     },
     {
        "savol":"<img src='../img/geo11.jpg' alt='geo11'> fin qo'ltig'i ushbu xaraada qaysi harf bilan ko'rsatilgan?",
-       "A":"A",
+       "C":"A",
        "B":"D",
-       "C":"B",
+       "A":"B",
        "D":"C"
     },
     {
        "savol":"<img src='../img/geo12.jpg' alt='geo12'> janubiy yarimsharning subtropik iqlim mintaqasi ushbu xaritada qaysi harf bilan ko'rsatilgan? ",
-       "A":"H",
-       "B":"L",
+       "B":"H",
+       "A":"L",
        "C":"E",
        "D":"B"
     },
     {
        "savol":"<img src='../img/geo13.jpg' alt='geo13'> ushbu xaritada qaysi harf bilan \"qirg'oqsiz dendiz\" ko'rsatilgan?",
-       "A":"F",
-       "B":"C",
+       "B":"F",
+       "A":"C",
        "C":"A",
        "D":"B"
     },
     {
        "savol":"yevropaning qaysi subregionida \" mitti\" davlatlar joylashgan? ",
-       "A":"janubiy yevropa",
+       "C":"janubiy yevropa",
        "B":"shimoliy yevropa",
-       "C":"sharqiy yevropa",
+       "A":"sharqiy yevropa",
        "D":"g'arbiy yevropa"
     },
     {
@@ -211,85 +214,85 @@
     },
     {
        "savol":"<img src='../img/geo14.jpg' alt='geo14'> ushbu rasmda 3 raqami bilan ufqning qaysi tomoni ko'rsatilgan?",
-       "A":"shimoliy",
-       "B":"janubiy",
+       "B":"shimoliy",
+       "A":"janubiy",
        "C":"janubi-sharq",
        "D":"g'arb"
     },
     {
        "savol":"Angara daryosi qaysi ko'lda oqib chiqadi",
-       "A":"Balxash",
-       "B":"Baykal",
+       "B":"Balxash",
+       "A":"Baykal",
        "C":"Onega",
        "D":"Kaspiy"
     },
     {
        "savol":"Sektorlik nima?",
-       "A":"Tog` va yonbag`rlarining ufq domonlariga, quyosh nurlari tushadigan tomonga nisbatan joylashuvi",
+       "C":"Tog` va yonbag`rlarining ufq domonlariga, quyosh nurlari tushadigan tomonga nisbatan joylashuvi",
        "B":"Tog`ning etagidan suvayirg`ich tomon tabiatning qonuniy o`zgarib borishi",
-       "C":"Quruqlik ichkarisiga tonon okeanlardan uzoqlashgan sari iqlim xususiyatining o`zgarishi hisobiga tabiat komponentlari o`zgarib borishi",
+       "A":"Quruqlik ichkarisiga tonon okeanlardan uzoqlashgan sari iqlim xususiyatining o`zgarishi hisobiga tabiat komponentlari o`zgarib borishi",
        "D":"Quyosh nurlari tushish burchagining o`zgarishi hisobiga tabiat komponentlari va geotizimlarning ekvatordan qutblarga tomon o`zgarib borishi"
     },
     {
        "savol":"Sharqiy Yevropaning qaysi davlati temir rudalariga boy?",
-       "A":"Belarus, Serbiya, Ruminiya",
-       "B":"Rossiya, Ukraina, Poshla",
+       "B":"Belarus, Serbiya, Ruminiya",
+       "A":"Rossiya, Ukraina, Poshla",
        "C":"Sloveniya, Chexiya, Vengriya",
        "D":"Albaniya, Rossiya, Chexiya"
     },
     {
        "savol":"2018-yil ma'lumotlariga ko`ra, jahontagi nechta davlatning 5 mln km kv dan katta/",
-       "A":"7",
+       "C":"7",
        "B":"5",
-       "C":"6",
+       "A":"6",
        "D":"8"
     },
     {
        "savol":"2006-yilda Chernagoriya qaysi davlat tarkibidan ajralib chiqib, mustaqil davlatga aylangan?",
-       "A":"Xorvatiya",
-       "B":"Serbiya",
+       "B":"Xorvatiya",
+       "A":"Serbiya",
        "C":"Albaniya",
        "D":"Sloveniya"
     },
     {
        "savol":"<img src='../img/geo15.jpg' alt='geo15'>Ushbu rasmda berilgan qaysi nuqta ekvatordan va Janubiy tropikdan janubda, Bosh meridiandan g'arbda, biroq R nuqtadan sharqda joylashgan",
-       "A":"K nuqta",
-       "B":"M nuqta",
+       "B":"K nuqta",
+       "A":"M nuqta",
        "C":"J nuqta",
        "D":"F nuqta"
     },
     {
-       "savol":"<img src='../img/geo16.jpg' alt='geo16'>Ushbu rasmda qaysi raqamlar bilan o'rtacha tog'lar ko'rsatilgan?",
+       "savol":"",
        "A":"2 va 6",
        "B":"6 va 7",
        "C":"1 va 7",
        "D":"2 va 1"
     },
     {
-       "savol":"<img src='../img/geo17.jpg' alt='geo17'>Ushbu rasmda 1 soni bilan Arifrikadagi qaysi subregion ko'rsatilgan?",
+       "savol":"",
        "A":"Sharqiy Afrika",
        "B":"G'arbiy Afrika",
        "C":"Shimoliy Afrika"
     },
     {
        "savol":"<img src='../img/geo18.jpg' alt='geo18'>Shimoliy yarimsharning subtropik iqlimi ushbu xaritada qaysi harf bilan ko'rsatilgan?",
-       "A":"B",
-       "B":"E",
+       "B":"B",
+       "A":"E",
        "C":"L",
        "D":"F"
     },
     {
        "savol":"<img src='../img/geo19.jpg' alt='geo19'>Ushbu rasmda berilgan nuqtalarning qaysi biri Axxagar tog'ligini ko'rsatib turibdi?",
-       "A":"C",
+       "C":"C",
        "B":"B",
-       "C":"D",
+       "A":"D",
        "D":"A"
     },
     {
        "savol":"Biskay qo'ltig'i qaysi okeanda joylashgan?",
-       "A":"Tinc okeani",
+       "C":"Tinc okeani",
        "B":"Hind okeani",
-       "C":"Atlantika okeani",
+       "A":"Atlantika okeani",
        "D":"Shimoliy Muz okeani"
     },
     {
@@ -301,37 +304,37 @@
     },
     {
        "savol":"Reykyavik shahri quyidagi qaysi davlatning poytaxti hisoblanadi?",
-       "A":"Daniya",
-       "B":"Islandiya",
+       "B":"Daniya",
+       "A":"Islandiya",
        "C":"Irlandiya",
        "D":"Polsha"
     },
     {
        "savol":"2016-yil ma'lumotiga ko'ra Markaziy Osiyo hududi va aholisining necha foizi Tojikiston hissasiga to'g'ri keladi?",
-       "A":"4,2% va 11,1%",
+       "C":"4,2% va 11,1%",
        "B":"5% va 8,8 %",
-       "C":"6,3 % va 7,8 %",
+       "A":"6,3 % va 7,8 %",
        "D":"3,5 % va 12,3 %"
     },
     {
        "savol":"Janubiy Osiyo subregionidagi qaysi davlat kokos yetishtirishda yetakchi hisoblanadi?",
-       "A":"Pokiston",
+       "C":"Pokiston",
        "B":"Hindiston",
-       "C":"Shri-Lanka",
+       "A":"Shri-Lanka",
        "D":"Bengladesh"
     },
     {
        "savol":"Toshkent bilan bitta parallelda joylashgan sharqiy yarimshardagi shaharda Quyoshning ufqdan balandligi 51<sup>o</sup>27'    shimoliy kenglikda joylashgan shahardagi 22-iyun va 22-dekabr sanalarida kuzatilgan Quyoshning ufqdan balandligiga nisbatan qanchaga farqn qiladi?",
-       "A":"21<sup>o</sup>17'",
-       "B":"11<sup>o</sup>37'",
+       "B":"21<sup>o</sup>17'",
+       "A":"11<sup>o</sup>37'",
        "C":"10<sup>o</sup>27'",
        "D":"10<sup>o</sup>17'"
     },
     {
        "savol":"Kamchatkadagi Grot (G'or) geyzeridan otilib chiqayotgan suvning harorati +92<sup>o</sup>C ga teng bo'lsa, u qancha chuqurlikdan otilib chiqayotganligini aniqlang?",
-       "A":"2,788 km",
+       "C":"2,788 km",
        "B":"27,88 km",
-       "C":"2978,9 km",
+       "A":"2978,9 km",
        "D":"2978 m"
     },
     {
@@ -343,8 +346,8 @@
     },
     {
        "savol":"<img src='../img/geo20.jpg' alt='geo20'>Ushbu rasmda berilgan qaysi nuqta ekvatordan va Janubiy tropikdan janubda, Bosh meridiandan g'arbda, biroq R nuqtadan sharqda joylashgan?",
-       "A":"K nuqta",
-       "B":"F nuqta",
+       "B":"K nuqta",
+       "A":"F nuqta",
        "C":"M nuqta",
        "D":"J nuqta"
     },
@@ -357,8 +360,8 @@
     },
     {
        "savol":"Yer yuziningn qayerida qancha yog'in yog'ishi, havo harorati qanday bo'lishi, shamollar yo'nalishi qanday xaritalardam tasvirlanadi?",
-       "A":"Foydali qazilmalar xaritalari",
-       "B":"Iqlim xaeritalari",
+       "B":"Foydali qazilmalar xaritalari",
+       "A":"Iqlim xaeritalari",
        "C":"Refyef xaritalari",
        "D":"Tabiat zonalari xaritalari"
     },
@@ -370,14 +373,14 @@
        "D":"Terresa"
     },
     {
-       "savol":"<img src='../img/geo21.jpg' alt='geo21'>Ushbu xaritada A harfi bilan Afrikadagi qaysi iqlim mintaqasi ko'rsatilgan?",
+       "savol":"",
        "A":"Ekvatorial",
        "B":"Tropik",
        "C":"Suptropik",
        "D":"Subekvatorial"
     },
     {
-       "savol":"<img src='../img/geo21.jpg' alt='geo21'>Ushbu xaritada D harfi bilan qaysi davlat o'rni ko'rsatilgan?",
+       "savol":"",
        "A":"Laos",
        "B":"Myanma",
        "C":"Vyetnam",
@@ -392,20 +395,20 @@
     },
     {
        "savol":"Ko'hitagan tog'i shamoli-sharqdan janubi-g'arbga tomon 50 kilometrga cho'zilgan. Xuddi shu masofani o'rtacha tezlik bilan harakatlanuvchi kishi to'xtovsiz yursa qancha vaqtda bosib o'tishi mummkin?",
-       "A":"10 soat",
+       "D":"10 soat",
        "B":"13 soat",
        "C":"15m soat",
-       "D":"12 soat"
+       "A":"12 soat"
     },
     {
        "savol":"127<sup>o</sup> sharqiy uzunlik meridianida bir-biridan Almadi va Ras-Xafun burunlari oralig'idagiga teng masofada uzoqlikda joylashgan ikki nuqtadan janubidagisi 52<sup>o</sup> janubiy kenglikda joylashgan bo'lsa, ikkinchi shaharning koordinatasini aniqlang?",
-       "A":"17,5<sup>o</sup> sh.k., 127<sup>o</sup>g'.u.",
-       "B":"15,5<sup>o</sup> sh.k., 127<sup>o</sup> shq.u.",
+       "B":"17,5<sup>o</sup> sh.k., 127<sup>o</sup>g'.u.",
+       "A":"15,5<sup>o</sup> sh.k., 127<sup>o</sup> shq.u.",
        "C":"15,5<shq.u.>o</shq.u.> j.k, 127<sup>o</sup> shq.u.",
        "D":"51,4<sup>o</sup> j.k., 172<sup>o</sup> shq.u."
     },
     {
-       "savol":"<img src='../img/geo21.jpg' alt='geo21'>Ushbu nuqtalarning qaysi birida 22-dekabrda davomiyligi tunga nisbatan eng uzun bo'ladi?",
+       "savol":"",
        "A":"C",
        "B":"B",
        "C":"A",
@@ -413,27 +416,27 @@
     },
     {
        "savol":"Afrika qit'asidagi hududi 1 mln.km<sup>2</sup> dan katta davlatni toping.",
-       "A":"Mozambik",
+       "C":"Mozambik",
        "B":"Nigeriya",
-       "C":"Misr",
+       "A":"Misr",
        "D":"Tanzaniya"
     },
     {
        "savol":"Jamiyatning tabiatga ta'siri ortib borishining qaysi bosqichi nisbatan eng qisqa davom etgan bo'liiib, geotizimlarning eng kuchli o'zgarganligi bilan ajralib turadi?",
-       "A":"ekalogik munosabatlar",
+       "C":"ekalogik munosabatlar",
        "B":"sanoat inqilobi",
-       "C":"fan-texnika inqilobi",
+       "A":"fan-texnika inqilobi",
        "D":"qishloq xo'jalik inqilobi"
     },
     {
        "savol":"Kingmen rifi qaysi davlatga qarashli?",
-       "A":"Byuk britaniya",
+       "D":"Byuk britaniya",
        "B":"Fransiya",
        "C":"AQSH",
-       "D":"Avstraliya"
+       "A":"Avstraliya"
     },
     {
-       "savol":"Lissobon shahri 38<sup>o</sup>43' j. k., 170<sup>o</sup>52' shq. u.",
+       "savol":"",
        "A":"38<sup>o</sup>>43' j. k., 170<sup>o</sup>52' shq. u.",
        "B":"38<sup>o</sup>43' j. k., 170<sup>o</sup>52' g'. u.",
        "C":"38<sup>o</sup>43' j. k., 9<sup>o</sup>08' g'. u.",
@@ -441,24 +444,24 @@
     },
     {
        "savol":"Yer yuzidagi havoning harorati +13<sup>o</sup>C bo'lsa, qancha haroratda haroratn -11<sup>o</sup>C gab teng bo'ladi?",
-       "A":"1,6 km",
-       "B":"4 km",
+       "B":"1,6 km",
+       "A":"4 km",
        "C":"3250 m",
        "D":"2000 m"
     },
     {
        "savol":"Italiyadagi Garda ko'lining tubig aqarab exalotordan tovush to'lqinini 0,231 sekundda yetib borganligi ma'lum bo'lsa, ko'lning chuqurluigini aniqlang.",
-       "A":"346,5 m",
-       "B":"435,6 m",
+       "B":"346,5 m",
+       "A":"435,6 m",
        "C":"463,5 m",
        "D":"624,5 m"
     },
     {
        "savol":"<img src='../img/geo25.jpg' alt='geo25'>Rasmda ko'rsatilgan qaysi davlatlar And mamlakatlari qatorigan kiradi?",
-       "A":"3,4,5",
+       "D":"3,4,5",
        "B":"1,2,3",
        "C":"9,6,8",
-       "D":"5,6,7"
+       "A":"5,6,7"
     },
     {
        "savol":"<img src='../img/geo26.jpg' alt='geo26'>Ushbu davlatning eng yirik shahrida qancha aholi yashaydi (2018-yil)?",
@@ -469,20 +472,20 @@
     },
     {
        "savol":"Silur davrida qancha turdagi hayvon v ao'simliklar turlari mavjud bo'lgan?",
-       "A":"18000",
-       "B":"15000",
+       "B":"18000",
+       "A":"15000",
        "C":"16000",
        "D":"12000"
     },
     {
        "savol":"Temirtov shahri Qozog'istonning qaysi viloyatida joylashgan?",
-       "A":"Taraz",
-       "B":"Qarag'anda",
+       "B":"Taraz",
+       "A":"Qarag'anda",
        "C":"Qostanay",
        "D":"Aqmola"
     },
     {
-       "savol":"Qaysi mamlakat hududida 40 dan ordiq daryo va 3280 ta ko'l mavjud?",
+       "savol":"",
        "A":"Yaponiya",
        "B":"Malayziya",
        "C":"Yangi Zelandiya",
@@ -504,9 +507,9 @@
     },
     {
        "savol":"<img src='../img/geo28.jpg' alt='geo28'>Ushbu xaritada C harfi bilan ko'rsatilgan daryo qaysi tabiiy geografik o'lkaning eng yirik daryosi hisoblanadi?",
-       "A":"G'arbiy Sibir",
+       "C":"G'arbiy Sibir",
        "B":"Sharqiy yevropa",
-       "C":"Sharqiy Sibir",
+       "A":"Sharqiy Sibir",
        "D":"O'rta Osiyo"
     },
     {

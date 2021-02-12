@@ -1,40 +1,43 @@
 [
     {
-       "savol":"Quyidagi nomlardan qaysi bri slavyanlarga tegishli emas",
+
+    },
+    {
+       "savol":"",
        "A":"Polyan",
        "B":"Pechengen",
        "C":"Veche"
     },
     {
        "savol":"1948-yil 1-yanvarda qayi davlatning yangi konstutsiyasi kuchga kirdi",
-       "A":"GDR",
-       "B":"Italya",
+       "B":"GDR",
+       "A":"Italya",
        "C":"Fransiya",
        "D":"GER"
     },
     {
        "savol":"Qadimgi Xorazim markazlaridan brini belgilang",
-       "A":"Ellikqala",
+       "C":"Ellikqala",
        "B":"Kat",
-       "C":"Ko'zariliq",
+       "A":"Ko'zariliq",
        "D":"Dalvarzintepa"
     },
     {
        "savol":"Mil. avv. 2 ming yilliklarda vujudga kelgan qaysi qo'shni davlat ettlarning xavfli raqibiga aylangan edi",
-       "A":"Urartu",
+       "D":"Urartu",
        "B":"Mitanti podsholigi",
        "C":"Iroil-Yahudiya",
-       "D":"Ossuriya"
+       "A":"Ossuriya"
     },
     {
        "savol":"So'g'diylatr qaysi hududda yashagan",
-       "A":"Surxon vohasi, shimoliy Afg'on",
-       "B":"Zarafshonva Qashqadaryo vodiysida",
+       "B":"Surxon vohasi, shimoliy Afg'on",
+       "A":"Zarafshonva Qashqadaryo vodiysida",
        "C":"hozirgi Toshkent viloyati va Janubiy Qozog'iston yerlarida",
        "D":"Sirdaryoding quyi oqimi va Orol bo'ylarida"
     },
     {
-       "savol":"Xitoy tarixchisining yozishicha, qaysi davlat aholisi 70 dan ortiq shaharlarda istiqomat qilga",
+       "savol":"",
        "A":"Dovon davlatlari",
        "B":"Xorazim davlati",
        "C":"Qang' davlati",
@@ -42,13 +45,13 @@
     },
     {
        "savol":"Ilk 'o'rta asirlardagi G'arbiy Yevropa madanyatiga oid malumotlar qaysi bri ato",
-       "A":"Yirik monastrilarda rohib-hattotlar ishlaydigan skriptoriya (ustaxona)lar bo'lgan",
+       "C":"Yirik monastrilarda rohib-hattotlar ishlaydigan skriptoriya (ustaxona)lar bo'lgan",
        "B":"XII asirga qadar kitoblar monastirlar kutubxonalarida saqlangan",
-       "C":"Rohib olimlar-Kril vaMefodiy janubiy slavyanlar orasida xiristianlikni keng targ'ib etishgan",
+       "A":"Rohib olimlar-Kril vaMefodiy janubiy slavyanlar orasida xiristianlikni keng targ'ib etishgan",
        "D":"Yervropada kitoblar pergamet-maxsus ishlov berilgan tarilga bitilgan"
     },
     {
-       "savol":"Qaysi ristarlik ordeni dastlab Qudusga kelayotgan ziyoratchilarni himoya qilish uchun tuzilgan",
+       "savol":"",
        "A":"Tampliyerlar",
        "B":"Ioanniylar",
        "C":"Gospitalyerlar",
@@ -56,13 +59,13 @@
     },
     {
        "savol":"Musulmonlar quyidagi qaysi odatini Rim va iantiyadan o'zlashtrilib, o'z hukumronliklarini o'rnatgan barcha o'lkalarga tarqatganlar",
-       "A":"turli mavumga qarab kiyinish va oltin idishda ovqatlanishni",
+       "D":"turli mavumga qarab kiyinish va oltin idishda ovqatlanishni",
        "B":"yupqa shisha idshlarda ovqatlanishni",
        "C":"hammomlarda yuvinishni",
-       "D":"ovqatlanishda dastlab sovuq sho'rvalar, so'ng go'shtli taomlar, undan keyin shirinliklarni tortishni tartibini"
+       "A":"ovqatlanishda dastlab sovuq sho'rvalar, so'ng go'shtli taomlar, undan keyin shirinliklarni tortishni tartibini"
     },
     {
-       "savol":"XIII asirning birinchi choragida Kalka daryosi bo'yida yuz bergan jangda kimlar to'qnashgan edi",
+       "savol":"",
        "A":"nemis va ruslar",
        "B":" vizntiyaliklar va og'uzlar",
        "C":"rus va mug'illar",
@@ -77,36 +80,36 @@
     },
     {
        "savol":"Noto'g'ri javobni toping",
-       "A":"Barot chorva mollari bosh sonining 2,5 % miqdorida olingan soliq",
+       "C":"Barot chorva mollari bosh sonining 2,5 % miqdorida olingan soliq",
        "B":"Mulki xos- davlat solig'idan qisman yoki butunlay ozod etilgan oliy martabali ruhoniylar va sayidlarga qarashli yerlar",
-       "C":"Amid ul-mulk-davlat hujjatlari va elchilik aloqalari vziri",
+       "A":"Amid ul-mulk-davlat hujjatlari va elchilik aloqalari vziri",
        "D":"Targ'u- hunarmandlar va savdogarlardan ishlab chiqarilgan mahsuloti yoki sotilgan molning bir qismi hajmida olinadigan soliq"
     },
     {
        "savol":"Qaysi omil ilk o'rta asirlarda O'rta Ossiyoda aholi o'rtasida tabaqalanishni yanada keskinlashtirdi",
-       "A":"sug'orish va ishlov berishning takomillashuvi",
+       "C":"sug'orish va ishlov berishning takomillashuvi",
        "B":"qishloqlarning nufuzini ko'tarilishi",
-       "C":"yerda ishlash tartiblarining tuubdan o'zgarishi",
+       "A":"yerda ishlash tartiblarining tuubdan o'zgarishi",
        "D":"ziroatkor aholi bilan chorvador qabilalar o'rtasidagi aloqalarning rivojlanishi"
     },
     {
        "savol":"Shohbudog' sultonga otaliq bo'lgan amir Boyshax qysi qavimdan edi ",
-       "A":"qipchoq",
+       "C":"qipchoq",
        "B":"turk",
-       "C":"uyg'ur",
+       "A":"uyg'ur",
        "D":"qarluq"
     },
     {
        "savol":"Ilk o'rta asirlarda shaharsozlikning o'zagi nma bo'lgan",
-       "A":"rabot",
-       "B":"shahriston",
+       "B":"rabot",
+       "A":"shahriston",
        "C":"rk",
        "D":"ko'hadiz"
     },
     {
        "savol":"Abulxayirxon asos solgan davlat necha yil o'tgach Oltin O'rdadan mustaqil deb e'lon qlindi",
-       "A":"olti",
-       "B":"uch",
+       "B":"olti",
+       "A":"uch",
        "C":"yetti",
        "D":"besh"
     },
@@ -119,9 +122,9 @@
     },
     {
        "savol":"Eronda 1905-1911-yillardagi inqlob davrda qabul qilinayotgan qonunlarning shariatiga muvofiqligi ustidan naorat qilish uchun kmlar tayyinlanadigan bo'ldi",
-       "A":"masjid imomlaridan har bir viloyatdan bittadan vakil",
+       "C":"masjid imomlaridan har bir viloyatdan bittadan vakil",
        "B":"yettita ulug'dan beshshovi",
-       "C":"besh ulug' ulamo",
+       "A":"besh ulug' ulamo",
        "D":"uchta yrik shayxuliston"
     },
     {
@@ -133,23 +136,23 @@
     },
     {
        "savol":"1908-yilda kim tomonidan Ulug'bek rasadhonasining qoldiqlari va rasadhonaga tegishli asbob-uskunalarning bir qismi topilishiga erishilgan",
-       "A":"M.Bartold",
-       "B":"V.Vyatkin",
+       "B":"M.Bartold",
+       "A":"V.Vyatkin",
        "C":"L.Fedchino",
        "D":"Veselovskiy"
     },
     {
        "savol":"Kobuldagi Bobur Mirzoning qarorgohini aniqlang",
-       "A":"Konegil mavzesi",
-       "B":"Balo Hisor qalasi",
+       "B":"Konegil mavzesi",
+       "A":"Balo Hisor qalasi",
        "C":"Mozari sarif",
        "D":"Bog'i Bobur"
     },
     {
        "savol":"Abdullahon II Beklarsoy darasidagi qadimgi To'g'on qoldiqlari o'rnida qurilgan band qaysi tumanda joylashgan edi",
-       "A":"Xo'jand",
+       "C":"Xo'jand",
        "B":"Mashad",
-       "C":"Nurota",
+       "A":"Nurota",
        "D":"Karmana"
     },
     {
@@ -161,16 +164,16 @@
     },
     {
        "savol":"Lotincha tuhfa manosini beruvchi atama qaysi",
-       "A":"Aeronovigatsiya",
+       "C":"Aeronovigatsiya",
        "B":"Migratsiya",
-       "C":"Dotatsya",
+       "A":"Dotatsya",
        "D":"Migistal"
     },
     {
        "savol":"Quyidagi yodgorliklardan qaysi bri Buoro viloyatida joylashgan",
-       "A":"Qo'shilish",
+       "C":"Qo'shilish",
        "B":"Machay",
-       "C":"Zamonbobo",
+       "A":"Zamonbobo",
        "D":"Jarqo'ton"
     },
     {
@@ -182,37 +185,37 @@
     },
     {
        "savol":"Xiristian dininig tarqalishi natijasida...",
-       "A":"Rim huikumdorlari boshqa dinlarni taqib eta boshladilar",
+       "C":"Rim huikumdorlari boshqa dinlarni taqib eta boshladilar",
        "B":"germanlarning Rimga bostrib krishlariga yo'l ochildi",
-       "C":"qadimgi Olimpyada o'yinlari o'tkazilmasadan qoldi",
+       "A":"qadimgi Olimpyada o'yinlari o'tkazilmasadan qoldi",
        "D":"Rim imperyasi poytati Konstantinopolga ko'chirildi"
     },
     {
        "savol":"Xitoy trixchisining yozishicha, qaysi davlat aholisi 70 dan ortiq davlatlarda istiqomat qilgan",
-       "A":"Kuhon davlati",
-       "B":"Dovon davlati",
+       "B":"Kuhon davlati",
+       "A":"Dovon davlati",
        "C":"Qng' davlti",
        "D":"Xorazim davlati"
     },
     {
        "savol":"Markaziy Osiyoning tog'li dasht va cho'l yerlarida kimlar istiqomat qlishgan",
-       "A":"baqtryaliklar",
+       "C":"baqtryaliklar",
        "B":"masgetlar",
-       "C":"saklar",
+       "A":"saklar",
        "D":"daxlar"
     },
     {
        "savol":"Afina akademyasiga qachon va kim tomonidan asos solingan",
-       "A":"Arastu tomonidan mill.avv. IV astrda",
+       "C":"Arastu tomonidan mill.avv. IV astrda",
        "B":"Demosfen tomonidan mill. avv. V sirda",
-       "C":"Platon tomonidan mill. avv. IV asirda",
+       "A":"Platon tomonidan mill. avv. IV asirda",
        "D":"Suqrot tomonidan mill. avv. V  asirda"
     },
     {
        "savol":"Yangi usul maktablarning diniy maktab va madrasalardan farqi nmada edi",
-       "A":"unda hech qanday farq yuq edi",
+       "C":"unda hech qanday farq yuq edi",
        "B":"unda islom dini va tarixi bo'yicha mukammal bilim berilganligida",
-       "C":"unda nafaqat islom diniy va tarixi, balki mahalliy-turkiy xalqlar tarixi. Turon xalqi tarixi bo'yicha ta'lim berilganligida",
+       "A":"unda nafaqat islom diniy va tarixi, balki mahalliy-turkiy xalqlar tarixi. Turon xalqi tarixi bo'yicha ta'lim berilganligida",
        "D":"unda faqat amonaviy bilimlar berilganligida"
     },
     {
@@ -224,9 +227,9 @@
     },
     {
        "savol":"Qachon Abulayirxon O'zbek ulusi deb nomlangan davlatga asos soldi",
-       "A":"1446-yilda",
+       "C":"1446-yilda",
        "B":"1431-yilda",
-       "C":"1428-yilda",
+       "A":"1428-yilda",
        "D":"1451-yilda"
     },
     {
@@ -245,22 +248,22 @@
     },
     {
        "savol":"Ma'lumki Buxoro amirligi boshqaruvida Bosh va Kichiq inoq faoliyati yuritilgan. Quyidagilardan Kichik inoq bajaradigan vazifani ko'rsating.",
-       "A":"chet mamlakat elchilari taqdim etadigan hujumlarni qabul qilib olish hamda amir muhur uchun javobgar",
+       "D":"chet mamlakat elchilari taqdim etadigan hujumlarni qabul qilib olish hamda amir muhur uchun javobgar",
        "B":"oliy hukumdorning yaqinlari amaldorlarga yetkazish hamda amirlikda yashayotan arablar jamoasi msallari bilan shug'ullangan",
        "C":"davlat xvfsizlik xizmati boshlig'i",
-       "D":"mirlikning buyruqlarini quyi lavozimda ishlayotgan davlat xizmatchilariga yetkazish mazkur buyruqlarning bajarilishini va kelgusida davlat mansablariga tayinlanishi mumkin bo'lgan xizmatchilarning faoliyatini tashkil etish "
+       "A":"mirlikning buyruqlarini quyi lavozimda ishlayotgan davlat xizmatchilariga yetkazish mazkur buyruqlarning bajarilishini va kelgusida davlat mansablariga tayinlanishi mumkin bo'lgan xizmatchilarning faoliyatini tashkil etish "
     },
     {
        "savol":"1187-1193-yillarda Xorazimshoh Takash zabt etgan shaharlarnin aniqlang",
-       "A":"Isfahon, Ray va Marv shaharlari",
-       "B":"Nishopur, Ray va Marv shaharlari",
+       "B":"Isfahon, Ray va Marv shaharlari",
+       "A":"Nishopur, Ray va Marv shaharlari",
        "C":"Nishopur Isfahon va Hammadon shaharlari ",
        "D":"Balx, Marv va Isfahon shaharlari"
     },
     {
        "savol":"Toxariston nomi qanday kelib chiqgan",
-       "A":"Xorazim va Amudaryo bo'ylarini bosib olgan kidrlar nomini olgan",
-       "B":"Yunon-Baqtrya davlatini qulatgan chorvador qabila yuechjilar nomidan olingan",
+       "B":"Xorazim va Amudaryo bo'ylarini bosib olgan kidrlar nomini olgan",
+       "A":"Yunon-Baqtrya davlatini qulatgan chorvador qabila yuechjilar nomidan olingan",
        "C":"Pomir va Farg'ona vohasiga kirib kelgan saklar nomidan olingan",
        "D":"Suron vohasida yashagan baqtryaliklar nomidan olingan"
     },
@@ -273,34 +276,34 @@
     },
     {
        "savol":"Kiber davlati idora etish tuzilishini va uning iqtisodiy hayotini tartibga solish maqsadida ma'muriy va pul islohoti o'tkazadi. Bu pul qaysi davlatning kumish tangalari namunasida bo'lgan",
-       "A":"Xitoydagi Xubiylar davlati va Oltin O'rda xonligining",
+       "C":"Xitoydagi Xubiylar davlati va Oltin O'rda xonligining",
        "B":"Xitoydagi Xubiylar davlati va Jo'ji ulusining",
-       "C":"Eronddagi Xulokiylar davlati va Oltin O'rda xonligining",
+       "A":"Eronddagi Xulokiylar davlati va Oltin O'rda xonligining",
        "D":"Ulug' xoqon saroyi va Oltin O'rda xonligining"
     },
     {
        "savol":"Muhammad Shayboniyxonning Movorounnahr va Xuroson shaharlarini bosib olish ketma-ketligini ko'rsatring ",
-       "A":"Smarqand, Hirot, Urganch, Toshkent, Balx",
-       "B":"Samarqand, Toshkent, Farg'ona, Xorazm, Balx, Hirot",
+       "B":"Smarqand, Hirot, Urganch, Toshkent, Balx",
+       "A":"Samarqand, Toshkent, Farg'ona, Xorazm, Balx, Hirot",
        "C":"Buxoro, Farg'ona, Shohruhiya, Qunduz Urganj",
        "D":"Shohruxiya, Samarqand, Farg'ona, Hirot, Marv"
     },
     {
        "savol":"Xorazm xalqini mustaqillik uchun kurashga ko'tarishda quyidagilardan kim katta rol o'ynagan",
-       "A":"Elbarsxon",
-       "B":"Sayid Hisomiddin qattol",
+       "B":"Elbarsxon",
+       "A":"Sayid Hisomiddin qattol",
        "C":"Muhammad hayboniyhon",
        "D":"Berka Sulton"
     },
     {
        "savol":"Xiva xonligiga yuborilgan Aleksandr Bekovich-Cherkaskiy ekspedidsiyasi muvafaqiyatsizlikka uchragach podshoh hukumati O'rta Osiyoni qo'lga kritish uchun qnday tadbirni amalga oshirishga krishdi",
-       "A":"O'rta Osiyoga qarshi Afg'oniston blan ittifoq tuzish",
+       "D":"O'rta Osiyoga qarshi Afg'oniston blan ittifoq tuzish",
        "B":"harbiy istehkomlar qurish",
        "C":"qozoq juzlari va qorqalpoqlarni o'z fuqaroligiga kritish",
-       "D":"yangi harbiy ekspeditsyalar tashkil etish"
+       "A":"yangi harbiy ekspeditsyalar tashkil etish"
     },
     {
-       "savol":"1881-yilda Turkiston o'lkasid e'lon qlingan Yangi Nizomga ko'ra... har qanday odamni yetti kunga qamoqqa olish yoki jarimaga tortish vakolatiga bo'ladilar",
+       "savol":"",
        "A":"19-sentabr, Xivada brinchi bosmaxona ishga tushgan kun",
        "B":"25-may, Tarjimon gazetasining 1-soni chiqan kun",
        "C":"27-iyun, Taraqqiy gazetasining 1-soni chiqan kun",
@@ -308,13 +311,13 @@
     },
     {
        "savol":"Qaysi shahar va qal'alar chor Roiyasi tomonidan bir yilda ishg'ol etilgan. 1) Avliyoota; 2) Toshkent; 3)  Turkiston; 4) Niyozbek; 5) Chimkent; 6) O'ratepa ",
-       "A":"2,4,6",
+       "D":"2,4,6",
        "B":"1,3,6",
        "C":"1,3,5",
-       "D":"2,3,4"
+       "A":"2,3,4"
     },
     {
-       "savol":"XIX asirning 70-yillaruga kelgabda qaysi alqlar Gabsburglar imperyasi hukumroligi ostida edi",
+       "savol":"",
        "A":"Bosniya va Gersogovina slavyanlari va bolgarlar",
        "B":"slovenlar va makedonlar",
        "C":"lovaklar va xorvatlar",
@@ -329,10 +332,10 @@
     },
     {
        "savol":"Qanday jarayon natijasida o'troq hayotga turkiy hududiy maydon, o'zbek xalqiga xos antropologik qiyofa shakllanadi ",
-       "A":"Amudaryo va Sirdaryo oralig'ida turkiy aholini ommaviy ravishda ko'chib kelishi",
+       "D":"Amudaryo va Sirdaryo oralig'ida turkiy aholini ommaviy ravishda ko'chib kelishi",
        "B":"O'zbekiston hududida qadimda yashab kelgan aholing sug'orma dehqonchilik va hunarmandchilik bilan shug'ullaib kelganligi",
        "C":"Amudaryo va Sirdaryo oralig'ida yashagan qabila va elatlarning etnik jihatdan aralashuvi",
-       "D":"tub yer chorvador va chorvador aholining o'troqlashuvi"
+       "A":"tub yer chorvador va chorvador aholining o'troqlashuvi"
     },
     {
        "savol":"Dashti Qipchoq aholisining turli tabaqalarining tinchlik o'rnatishga intlishi kimga juda qo'l keldi",
@@ -350,64 +353,64 @@
     },
     {
        "savol":"Bo'zatov dostoni qaysi voqealarni katta mahorat bilan ishlagan",
-       "A":"yoshlarni mehnatkash xalq uchun jonini ayamaslikka chiqarish",
+       "C":"yoshlarni mehnatkash xalq uchun jonini ayamaslikka chiqarish",
        "B":"qoraqalpoq xalqining hayoti ularning yurtma-yurt ko'chib yurishiga majbur emasligini",
-       "C":"qoraqalpoq xalqining Xiva onligi tobeligiga tuhib qolgan davrdagi og'ir ahvoli erksiz turmushi",
+       "A":"qoraqalpoq xalqining Xiva onligi tobeligiga tuhib qolgan davrdagi og'ir ahvoli erksiz turmushi",
        "D":"qoraqalpoqlarning ozodlik va mustaqillik uchun fidoyilarcha kurashishi"
     },
     {
        "savol":"Nma sababdan Anglyada yer-mulk va aholi ro'yxat varaqlari xalq orasida <Daxshatli sud kitobi> nomini oldi",
-       "A":"baronlarning xarbiy xizat o'rniga xazinaga qalqon puli solig'i to'lashi",
+       "C":"baronlarning xarbiy xizat o'rniga xazinaga qalqon puli solig'i to'lashi",
        "B":"ang-aks mahalliy sudlarning saqlab qolinishi",
-       "C":"ro'yxatga oluvchilar savollariga faqat haqiqatni aytib javob berishi haqida qasamyod qldirishdir",
+       "A":"ro'yxatga oluvchilar savollariga faqat haqiqatni aytib javob berishi haqida qasamyod qldirishdir",
        "D":"Vilgem barcha feodallarni qirolga sodiqlikga qasamyod qildirish"
     },
     {
        "savol":"Ukraina prezidentligiga saylangan Viktor Yushchenko qaysi blok yetakchisi edi",
-       "A":"Sayudis",
+       "C":"Sayudis",
        "B":"Yevromaydon",
-       "C":"Bizning Ukraina",
+       "A":"Bizning Ukraina",
        "D":"Xalq fronti"
     },
     {
        "savol":"Parfiyada hokimyat kimning qo'liga o'tishi bilan u Baqtryaga harbiy tazyiqni kuchaytrdi",
-       "A":"Demetriy",
+       "C":"Demetriy",
        "B":"Diodot",
-       "C":"Mitridat I",
+       "A":"Mitridat I",
        "D":"Kambiz II"
     },
     {
        "savol":"Marg'iyona va Sog'diyona hududlari quyidagi qaysi davlatyning siyosiy va madaniy ta'sirida bo'lgan",
-       "A":"Qang'ning",
-       "B":"Baqtryning",
+       "B":"Qang'ning",
+       "A":"Baqtryning",
        "C":"Pariyaning",
        "D":"Xorazimning"
     },
     {
        "savol":"Xorien bu",
-       "A":" Kir II ga qarshi kurashgan Marg'iyona sarkardasi",
+       "C":" Kir II ga qarshi kurashgan Marg'iyona sarkardasi",
        "B":"Aleksandr Makedononiskiyning Maroqandada qoldirgan garnizoni qo'mondoni",
-       "C":"yunon-makedon qo'shinlari bosqini davrida Hisor tog'dagi qal'alardn brining hukumdori",
+       "A":"yunon-makedon qo'shinlari bosqini davrida Hisor tog'dagi qal'alardn brining hukumdori",
        "D":"Doro I hukumronligi davrida saklarning forslarga qarshi kurashi haqida yozib qoldirgan tarixchi"
     },
     {
        "savol":"Qadimgi Elam davlati vujudga kelgan davirni aniqlang",
-       "A":"mil. avv. I mingyillik",
-       "B":"mil. avv. III mingyillik",
+       "B":"mil. avv. I mingyillik",
+       "A":"mil. avv. III mingyillik",
        "C":"mil. avv. IV mingyillik",
        "D":"mil. avv. II mingyillik"
     },
     {
        "savol":"Mil. avv. I mingyillikda O'rta Osiyo aholisi 4 guruhga bo'lingan. Ulrni aniqlang",
-       "A":"zodagonlar, ruhoniylar, dehqonlar, qullar",
-       "B":"kohinlar, jangchilar, dehqonlar, hunarmandlar",
+       "B":"zodagonlar, ruhoniylar, dehqonlar, qullar",
+       "A":"kohinlar, jangchilar, dehqonlar, hunarmandlar",
        "C":"savdogarlar, dehqonlar, hunarmandlar,qullar",
        "D":"kinolar, savdogarlar, jangchilar, hunarmandlar"
     },
     {
        "savol":"Quyidagi qaysi sir muallifining fikricha uning kitobi  Oldin hech kim tuzmagan va hech kimga ma'lum bo'lmagan alohida bir tartibda tuzilgan",
-       "A":"Hidoya",
-       "B":"Devoni lug'otit turk",
+       "B":"Hidoya",
+       "A":"Devoni lug'otit turk",
        "C":"Qutadg'u blig",
        "D":"Al-Mufassal"
     },
@@ -426,9 +429,9 @@
        "D":"Turkiston harbiy okrugining shtab boshlig'i"
     },
     {
-       "savol":"Hindistondagi Kisar gazetasi kimlar o'rtasida vatanparvarlik g'oyalarini targ'ib qila boshladi",
-       "A":"yoshlar",
-       "B":"savdo sanoat kapitali vakillari",
+       "savol":"",
+       "B":"yoshlar",
+       "A":"savdo sanoat kapitali vakillari",
        "C":"liberal pomeshchiklar",
        "D":"dehqonlar"
     },
@@ -441,22 +444,22 @@
     },
     {
        "savol":"Ilk o'rta asr davrlarda O'rta Osiyo aholisining alohida yozuvlari bo'lgan. Qaysi yozuvlar qadimgi oromiy yozuvi asosida vujudga kelgan edi",
-       "A":"ro'ktur va toxar yozuvlari",
+       "C":"ro'ktur va toxar yozuvlari",
        "B":"baqtrya va runiy yozuvlari",
-       "C":"sug'd va xorazm yozuvlari",
+       "A":"sug'd va xorazm yozuvlari",
        "D":"ug'd va farg'ona yozuvlari"
     },
     {
        "savol":"Quyidagi yodgorliklarning qaysi bri Buxoro viloyatida joylashgan",
-       "A":"Jarqo'ton",
-       "B":"Zamonbobo",
+       "B":"Jarqo'ton",
+       "A":"Zamonbobo",
        "C":"Machay",
        "D":"Qo'shilish"
     },
     {
        "savol":"O'zbekiston Oliy Kengashi  O'zbekistonning ramzlari to'g'riida maxsus qaror qachon qabul qlindi",
-       "A":"1992-yil 15-febralda",
-       "B":"1991-yil 15-febralda",
+       "B":"1992-yil 15-febralda",
+       "A":"1991-yil 15-febralda",
        "C":"1990-yil 25-febralda",
        "D":"1991-yil 20-mar"
     },
@@ -476,24 +479,24 @@
     },
     {
        "savol":"XIX arning 90-yillarida qaysi davlatlarda otsialistik partiyalar tashkil etilgan",
-       "A":"Germanya va Fransya",
-       "B":"Italya va Argentinada",
+       "B":"Germanya va Fransya",
+       "A":"Italya va Argentinada",
        "C":"Fransiya va Rosiya",
        "D":"Avstrya-Vengrya, va Italya"
     },
     {
        "savol":"Makedonyalik Aleksandrning O'rta Osiyo yerlaridan bosib olgan hududlarni aniqlang. 1) Maroqanda; 2) Sug'diyona; 3) Farg'ona; 4) Toshkent vohasi; 5) hozirgi Bekobod; 6) Baqtirya; 7) Xo'jand; 8) Marg'iyona; 9) Xorazm ",
-       "A":"1,3,5,8,9",
+       "C":"1,3,5,8,9",
        "B":"1,3,5,7,9",
-       "C":"1,2,5,6,7,8",
+       "A":"1,2,5,6,7,8",
        "D":"2,3,4,5"
     },
     {
        "savol":"Ubaydulloxon II ning pul islohotiga xos xususiyatlarini belglang",
-       "A":"eki tanganing bittasidan 4 ta yangisi zarb etilib amalda pulning qadri ham 4 marta kamaygan",
+       "D":"eki tanganing bittasidan 4 ta yangisi zarb etilib amalda pulning qadri ham 4 marta kamaygan",
        "B":"muomalada bo'lgan turli og'irlikdagi tanlangan o'rniga vazni bir xil-5,2 gramm bo'lgan kumush va mis tanga zarb qilindi",
        "C":"oltin pul zarb etshni yo'lga qo'ydi va uning tarkibiga qiymati past bo'lgan boshqa ma'danlar aralashtirmasligini qattiq nazorat ostiga oldi",
-       "D":"uning davrida bitta kumush tanganing og'irligi 4,8 gramm bo'lib uninq qiymati 6 ta mis tangaga teng bo'ldi"
+       "A":"uning davrida bitta kumush tanganing og'irligi 4,8 gramm bo'lib uninq qiymati 6 ta mis tangaga teng bo'ldi"
     },
     {
        "savol":"Raqamlar o'rnini to'ldring. 1512yilda G'ijduvonda shayboniylar bilan safaviylar o'rtasidagi hal qiluvchi jangda shayboniylar qo'shinining qalb qismiga (1) o'ng qanotga Shayboniyxonning o'g'li (2) chap tomonga (3) qo'mondonlik qilishdi",
@@ -511,15 +514,15 @@
     },
     {
        "savol":"Quyidagilardan qaysi bri Rim imperatori Oktavian Avgust faoliyati bilan bog'liq",
-       "A":"uning davrida Suriya Mesopotamiya hududklari Rim imperyasi tarkibiga kirdi",
+       "C":"uning davrida Suriya Mesopotamiya hududklari Rim imperyasi tarkibiga kirdi",
        "B":"balandligi 40metrga teng ustun sirtidagi tasvirlar xuunlar bilan urush manzaralari haqida hikoya qiladi",
-       "C":"mil. avv. 31-yilda yunonistonda qirg'og'ida yuz bergan jangda g'alaba qozondi",
+       "A":"mil. avv. 31-yilda yunonistonda qirg'og'ida yuz bergan jangda g'alaba qozondi",
        "D":"dunay daryosi bo'ylarida yashovchi daklar ustiga yurishlar qildi"
     },
     {
        "savol":"YUnon-Baqtrya davlatining ko'chmanchi yechji qabilalari tomonidan bosib olinishiga zamin yaratgan omillarni aniqlang",
-       "A":"yechujilarning Parfiy davlati yordamida yunon-Baqtrya hujimi",
-       "B":"tinimsz urishlar olib bborganligi natijasida zaiflashib qolishi",
+       "B":"yechujilarning Parfiy davlati yordamida yunon-Baqtrya hujimi",
+       "A":"tinimsz urishlar olib bborganligi natijasida zaiflashib qolishi",
        "C":"davlat hududida krib kelayotgan yeuchjiylar mahalliy sharoit tushunib olib davlat dushmanlarining yordamida hujumga o'tkanliklari",
        "D":"yeuchjiylarning ko'chmanchi xuunlar tazqiyidan janubga sljshi"
     },
@@ -532,9 +535,9 @@
     },
     {
        "savol":"Trayan hukumronligi davrida qaysi hududlar Rim imperatori tarkibiga qo'shilib olingan",
-       "A":"Kichik Osiyo va Shimoliy Afrika",
+       "C":"Kichik Osiyo va Shimoliy Afrika",
        "B":"Suriya va Makedoniya",
-       "C":"suriya va Mesopotamiya",
+       "A":"suriya va Mesopotamiya",
        "D":"Ispanya va Mesopotamitya"
     },
     {
@@ -553,20 +556,20 @@
     },
     {
        "savol":"Botuxon qaysi davlatga asos solgan",
-       "A":"O'zbek ulusiga",
+       "C":"O'zbek ulusiga",
        "B":"Dashti Qichoqga",
-       "C":"Oltin O'rdaga",
+       "A":"Oltin O'rdaga",
        "D":"Nog'ay o'rdasiga"
     },
     {
        "savol":"Yurtimiz tarixida o'ziga xos nom qoldirgan Naziro'ja eshon va Abdurahmon jevachilar qanday tadbirga rahbarlik qilganlar",
-       "A":"Jadidlarning Qo'qon sho'basiga",
+       "C":"Jadidlarning Qo'qon sho'basiga",
        "B":"Rosiya imperyasiga qarshi Urgut va Kattaqo'rg'on mudofasiga",
-       "C":"mardikorlikka olishga Jizzax qo'zg'aloniga",
+       "A":"mardikorlikka olishga Jizzax qo'zg'aloniga",
        "D":"Sitorai Mohi Xosa saroyi Oq zalining parzodlash ishiga"
     },
     {
-       "savol":"1914-yilda Turkistonda <favqulotda muxofaza holati> deb e'lon qlinishi natijasida...",
+       "savol":"",
        "A":"mesopotamiya hunrmandchilik mahsulotlarining Turkistonga olib kelinishi boshlandi",
        "B":"mustamlaka hukumatining mahalliy aholi ustidan nazorat va jazo choralari kuchaydi",
        "C":"mustamlakaga aylantrilgan hududlarda ma'muriy markazlar joriy etildi",
@@ -574,13 +577,13 @@
     },
     {
        "savol":"Somoniylar davrida asosan lalimkor va tog'oldi yerlardan iborat mulklar nma deb atalgan",
-       "A":"mulki sultoniy",
+       "D":"mulki sultoniy",
        "B":"mulki xos",
        "C":"jamoa yerlari",
-       "D":"mulk yerlarda"
+       "A":"mulk yerlarda"
     },
     {
-       "savol":"Hirot tevaragida joylashgan qaysi madrasa shuhrat qozongan edi",
+       "savol":"",
        "A":"Amir Feruzshoh madrasasi va xonaqohi",
        "B":"Ilosiya madrasasi va xonaqohi",
        "C":"Xonim madrasasi va xonaqoxi",
@@ -594,7 +597,7 @@
        "D":"ang-saklar yerlarining kengayishi"
     },
     {
-       "savol":"XVI asr boshlarida xonlik aholisi kimlardan iborat bo'lgan",
+       "savol":"",
        "A":"turkiy aholi va mo'g'ullar",
        "B":"sug'diylar, xorazmiylar,ko'chib kelgan o'zbeklar",
        "C":"ko'chib kelgan o'zbeklar turk chig'atoy tojiklar",
@@ -602,22 +605,22 @@
     },
     {
        "savol":"Toxariston hukumdori qysi nomlar bilan atalgan",
-       "A":"ishid yabg'u",
+       "C":"ishid yabg'u",
        "B":"tudun dehqon",
-       "C":"malikshoh yabg'u",
+       "A":"malikshoh yabg'u",
        "D":"tudun malikshoh"
     },
     {
        "savol":"Qdimgi misir Tot xudosi",
-       "A":"Nil udosi bo'lgan",
+       "C":"Nil udosi bo'lgan",
        "B":"marhumlar va mo'miyolar xudosi mayyitlar posponi bo'lgan",
-       "C":"Oy donishmandlik va tabiblik ilohasi bo'lgan",
+       "A":"Oy donishmandlik va tabiblik ilohasi bo'lgan",
        "D":"musiqa go'zallik va sevgi ilohasi bo'lgan"
     },
     {
        "savol":"Shahobiddin Muhammad an-nasaviyning 1241-yilda yozishga kirishgan asarini aniqlang",
-       "A":"Tarixy jahonkushon",
-       "B":"Siyrat as sulton Jalol ad-Din Manguberdi",
+       "B":"Tarixy jahonkushon",
+       "A":"Siyrat as sulton Jalol ad-Din Manguberdi",
        "C":"Al-Komil fit tarix",
        "D":"Ravzat us-safo"
     },
@@ -637,8 +640,8 @@
     },
     {
        "savol":"Dashti Qipchoq deb ataluvchi hudud qaysi asrdan shu nom biklan tilga olina boshlagan",
-       "A":"XII asr",
-       "B":"XI asr",
+       "B":"XII asr",
+       "A":"XI asr",
        "C":"X  asr",
        "D":"XIII asr"
     },
@@ -651,8 +654,8 @@
     },
     {
        "savol":"XX asr boshlarida Xiva xonligida vujudga kelgan yabgi shaharlarni aniqlang",
-       "A":"Shovot, Taxta,Bog'ot ",
-       "B":"Bog'ot, Mo'ynoq, Taxta ",
+       "B":"Shovot, Taxta,Bog'ot ",
+       "A":"Bog'ot, Mo'ynoq, Taxta ",
        "C":"Gurlan, Mo'ynoq, Taxta",
        "D":"Xonqa, Hazorasp, Bog'ot"
     },
@@ -665,13 +668,13 @@
     },
     {
        "savol":"Shayboniylar davrida amaldor kim tomonidan tayinlangan",
-       "A":"tuman hokimi",
+       "D":"tuman hokimi",
        "B":"devonbegi",
        "C":"on",
-       "D":"amir"
+       "A":"amir"
     },
     {
-       "savol":"Fransyaning Marokashga nisbatan huquqini 1990-yil (a) va 1904-yilda (b) tan olgan davlatlarni aniqlang 1) Germaniya; 2) Italya; 3) AQSH; 4) Buyuk Britaniya; 5) Rosiya ",
+       "savol":"",
        "A":"a-2, b-4",
        "B":"a-4, b-5",
        "C":"a-1, b-3",
@@ -686,22 +689,22 @@
     },
     {
        "savol":"1878-yilda bo'lib o'tgan Berlin kongrensida qaysi davlatning mustaqilligi tan olindi 1) bolgariya; 2) Serbiya; 3) Rumiya; 4) Gretsiya; 5) Albanya; 6) Chernogoriya; 7) Bosniya Gersogoviya  ",
-       "A":"2,4,5,7",
+       "D":"2,4,5,7",
        "B":"1,3,4,7",
        "C":"2,3,6",
-       "D":"1,2,5,6"
+       "A":"1,2,5,6"
     },
     {
        "savol":"1548-yilda Abdultarifxon vafot etgach Samarqand taxtini kim egalladi",
-       "A":"Navro'z Ahmadhon",
+       "D":"Navro'z Ahmadhon",
        "B":"Abdullazizon",
        "C":"Abdullaxon II",
-       "D":"Iskandarxon"
+       "A":"Iskandarxon"
     },
     {
        "savol":"1918-yilning 11-noyabr bkuni Fransyaning Kompen o'rmonida qanday voqe sodir bo'lgan",
-       "A":"ingliz fransuz qo'shinlarining hujumini qaytarishda Germanya yangi qirol-ognemyotini qo'llaydi",
-       "B":"marshal Foshning shtab-vagonida Germanyaning Antanta bilan yarash bitimi imzolandi",
+       "B":"ingliz fransuz qo'shinlarining hujumini qaytarishda Germanya yangi qirol-ognemyotini qo'llaydi",
+       "A":"marshal Foshning shtab-vagonida Germanyaning Antanta bilan yarash bitimi imzolandi",
        "C":"Avstralya-Vengrya yarashish bitimi imzolash haqida Antantaga murojat qlib, shartnoma imzolandi va urushdan chiqdi",
        "D":"Sovet Rossiyasi To'rtlar Ittifoqi bilan ularning shartlari asosida Brest tinchlik shartnomasi imzolandi"
     },
@@ -720,14 +723,14 @@
        "D":"1,3,5,7"
     },
     {
-       "savol":"So'g'diylar qaysi hududda yashagan",
+       "savol":"",
        "A":"Suron vohasi shimoliy Afg'oniston",
        "B":"Zarfsho va Qashqadaryo vodiysi",
        "C":"hoirgi Toshkent viloyati janubiy Qozog'iston yerlarida",
        "D":"Sirdaryoning quyi oqimi va orol bo'ylari"
     },
     {
-       "savol":"Mil. avv. II mingyillikda vujudga kelgan qaysi qo'shni davlat xettlarni xavfli raqibga aylangan edi",
+       "savol":"",
        "A":"Osuriya",
        "B":"Isroil-Yahudiya",
        "C":"Mitanti podshohligi",
@@ -735,27 +738,27 @@
     },
     {
        "savol":"<img src='../img/tar1.png' alt='tar1'> Mazkur suratda tasvirlangan shaxs faoliyati bilan bog'liq mulohazalardan qaysi bri to'g'ri",
-       "A":"Kiyev ustidan 1147-yilgi g'alabasini nishonlash sharafiga u asos solgan Kuchkovo qo'rg'oni keyinchalik moskv nomini oladi",
+       "C":"Kiyev ustidan 1147-yilgi g'alabasini nishonlash sharafiga u asos solgan Kuchkovo qo'rg'oni keyinchalik moskv nomini oladi",
        "B":"uning  dastlabki harbiy yurishlaridan bri germanyaning langbard qabilasi italyada tuzilgan davlatga qarshi 773-yilda boshlandi",
-       "C":"u chevrkov yoki shaharlar kengashi emas hukumdor tomonidan tashkil etilgan birinchi unversitet asoschisidir",
+       "A":"u chevrkov yoki shaharlar kengashi emas hukumdor tomonidan tashkil etilgan birinchi unversitet asoschisidir",
        "D":""
     },
     {
        "savol":"<img src='../img/tar2.png' alt='tar2'> Ushbu rasmni ishlagan muallifni aniqlang",
-       "A":"Mirali tabriziy",
-       "B":"Kamoliddin Behzod",
+       "B":"Mirali tabriziy",
+       "A":"Kamoliddin Behzod",
        "C":"Muhammad Muzahid",
        "D":"Sultonali Mashaxadiy"
     },
     {
        "savol":"<img src='../img/tar3.png' alt='tar3'> Yuqoridagi xaritada qaysi qadimgi saltanat va uning yurishlari yo'nalishlari tasvirlangan",
-       "A":"Qadimgi Rim imperyasi",
+       "C":"Qadimgi Rim imperyasi",
        "B":"Ahhamoniy Eroni",
-       "C":"Makedonyalik Aleksandir va unuing Sharqqa yurishi",
+       "A":"Makedonyalik Aleksandir va unuing Sharqqa yurishi",
        "D":"Yunoniston davlati va fors podsholigi bilan urishlar"
     },
     {
-       "savol":"Mil. avv. 2 ming yilliklarda vujudga kelgan qaysi qo'shni davlat ettlarning xavfli raqibiga aylangan edi",
+       "savol":"",
        "A":"Urartu",
        "B":"Mitanti podsholigi",
        "C":"Iroil-Yahudiya",
@@ -763,62 +766,62 @@
     },
     {
        "savol":"<img src='../img/tar4.png' alt='tar4'>  Quyidagi ma'lumotlartdan qaysi bri ushbu rasmda ko'rsatilgan shaxsning faoliyati bilan bog'liq",
-       "A":"Qo'qon shaxrida uning rahbarligida havaskorlar teatri tashkil etilib unda namoyish etilgan birinchi spektakl uning zaharli hayoti ishq qurbonlaripyesasi bo'ldi",
+       "D":"Qo'qon shaxrida uning rahbarligida havaskorlar teatri tashkil etilib unda namoyish etilgan birinchi spektakl uning zaharli hayoti ishq qurbonlaripyesasi bo'ldi",
        "B":"Turkistonda brinchi o'zbek milly teatri Samarqand shahrida uning rahbarligida tashkil etilib butuppada namoyish etilgan ilk asar ham uning  Padarkush pyesasi edi",
        "C":"u maktablar uchun Adibi oniy hamda Yer yuzi kabi darsliklarni yaratdi",
-       "D":"u o'lkada ta'lim matbuoti sohasining rivojlanishiga katta hisa qo'shib 1907- yil shuhrat gazetasiga asos soldi hamda'z tashkilot qilgan yangi usul maktabi uchun Brinchi muallim  Ikkinchi muallim va  Turkiy guliston yoxud axloq kabi darsliklarni yaratdi"
+       "A":"u o'lkada ta'lim matbuoti sohasining rivojlanishiga katta hisa qo'shib 1907- yil shuhrat gazetasiga asos soldi hamda'z tashkilot qilgan yangi usul maktabi uchun Brinchi muallim  Ikkinchi muallim va  Turkiy guliston yoxud axloq kabi darsliklarni yaratdi"
     },
     {
        "savol":"XIX asrning 90-yillarida qaysi davlatlarda Sotsialistik partiyalar tashkil etilgan",
-       "A":"Germanya va Fransiya",
-       "B":"Italya va Argentina",
+       "B":"Germanya va Fransiya",
+       "A":"Italya va Argentina",
        "C":"Fransiya va Rosiya",
        "D":"Avstralya-Vengrya va Italya"
     },
     {
        "savol":"<img src='../img/tar5.png' alt='tar5'> Mazkur suratda tasvirlangan shaxs faoliyati bilan bog'liq mulohazalarni qaysi bri to'g'ri",
-       "A":"forslarning qoshiga sak qabilasining (cho'pon Shroq) keladi va fors qo'shnlarini o'zidan boshqa hech kim bilmaydigan so'qmoq bilan orqa tomonga boshhlab borishni aytdi ",
-       "B":"Mil. avv 328-yuz uning Aleksandr bilan hal qiluvchi jangi bo'lib o'tdi kuchlar teng bo'lmaganidan Spitamen yengilib cho'lga chekinadi va ko'chmanchi qabilalar boshliqlari tomonidan xoinlarchab o'ldriladi",
+       "B":"forslarning qoshiga sak qabilasining (cho'pon Shroq) keladi va fors qo'shnlarini o'zidan boshqa hech kim bilmaydigan so'qmoq bilan orqa tomonga boshhlab borishni aytdi ",
+       "A":"Mil. avv 328-yuz uning Aleksandr bilan hal qiluvchi jangi bo'lib o'tdi kuchlar teng bo'lmaganidan Spitamen yengilib cho'lga chekinadi va ko'chmanchi qabilalar boshliqlari tomonidan xoinlarchab o'ldriladi",
        "C":"Dor I hukumronligining birinchi yili Marg'iyonda fors istlochilariga qarshi uning boshchiligida yirik halq qo'zg'aloni ko'tarildi",
        "D":"kushonlar Shimoliy Baqtrya yerlariga ko'chib kelib o'rnashdilar Vaqt O'tishi bilan Birlashgan besh yeuchi qabilasining brinchi hukumdorio Kudzula Kadfiz bo'ldi"
     },
     {
        "savol":"<img src='../img/tar6.png' alt='tar6'> Yuqoridagi suratda O'rta Osiyoda bunyod etilgan qaysi bino tasvirlangan",
-       "A":"Bizning zamonamizgacha saqlanib qolgan Panjkent yaqinidagi Mug' ql'asi ",
+       "D":"Bizning zamonamizgacha saqlanib qolgan Panjkent yaqinidagi Mug' ql'asi ",
        "B":"ilk o'rta asrlar ganchkorligi san'atinin ig nodir yodgorligi namuunasi hisoblangan Varaxshara qasri",
        "C":"Sharqiy Turkistondagi Turfan  shahri yaqinidagi viloyat hokimi qarorgohi",
-       "D":"Samarqandning qdimiy xarobasi Afrosiyobda bunyod etilgan hukumdor saroyi"
+       "A":"Samarqandning qdimiy xarobasi Afrosiyobda bunyod etilgan hukumdor saroyi"
     },
     {
        "savol":"<img src='../img/tar7.png' alt='tar7'> Ushbu suratda tasvirlangan 40 metrlik ustunni bezab turgan bo'rtma rasmlar nima haqda hikoya qiladi",
-       "A":"Rimning Alarix boshchiligidagi gotlar tomonidan vayronaga aylantrilgan",
+       "C":"Rimning Alarix boshchiligidagi gotlar tomonidan vayronaga aylantrilgan",
        "B":"imperator Konstantaning ristianlikni boshqa dinlar bilan teng bir din deb e'lon qilish voqeasi",
-       "C":"Rim imperatori Trayaning dakar bilan olib borgan urush manzaralari",
+       "A":"Rim imperatori Trayaning dakar bilan olib borgan urush manzaralari",
        "D":"Rimning dushmani Attila boshchiligida xun qabilalarining Sharqiy ||Rim imperyasiga hujum uyishtrishi"
     },
     {
        "savol":"Qaysi urishdagi g'alabalar tufayli qadimgi Rimda Sezarning Nufuzi va obro'si yanada ortdi",
-       "A":"Pompey bilan Ispanya urishlaridagi",
-       "B":"Galliya urushlaridagi",
+       "B":"Pompey bilan Ispanya urishlaridagi",
+       "A":"Galliya urushlaridagi",
        "C":"Parfiya urushlaridagi",
        "D":"Krass bilan urushlaridagi"
     },
     {
        "savol":"Dunyo bo'yicha topilgan eng qadimiy qoyatosh suratlar qaysi tarixiy davrga oid",
-       "A":"neolit",
-       "B":"o'ngi paleolit",
+       "B":"neolit",
+       "A":"o'ngi paleolit",
        "C":"mezolit",
        "D":"eneolit"
     },
     {
        "savol":"Xolchayon, Dlvarintepa, Ayritom, Zarteppa, Qortepa, yodgorliklari qaysi qadmgi davrga tegshli",
-       "A":"Yunon-Baqtrya",
-       "B":"Kushon davlati",
+       "B":"Yunon-Baqtrya",
+       "A":"Kushon davlati",
        "C":"Qang'",
        "D":"Dovon"
     },
     {
-       "savol":"XIII asirning birinchi choragida Kalka daryosi bo'yida yuz bergan jangda kimlar to'qnashgan edi",
+       "savol":"",
        "A":"nemis va ruslar",
        "B":" vizntiyaliklar va og'uzlar",
        "C":"rus va mug'illar",
@@ -832,7 +835,7 @@
        "D":"GFR"
     },
     {
-       "savol":"Xitoy tarixchisining yozishicha qaysi davlat aholisi 70 dan ortiq shaharlarda istiqomat qiladi",
+       "savol":"",
        "A":"Xorazim davlati",
        "B":"Qng' davlati ",
        "C":"Qipchoq",
@@ -840,23 +843,23 @@
     },
     {
        "savol":"I'hoqon ibrat qayerlik jadid bo'lgan ",
-       "A":"Frg'ona",
-       "B":"iva",
-       "C":"Samarqnd",
+       "A":"Farg'ona",
+       "B":"xiva",
+       "C":"Samarqand",
        "D":"Toshkent"
     },
     {
-       "savol":"Qaysi omil ilk o'rta asrlarda O'rta Osiyoda aholi o'rtasida tabaqalashuvni yanada keskinlashtrdi",
-       "A":"ug'orish va ishlov berishning takomillashuvi",
+       "savol":"",
+       "A":"sug'orish va ishlov berishning takomillashuvi",
        "B":"qishloqlarning nufini ko'tarilishi",
        "C":"yerda yashash tartiblarining tubdn o'grihi",
        "D":"irotkor aholi bilan chorvdor qabilalar o'rtasidagi aloqalarning rvojlanishi"
     },
     {
        "savol":"Trayan hukumronligi davrida qaysi hududlar rim imperyasi tarkibiga qo'shilib olindi",
-       "A":"Ispanya va Meopotaamiya",
+       "C":"Ispanya va Meopotaamiya",
        "B":"Kichik Ossiyo va Shimoliy Afrika ",
-       "C":"Suriya va Mesopotamiya",
+       "A":"Suriya va Mesopotamiya",
        "D":"Suriya va Makedonya"
     },
     {
@@ -868,16 +871,16 @@
     },
     {
        "savol":"Nimaning natijasida o'rta asrlarda yozma manbalar soni keskin ko'paydi",
-       "A":"kitob bosish dastgohlarining yaratilishi",
+       "D":"kitob bosish dastgohlarining yaratilishi",
        "B":"aholining ko'pchilik qismi savodli bo'lihi",
        "C":"mol terisida qog'oz ishlab chiqarishning yo'lga qo'yilishi",
-       "D":"cherkovlar qoshida attotlik maktablarining tashkil etilishi"
+       "A":"cherkovlar qoshida attotlik maktablarining tashkil etilishi"
     },
     {
        "savol":"<img src='../img/tar8.png' alt='tar8'>Yuqoridagi rasmda tasvirlangan hukunmdor faoliyati bilan bog'liq ma'lumotni bering",
-       "A":"Bolonyadan taklif etilgan eng bilimdon huquqshunoslari uning xizmatiga kirib qonunlar majmualarini tuzib beradilar hamda uni yerdagi jon qonun deb e'trof qilishadi",
+       "C":"Bolonyadan taklif etilgan eng bilimdon huquqshunoslari uning xizmatiga kirib qonunlar majmualarini tuzib beradilar hamda uni yerdagi jon qonun deb e'trof qilishadi",
        "B":"Vengerlar bilan 9 yilga tinchlik sulhi tugan qirol mamlakat mudofa qudratini yuksaltrish maqsadida qator tartiblar amalga oshirildi",
-       "C":"an'anaviy alq lashkari o'rnidagi ortiq ritrlar qo'shini vujudga keldi",
+       "A":"an'anaviy alq lashkari o'rnidagi ortiq ritrlar qo'shini vujudga keldi",
        "D":"VI asrning boshlarida brittalarni birlashtrib kuchli qo'shin tuza olgan hukumdor Britanyaga angl-aklar tazyiqini deyarli yarim asrga to'xtatadi"
     },
     {
@@ -889,8 +892,8 @@
     },
     {
        "savol":"Qaysi harakat bilan Rossiya imperyasining O'rta Osiyoga istilochilik yurishining uchinchi bosqichi (1873-1879) nihoyasiga yetdi",
-       "A":"markazi Ashhabod bo'lgan Kaspiyot viloyatining tashkil qlinishi",
-       "B":"Farg'ona vodiysining bo'ysundrilishi",
+       "B":"markazi Ashhabod bo'lgan Kaspiyot viloyatining tashkil qlinishi",
+       "A":"Farg'ona vodiysining bo'ysundrilishi",
        "C":"turkmanlar qal'asi Go'ktepaning qo'lga olinishi va turkmanlarning batamom bo'ysundrilishi",
        "D":"Rosiya va Eron o'rtasidagi chegaralarning belgilanishi"
     },
@@ -903,9 +906,9 @@
     },
     {
        "savol":"Rossiyaning yer tanqisligi kuchli bo'lgan markaziy mintaqalardagi dehqonlarni imperyaning chekka o'lkalariga ko'chirilgan aholisi nma sababdan yana o'z joyiga qayta ko'chirishga majbur bo'lgan edi",
-       "A":"aholining urf-odatlari va qarindoshchilik an'analari hisobiga olinmasdan, majburan ko'chirganligi",
+       "C":"aholining urf-odatlari va qarindoshchilik an'analari hisobiga olinmasdan, majburan ko'chirganligi",
        "B":"ko'chib borganlarning mahalliy aholi tazyiqiga uchrashi",
-       "C":"ko'chirilgnlar moddiy jihtdan yetarli taminlnlanmaganligi",
+       "A":"ko'chirilgnlar moddiy jihtdan yetarli taminlnlanmaganligi",
        "D":"ko'chirilganlar eng unumli yerlar bilan tamirlanganligi"
     },
     {
@@ -917,9 +920,9 @@
     },
     {
        "savol":"Quyidagi voqealardan nisbatan keyinroq sodir bo'lganini aniqlang",
-       "A":"Hayvonlarni qo'lga o'rgatish boshlandi",
+       "C":"Hayvonlarni qo'lga o'rgatish boshlandi",
        "B":"odamlar ixcham guruxlar-urug'-jamoalarga ajralib chiqa boshladilar",
-       "C":"odamlar o'troq turmush tarziga o'tdilar",
+       "A":"odamlar o'troq turmush tarziga o'tdilar",
        "D":"Old Osiyoda ibtidoiy zirioatchilik va chorvachilik vujudga keldi"
     },
     {
@@ -952,69 +955,69 @@
     },
     {
        "savol":"Qaysi hukumdor davrida Buxoroning Registonida devonlar uchun saroy qurilib, boshqaruv mahkamalari shu yerga ko'chirildi",
-       "A":"Nuh",
+       "C":"Nuh",
        "B":"Ahmad",
-       "C":"Nasr II",
+       "A":"Nasr II",
        "D":"Ismoil Somoniy"
     },
     {
        "savol":"<img src='../img/tar9.png' alt='tar9'> Yuqoridagi haritada XIX asr o'rtalarida faoliyat ko'rsatgan qaysi davlat ko'rsatilgan",
-       "A":"Avesto-Vengrya imperyasi",
+       "D":"Avesto-Vengrya imperyasi",
        "B":"Bolqon ittifoqiga a'zo davlatlar",
        "C":"1871-yilda birlashgan German imperyasi",
-       "D":"Muqaddas Rim imperyasi"
+       "A":"Muqaddas Rim imperyasi"
     },
     {
        "savol":"2015-yil febral oyig Germaniya va Firansiya davlat raxbarlari vosidachiligida Minsk shahrida qaysi mamlakat joydagi harbiy mojarani hal etish to'g'risida yangi kelushuv imzolangan edi",
-       "A":"Ukraina shaxridagi ",
+       "D":"Ukraina shaxridagi ",
        "B":"Ddnestrbo'yi Mo'ldaviya Respublikasi Hududidagi ",
        "C":"Lolalar inqlobi sodir bo'lyotgan Qirg'iz respublikasidagi",
-       "D":"Guruziya bilan Janubiy Osetiya o'rtasidagi"
+       "A":"Guruziya bilan Janubiy Osetiya o'rtasidagi"
     },
     {
        "savol":"Qysi davlat ikkinchi jahon urushida 27 mln aholisdan ayrldi",
-       "A":"Germanya",
+       "C":"Germanya",
        "B":"Italya",
-       "C":"SSSR",
+       "A":"SSSR",
        "D":"Fransya"
     },
     {
        "savol":"Parfiyada hokimyat kmning qo'liga o'tishi bilan u Baqtryaga harbiy tazyiqini kuchaytradi",
-       "A":"Demetriy",
+       "C":"Demetriy",
        "B":"Diodot",
-       "C":"Mitridat I",
+       "A":"Mitridat I",
        "D":"Kambiz II"
     },
     {
        "savol":"Quyidagi nomlardan qaysi biri slavyanlar tegishli emas ",
-       "A":"Polyan",
-       "B":"Pecheneg",
+       "B":"Polyan",
+       "A":"Pecheneg",
        "C":"Veche",
        "D":"Prjemislovich"
     },
     {
        "savol":"1948-yil 1-yanvardan qaysi davlatning yangi konstitutsiyasi kuchga kirdi. ",
-       "A":"GDR",
-       "B":"Italiya",
+       "B":"GDR",
+       "A":"Italiya",
        "C":"Fransiya",
        "D":"GFR"
     },
     {
        "savol":"Qadimgi Xorazm markazidan birini belgilang.",
-       "A":"Ellekqal`a",
+       "C":"Ellekqal`a",
        "B":"Kat",
-       "C":"Ko`zaliqir",
+       "A":"Ko`zaliqir",
        "D":"Dalvarzintepa"
     },
     {
-       "savol":"Mill. avv. II ming yillikda vujudga kelgan qaysi qo`shni davlat xettlarning xavfli raqibiga aylangan edi.",
+       "savol":"",
        "A":"Urartu",
        "B":"Mitanni podsholigi",
        "C":"Isroil-Yohudiya",
        "D":"Ossuriya"
     },
     {
-       "savol":"<img  src='../img/tarix1.png' > Mazkur suratda tasvirlangan shaxs faoliyati bilan bog`liq mulohazalarning qaysi biri to`g`ri?",
+       "savol":"",
        "A":"Forslarning qoshiga sak qabilasigan u (Cho`pon Shiroq) keladi va fors qo`shinlarini o`zidan boshqa hech kim bilmaydigan so`qmoq bilan saklarning orqa tomoniga boshlab borishini aytadi. ",
        "B":"Mill. avv. 328-yil kuzida uning Aleksandr bilan hal qiluvchi jangi bo`lib o`tdi: kuchlar teng bo`lmaganidan Spitaamen Yengilib, cho`lga chekinadi va ko`chmanchi qabilalar boshliqlari tomonidan xoinlarcha o`ldiradi",
        "C":"Doro I hukmronligining birinchi yili Marg`iyonada fors istilochilarida qarshi uning boshchiligida yirik xalq qo`zg`oloni ko`tariladi",
@@ -1029,20 +1032,20 @@
     },
     {
        "savol":"Sug`diylar qaysi hududda yashaganlar.",
-       "A":"Surxon vohasi, shimoliy Afg`oniston",
-       "B":"Zarafshon va Qashqadaryo vodiysida",
+       "B":"Surxon vohasi, shimoliy Afg`oniston",
+       "A":"Zarafshon va Qashqadaryo vodiysida",
        "C":"Hozirgi Toshkent viloyati va Janubiy Qozog`iston yerlarida ",
        "D":"Sirdaryoning quyi oqimi va Oral bo`ylari"
     },
     {
-       "savol":"Xitoy tarixchisini yozishicha, qaysi davlat aholisi 70 dan ortiq shaharlarda istiqomat qilgan.",
+       "savol":"",
        "A":"Dovon davlati",
        "B":"Xorazm davlati",
        "C":"Qang` davlati",
        "D":"Kushon davlati"
     },
     {
-       "savol":"Ilk o`rta asrlardagi G`arbiy yevropa madaniyatiga oid ma'lumotlardan qaysi biri xato.",
+       "savol":"",
        "A":"Yirik monastirlarda rohib-xattotlar ishlaydigan skriptoriya (ustaxona)lar bo`lgan.",
        "B":"XII asrga qadar kitoblar monastirlar kutubxonalarida saqlangan.",
        "C":"Rohib olimlar- Krill va Mefodiy janubiy slavyanlar orasida xristianlikni keng targ`ib etishgan.",
@@ -1057,13 +1060,13 @@
     },
     {
        "savol":"Musulmonlar quyidagi qaysi odatni Rim va Vizantiyadan o`zlashtirib, o`z hukmronligini o`rnatgan barcha o'lkalarga tarqatganlar.",
-       "A":"Turli mavsumga qarab kiyinish va oltin idishda ovqatlanishni ",
+       "D":"Turli mavsumga qarab kiyinish va oltin idishda ovqatlanishni ",
        "B":"Yupqa shisha idishlarda ovqatlanishni",
        "C":"Hammomlarda yuvinishni",
-       "D":"Ovqatlanishda dastlab suyuq sho`rvalar, so`ng go`shtli taomlar, undan keyin shirinliklarni tortish tartibini "
+       "A":"Ovqatlanishda dastlab suyuq sho`rvalar, so`ng go`shtli taomlar, undan keyin shirinliklarni tortish tartibini "
     },
     {
-       "savol":"XII asrning birinchi choragida Kalka daryosi bo`yicha yuz bergan jangda kimlar to`qnashgan edi.",
+       "savol":"",
        "A":"nemis va ruslar",
        "B":"vizantiyaliklar va o`g`uzlar",
        "C":"rus va mo`g`ullar",
@@ -1071,20 +1074,20 @@
     },
     {
        "savol":"Angliyada Qizil va oq gullar urushi boshlanganidan bir yil avval O`rta Osiyo...",
-       "A":"Hirot hokimi Abulqosim Bobur Movarounnahrga bostirib kirib, Samarqandni qamalga olganida Xoja Ubaydulloh Ahror mojaro qat`iyan aralashib, raqiblarni yarashtirdi.",
-       "B":"Abu Said Hirot taxtini egallaydi va temuriylar saltanatining har ikki qismini birlashtirishga muvaffaq bo`ladi.",
+       "B":"Hirot hokimi Abulqosim Bobur Movarounnahrga bostirib kirib, Samarqandni qamalga olganida Xoja Ubaydulloh Ahror mojaro qat`iyan aralashib, raqiblarni yarashtirdi.",
+       "A":"Abu Said Hirot taxtini egallaydi va temuriylar saltanatining har ikki qismini birlashtirishga muvaffaq bo`ladi.",
        "C":"Dashti Qipchoq hukmronligi Abulxayrxon katta qo`shin bilan Toshkent, Chinos va jizzax orqali Samarqandga Mirzo Abdullohga qarshi yurish qiladi. ",
        "D":"Abu Said Ozarbayjon, G`arbiy Eron va Iroqqacha bo`lgan viloyatlarni egallab turgan turgan turkmanlarga qarshi jangda holok bo`ladi. "
     },
     {
-       "savol":"Noto`g`ri javobni toping.",
+       "savol":"",
        "A":"Borot-chorva mollari bosh sonining 2,5 % miqdorida olingan soliq ",
        "B":"Mulki xos- davlat solig`iidan qisman yoki butunlay ozod etilgan oliy martabali ruhoniylar va sayyidlarga qarashli yerlar ",
        "C":"Amid ul-mulk - davlat hujjatlari va elchilik aloqalari vaziri ",
        "D":"Targ`u -hunarmandlar va savdogarlardan ishlab chiqarilgan mahsulot yoki sotilgan molning o`ttizdan bir qismi hajmida olingan soliq"
     },
     {
-       "savol":"<img  src='../img/tarix2.png' > Yuqaridagi suratda O`rta Osiyoda bunyod etilgan qaysi bino tasvirlangan.",
+       "savol":"",
        "A":"Bizning zamonamizgacha saqlanib qolgan Panjikent yaqinidagi Mug` qal`asi",
        "B":"Ilk o`rta asrlar ganchkorligi sanatining nodir yodgorligi namunasi hisoblangan Varaxsha qasri",
        "C":"Sharqiy Turkistondagi Turfan shahri yaqinidagi viloyat hokimi qarorgohi",
@@ -1092,20 +1095,20 @@
     },
     {
        "savol":"Qaysi omil ilk o`rta asrlarda O`rta Osiyoda aholi o`rtasida tabaqalanishni yanada keskinlashtirilgan.",
-       "A":"Sug`orish va ishlov berishning takomillashuvi",
+       "C":"Sug`orish va ishlov berishning takomillashuvi",
        "B":"Qishloqlarning nufuzi ko`tarilishi ",
-       "C":"Yerda ishlash tartiblarining tubdan o`zgarishi",
+       "A":"Yerda ishlash tartiblarining tubdan o`zgarishi",
        "D":"Ziroatkor aholi bilan charvador qabilalar o`rtasidagi aloqalar rivojlanishi"
     },
     {
        "savol":"Shohbudog` Sultonga otaliq bo`lgan amir Boyshayx qaysi qavmdan edi.",
-       "A":"qipchoq",
+       "C":"qipchoq",
        "B":"turk",
-       "C":"uyg`ur",
+       "A":"uyg`ur",
        "D":"qarluq"
     },
     {
-       "savol":"Ilk o`rta asrlarda shaharsozlikning o`zagi nima bo`lgan.",
+       "savol":"",
        "A":"robat",
        "B":"shahriston",
        "C":"ark",
@@ -1113,27 +1116,27 @@
     },
     {
        "savol":"Abulxayrxon asos solga davlat necha yil o`tgach Oltin O`rtadan mustaqil deb e`lon qilindi.",
-       "A":"olti",
-       "B":"uch",
+       "B":"olti",
+       "A":"uch",
        "C":"yetti",
        "D":"besh"
     },
     {
-       "savol":"Hoji Tarxon xonligi qaysi davlatning parchalanishi natijasida vujudga kelgan",
+       "savol":"",
        "A":"Dashti Qipchoq",
        "B":"Oltin O`rda",
        "C":"Sibir xonligi",
        "D":"O`zbek ulusi"
     },
     {
-       "savol":"Eronda 1905-1911-yillardagi inqilob davrida qabul qilingan qonunlarning shariatga muvoffiqligi ustidan nazorat qilish uchu kimlar tayinlanadigan bo`ldi.",
+       "savol":"",
        "A":"masjid imomlarlaridan har bir viloyatdan bittadan vakil",
        "B":"yettita ulug` din peshvosi",
        "C":"besh ulug` ulamo ",
        "D":"uchta yirik shayxulislom"
     },
     {
-       "savol":"Hindiston Kesari gazetasi kimlar o`rtasida vatanparvarlik g`oyalarini targ`ib qila boshladi.",
+       "savol":"",
        "A":"savdo-sanoat kapitali vakillari",
        "B":"yoshlar",
        "C":"dehqonlar",
@@ -1141,41 +1144,41 @@
     },
     {
        "savol":"XIX asr oxiri - XX asr boshlarida Yoponiya tomonidan eggallangan hududlarni xronologik tartibda belgilang. 1) Penxu orollari; 2) Janubiy Saxalin; 3) Shimoliy Kuril orallari; 4) Ryukyu oroli. ",
-       "A":"3,4,1,2",
+       "D":"3,4,1,2",
        "B":"4,2,3.1",
        "C":"2,4,1,3",
-       "D":"2,4,1,3"
+       "A":"2,4,1,3"
     },
     {
        "savol":"XIX asrning oxirlarida Xitoy hududining mustamlakachi davlatlar tomonidan egallab olinishidagi javoblarni qo`ying: 1) Buyuk Britaniya; 2) Germaniya; 3)Rossiya; 4) Yoponiya; 5) Fransiya; a) Suamchijuvan ko`rrfazi; b) Port-Artur; c) Futszyan viloyati; d) Szyaochjouvan va Shandun; e) yanszi daryosi havzasi va Veyxay.",
-       "A":"1-e, 2-b, 3-a, 4-d, 5-c",
-       "B":"1-e, 2-d, 3-b, 4-c, 5-a",
+       "B":"1-e, 2-b, 3-a, 4-d, 5-c",
+       "A":"1-e, 2-d, 3-b, 4-c, 5-a",
        "C":"1-d, 2-b, 3-e, 4-c, 5-a",
        "D":"1-c, 2-a, 3-b, 4-d 5-e"
     },
     {
        "savol":"1881-yilda Turkiston  Davlat tartiboti va jamoat osoyishtaligini qo`riqlashga qaratiligan chora-tadbirlar to`g`risidagi Nizom e`lon qilingan bo`lib, unga muvofiq,...",
-       "A":"butun Turkiston o`lkasi bosh sud bosqichi huquqlari bilan mustahkamlangan toshkent sud palatasi tuziladi",
-       "B":"general-gubernator <<kuchaytirilgan>> yoki <<favquloqda>> qo`riqish holatini holatini o`z ixtiyori joriy etish huquqiga ega bo`ldi. ",
+       "B":"butun Turkiston o`lkasi bosh sud bosqichi huquqlari bilan mustahkamlangan toshkent sud palatasi tuziladi",
+       "A":"general-gubernator <<kuchaytirilgan>> yoki <<favquloqda>> qo`riqish holatini holatini o`z ixtiyori joriy etish huquqiga ega bo`ldi. ",
        "C":"Turkiston aholisi armiyaga jalb qilinmaydigan bo`ldi",
        "D":"general-gubernatorga eng quyi mahalliy hokimlarning ham lovozimiga tasdiqlashi vakolati beriladi "
     },
     {
        "savol":"1908-yilda kim tomonidan Ulug`bek rasadxonasisining qoldiqlari va rasadxonaga tegishli asbob-uskunalarning bir qismi topilishiga erishilgan. ",
-       "A":"M.Bortold",
-       "B":"V.Vyatkin",
+       "B":"M.Bortold",
+       "A":"V.Vyatkin",
        "C":"L.Fedchenko",
        "D":"Veselovskiy"
     },
     {
        "savol":"U.Gajibekovning qaysi musiqali pyesalari o`zbek jamoatchiligi orasidagi iliq kutib olinadi",
-       "A":"Arshin mololon, Zaharli hayot yoxud ishq qurbonlari, va Go`ro`g`li",
-       "B":"Go`ro`g`li, Layli va Majnun, va Arshin mololon",
+       "B":"Arshin mololon, Zaharli hayot yoxud ishq qurbonlari, va Go`ro`g`li",
+       "A":"Go`ro`g`li, Layli va Majnun, va Arshin mololon",
        "C":"Mahramlar, Zaharli hayot yoxud ishq qurbonlari, va Arshin mololon",
        "D":"Layli va Majnun, G`arib va Shoxsanam, Hasan va Dalli, Rustam va Avaz"
     },
     {
-       "savol":"Kobildagi Bobur Mirzolari qarorgohini aniqlang.",
+       "savol":"",
        "A":"Konigil mavzesi",
        "B":"Bolo Hisor qalasi",
        "C":"Mozori sarif",
@@ -1183,13 +1186,13 @@
     },
     {
        "savol":"Abdullaxon II Beklarsoy darasidagi qadimgi to`g`on qoldiqlari o`rnida qurilgan band qaysi tumanda joylashgan edi.",
-       "A":"Xo`jand ",
+       "C":"Xo`jand ",
        "B":"Mashhad",
-       "C":"Nurota",
+       "A":"Nurota",
        "D":"Karmana"
     },
     {
-       "savol":"Noto`g`ri berilgan javobni aniqlang.",
+       "savol":"",
        "A":"Movarounnahr va Xorazm o`zbek xalqi XIII-XV asrlarda shakllangan",
        "B":"O`zbek nomi O`zbekiston tarixining XVI asrdan keyingi taraqqiyot bosqichlarida mahalliy aholi ruhiga singdi",
        "C":"Shayboniylar yurtimizni egallagach Dashti Qipchoqda yashovchi o`zbek qabilalari Movarouunahr va Xorazm ko`chib kela boshladilar",
@@ -1197,20 +1200,20 @@
     },
     {
        "savol":"2015-yil fevral oyida Germaniya va Fransiya davlat rahbarlari vositachiligida Minsk shahriga qaysi mamlakat joydagi harbiy mojaroni hal etish to`g`risida yangi kelishuv imzolanganedi (Minsk-2)",
-       "A":"Dnestrbo`yi Moldaviya Respublikasi hududidagi",
+       "C":"Dnestrbo`yi Moldaviya Respublikasi hududidagi",
        "B":"Ukraina sharqidagi",
-       "C":"Gruziya bilan Janubiy Osetiya o`rtasidagi",
+       "A":"Gruziya bilan Janubiy Osetiya o`rtasidagi",
        "D":"Lolalar inqilobi sodir bo`layotgan Qirg`iz Respublikasidagi"
     },
     {
        "savol":"Lotinchada tuhfa manosini beruvchi atama qaysi.",
-       "A":"Aeronavigatsiya",
+       "C":"Aeronavigatsiya",
        "B":"Migratsiya",
-       "C":"Datatsiya",
+       "A":"Datatsiya",
        "D":"Magistral"
     },
     {
-       "savol":"Quyidagi yodgorliklardan qaysi biri buxoro viloyatida joylashgan.",
+       "savol":"",
        "A":"Qo`shilish ",
        "B":"Machay",
        "C":"Zamonbobo",
@@ -1218,16 +1221,16 @@
     },
     {
        "savol":"Quyidagilardan qaysi biri xato berilgan. Asosiy Misr Xudolari:",
-       "A":"Maat",
+       "C":"Maat",
        "B":"Anubis",
-       "C":"Ishtar",
+       "A":"Ishtar",
        "D":"Xatxor"
     },
     {
        "savol":"Xristian dinining tarqalishi natijasida...",
-       "A":"Rim hukmdorlari boshqa dinlarni ta`qib eta boshladilar",
+       "C":"Rim hukmdorlari boshqa dinlarni ta`qib eta boshladilar",
        "B":"Germanlarning Rimga bostirib kirishlariga yo`l ochildi",
-       "C":"Qadimgi Olimpiya o`yinlari o`tkazilmasdan qoldi",
+       "A":"Qadimgi Olimpiya o`yinlari o`tkazilmasdan qoldi",
        "D":"Rim imperiyasi poytaxti Konstantiopalga ko'chiriladi"
     },
     {
@@ -1239,13 +1242,13 @@
     },
     {
        "savol":"Markaziy Osiyoning tog`lik, dasht va cho`l yerlarida kimlar istiqomat qilishgan ",
-       "A":"Baqtriyaliklar",
+       "C":"Baqtriyaliklar",
        "B":"Massagetlar",
-       "C":"Saklar",
+       "A":"Saklar",
        "D":"Daxlar"
     },
     {
-       "savol":"Afina akademiyasiga qachon va kim tomonidan asos solingan.",
+       "savol":"",
        "A":"Arastu tomonidan mil. av. IV asrda",
        "B":"Demosfen tomonidan mil av. V asrda",
        "C":"Platon tomonidan mil av. IV asrda",
@@ -1253,13 +1256,13 @@
     },
     {
        "savol":"Vilson tinchlik dasturi qanday dastur edi.",
-       "A":"I jahon urushini  Antantaning G`alabasigacha olib boruvchi AQsh hukumatining nuqtayi nazari",
+       "C":"I jahon urushini  Antantaning G`alabasigacha olib boruvchi AQsh hukumatining nuqtayi nazari",
        "B":"Barcha urush olib boruvchi tomonidan bilan separat sulh shartnomasi",
-       "C":"I jahon urushidan so`ng imzolanadigan tinchlik shartnomasi va qayta tuzilajak dunyo siyosiy xaritasi bo`yicha Aqsh hukumatining nuqtayi nazari",
+       "A":"I jahon urushidan so`ng imzolanadigan tinchlik shartnomasi va qayta tuzilajak dunyo siyosiy xaritasi bo`yicha Aqsh hukumatining nuqtayi nazari",
        "D":"Bosqinchilik urushini keskin qoralangan va uni insoniyatga qarshi eng og`ir jinoyat deb e`lon qilingan AQSH hukumatining qarashlari"
     },
     {
-       "savol":"Yangi usul maktablarining diniy maktab va madrasalardan farqi nimada edi.",
+       "savol":"",
        "A":"unda hech qanday farq yo`q edi",
        "B":"unda islom dini va tarixi bo`yicha mukammal bilim berilganligida",
        "C":"unda nafaqat islom dini va tarixi, balki mahalliy - turkiy xalqlar tarixi, Turon tarixi bo`yicha ta`lim berilganligida",
@@ -1274,9 +1277,9 @@
     },
     {
        "savol":"Qachon Abulxayrxon O`bek ulusi deb atalgan davlatga asos soldi.",
-       "A":"1446-yilda",
+       "C":"1446-yilda",
        "B":"1431-yilda",
-       "C":"1428-yilda",
+       "A":"1428-yilda",
        "D":"1451-yilda"
     },
     {
@@ -1287,21 +1290,21 @@
        "D":"Gladston hukumatining Irlandiyaga gomrul o`rniga Ter-suv aktining taklif etishi"
     },
     {
-       "savol":"Angliya parlamentining Irlandiyaga gomrul berish haqidagi qonunni tasdiqlashga majbur etgan omilni aniqlang.",
+       "savol":"",
        "A":"Boshlanib ketgan birinchi jahon urushi",
        "B":"Irlandiyadagi mayda terrorchi guruhlarning faollashib ketishi",
        "C":"Irlandiya ishlari bo`yicha stats-sekretar va Irlandiya lord-hokimining o`ldirilishi",
        "D":"Gladston hukumatining Irlandiyaga gomrul o`rnigab Yer-suv aktiningb taklif etishi"
     },
     {
-       "savol":"Avstriya-Vengriya imperiyasida vujudga kelgan trializm g`oyasini nima sababdan hukumat rad etdi.",
+       "savol":"",
        "A":"Hukmron doiralarining slavyanlarning kuchayib ketishidan cho`chiganiligi",
        "B":"Imperiyadagi turli millatga mansub aholining o`zaro nizolari va janjali",
        "C":"Hukmron doiralarining imperialistik davlatlar bilan nizo kelib chiqishidan cho`chiganligi",
        "D":"Hukmron doiralarining bu g`oyani oxirgacha qo`llab-quvvatlashiga boshqa davlatning aralashuvi "
     },
     {
-       "savol":"Ma`lumki, Buxoro amirligi boshqaruvida Bosh va Kichik inoq faoliyati yuritgan. Quyidagilardan kichik inoq bajardigan vazifani ko`rsating. ",
+       "savol":"",
        "A":"Chet mamlakat elchilari taqdim etadigan hujjatlarni qabul qilib olish hamda amir muhri uchun javobgar",
        "B":"Oliy hukmdorning yorliqlarini amaldorlarga yetkazish hamda amirlikda yashayotgan arablar jamoasi masalalari bilan shug`ullangan  ",
        "C":"Davlat xavfsizlik xizmati boshlig`i",
@@ -1315,7 +1318,7 @@
        "D":"Zabongir (dushman tomonidan asir olib keluvchi) hamda xabargir (razvedka) deb ataluvchi maxsus bo`linmalar"
     },
     {
-       "savol":"<img  src='../img/tarix3.png' > Quyidagi ma`lumotlardan qaysi biri ushbu rasmda ko`rsatilgan hukmdor faoliyati bilan bog`liq",
+       "savol":"",
        "A":"Uning mamlakat ichida ijtimoiy hayotni tartib solishda imkon beruvchi islohati tufayli keyingi 10 yil ichida soliqlar og`irligidan va mulkdorlar jabr-zulmidan  yer-suvlarini tashlab ketgan xo`jaliklar yerlarini ishga tushirish masalasi ko`rib chiqildi",
        "B":"U oltin pul zarb etishni yo`lga qo`ygan va uning tarkibiga qiymati past bo`lgan boshqa madanlar aralashtirmasligini qattiq nazorat ostiga olgan",
        "C":"1586-yilda u o`z elchisini Buxoro yuborib, Turkiya Eronning bir qismini bosib olganligidan tashvishlanayotganligini, birgalikda eronga yordam ko`rsatishi zarurligi ma`lum qilgan edi",
@@ -1323,20 +1326,20 @@
     },
     {
        "savol":"Arab xalifaligida quyidagi qaysi lavozim egasi harbiy ishlar uchun masul bo`lgan",
-       "A":"Al ul-umaro",
+       "D":"Al ul-umaro",
        "B":"Devon ad-dar",
        "C":"Devon al-mashriq",
-       "D":"Vazir ul-vuzaro"
+       "A":"Vazir ul-vuzaro"
     },
     {
        "savol":"<img  src='../img/tarix4.png' > Yuqoridagi xaritada belgi qo`yilgan qadimgi mamlakat miloddan avvalgi 490-yilda qaysi imperiyaga qarshi uzoq muddatli urush boshlagan edi. ",
-       "A":"Xett imperiyasiga ",
-       "B":"Aleksandr Mokedonskiy imperiyasiga",
+       "B":"Xett imperiyasiga ",
+       "A":"Aleksandr Mokedonskiy imperiyasiga",
        "C":"Fors ahamonoylar imperiyasiga",
        "D":"Rim imperiyasiga"
     },
     {
-       "savol":"Mill. avv. 545-540-yillar oralig`ida forslar qoshini qaysi hududlarni bosib oladi",
+       "savol":"",
        "A":"Midiya, bobil, Suriya ",
        "B":"Parfiya, Marg`iyona, Baqtriya",
        "C":"Xorazm, So`g`diyona, Marg`iyona ",
@@ -1351,55 +1354,55 @@
     },
     {
        "savol":"<img  src='../img/tarix6.png' > Ushbu suratda tasvirlangan 40 metrlik ustunni bezab turgan bo`rtma rasmlar nima haqda hikoya qiladi. ",
-       "A":"Rimning Alarix boshchiligidagi gotlar tomonidan vayronaga aylantirilishi",
+       "C":"Rimning Alarix boshchiligidagi gotlar tomonidan vayronaga aylantirilishi",
        "B":"Imperator Konstantinning xristianlikni boshqa dinlar bilan teng bir din deb e`lon qilish voqeasi",
-       "C":"Rim Imperatori Trayanning daklar bilan olib borgan urush manzaralarni",
+       "A":"Rim Imperatori Trayanning daklar bilan olib borgan urush manzaralarni",
        "D":"Rimningb dushmani Attilla boshchiligida Xunn qabilalarining Sharqiy Rim imperiyasiga hujum uyushtirishi"
     },
     {
        "savol":"Qaysi urushlardagi g`alabalari tufayli qadimgi Rimda Sezarning nufuzi va obro`yi ancha ortadi.",
-       "A":"Pompey bilan Ispaniya urushlaridagi",
-       "B":"Galliya urushlaridagi",
+       "B":"Pompey bilan Ispaniya urushlaridagi",
+       "A":"Galliya urushlaridagi",
        "C":"Parfiya urushlaridagi",
        "D":"Krass bilan urushlaridagi"
     },
     {
        "savol":"Dunyo bo`yicha topilgan eng qadimiy qoyatosh suratlari qaysi tarixiy davrda oid.",
-       "A":"neolit",
-       "B":"so`ngi paleolit",
+       "B":"neolit",
+       "A":"so`ngi paleolit",
        "C":"mezolit",
        "D":"eneolit"
     },
     {
        "savol":"Buyuk Alfred davrida yangi qo`shinning paydo bo`lishi jamiyatda qanday muhim o`zgarishlarga olib keladi.",
-       "A":"jamiyatda muntazam qo`shining soni va obro`si ortadi",
+       "C":"jamiyatda muntazam qo`shining soni va obro`si ortadi",
        "B":"jamiyatning barcha sohalari harbiylashtiradi",
-       "C":"jamiyat professional jangchilar va dalada ishlovchi dehqonlarga bo`linadi",
+       "A":"jamiyat professional jangchilar va dalada ishlovchi dehqonlarga bo`linadi",
        "D":"jamiyatda savdogorlar, hunarmandlar, dehqonlar va jamgchilar qatlami shakllanadi."
     },
     {
        "savol":"Ma`lumki, Tan sulolasi hukmronligi davrida Xitoy qo`shinlari 640-yilda Buyuk Ipak yo`lida joylashgan Gaochan davlatini mag`lub etadi. Shundan so`ng kimlarga qarshi uzoq yillar davomida etgan urushlar boshlanadi.",
-       "A":"Koreyaga",
+       "C":"Koreyaga",
        "B":"Ko`chmanchi jung`orlarga",
-       "C":"Uyg`urlarga ",
+       "A":"Uyg`urlarga ",
        "D":"Turk xoqonligiga"
     },
     {
        "savol":"Arablarning Fransiyaga yurishlari qachon va kim tomonidan to`xtatilgan ",
-       "A":"Krasiibn jangida 746-yili franklar hukmdori Lator tomonidan ",
-       "B":"Puate jangida 732- yili frank hukmdori Karl Martell tomonidan",
+       "B":"Krasiibn jangida 746-yili franklar hukmdori Lator tomonidan ",
+       "A":"Puate jangida 732- yili frank hukmdori Karl Martell tomonidan",
        "C":"Sleys jangida 756-yilda Franklar hukmdori Lyudovik Nemis tomonidan ",
        "D":"Kresi Jangi 746-yili franklar hukmdori Karl Martell tomonidan "
     },
     {
        "savol":"Oltin O`rda davlatiga qaysi hudud kirmagan",
-       "A":"Dashti Qipchoq ",
-       "B":"Xorazm",
+       "B":"Dashti Qipchoq ",
+       "A":"Xorazm",
        "C":"Rus",
        "D":"Qrim"
     },
     {
-       "savol":"Hirot tevaragida joylashgan qaysi madrasa shuhrat qozongan edi.",
+       "savol":"",
        "A":"Xalosiya xonaqohi",
        "B":"Ixlosiya madrasasi va xonaqohi",
        "C":"Amir Feruzshoh madrasasi va xonaqohi",
@@ -1413,7 +1416,7 @@
        "D":"Kongo"
     },
     {
-       "savol":"Avstriya- Veneriyada ishchilar harakatiga qarshi favqulotda qonun joriy etilga bo`lib, unga ko`ra...",
+       "savol":"",
        "A":"Ishchilar harakati qarshi politsiya terrorning kuchaytirilishiga ruxsat berildi",
        "B":"Kasaba uyushmalari orqali ishchilari o`z talablarini bayon qiladigan bo`ldi",
        "C":"Ish tashlashlar paytida korxonalar ko`rgan zararni kasaba uyushmalari to`lamaydigan bo`ldi",
@@ -1421,30 +1424,30 @@
     },
     {
        "savol":"1909-yilga kelib Xiva xonligida nechta sanoat korxonasi ishlayotgan edi.",
-       "A":"120",
-       "B":"81",
+       "B":"120",
+       "A":"81",
        "C":"39",
        "D":"45"
     },
     {
        "savol":"Quyidagi voqealarni yillarini aniqlang. Toshkentda O`rta Osiyoda birinchi metrologiya stansiyasi (a) va Turkiston davlat muzayi (b) tashkil etilishi.",
-       "A":"a-1876, b-1878",
+       "C":"a-1876, b-1878",
        "B":"a-1871, b-1876",
-       "C":"a-1867, b-1870",
+       "A":"a-1867, b-1870",
        "D":"a-1870, b-1893"
     },
     {
        "savol":"Fransiya Buyuk Britaniyaning Misrdagi harakatlariga bundan buyon to`sqinlik qilmasligini, Misrning Buyuk Britaniya ta`sir doirasida ekanligini tan olgan bitim qachon imzolangan. ",
-       "A":"1909-yilda",
+       "C":"1909-yilda",
        "B":"1905-yilda",
-       "C":"1904-yilda",
+       "A":"1904-yilda",
        "D":"1907-yilda"
     },
     {
        "savol":"Quyidagi atamalar orasidan Qadimgi Yunonistanga Taaluqligini aniqlang. 1) ilot 2) goplit 3) plebey 4) polis 5) konsul 6) patritsiy 7) oykumana 8) got 9) metek 10) kolon 11) palestr; 12) mino",
-       "A":"3,4,6,8,10,11",
+       "C":"3,4,6,8,10,11",
        "B":"1,2,4,7,8,8,10",
-       "C":"1,2,4,7,9,11",
+       "A":"1,2,4,7,9,11",
        "D":"3,5,6,8,9,10,12"
     },
     {
@@ -1456,55 +1459,55 @@
     },
     {
        "savol":"Ko`chmanchi yuechji qabilalariningb Yunon-Baqtriya davlati hududiga bostirib kirishi natijasida Yunon-Baqtriya davlati...",
-       "A":"Yuechjilarga qaram davlatga aylandi",
+       "C":"Yuechjilarga qaram davlatga aylandi",
        "B":"Imperiya tarkibiga qo`shib olindi",
-       "C":"Butunlay parchalanib ketdi",
+       "A":"Butunlay parchalanib ketdi",
        "D":"Parfiya va yuechjilar o`rtasida bo`lib olindi"
     },
     {
        "savol":"Xolchayon, Dalvarzintepa, Ayritom, Zartepa va Qoratepa yodgorliklari qaysi qadimgi davlatga tegishli.",
-       "A":"Yunon-Baqtriya",
-       "B":"Kushon davlati",
+       "B":"Yunon-Baqtriya",
+       "A":"Kushon davlati",
        "C":"Qang`",
        "D":"Dovon"
     },
     {
        "savol":"Marg`iyona va Sog`diyona hududlari quyidagi qaysi davlatning siyosiy va madaniy ta`sirida bo`lgan.",
-       "A":"Qang`ning",
+       "C":"Qang`ning",
        "B":"Xorazmning",
-       "C":"Baqtriyaning",
+       "A":"Baqtriyaning",
        "D":"Parfiyaning"
     },
     {
        "savol":"Qadimgi Misrda Tot xudosi...",
-       "A":"Nil xudosi bo`lgan",
+       "C":"Nil xudosi bo`lgan",
        "B":"Marhumlar va mumiyolar xudosi, mayyitlar posponi bo`lgan",
-       "C":"Oy, donishmandlik va tabiblik ilohasi bo`lgan",
+       "A":"Oy, donishmandlik va tabiblik ilohasi bo`lgan",
        "D":"Musiqa, go`zallik va sevgi ilohasi bo`lgan"
     },
     {
        "savol":"Toxariston hukmdorlari qaysi nomlar bilan atalgan.",
-       "A":"Ishid, yabg`u",
+       "C":"Ishid, yabg`u",
        "B":"Tudun, dehqon",
-       "C":"Malikashoh, yabg`u",
+       "A":"Malikashoh, yabg`u",
        "D":"Tudun, malikashoh"
     },
     {
        "savol":"XVI asr boshlarida xonlik aholisi kimlardajn iborat bo`lgan.",
-       "A":"Turkiy aholi va mo`g`ullar",
+       "C":"Turkiy aholi va mo`g`ullar",
        "B":"So`g`diylar, xorazmiylik, ko`chib kelgan o`zbeklar",
-       "C":"Kochib kelgan o`zbeklar, turk chig`atoy va tojiklar",
+       "A":"Kochib kelgan o`zbeklar, turk chig`atoy va tojiklar",
        "D":"So`g`diylar, baqtriylar, xorazmiylar, farg`onaliklar"
     },
     {
-       "savol":"Angliyada qanday jaroyon feadal jamiyatining uzil-kesil o`rnatilishiga olib keladi",
+       "savol":"",
        "A":"Qirol hokimiyatining zaiflashuvi",
        "B":"normandlar istilosi",
        "C":"Dahshatli sud kitobining joriy etilishi",
        "D":"Angl-sakslar yerlarini kengayishi"
     },
     {
-       "savol":"Hirot tevarigida joylashgan qaysi madrasa shuhrat qazongan edi.",
+       "savol":"",
        "A":"Amir Feruzshoh madrasasi va xonaqohi",
        "B":"Ixlosiya madrasasi va xonaqohi",
        "C":"Xonim madrasasi va xonaqohi",
@@ -1512,16 +1515,16 @@
     },
     {
        "savol":"Zariasp qadimdagi qaysi dfavlatning poytaxti bo`lgan.",
-       "A":"Midiya",
+       "C":"Midiya",
        "B":"Qang`",
-       "C":"Baqtriya",
+       "A":"Baqtriya",
        "D":"So`g`diyona"
     },
     {
        "savol":"Qaysi yildagi Lenyano jangida Milan boshliq Liga qo`shini nemis imperatori ritserlarini tor-mor qiladi",
-       "A":"1162-yil",
+       "C":"1162-yil",
        "B":"1152-yil",
-       "C":"1176-yil",
+       "A":"1176-yil",
        "D":"1158-yil"
     },
     {
@@ -1533,13 +1536,13 @@
     },
     {
        "savol":"Mayya xalqlarida jamoa a`zolari yetishtirgan hosilning bir qismi kimlarga berilgan.",
-       "A":"Hukmdor va jangchilarga ",
-       "B":"zodagonlar va hokimlar",
+       "B":"Hukmdor va jangchilarga ",
+       "A":"zodagonlar va hokimlar",
        "C":"Kambag`allar va yetimlar",
        "D":"Dindorlar va"
     },
     {
-       "savol":"Amir Temur qo`shini harbiy yurishlari paytida manglay bilan bilan qo`shinning asosiy qismlari asosiy qismlari oralig`ida qo`mondonning qarorgohi va uning yon-atrofida zaxira qismlar joylashgan bo`lib u qanday nom bilan yuritilgan.",
+       "savol":"",
        "A":"Yasovul bo`linmasi ",
        "B":"Qo`riqchi askariy qo`shilma- qanbul",
        "C":"Izofa",
@@ -1547,13 +1550,13 @@
     },
     {
        "savol":"Ko`chkunchixon hukmronligi davrida kim valiahad etib tayinlangandi ",
-       "A":"Ubaydullaxon",
-       "B":"Abu Said",
+       "B":"Ubaydullaxon",
+       "A":"Abu Said",
        "C":"Suyunchxo`ja ",
        "D":"Abdullaxon"
     },
     {
-       "savol":"Qaysi omil ilk o`rta asrlarda O`rta Osiyoda aholi o`rtasida tabaqalanishni yanada keskinlashgan.",
+       "savol":"",
        "A":"Ziroatkor aholi bilan chorvador qabilalar o`rtasidagi aloqalar rivojlanishi",
        "B":"Sug`orish va ishlov berishning takomillashuvi",
        "C":"Yerda ishlash tartiblarining tubdan o`zgarishi",
@@ -1561,24 +1564,24 @@
     },
     {
        "savol":"Qadimgi tevaragidagi hududlarni tasarrufiga olgan o`zini-o`zi boshqaruvchi shahar qanday nom bilan atalgan.",
-       "A":"Respublika",
+       "C":"Respublika",
        "B":"Nom",
-       "C":"Shahar-davlat",
+       "A":"Shahar-davlat",
        "D":"Demokratsiya"
     },
     {
        "savol":"1469-yilda Abu Said Mirzo holokatidan so`ng Movarounnahr amalda 3mustaqil davlatga bo`linib ketdi. bu paytda Hisor, Xuttalon va Badaxshonda hokimiyat kimga o`tdi. ",
-       "A":"Sulton Ahmad ",
-       "B":"Sulton Mahmud Mirzo",
+       "B":"Sulton Ahmad ",
+       "A":"Sulton Mahmud Mirzo",
        "C":"Umarshayx Mirzo",
        "D":"Sulton Husayn Mirzo"
     },
     {
        "savol":"Kommuna so`zi qanday tarjima qilinadi ",
-       "A":"xususiy",
+       "D":"xususiy",
        "B":"teng",
        "C":"umumiy",
-       "D":"ozod"
+       "A":"ozod"
     },
     {
        "savol":"Shayboniyxon bosqini arafasida arafasida Xorazm qaysi davlat tarkibida bo`lgan",
@@ -1589,31 +1592,31 @@
     },
     {
        "savol":"Xorazm xalqini mustaqillik uchun kurashga ko`tarishda quyidagilaridan kim katta rol o`ynagan",
-       "A":"Elbarsxon",
+       "C":"Elbarsxon",
        "B":"Berka sulton",
-       "C":"Sayid Hisomiddin qattol",
+       "A":"Sayid Hisomiddin qattol",
        "D":"Muhammad Shayboniyxon"
     },
     {
        "savol":"Quyidagi qaysi davlat boshqaruvining xos xususiyati shunda ediki, markaziy hokimiyat mamlakatda barqarorlikni saqlash uchun o`troq va ko`chmanchi turli urug` va qabilasida o`rtasida manfaatlar muvozantini hiosobga olishga majbur edi. ",
-       "A":"Buxoro amirligi",
-       "B":"Xiva xonligida",
+       "B":"Buxoro amirligi",
+       "A":"Xiva xonligida",
        "C":"Qo'qan xonligida ",
        "D":"Qoraqalpoq ulusida"
     },
     {
        "savol":"Antropologiya fanida ibtidoiy odam tik turib yuruvchi odam deb atalgan.",
-       "A":"zinjantrop",
-       "B":"pitekantrop",
+       "B":"zinjantrop",
+       "A":"pitekantrop",
        "C":"avstralopitek",
        "D":"neandertal"
     },
     {
        "savol":"Mirzo Ulug`bek Movarounnahr va Turkiston hukmdori deb e`lon qilinsada, 1409-yilda uning hokimiyati dastlab qaysi hududlar bilangina cheklangan.",
-       "A":"Samarqand, Buxoro, va Nasaf viloyati",
+       "D":"Samarqand, Buxoro, va Nasaf viloyati",
        "B":"Xorazm, O`rtatepa, Samarqand va Nasaf viloyati",
        "C":"Balx, Buxoro Nasaf viloyati",
-       "D":"Samarqand, Toshkent va Forg`ona vodiysi"
+       "A":"Samarqand, Toshkent va Forg`ona vodiysi"
     },
     {
        "savol":"1881-yildagi qaysi voqeadan so`ng Rossiya va Xitoy o`rtasida chegaralar belgilanadi.",
@@ -1624,8 +1627,8 @@
     },
     {
        "savol":"Shtarxoniylardan sulolasidan kimning davrida markaziy davlat hokimiyati nisbatan mustahkamlanadi.",
-       "A":"Nodir Muhammad",
-       "B":"Imomqulixon",
+       "B":"Nodir Muhammad",
+       "A":"Imomqulixon",
        "C":"Vali Muhammad",
        "D":"Boqi Muhammad"
     },

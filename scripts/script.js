@@ -34,7 +34,7 @@ let test_len = 0
 
 let regions = ['Andijon', 'Buxoro', 'Farg`ona', 'Jizzax', 'Namangan', 'Navoiy', 'Qashqadaryo', 'Qoraqalpog`iston', 'Samarqand', 'Sirdaryo', 'Surxondaryo', 'Toshkent', 'Xorazm']
 let malumotlar = [0, 0, 0, 0, 0, 0, 0]
-let time = 3600
+let time = 10000
 let answers = []
 for (let i = 0; i <= 39; i++) {
     answers.push(1)   

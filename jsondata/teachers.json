@@ -115,5 +115,15 @@
         "maktab":"17-maktab",
         "fan":"Tarix",
         "toifa":"O'quvchi"
+    },
+    {
+        "surname":"Jovliyev",
+        "name": "Sohib",
+        "fathername":"Nizom o'g'li",
+        "viloyat":"Samarqand",
+        "tuman":"Ishtihon tuman",
+        "maktab":"Abituriyent",
+        "fan":"Kimyo",
+        "toifa":"O'quvchi"
     }
 ]
