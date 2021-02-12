@@ -1,6 +1,6 @@
 [
     {
-       "savol":"<img scr='../img/kim1.jpg' alt='kim1'> reaksiya tenglamasi bo'yicha azotning 50% i sarflandi. olingan gazlar aralashmasida NO ning hajmiy ulushi 20% bo'lsa, kislorodning qancha qismi sarflangan ",
+       "savol":"<img src='../img/kim1.jpg' alt='kim1'> reaksiya tenglamasi bo'yicha azotning 50% i sarflandi. olingan gazlar aralashmasida NO ning hajmiy ulushi 20% bo'lsa, kislorodning qancha qismi sarflangan ",
        "A":"1/6",
        "B":"1/2",
        "C":"1/4",
@@ -63,7 +63,7 @@
        "D":"192"
     },
     {
-       "savol":"To'la yonishda butin-1 va havo qanday hajmiy nisbatda o'zaro reaksiyaga kirishad.<img scr='../img/kim4.jpg' alt='kim4'>",
+       "savol":"To'la yonishda butin-1 va havo qanday hajmiy nisbatda o'zaro reaksiyaga kirishad.<img src='../img/kim4.jpg' alt='kim4'>",
        "A":"1:27.5",
        "B":"1:40",
        "C":"1:55",
@@ -98,7 +98,7 @@
        "D":"4"
     },
     {
-       "savol":"<img scr='../img/kim5.jpg' alt='kim5'> berilgan yoki olingan elektronlar sonini aniqlang.",
+       "savol":"<img src='../img/kim5.jpg' alt='kim5'> berilgan yoki olingan elektronlar sonini aniqlang.",
        "A":"-3,+4,-1,+6",
        "B":"-6,+4,-4,+5",
        "C":"-6,+5,+2,-3",
@@ -532,14 +532,14 @@
        "D":"60"
     },
     {
-       "savol":"<img scr='../img/kim14.jpg' alt='kim14'> moddasiga izomer bo'lgan kislotani lo'rsating.",
+       "savol":"<img src='../img/kim14.jpg' alt='kim14'> moddasiga izomer bo'lgan kislotani lo'rsating.",
        "A":"Enant kislota",
        "B":"Valerian kislota",
        "C":"Moy kislota",
        "D":"Kapron kislota"
     },
     {
-       "savol":"12 g <img scr='../img/kim15.jpg' alt='kim15'> tarkibli modda litiy gidrooksid gidrolizlanganda, 0,2 mol litiy asesat hosil bo'ladi.Reaksiyada hosil bo'lgan spirtni aniqlang",
+       "savol":"12 g <img src='../img/kim15.jpg' alt='kim15'> tarkibli modda litiy gidrooksid gidrolizlanganda, 0,2 mol litiy asesat hosil bo'ladi.Reaksiyada hosil bo'lgan spirtni aniqlang",
        "A":"Metil spirti",
        "B":"Propil spirti",
        "C":"Butil spirti",
@@ -567,7 +567,7 @@
        "D":"384"
     },
     {
-       "savol":"<img scr='../img/kim16.jpg' alt='kim16'> Ushbu rasmda qanday jihoz ifodalangan?",
+       "savol":"<img src='../img/kim16.jpg' alt='kim16'> Ushbu rasmda qanday jihoz ifodalangan?",
        "A":"o'lchov kolbasi",
        "B":"vyrus kolbasi",
        "C":"konussimon kolba",
@@ -651,7 +651,7 @@
        "D":"4,48"
     },
     {
-       "savol":"<img scr='../img/kim18.png' alt='kim18'> ushbu reaksiyani amalga oshirish uchun foydalanilgan moddalar va tashqi ta'sirlarni ketma ketligini mos ravishda ko'rsating? 1) kislorod 2) sulfat kislota 3) ishqor 4) is gazi 50 qizdirish",
+       "savol":"<img src='../img/kim18.png' alt='kim18'> ushbu reaksiyani amalga oshirish uchun foydalanilgan moddalar va tashqi ta'sirlarni ketma ketligini mos ravishda ko'rsating? 1) kislorod 2) sulfat kislota 3) ishqor 4) is gazi 50 qizdirish",
        "A":"1,2,4",
        "B":"5,2,3",
        "C":"3,1,2",
@@ -700,7 +700,7 @@
        "D":"3"
     },
     {
-       "savol":"<img scr='../img/kim19.jpg' alt='kim19'> molekular formulaga turli sikloparafinlardan qanchasi tog'ri keladi?",
+       "savol":"<img src='../img/kim19.jpg' alt='kim19'> molekular formulaga turli sikloparafinlardan qanchasi tog'ri keladi?",
        "A":"4",
        "B":"8",
        "C":"5",
@@ -736,27 +736,27 @@
     },
     {
        "savol":"Teng miqdorda olingan 9 gramm aldegid va etanol aralashmasi kumush oksidining ammiakdagi eritmasi bilan reaksiyaga kirishganda 0,2 mol cho'kma tushsa, aldegidni aniqlang?",
-       "A":"<img scr='../img/kim20.jpg' alt='kim20'>",
-       "B":"<img scr='../img/kim21.jpg' alt='kim21'>",
-       "C":"<img scr='../img/kim22.jpg' alt='kim22'>",
+       "A":"<img src='../img/kim20.jpg' alt='kim20'>",
+       "B":"<img src='../img/kim21.jpg' alt='kim21'>",
+       "C":"<img src='../img/kim22.jpg' alt='kim22'>",
        "D":""
     },
     {
-       "savol":"0,1 mol <img scr='../img/kim23.jpg' alt='kim23'> birikmani to'liq yondirish uchun 0,35 mol kislorod sarflanadi va 5,4 gram vodorod oksidi hosil bo'ldi. Bunga ko'ra n va x qiymatlarini mos ravishda aniqlang?",
+       "savol":"0,1 mol <img src='../img/kim23.jpg' alt='kim23'> birikmani to'liq yondirish uchun 0,35 mol kislorod sarflanadi va 5,4 gram vodorod oksidi hosil bo'ldi. Bunga ko'ra n va x qiymatlarini mos ravishda aniqlang?",
        "A":"2;3",
        "B":"1;2",
        "C":"3;2",
        "D":"2;1"
     },
     {
-       "savol":"<img scr='../img/kim25.jpg' alt='kim25'> ushbu rasmda qaysi jihoz ifodalangan?",
+       "savol":"<img src='../img/kim25.jpg' alt='kim25'> ushbu rasmda qaysi jihoz ifodalangan?",
        "A":"chinni havoncha va dastasi",
        "B":"probirka qo'ygich",
        "C":"tubi yumaloq kolba",
        "D":"chinni voronka va dastasi"
     },
     {
-       "savol":"Sirka kislotasining etilefiri bilan 11,2 (n.sh) ammiak tasirlashganda necha gram kislota amidi (azotli birikma) hosil bo'ladi? <img scr='../img/kim26.jpg' alt='kim26'>",
+       "savol":"Sirka kislotasining etilefiri bilan 11,2 (n.sh) ammiak tasirlashganda necha gram kislota amidi (azotli birikma) hosil bo'ladi? <img src='../img/kim26.jpg' alt='kim26'>",
        "A":"30",
        "B":"15",
        "C":"29,5",
@@ -770,7 +770,7 @@
        "D":"96"
     },
     {
-       "savol":"Alkin to'liq gidrolinganda 23,2 gramm modda olindi. shuncha miqdor alkin yonganda 1,6 mol CO<sub>2</sub> hosil bo'lsa, alkinni aniqlang. <img scr='../img/kim27.jpg' alt='kim27'> ",
+       "savol":"Alkin to'liq gidrolinganda 23,2 gramm modda olindi. shuncha miqdor alkin yonganda 1,6 mol CO<sub>2</sub> hosil bo'lsa, alkinni aniqlang. <img src='../img/kim27.jpg' alt='kim27'> ",
        "A":"Etin",
        "B":"propalin",
        "C":"Butin",
@@ -798,7 +798,7 @@
        "D":"18"
     },
     {
-       "savol":"Quyidagi xlor olish reaksiyasi tenglamasidagi o'ng tomondagi koeffisentlar yig'indisini aniqlang. <img scr='../img/kim28.jpg' alt='kim28'>",
+       "savol":"Quyidagi xlor olish reaksiyasi tenglamasidagi o'ng tomondagi koeffisentlar yig'indisini aniqlang. <img src='../img/kim28.jpg' alt='kim28'>",
        "A":"35",
        "B":"18",
        "C":"17",
@@ -833,14 +833,14 @@
        "D":"36"
     },
     {
-       "savol":"<img scr='../img/kim30.jpg' alt='kim30'> yuqoridagi jadvaldan foydalanib X ni aniqlang?",
+       "savol":"<img src='../img/kim30.jpg' alt='kim30'> yuqoridagi jadvaldan foydalanib X ni aniqlang?",
        "A":"Etin",
        "B":"Propin",
        "C":"Butin",
        "D":""
     },
     {
-       "savol":"<img scr='../img/kim31.jpg' alt='kim31'> ushbu rasmda qaysi jihoz ifodalangan?",
+       "savol":"<img src='../img/kim31.jpg' alt='kim31'> ushbu rasmda qaysi jihoz ifodalangan?",
        "A":"probirka",
        "B":"menzurka",
        "C":"universal shtativ",
@@ -855,10 +855,10 @@
     },
     {
        "savol":"Izotoplar berilgan qatorni toping?",
-       "A":"<img scr='../img/kim32.jpg' alt='kim32'>",
-       "B":"<img scr='../img/kim33.jpg' alt='kim33'>",
-       "C":"<img scr='../img/kim34.jpg' alt='kim34'>",
-       "D":"<img scr='../img/kim35.jpg' alt='kim35'>"
+       "A":"<img src='../img/kim32.jpg' alt='kim32'>",
+       "B":"<img src='../img/kim33.jpg' alt='kim33'>",
+       "C":"<img src='../img/kim34.jpg' alt='kim34'>",
+       "D":"<img src='../img/kim35.jpg' alt='kim35'>"
     },
     {
        "savol":" perxolat kislota molekulasida nechtadan σ- va π- bog'lar bo'ladi?",
@@ -966,7 +966,7 @@
        "D":"2,4,6"
     },
     {
-       "savol":"<img scr='../img/kim36.jpg' alt='kim36'> 0,4 mol metalldan 71,6 gramm kompleks birikma olinga bo'lsa, metallni anqilangan?",
+       "savol":"<img src='../img/kim36.jpg' alt='kim36'> 0,4 mol metalldan 71,6 gramm kompleks birikma olinga bo'lsa, metallni anqilangan?",
        "A":"Be",
        "B":"Pb",
        "C":"Zn",
