@@ -1,4 +1,11 @@
-[
+[{},
+   {
+      "savol":"Boshlang`ich sinflarda matematika o'qitish metodikasi kontsentrik tuzilish necha bosqichdan iborat?",
+      "B":"1 ta",
+      "A":"4 ta",
+      "C":"2 ta",
+      "D":"3 ta"
+   },
    {
       "savol":"Temurda qo'rg'on uchun 32 metr devor bor. U to'g'ri to'rtburchak shaklida eng katta yuzli maydonni o'rab olmoqchi. Qanday o'lchamlar ma'qul?",
        "A":"8 metrga 8 metr",
@@ -57,10 +64,10 @@
       },
       {
          "savol":"Kvadrat mavzusi qaysi sinfda o'rganiladi.",
-         "D":"2 sinfda",
+         "A":"2 sinfda",
          "B":"4 sinfda",
          "C":"3 sinfda",
-         "A":"1 sinfda"
+         "D":"1 sinfda"
       },
       {
          "savol":"Ko'p xonali sonlar konsentrida raqamlash bosqichi",
@@ -71,16 +78,16 @@
       },
       {
          "savol":"Vaqtga oid tasavvurlarni tarkib toptirish (yil, oy,  hafta) nima yordamida amalga oshiriladi",
-         "A":"Soat modeli yordamida",
+         "C":"Soat modeli yordamida",
          "B":"Quyosh va soat yordamida ",
-         "C":"Tabel-kalendar yordamida",
+         "A":"Tabel-kalendar yordamida",
          "D":"Yil, hafta yordamida"
       },
       {
          "savol":"Ona tili metodikasining metodologik asosini nima tashkil etadi?",
-         "A":"Tilning mavjudligi",
+         "C":"Tilning mavjudligi",
          "B":"Lug'at boyligi",
-         "C":"Borliqni bilish nazaryasi",
+         "A":"Borliqni bilish nazaryasi",
          "D":"Barcha qonun qoidalar"
       },
       {
@@ -92,22 +99,22 @@
       },
       {
          "savol":"Polizdan uzilgan a kg bodringning 235 kilogrami tuzlandi. Qolgan bodringni b kg dan qilib yashiklarga solindi Ushbu ma'lumotlar asosida harfli ifodalar tuzing",
-         "A":"a-235:b",
+         "C":"a-235:b",
          "B":"a-b-235",
-         "C":"(a-235):b",
+         "A":"(a-235):b",
          "D":"(235-a)*b"
       },
       {
          "savol":"Shaxboz tog'aning uyi oldida uchastkasi bor. U uchastkani 4 ta bo'lakka bo'ldi. Eng kichik qismini toping. <img src='../img/bosh2.png' alt='bosh2'>",
-         "A":"A",
+         "D":"A",
          "B":"B",
          "C":"C",
-         "D":"D"
+         "A":"D"
       },
       {
          "savol":"98-3 ni tushuntirib bering.",
-         "A":"98-3=(95+5)-3=95+(5-3)=95",
-         "B":"98-3=(90+8)-3=90+(8-3)=95",
+         "B":"98-3=(95+5)-3=95+(5-3)=95",
+         "A":"98-3=(90+8)-3=90+(8-3)=95",
          "C":"98-3=(90+8)-3=(90-3)+8=87+8=95",
          "D":"98-3=98-(2+1)=(98-2)-1=96-1=95"
       },
@@ -127,16 +134,16 @@
       },
       {
          "savol":"Qaysi gapda uch o'rinda egalik qo'shimchasi qo'llangan.",
-         "A":"Yangi yilda o'yimiz: o'ssa osmon bo'yimiz.",
+         "C":"Yangi yilda o'yimiz: o'ssa osmon bo'yimiz.",
          "B":"Qaynab chiqqan dilimdan, aytay burro tilimdan.",
-         "C":"Sizga salom oyimdan, bobom hamda dadamdan.",
+         "A":"Sizga salom oyimdan, bobom hamda dadamdan.",
          "D":"Surxon tomon yursangiz, mezbonning kattasiman."
       },
       {
          "savol":"Kichik yoshli bolalarda geometrik tushunchalar o'rgatish metodikasi",
-         "A":"Alohida o'rganiladi",
+         "C":"Alohida o'rganiladi",
          "B":"ko'rgazmalar yordamida",
-         "C":"Birgalikda o'rganiladi",
+         "A":"Birgalikda o'rganiladi",
          "D":"O'rganilmaydi"
       },
       {
@@ -148,8 +155,8 @@
       },
       {
          "savol":"O'zbekiston shimol va g'arbdan qaysi davlat bilan chegaradosh?",
-         "A":"Tojikiston",
-         "B":"Qozog'iston",
+         "B":"Tojikiston",
+         "A":"Qozog'iston",
          "C":"Qirg'iziston",
          "D":"Turkmaniston"
       },
@@ -162,27 +169,27 @@
       },
       {
          "savol":"Kuchukcha sasiskani daqiqasiga 1 metr, mushukcha esa 2 metr tezlikda yedilar. Agar ular 6 metrli sasiskani ikki tomonidan yesalar, sasiskani qancha vaqt ichida yeb tugatadilar?",
-         "A":"3 minutda tugaydi",
+         "C":"3 minutda tugaydi",
          "B":"4 minutda tugaydi",
-         "C":"2 minutda tugaydi",
+         "A":"2 minutda tugaydi",
          "D":"1 minutda tugaydi"
       },
       {
          "savol":"Buva bir qatorga 5 ta olma daraxtini ekdi. Nevara esa olma daraxtlari orasiga maymunjon butasini ekib chiqdi. Nevara nechta maymunjon butasini ekkan?",
-         "A":"1",
+         "C":"1",
          "B":"6",
-         "C":"4",
+         "A":"4",
          "D":"3"
       },
       {
          "savol":"Qaysi javobda tutuq belgisini undoshni unlidan ajratib talaffuz qilish uchun qo'yilgan?",
-         "A":"ma'sul",
+         "A":"mas'ul",
          "B":"ne'mat",
          "C":"ta'lim",
          "D":"e'lon"
       },
       {
-         "savol":"Quyidagi chiqmada yurak qayerda joylashgan? <img src='../img/bosh3.png' alt='bosh3'>",
+         "savol":"Quyidagi chizmada yurak qayerda joylashgan? <img src='../img/bosh3.png' alt='bosh3'>",
          "A":"3",
          "B":"1",
          "C":"2",
@@ -190,17 +197,17 @@
       },
       {
          "savol":"<img src='../img/bosh4.png' alt='bosh4'> Ushbu rasmda qaysi daraxt tasvirlangan",
-         "A":"Chinor",
-         "B":"Eman",
+         "B":"Chinor",
+         "A":"Eman",
          "C":"Yong'oq",
          "D":"Olma"
       },
       {
          "savol":"Qaysi gapda imloviy xatolik uchraydi?",
-         "A":"Agar chittakning yozda hashoratlarni ovlab uchib o'tgan yo'lini bir-biriga qo'shsak, Yer shari aylanasiga tog'ri keladi.",
+         "D":"Agar chittakning yozda hashoratlarni ovlab uchib o'tgan yo'lini bir-biriga qo'shsak, Yer shari aylanasiga tog'ri keladi.",
          "B":"Ilmga tashna odamlar g'or ochilishi bilan kirib ulgurganlaricha bilim olib chiqishar ekan.",
-         "C":"Kitobsiz bilimli, madaniyatli kishi bo'lib yetishish, mumkin emas.",
-         "D":"Fudbolni ingiz qirollari ko'p marta taqiqlaganlar, lekin o'yin davom etaveradi."
+         "C":"Kitobsiz bilimli, madaniyatli kishi bo'lib yetishish mumkin emas.",
+         "A":"Fudbolni ingliz qirollari ko'p marta taqiqlaganlar, lekin o'yin davom etaveradi."
       },
       {
          "savol":"\"<i>Men otamni bir zamon Bu o'ringa keltirib, Tashlab ketgan chog'imda Qolgan edi termulib.</i>\" Ushbu parcha olingan \" Har kim ekkanini o'rar \" she'riy ertagining muallifini aniqlang.",
@@ -211,8 +218,8 @@
       },
       {
          "savol":"<i>Mayin shamol gulzor tomondan barq urib ochilgan qizil, sariq, oq gullarning xushbo'y iforini olib keladi.</i> Ushbu gapdagi sifat turkumiga oid so'zlar sonini belgilang.",
-         "A":"4",
-         "B":"5",
+         "B":"4",
+         "A":"5",
          "C":"3",
          "D":"6"
       },
@@ -228,7 +235,7 @@
          "A":"xulq, ishtirok",
          "B":"ishtiyoq, zirak",
          "C":"qo'shiq, bilak",
-         "D":"ekr, buloq"
+         "D":"erk, buloq"
       },
       {
          "savol":"Berilgan shakllardan piramidani tanlan",
@@ -260,8 +267,8 @@
       },
       {
          "savol":"Matematik tushunchalarni shakllantirish va rivojlantirish qaysi sinfdan boshlab o'rganiladi",
-         "A":"3 sinfdan",
-         "B":"1 sinfdan",
+         "B":"3 sinfdan",
+         "A":"1 sinfdan",
          "C":"4 sinfdan",
          "D":"2 sinfdan"
       },
@@ -280,9 +287,9 @@
          "D":"O'quvchilarning imkoniyati, bilim va ko'nikma darajasini fikrlash faoliyatini hisobga olishga oid talablar"
       },
       {
-         "savol":"Quyashning harorati yadrosidan sirtiga tomon qanday o'zgarib boradi?",
-         "A":"Isib",
-         "B":"Pasayib",
+         "savol":"Quyoshning harorati yadrosidan sirtiga tomon qanday o'zgarib boradi?",
+         "B":"Isib",
+         "A":"Pasayib",
          "C":"O'zgarmay",
          "D":"Ko'tarib"
       },
@@ -296,9 +303,9 @@
       {
          "savol":"Boshlang`ich sinflarda matematika o'qitish metodikasi kontsentrik tuzilish necha bosqichdan iborat?",
          "D":"1 ta",
-         "B":"4 ta",
+         "A":"4 ta",
          "C":"2 ta",
-         "A":"3 ta"
+         "B":"3 ta"
       },
     {
        "savol":"5 km lik masofaga yugurish bo'yicha o'tkazilayotgan viloyat birinchiligida qatnashayotgan o'quvchilar soni 240 nafar iborat. Har bir ishtirokchining tartib soni 1 dan 240 gacha nomerlab chiqish uchun nechta raqam kerak bo'ladi?",
@@ -309,16 +316,16 @@
     },
     {
        "savol":"Kichik yoshli bolalarda geometrik tushunchalar o'rgatish metodikasi",
-       "A":"Alohida o'rganiladi",
+       "C":"Alohida o'rganiladi",
        "B":"Ko'rgazmalar yordamida",
-       "C":"Birgalikda o'rganiladi",
+       "A":"Birgalikda o'rganiladi",
        "D":"O'rganilmaydi"
     },
     {
        "savol":"\"<i>Qirq uyli ovulimni qishdan sog'-salomat olib chiqdim. Ularni o'limdan saqlab qoldim. Xalq qirilib ketsa, kimga podsholik qilardingiz? Farzand och qolsa-yu, otasidan non so'rasa, gunohmi? Siz el-yurt otasiz. Ayting, biz, fuqoralar nonni sizdan boshqa kimdan so'raylik?\" Ushbu parcha qaysi ertakdan keltirilgan?</i>",
-       "A":"\"Donishmand yigit\"",
+       "C":"\"Donishmand yigit\"",
        "B":"\"Halollik\"",
-       "C":"\"Botir mergan va chaqimchi\"",
+       "A":"\"Botir mergan va chaqimchi\"",
        "D":"\"Ahillik-ulug' baxt\""
     },
     {
@@ -337,9 +344,9 @@
     },
     {
        "savol":"<img src='../img/bosh10.png' alt='bosh10'> Ushbu rasmda qaysi qora metal tasvirlangan?",
-       "A":"Qo'ng'ir temirtosh",
+       "C":"Qo'ng'ir temirtosh",
        "B":"Magnitli temirtosh",
-       "C":"Qizil temirtosh",
+       "A":"Qizil temirtosh",
        "D":"Qora temirtosh"
     },
     {
@@ -365,27 +372,27 @@
     },
     {
        "savol":"Boshlang'ich sinfda o'qish darslarining didaktik maqsadi to'g'ri ko'rsatilgan qatorni toping",
-       "A":"Matnni o'qish, qayta hikoya qilish.",
-       "B":"O'quvchilarning o'qish malakalarni shakllantirish, asari matni ustida ishlash.",
+       "B":"Matnni o'qish, qayta hikoya qilish.",
+       "A":"O'quvchilarning o'qish malakalarni shakllantirish, asar matni ustida ishlash.",
        "C":"Ijodiy qayta hikoyalash va qisqartirib qayta hikoyalash.",
        "D":"Matnni o'qish, savol-topshiriqlar ustida ishlash."
     },
     {
        "savol":"Vaqtga oid tasavvurlarni tarkib toptirish(yil, oy, hafta) nima yordamida amalga oshiriladi?",
-       "A":"Soat modeli yordamida",
+       "C":"Soat modeli yordamida",
        "B":"Quyosh va soat yordamida",
-       "C":"Tabel-kalendar yordamida",
+       "A":"Tabel-kalendar yordamida",
        "D":"Yil, hafta yordamida"
     },
     {
-       "savol":"Murkkab masalalar:",
+       "savol":"Murakkab masalalar:",
        "A":"Yechilishi uchun 2 ta undan ortiq amallarni bajarishni talab qiladi",
        "B":"Bilimlarni o'zlashtirishga, mutahkamlashga va mukammallashtirishga xizmat qiladi",
        "C":"Bitta amalga bajariladigan masala",
        "D":"O'z ichiga yashirin informatsiyani oladi."
     },
     {
-       "savol":"Murakkab masalalar:",
+       "savol":"",
        "A":"O'z ichiga yashirin informatsiyani  oladi",
        "B":"Bilimlarni o'zlashtishga, mustahkamga va mukammalshtirishga xizmat qiladi",
        "C":"Yechilish uchun 2 ta undan ortiq amallarni bajarishni talab qiladi",
@@ -393,8 +400,8 @@
     },
     {
        "savol":"Badiiy asar ustida ishlashning 2- bosqichi qaysi javobda berilgan?",
-       "A":"Tayyorgarlik bosqichi ",
-       "B":"Asar tahlili",
+       "B":"Tayyorgarlik bosqichi ",
+       "A":"Asar tahlili",
        "C":"Yakuniy ishlar",
        "D":"Kirish suhbati"
     },
@@ -413,14 +420,14 @@
        "D":"Samarqand viloyati va Jizzax viloyati"
     },
     {
-       "savol":"Nurliboy dedi: agar bor bo'lgan pulim yana shuncha va shu pulning yarmi bo'lsa, unga yana 1 so'm qo'shilsa, u 16 so'mga sotib olishi mumkunligini aytdi. Nurliboyning qancha puli bor edi?",
-       "A":"7 so'm",
+       "savol":"Nurliboy dedi: agar bor bo'lgan pulimga yana shuncha pul qo'shilsa va yana umumiy pulning yarmi qo'shilsa, unga yana 1 so'm qo'shsam,  16 so'mga somsa sotib olishim mumkun. Nurliboyning qancha puli bor edi?",
+       "D":"7 so'm",
        "B":"6 so'm",
        "C":"2 so'm",
-       "D":"5 so'm"
+       "A":"5 so'm"
     },
     {
-       "savol":"Hovlida bir qator bo'lib bola turibdi. Har ikkita bolaning orasida bittadan qiz bor. Hovlida nechta qiz bor?",
+       "savol":"Hovlida bir qator bo'lib 3 ta bola turibdi. Har ikkita bolaning orasida bittadan qiz bor. Hovlida nechta qiz bor?",
        "A":"2",
        "B":"3",
        "C":"1",
@@ -442,15 +449,15 @@
     },
     {
        "savol":"<i>Yam-yashil bog' rog'larga burkangan Farg'ona vodiysi, ko'xna Samarqand-u Buxoro, Xiva azim Qashqadaryo va Surxondaryo yurtimizning maftunkor maskanlaridir.</i>Berilgan gapda qaysi turkum(lar)ga oid so'z(lar) imlosida xatolikka yo'l qo'yilgan?",
-       "A":"faqat ot turkumiga oid so'z imlosida ",
+       "C":"faqat ot turkumiga oid so'z imlosida ",
        "B":"faqat sifat turkumiga oid so'z imlosida ",
-       "C":"ot, sifat, turkumlariga oid so'zlar imlosida ",
+       "A":"ot, sifat, turkumlariga oid so'zlar imlosida ",
        "D":"sifat, fe'l turkumlariga oid so'zlar imlosida "
     },
     {
        "savol":"Yechilishi uchun 2 ta va undan ortiq amallarni bajarishni talab qiladi ",
-       "A":"Bitta amalda bajariladigan masala",
-       "B":"Murakkab masalalar",
+       "B":"Bitta amalda bajariladigan masala",
+       "A":"Murakkab masalalar",
        "C":"Bilimlarni o'zlashtirishga, mustahkamlashga va mukammallashtirishga xizmat qiladi.",
        "D":"O'z ichiga yashirin informatsiyani oladi."
     },
@@ -477,8 +484,8 @@
     },
     {
        "savol":"Qaysi javobda asosdosh so'zlar berilgan?",
-       "A":"boshla, boshqa",
-       "B":"terimchi, terla",
+       "B":"boshla, boshqa",
+       "A":"terimchi, terla",
        "C":"yo'liq, yo'lla",
        "D":"suvoq, suvdon"
     },
@@ -491,16 +498,16 @@
     },
     {
        "savol":"Matematika kursining mazmunini nimalar tashkil qiladi?",
-       "A":"Haqiyqiy sonlar ustida 4 amal.",
-       "B":"Natural son, 0 va ular ustida 4 amal, amaldagi komponentlar va natija orasidagi bog'lanishlar.",
+       "B":"Haqiyqiy sonlar ustida 4 amal.",
+       "A":"Natural son, 0 va ular ustida 4 amal, amaldagi komponentlar va natija orasidagi bog'lanishlar.",
        "C":"Qo'shish va ko'paytirishning o'rin almashtirish xossasi, ko'paytirish va bo'lishning taqsimot qonuni, xossalardan chiqadigan natija.",
        "D":"Tenglama, tengsizlik elementlari, egri chiziq, kesmalar, ko'pburchak va ularning elementlari, to'g'ri burchak va hokazolar. "
     },
     {
        "savol":"Boshlang'ich sinflarda badiiy asar ustida ishlash nechta asosiy bosqichga bo'linadi?",
-       "A":"3 ta ",
+       "C":"3 ta ",
        "B":"2 ta",
-       "C":"5 ta",
+       "A":"5 ta",
        "D":"4 ta"
     },
     {
@@ -519,22 +526,22 @@
     },
     {
        "savol":"Yechilishi uchun 1 ta amal bajarishni talab qiladi",
-       "A":"Murakkab masalalar",
-       "B":"Sodda masalalar",
+       "B":"Murakkab masalalar",
+       "A":"Sodda masalalar",
        "C":"Bilimlarni o'zlashtirishga, mustahkamlashga va mukammallashtirishga xizmat qiladi",
        "D":"O'z ichiga yashirin informatsiyani oladi"
     },
     {
        "savol":"\"Tovushlar harflar\" mavzusini o'rganishda qaysi metoddan foydalaniladi?",
-       "A":"Mustaqil ish metodidan",
-       "B":"Tahlil-tarkib metodidan ",
+       "B":"Mustaqil ish metodidan",
+       "A":"Tahlil-tarkib metodidan ",
        "C":"Til dalillarni kuzatish metodidan ",
        "D":"Amaliy ish metodidan"
     },
     {
        "savol":"1 sinf qaysi xossa bilan tanishadilar?",
-       "A":"Tranzitiv, Distributiv",
-       "B":"O'rin almashtirish",
+       "B":"Tranzitiv, Distributiv",
+       "A":"O'rin almashtirish",
        "C":"Distributiv va kommutativlik",
        "D":"Tranzitiv va Distributiv"
     },
@@ -554,23 +561,23 @@
     },
     {
        "savol":"Ko'poyoq birinchi oyog'iga bitta paypoq, ikkinchi oyog'iga ikkita paypoq, uchinchi oyog'iga uchta paypoq va hokazo paypoq kiydirildi. Hammasi bo'lib u 36 ta paypoq kiydi. Ko'pyoqning oyoqlari nechta ?   ",
-       "A":"6",
+       "C":"6",
        "B":"9",
-       "C":"8",
+       "A":"8",
        "D":"10"
     },
     {
        "savol":"4-sinf O'qish kitobining mualliflari kim? ",
-       "A":"T. Ga'fforova va boshqalar",
+       "C":"T. Ga'fforova va boshqalar",
        "B":"G. Boymurodov va boshqalar",
-       "C":"S. Matjonov va boshqalar",
+       "A":"S. Matjonov va boshqalar",
        "D":"K. Qosimova va boshqalar"
     },
     {
        "savol":"Qaysi javobda so'z qo'llash bilan bog'liq xatolik yuz bergan?",
-       "A":"Yod etmas emish  kishini g'urbatda kishi...",
+       "C":"Yod etmas emish  kishini g'urbatda kishi...",
        "B":"O'tloqning sof havosi kishiga orom bag'ishlaydi.",
-       "C":"Bulbul, mayna, qumri Hush ohangda sayrashar.",
+       "A":"Bulbul, mayna, qumri Hush ohangda sayrashar.",
        "D":"Mard to'g'ri va haq gapni gapiradi"
     },
     {
@@ -596,37 +603,37 @@
     },
     {
        "savol":"Alisher Navoiy siymosi ishtirok etgan rivoyatni aniqlang.",
-       "A":"\"O'g'lon\"",
-       "B":"\"Tanbeh\"",
+       "B":"\"O'g'lon\"",
+       "A":"\"Tanbeh\"",
        "C":"\" Yol'onchining izza bo'lishi\"",
        "D":"\" Hidi, tilimi va mazzasida\""
     },
     {
        "savol":"Ketma-ket kelgan to'rtta sonning yig'indisi 170 ga teng. Har bir kiyingi son avvalgisidan 5 ta kam. Birinchi sonni aniqlang  ",
-       "A":"35",
-       "B":"45",
+       "B":"35",
+       "A":"45",
        "C":"50",
        "D":"55"
     },
     {
        "savol":"Qodiriyning aytolmagan so'zda, Dunyonoga hech to'yolmagan ko'zda, \"Jonim mening millatim\", -deb Vidolashgan chog'ida Aytilmagan bi qo'shiqsan, jon tilim! Berilgan she'riy parchada egalik qo'shimchalari necha marta qo'llanilgan?  ",
-       "A":"5",
+       "C":"5",
        "B":"6",
-       "C":"4",
+       "A":"4",
        "D":"7"
     },
     {
        "savol":"Qaysi javobda imloviy xatolikka yo'l qo'yilgan? ",
-       "A":"Biz 12 qavatli binoning 6-qavatida yashaymiz.",
+       "C":"Biz 12 qavatli binoning 6-qavatida yashaymiz.",
        "B":"XX asrda juda ko'p kashfiyotlar qilindi. ",
-       "C":"14-yanvarda Vatan Himoyachilari kunini nishonlaymiz. ",
+       "A":"14-yanvarda Vatan Himoyachilari kunini nishonlaymiz. ",
        "D":"Nigora 4-sinfning a'lochi o'quvchisi hisoblanadi. "
     },
     {
        "savol":"<i>Ezgu niyatimiz... ro'yobga chiqishi uchun taraqqiy topgan ma'rifatli  dunyo bilan birga yashaymiz, hamkorlik... kuchaytirishimiz, hamdo'stlik rishtalari... mustahkamlahkamlashimiz... hayot... o'zi taqozo etmoqda.</i>Ushbu gapdagi nechta so'zda nuqtalar o'rniga qaratqich kelishigi qo'shimchasi qo'yilishi lozim?",
-       "A":"4",
+       "C":"4",
        "B":"3",
-       "C":"2",
+       "A":"2",
        "D":"1"
     },
     {
@@ -645,8 +652,8 @@
     },
     {
        "savol":"Rudali foydali qazilmalariga nimalar kiradi?",
-       "A":"temir, qo'rg'oshin, mis, alyuminiy, kumir ",
-       "B":"temir, mis, alyuminiy, rux,  qo'rg'oshin ",
+       "B":"temir, qo'rg'oshin, mis, alyuminiy, kumir ",
+       "A":"temir, mis, alyuminiy, rux,  qo'rg'oshin ",
        "C":"temir, granit, alyuminiy, rux, qo'rg'oshin",
        "D":"temir, mis, rux, granit, alyuminiy"
     },
@@ -673,8 +680,8 @@
     },
     {
        "savol":"3-sinf o'qish darsligida berilgan \"chana\" hikoyasida kim bolalardan ajralib qoldi ",
-       "A":"Sardor",
-       "B":"Farhod",
+       "B":"Sardor",
+       "A":"Farhod",
        "C":"Karim",
        "D":"Jalil "
     },
@@ -687,16 +694,16 @@
     },
     {
        "savol":"Boshlang'ich sinflarda matematika o'qitish metodikasi qaysi fanlar bilan aloqadorlikda o'qitiladi?",
-       "A":"Psixalogiya ",
+       "C":"Psixalogiya ",
        "B":"Barcha javoblar to'g'ri ",
-       "C":"Mehnat va muzika ",
+       "A":"Mehnat va musiqa ",
        "D":"Tabiatshunoslik va rasm "
     },
     {
        "savol":"Yuzlik konsentrida raqamlash bosqichlari :",
-       "A":"Bir bosqichda 1-100",
+       "C":"Bir bosqichda 1-100",
        "B":"1-20, 21-100, 1-10,",
-       "C":"2 bosqichda",
+       "A":"2 bosqichda, 11-20, 21-100",
        "D":"11-20, 21-100, 1-100 gacha bosqichlar ajralib o'rganiladi."
     },
     {
@@ -729,8 +736,8 @@
     },
     {
        "savol":"Ne'mat Toshpo'latning \"Mukofot\" hikoyasidagi maymunchaning ismi nima?",
-       "A":"Chiy-chiy",
-       "B":"Pi-pi",
+       "B":"Chiy-chiy",
+       "A":"Pi-pi",
        "C":"Dik-dik",
        "D":"Mi-mi"
     },
@@ -743,9 +750,9 @@
     },
     {
        "savol":"\"Men ekkan nihol\" sarlavhali she'ri gazetada bosilib chiqqan Qosimjon qaysi hikoya qahramoni hisoblanadi?",
-       "A":"\"Yaxshi bo'ldi \"",
+       "C":"\"Yaxshi bo'ldi \"",
        "B":"\"Qor odamning sovg'asi ",
-       "C":"\"Xatosini tushungan bola\"",
+       "A":"\"Xatosini tushungan bola\"",
        "D":"\"Bobomning sovg'asi\""
     },
     {
@@ -764,9 +771,9 @@
     },
     {
        "savol":"Qaysi javobda imloviy xato bilan yozilgan sifatlar berilgan",
-       "A":"dumaloq, qip-qizil",
+       "C":"dumaloq, qip-qizil",
        "B":"baland, tahir",
-       "C":"mosh rang, bepayon",
+       "A":"mosh rang, bepayon",
        "D":"sho'x, yengil"
     },
     {
@@ -784,28 +791,28 @@
        "D":"54+20=5 o'n+4 bir+2 o'n "
     },
     {
-       "savol":"Aydarko'lning katta qismi, Arnasoy va Tuzkon ko'llari qaysi vilyoat hududida joylashgang?",
-       "A":"Qashqadaryo viloyati",
+       "savol":"Aydarko'lning katta qismi, Arnasoy va Tuzkon ko'llari qaysi viloyat hududida joylashgang?",
+       "C":"Qashqadaryo viloyati",
        "B":"Xorazim viloyati",
-       "C":"Jizzax viloyati",
+       "A":"Jizzax viloyati",
        "D":"Samarqand viloyati"
     },
     {
        "savol":"Tog' jinslariga qaysi foydali qazilmalar kiradi?",
        "A":"qum, tosh, shag'al, temir, granit ",
-       "B":"qum, tosh, shag'al, ohaktosh,granit",
+       "B":"qumtosh, shag'al, ohaktosh,granit, marmar",
        "C":"qum, tosh, ko'mir, ohaktosh, granit   ",
        "D":"qum, tosh, shag'al, ohaktosh, granit "
     },
     {
-       "savol":"Ikki poezd bir-biriga qarama-qarshi harakatlanmoqda. Bir yo'lning 2/5 qismini, ikkinchisi yarmini bosib o'tdi. Agar ular orasidagidastlabki masofa 200 km bo'lsa, u holda ularning uchrashuvigacha necha kilometr qoldi? ",
+       "savol":"Ikki poezd bir-biriga qarama-qarshi harakatlanmoqda. Biri yo'lning 2/5 qismini, ikkinchisi yarmini bosib o'tdi. Agar ular orasidagidastlabki masofa 200 km bo'lsa, u holda ularning uchrashuvigacha necha kilometr qoldi? ",
        "A":"20 km ",
        "B":"200 km ",
        "C":"120 km ",
        "D":"12 km "
     },
     {
-       "savol":"Hovlida bir qator bo'lib 4 ts bola turibdi. Har ikkita bolaning orasida bittadan qiz bor. Hovlida nechta bola bor?  ",
+       "savol":"Hovlida bir qator bo'lib 4 ta bola turibdi. Har ikkita bolaning orasida bittadan qiz bor. Hovlida nechta bola bor?  ",
        "A":"6",
        "B":"7",
        "C":"10",

@@ -1,4 +1,5 @@
 [
+   {},
     {
        "savol":"<b>complete the sentance wiht above, across, over or bellow.</b>he suddenly saw Eva.....the room.",
        "A":"Above",
@@ -29,8 +30,8 @@
     },
     {
        "savol":"Really? i think it's _ warmer. Especially on the Riviera, the Mediterranean in  wintyer is _ temprature as the British coastal waters are in summer !",
-       "A":"most/similar ",
-       "B":"much/ the same",
+       "B":"most/similar ",
+       "A":"much/ the same",
        "C":"quete/ the similar",
        "D":"same/more"
     },
@@ -43,23 +44,23 @@
     },
     {
        "savol":"The washing machine is not working properly. There is ___the washing machine.",
-       "A":"anything wrong with ",
-       "B":"something wrong with",
+       "B":"anything wrong with ",
+       "A":"something wrong with",
        "C":"something wrong to",
        "D":"something wrong by"
     },
     {
        "savol":"We'll be there 1n ___half an hour.",
-       "A":"approximate",
-       "B":"roughly",
+       "B":"approximate",
+       "A":"roughly",
        "C":"supposed ",
        "D":"rough"
     },
     {
        "savol":"I've been saving £150 a month since september. By the end of the year,i - £600",
-       "A":"will have been saving",
+       "C":"will have been saving",
        "B":"will be saving",
-       "C":"will have saved",
+       "A":"will have saved",
        "D":"will save"
     },
     {
@@ -71,9 +72,9 @@
     },
     {
        "savol":"Destipe watching _, i don't know how the magician did that!",
-       "A":"close ",
+       "C":"close ",
        "B":"nearly",
-       "C":"closely",
+       "A":"closely",
        "D":"near"
     },
     {
@@ -85,30 +86,30 @@
     },
     {
        "savol":"<b>Find the sentance which is used in passive voise.</b>",
-       "A":"ex- president julius revealed as spy",
+       "C":"ex- president julius revealed as spy",
        "B":"restaurants eswtablished as souse of food poisoning outbreak",
-       "C":"there are thought to be too many obstacles to peace",
+       "A":"there are thought to be too many obstacles to peace",
        "D":"moon astronauts expected to return today"
     },
     {
        "savol":"...that no one wanted to work.",
-       "A":"such a hot day was it",
+       "C":"such a hot day was it",
        "B":"such a hot day were it ",
-       "C":"such a hot day was",
+       "A":"such a hot day was",
        "D":"such a hot day is it"
     },
     {
        "savol":"I know it's probably not going to happen but ... a famous super model?",
-       "A":"what if i became",
+       "D":"what if i became",
        "B":"what if i become",
        "C":"what if i have become",
-       "D":"what if i will become"
+       "A":"what if i will become"
     },
     {
        "savol":"<b>Find the right exspression of telling the future to emphasize </b>",
-       "A":"i'm aim to get to Bangkok by the end of June ",
+       "C":"i'm aim to get to Bangkok by the end of June ",
        "B":"i did aim to get Bangkok by the end of June",
-       "C":"i'm aiming to get to Bangkok by the end of june ",
+       "A":"i'm aiming to get to Bangkok by the end of june ",
        "D":"i have aim to get to Bangkok by the end of June"
     },
     {
@@ -120,8 +121,8 @@
     },
     {
        "savol":"<b>Find add information gioven sentence about a person </b>",
-       "A":"a hooded cobra, one of the  world's most dangerous snskes, has escaped from dudly Zoo",
-       "B":"Dr Alex Parr, director  of the State Mouseum, is to become the government's arts adviser",
+       "B":"a hooded cobra, one of the  world's most dangerous snskes, has escaped from dudly Zoo",
+       "A":"Dr Alex Parr, director  of the State Mouseum, is to become the government's arts adviser",
        "C":"i went on an IT traing course with my colleague",
        "D":"Gofast Technology has launched its new generation of high- speed trains"
     },
@@ -134,8 +135,8 @@
     },
     {
        "savol":"<b>Find the inverted sentence</b>",
-       "A":"he only felt entirely relaxed with close friends and family",
-       "B":"hardly had everybody taken their seats when DR Lee began her lecture",
+       "B":"he only felt entirely relaxed with close friends and family",
+       "A":"hardly had everybody taken their seats when DR Lee began her lecture",
        "C":"the match won't be cancelled unless the pitch is frozen",
        "D":"the public was never in any danger"
     },
@@ -148,8 +149,8 @@
     },
     {
        "savol":"I got sunburn ... worn a hat.",
-       "A":"Despite had ",
-       "B":"destipe having",
+       "B":"Despite had ",
+       "A":"destipe having",
        "C":"despite to have ",
        "D":"despite have"
     },
@@ -169,8 +170,8 @@
     },
     {
        "savol":"There was.. traffic in the city center because of the bad weather. Find the suitable adjective",
-       "A":"difficult",
-       "B":"heavy",
+       "B":"difficult",
+       "A":"heavy",
        "C":"bad",
        "D":"hard."
     },
@@ -183,22 +184,22 @@
     },
     {
        "savol":"Complete the rule. In a real conditional sentence, we use ........  to talk about something which may be possible ",
-       "A":"if... will, if... happen to",
+       "C":"if... will, if... happen to",
        "B":"if.... should, if ...will",
-       "C":"if...happen, if .... should",
+       "A":"if...happen, if .... should",
        "D":"as if, as though."
     },
     {
        "savol":"He said that he will rent a bigger house when he ____a new job.",
-       "A":"will get",
-       "B":"gets",
+       "B":"will get",
+       "A":"gets",
        "C":"is getting",
        "D":"will be getting"
     },
     {
        "savol":"We should't leave home____tomorrow if we want to catch the train.",
-       "A":"lately",
-       "B":"late",
+       "B":"lately",
+       "A":"late",
        "C":"later",
        "D":"latest"
     },
@@ -218,8 +219,8 @@
     },
     {
        "savol":"<b>Finf the grammatically correct answer </b>",
-       "A":"I had staying in the hotel twice in the 1990s",
-       "B":"I had stayed in the hotel twice in the 1990s",
+       "B":"I had staying in the hotel twice in the 1990s",
+       "A":"I had stayed in the hotel twice in the 1990s",
        "C":"I were stayed in the hotel twice in the 1990s ",
        "D":" I has stayed in the hotel twice in the 1990s"
     },
@@ -232,8 +233,8 @@
     },
     {
        "savol":"Find the correct definition of the following words:<b>ingenious; ingenuous</b> ",
-       "A":"not attempting to deceive or conceal/innocent; clever & skillful",
-       "B":"clever &skillful; not attempting to deceive or conceal/ innocent",
+       "B":"not attempting to deceive or conceal/innocent; clever & skillful",
+       "A":"clever &skillful; not attempting to deceive or conceal/ innocent",
        "C":"aboundant in vegetation; very rich and comfortable",
        "D":"very rich and comfortable; abundant in vegetation"
     },
@@ -260,15 +261,15 @@
     },
     {
        "savol":"Warren didn't look very when I saw her; she (can / worry) about going to the dentist",
-       "A":"could have been worried",
+       "D":"could have been worried",
        "B":"can worry",
        "C":"can have been worried",
-       "D":"could worry"
+       "A":"could worry"
     },
     {
        "savol":"Thanks for waiting. It was really _ of you",
-       "A":"considerate",
-       "B":"passionate",
+       "B":"considerate",
+       "A":"passionate",
        "C":"stingy",
        "D":"desperate"
     },
@@ -281,9 +282,9 @@
     },
     {
        "savol":"As far as I'm <b><u> concerning </b></u>happiness is more important than money.Put the word into the correct form",
-       "A":"concern",
+       "C":"concern",
        "B":"concernly",
-       "C":"concerned",
+       "A":"concerned",
        "D":"concernful"
     },
     {
@@ -295,8 +296,8 @@
     },
     {
        "savol":"The fire caused a lot of ___ to the building and factory machinery.Choos the correct answer",
-       "A":"harm",
-       "B":"damage",
+       "B":"harm",
+       "A":"damage",
        "C":"injury",
        "D":"wound"
     },
@@ -309,29 +310,29 @@
     },
     {
        "savol":"<b><u>Match the beginning of sentence with the most appropriate ending.</u></b> these has been a lot of heated debate",
-       "A":" These has been a lot of heated debate the role project leader",
-       "B":"these has been a lot of heated debate surrounding the issue of global warming",
+       "B":" These has been a lot of heated debate the role project leader",
+       "A":"these has been a lot of heated debate surrounding the issue of global warming",
        "C":"These has been a  lot of heated debate a way to solve their problem",
        "D":"There has been a lot of heated debate contact with colleagues abroad"
     },
     {
        "savol":" ... that there was no one in the office",
-       "A":"so late was it",
+       "C":"so late was it",
        "B":"As late were it",
-       "C":"As latewas it ",
+       "A":"As latewas it ",
        "D":"So late were it"
     },
     {
        "savol":"We finally got the ticket, .... was very lucky",
-       "A":"which",
-       "B":"what",
+       "B":"which",
+       "A":"what",
        "C":"Whose",
        "D":"whom"
     },
     {
        "savol":"<b>Find the right expression of the future to emphasize</b>",
-       "A":"People the verge of starvation as the drought continues",
-       "B":"People are going on the verge of starvation as the drought continues",
+       "B":"People the verge of starvation as the drought continues",
+       "A":"People are going on the verge of starvation as the drought continues",
        "C":"People are on the verge of starvation as  the drought continues",
        "D":"People have on the verge of starvation the drought continues"
     },
@@ -351,15 +352,15 @@
     },
     {
        "savol":"\"I'm going to buy these,\" said Tim",
-       "A":"Tim said he is going to buy them",
+       "D":"Tim said he is going to buy them",
        "B":"Tim said he was going to buy these",
        "C":"Tim said he was going to buy them",
-       "D":"Tim said he was going to buy those"
+       "A":"Tim said he was going to buy those"
     },
     {
        "savol":"<b>Find the sentence which is used in passive voice</b>",
-       "A":"The other children made Ollie unhappy when they teased him",
-       "B":"Changes to the taxation system are expected to be proposed",
+       "B":"The other children made Ollie unhappy when they teased him",
+       "A":"Changes to the taxation system are expected to be proposed",
        "C":"They could hear Email and Laura shouting at each other next door",
        "D":"They criticized her but she wasn't unhappy about it"
     },
@@ -372,9 +373,9 @@
     },
     {
        "savol":"The one ... is wearing a blue shirt is Julian Timberlake, isn't it?",
-       "A":"Which",
+       "C":"Which",
        "B":"Whose",
-       "C":"Who",
+       "A":"Who",
        "D":"Why"
     },
     {
@@ -400,30 +401,30 @@
     },
     {
        "savol":"<b>Which one means the same as the sentence given</b> It could be that they are not married",
-       "A":"They mightn't be married.",
-       "B":"They can't be married.",
+       "B":"They mightn't be married.",
+       "A":"They can't be married.",
        "C":"They canbe married.",
        "D":"They might be married."
     },
     {
        "savol":"Here's my report ......... it  at last.",
-       "A":"I finished",
+       "C":"I finished",
        "B":"I'm finished ",
-       "C":"I've finished",
+       "A":"I've finished",
        "D":"I finish"
     },
     {
        "savol":"<b>Turn into the passive </b>I enjoyed taking the children to the zoo",
-       "A":"The children enjoy being taken to the zoo",
+       "C":"The children enjoy being taken to the zoo",
        "B":"The zoo enjoyed being taken to the children",
-       "C":"The children enjoyed being taken to the zoo",
+       "A":"The children enjoyed being taken to the zoo",
        "D":"The children enjoid be taken to the zoo"
     },
     {
        "savol":"The growing number of visitory ___________ the foothaths",
-       "A":"damages",
+       "C":"damages",
        "B":"damage",
-       "C":"is damaging",
+       "A":"is damaging",
        "D":"are damaging"
     },
     {
@@ -449,9 +450,9 @@
     },
     {
        "savol":"Everybody was vary __________ when we were offered the contract, bud I was a little _______ it would go ahead. Choose the correct answer.",
-       "A":"exciting/doubtless",
+       "C":"exciting/doubtless",
        "B":"excited/doubtful",
-       "C":"excited/doubt",
+       "A":"excited/doubt",
        "D":"excitement/doubt"
     },
     {
@@ -484,38 +485,38 @@
     },
     {
        "savol":" ... enough money to buy these shoes next week.",
-       "A":"I hope to has",
-       "B":"I will hope to had",
+       "B":"I hope to has",
+       "A":"I will hope to had",
        "C":"I hope to have",
        "D":"I hope to had"
     },
     {
        "savol":"</b>Find the correctly used modal verb</b>",
-       "A":"The only thing we has to see were his feet.",
+       "C":"The only thing we has to see were his feet.",
        "B":"The only thing we ought see were his feet.",
-       "C":"The only thing we could see were his feet.",
+       "A":"The only thing we could see were his feet.",
        "D":"The only thing ww be able to see were his feet."
     },
     {
        "savol":"<b>Find the grammatically correct amnswer</b>",
-       "A":"Anna shall be helping us to organize the party.",
-       "B":"Anna will be helping us to organize the party.",
+       "B":"Anna shall be helping us to organize the party.",
+       "A":"Anna will be helping us to organize the party.",
        "C":"Anna will being helping us to organize the party.",
        "D":"Anna will is helping us to organize the party."
     },
     {
        "savol":"The theatre ... I frist acted is somewhere around here.",
-       "A":"When",
-       "B":"Where",
+       "B":"When",
+       "A":"Where",
        "C":"Why",
        "D":"What"
     },
     {
        "savol":"Charlie Chaplin was a coming genius ... all comedians owe agreat deal.",
-       "A":"To what",
+       "D":"To what",
        "B":"To why",
        "C":"To whom",
-       "D":"To which"
+       "A":"To which"
     },
     {
        "savol":"I ordered the DVD a week ago so it ___ arrived here by now.",
@@ -540,17 +541,17 @@
     },
     {
        "savol":"We finally got the ticket, ... was very lucky.",
-       "A":"Whom",
+       "C":"Whom",
        "B":"What",
-       "C":"Which",
+       "A":"Which",
        "D":"Whose"
     },
     {
        "savol":"<b>Complete the sentence with an appropriate adverb and a form of either come or go.</b> As soon as I'd given Daisy some pocket money, ..... she to buy sweets",
-       "A":"along came",
+       "D":"along came",
        "B":"off she went",
        "C":"along go",
-       "D":"out came"
+       "A":"out came"
     },
     {
        "savol":"Find the alternative of the collacting word which gives the meaning <b>make</b>",
@@ -582,29 +583,29 @@
     },
     {
        "savol":"<b>Choose the most likely sentence ending</b> The company makes...",
-       "A":"presents for all their brothers and sisters",
-       "B":"small electric motors",
+       "B":"presents for all their brothers and sisters",
+       "A":"small electric motors",
        "C":"gifts for all their brother",
        "D":"a lot of work for charity"
     },
     {
        "savol":"The meeting was to have taken place in the hall, ...",
-       "A":"and was well attended",
+       "C":"and was well attended",
        "B":"and we were exhausted when we arrived",
-       "C":"but had to be cancelled at the last moment",
+       "A":"but had to be cancelled at the last moment",
        "D":"but no money was available to employ him"
     },
     {
        "savol":"About ten of us were taken ill _________ a party we were at in York. I felt ill_____________ a couple of days, but was fine after that. ",
-       "A":"during...during",
+       "C":"during...during",
        "B":"for...during",
-       "C":"during...for",
+       "A":"during...for",
        "D":"for...for"
     },
     {
        "savol":"Last year I received some ___ help and foud myself in the  _____ position of fulfilling my dream my own house",
-       "A":"Finance/delight",
-       "B":"Financial/delightful___",
+       "B":"Finance/delight",
+       "A":"Financial/delightful___",
        "C":"Financially/delightful___",
        "D":"Finance/delightful___"
     },
@@ -617,36 +618,36 @@
     },
     {
        "savol":"Fill in the blank with suitable prepositions. Sine I'll be busy --- my work and prepare --- the exam tomorrow, I don't think I'll be able to go out tonight.",
-       "A":"for/with",
+       "C":"for/with",
        "B":"with/for",
-       "C":"with/to",
+       "A":"with/to",
        "D":"with/from"
     },
     {
        "savol":"Julie's not at home. She ___ decided to go out after all.",
-       "A":"was supposed to have",
-       "B":"must have",
+       "B":"was supposed to have",
+       "A":"must have",
        "C":"should have",
        "D":"ought to have"
     },
     {
        "savol":"By ... in that cigarrete advert, he damaged his acting career",
-       "A":"To appear",
-       "B":"Appearing",
+       "B":"To appear",
+       "A":"Appearing",
        "C":"Appearing at",
        "D":"Appear"
     },
     {
        "savol":"I heard Miss Jenkins ... Julia not to do that.",
-       "A":"Have told (telling)",
-       "B":"Tell (telling)",
+       "B":"Have told (telling)",
+       "A":"Tell (telling)",
        "C":"Have telling",
        "D":"Told (telling)"
     },
     {
        "savol":"Being able to drive is one of the ...... of the job of salesman. Choose the correct answer.",
-       "A":"prerequisites",
-       "B":"conditions",
+       "B":"prerequisites",
+       "A":"conditions",
        "C":"prescription",
        "D":"prerequirements"
     },
@@ -666,9 +667,9 @@
     },
     {
        "savol":"<b>Find the time adverbials.</b>",
-       "A":"Only later, only after",
+       "C":"Only later, only after",
        "B":"Before, that, so",
-       "C":"Never, before, rerely",
+       "A":"Never, before, rerely",
        "D":"There is no right answer"
     },
     {
@@ -694,9 +695,9 @@
     },
     {
        "savol":"Did they finally get their washing machine ______?",
-       "A":"to repair",
+       "C":"to repair",
        "B":"repair",
-       "C":"repaired",
+       "A":"repaired",
        "D":"repairing"
     },
     {
