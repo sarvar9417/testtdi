@@ -1,6 +1,6 @@
 [
     {
-       "savol":"<img src='../img/1.jpg' alt='rasm'> tenglama  bilan  ifodalangan tebranma harakat qilayotgan jismning  masksimal tezlanishini  toping (sm/<sup>2</sup>)?",
+       "savol":"<img src='../img/1.jpg' alt='rasm'> tenglama  bilan  ifodalangan tebranma harakat qilayotgan jismning  maksimal tezlanishini  toping (sm/<sup>2</sup>)?",
        "A":"70",
        "B":"77",
        "C":"7",
@@ -14,7 +14,7 @@
        "D":"400 N"
     },
     {
-       "savol":"Massasi 50  kg  bo‘lgan bola qayiqdan  qirg‘oqqa sakrab, 0,5 s  ichida  10 m/s tezlik  oldi.  Agar  qayiqniong  massasi  200 kg  bo‘lsa,  shu  vaqtda bola qanday  tezlanish oladi?",
+       "savol":"Massasi 50  kg  bo‘lgan bola qayiqdan  qirg‘oqqa sakrab, 0,5 s  ichida  10 m/s tezlik  oldi.  Agar  qayiqning  massasi  200 kg  bo‘lsa,  shu  vaqtda bola qanday  tezlanish oladi?",
        "A":"5 m/s<sup>2</sup>",
        "B":"20 m/s<sup>2</sup>",
        "C":"4,5 m/s<sup>2</sup>",
@@ -35,7 +35,7 @@
        "D":"500 N"
     },
     {
-       "savol":"Chaqmoq  chaqqandan  so'ng 6 s   o'tgacha momoqaldiroq gumburladi,  yashin razryadi kuzatuvchidan qanday  masopfada (km) bo'lgan?",
+       "savol":"Chaqmoq  chaqqandan  so'ng 6 s   o'tgach momoqaldiroq gumburladi,  yashin razryadi kuzatuvchidan qanday  masofada (km) bo'lgan?",
        "A":"3",
        "B":"2",
        "C":"1,5",
@@ -53,7 +53,7 @@
        "A":"Farqsiz muvozonat",
        "B":"Barchasi  to'gri",
        "C":"Turg'unmas muvozanat",
-       "D":"Tu'rg'un  muvozanat"
+       "D":"Turg'un  muvozanat"
     },
     {
        "savol":"Quyidagilardan qaysi  biri tabiiy  yorug'lik manbaidir.",
@@ -77,7 +77,7 @@
        "D":"6,6 kV/m"
     },
     {
-       "savol":"Ko'char bulok ... beruvchi  qurilma.",
+       "savol":"Ko'char blok ... beruvchi  qurilma.",
        "A":"Kuchni yo'nalishini o'zgartirib",
        "B":"Kuchdan  yutuq",
        "C":"Ishdan yutuq",
@@ -203,7 +203,7 @@
        "D":"0,1 m/s<sup>2</sup>"
     },
     {
-       "savol":"Quyosh  toji qanday  fizk  hodisada  kuzatishimiz imkoni  mavjud  bo'ladi?",
+       "savol":"Quyosh  toji qanday  fizik  hodisada  kuzatishimiz imkoni  mavjud  bo'ladi?",
        "A":"Quyosh to'la tutilganda",
        "B":"Oy tutilganda",
        "C":"21-dekabrda",
@@ -219,9 +219,9 @@
     {
        "savol":"Quyida keltirilgan tarozilarning qaysi birining o'lchash aniqligi kunning  issiq yoki  sovuq bo'lishiga,  Yerning Shimoliy qutbi yoki ekvatorga yaqin joylarda olib borilganligiga bog'liq bo'ladi?",
        "A":"Elektron tarozi",
-       "B":"Shaynli tarizi",
+       "B":"Shaynli tarozi",
        "C":"Prujinali tarozi",
-       "D":"Barcha tarozillarda"
+       "D":"Barcha tarozilarda"
     },
     {
        "savol":"Massasi 10  kg bo'lgan jism ikkita cho'zilmas arqonga osilgan. Ular o'zaro 60<sup>o</sup> burchak hosil qilgan holda muvozanatda qoladi. Arqonlarning taranglik kuchlarini hisoblang.",
@@ -252,7 +252,7 @@
        "D":"Egilmaydi"
     },
     {
-       "savol":"Qavariq ko'zguda  qanday tasvir  ghosil  bo'ladi?",
+       "savol":"Qavariq ko'zguda  qanday tasvir  hosil  bo'ladi?",
        "A":"to'nkarilgan, kichiklashgan va mavhum",
        "B":"to'nkarilgan, kichiklashgan va haqiqiy",
        "C":"to'g'ri, kichiklashgan va mavhum",
@@ -329,7 +329,7 @@
        "D":"9 A/s"
     },
     {
-       "savol":"Ikkita +0,4 uC va -0,6 uC  nuqtaviy zaryadlar bir-biridan 12 sm masofada joylashgan. Zaryadlarni tutashtiruvchi kesma o'ratsida elektr maydon potensiali qanday bo'ladi?",
+       "savol":"Ikkita +0,4 uC va -0,6 uC  nuqtaviy zaryadlar bir-biridan 12 sm masofada joylashgan. Zaryadlarni tutashtiruvchi kesma o'rtasida elektr maydon potensiali qanday bo'ladi?",
        "A":"-50 kV",
        "B":"-30 kV",
        "C":"50 kV",
@@ -350,7 +350,7 @@
        "D":"2,6"
     },
     {
-       "savol":"Uzunligi 25 sm bo'lgan o'tkagichdan 4 A tok o'tmoqda. O'tkazgich induksiyasi 1,2 T bo'lgan bir jinsli magnit maydonning induksiya chiziqlariga 45<sup>o</sup> burchak ostida joylashgan. O'tkazgich Amper kuchi yo'nalishda 3 sm ga ko'chganda qanday ish bajariladi?",
+       "savol":"Uzunligi 25 sm bo'lgan o'tkazgichdan 4 A tok o'tmoqda. O'tkazgich induksiyasi 1,2 T bo'lgan bir jinsli magnit maydonning induksiya chiziqlariga 45<sup>o</sup> burchak ostida joylashgan. O'tkazgich Amper kuchi yo'nalishda 3 sm ga ko'chganda qanday ish bajariladi?",
        "A":"15 mJ",
        "B":"25,4 mJ",
        "C":"18,6 mJ",
@@ -434,7 +434,7 @@
        "D":"N*kg<sup>2</sup/m<sup>2</sup>"
     },
     {
-       "savol":"Vektor kattalilar - bu ...",
+       "savol":"Vektor kattaliklar - bu ...",
        "A":"son qiymatlari hisobga olinmasa ham bo'ladigan kattaliklar",
        "B":"faqat son qiymati bilan aniqlanadigan kattaliklar",
        "C":"son qiymatlari va yo'nalishilari bilan aniqlanadigan kattaliklar",
@@ -483,7 +483,7 @@
        "D":"2"
     },
     {
-       "savol":"Temperatura ortishi bilan moddaning qaysi holatida diffuziya tezligi tezroq oprtadi?",
+       "savol":"Temperatura ortishi bilan moddaning qaysi holatida diffuziya tezligi tezroq ortadi?",
        "A":"Qattiq",
        "B":"Gaz",
        "C":"Barchasida bir xil",
@@ -497,7 +497,7 @@
        "D":"Barchasida bir xil"
     },
     {
-       "savol":"Vakumda elektr tokini qanday zarralar hosil qiladi?",
+       "savol":"Vakuumda elektr tokini qanday zarralar hosil qiladi?",
        "A":"Elektronlar",
        "B":"Musbat va manfiy ionlar",
        "C":"Kovaklar",
@@ -525,7 +525,7 @@
        "D":"20"
     },
     {
-       "savol":"Daryoning kengligi 90 m bo'lib, u to'liq holda muz qoplangan. Daryoning bir qirg'og'idan xokkeychi shaybaga 20 m/s tezlik bersa, shayba ikkinchi qirg'oqdan chiqib asfaltda qanday maksimal masofaga borib to'xtaydi (m)? Muz bilan shayba orasidagi ishqalanish kosffitsineti u=0,1 va asfalt bilan shayba orasidagi ishqalanish koeffitsienti u=0.5",
+       "savol":"Daryoning kengligi 90 m bo'lib, u to'liq holda muz bilan qoplangan. Daryoning bir qirg'og'idan xokkeychi shaybaga 20 m/s tezlik bersa, shayba ikkinchi qirg'oqdan chiqib asfaltda qanday maksimal masofaga borib to'xtaydi (m)? Muz bilan shayba orasidagi ishqalanish kosffitsineti u=0,1 va asfalt bilan shayba orasidagi ishqalanish koeffitsienti u=0.5",
        "A":"90",
        "B":"50",
        "C":"22",
@@ -623,7 +623,7 @@
        "D":"ma miqdorga ortadi"
     },
     {
-       "savol":"Berilgan sim bo'lagining bikrligi 8*10<sup>3</sup> N/m ga teng. Shu sim  ikkiga bo'linib, birga eshilsa umumiy birlikqanday bo'lib qoladi?",
+       "savol":"Berilgan sim bo'lagining bikrligi 8*10<sup>3</sup> N/m ga teng. Shu sim  ikkiga bo'linib, birga eshilsa umumiy birlik qanday bo'lib qoladi?",
        "A":"2*10<sup>5</sup> N/m",
        "B":"4*10<sup>5</sup> N/m",
        "C":"32*10<sup>5</sup> N/m",
@@ -651,7 +651,7 @@
        "D":"3,74*10<sup>-10</sup> N"
     },
     {
-       "savol":"Vakumli diodda anoddagi maksimal tok kuchi 50 mA ga teng bo'ldi. Katoddan har sekundda nechta elektron uchib chiqmoqda?",
+       "savol":"Vakuumli diodda anoddagi maksimal tok kuchi 50 mA ga teng bo'ldi. Katoddan har sekundda nechta elektron uchib chiqmoqda?",
        "A":"5,1*10<sup>17</sup> ",
        "B":"3,1*10<sup>17</sup> ",
        "C":"6*10<sup>17</sup> ",
@@ -728,7 +728,7 @@
        "D":"900 N"
     },
     {
-       "savol":"10 s vaqt ichida o'tkazgichdan q=4 C zaryad o'tdi. O'tkazgichdagi kuchklanishi U= 12 V. Tokning bajargan ishini aniqlang.",
+       "savol":"10 s vaqt ichida o'tkazgichdan q=4 C zaryad o'tdi. O'tkazgichdagi kuchlanishi U= 12 V. Tokning bajargan ishini aniqlang.",
        "A":"48 J",
        "B":"480 J",
        "C":"30 J",
@@ -778,8 +778,8 @@
     },
     {
        "savol":"Havo shari nega geliy yoki vodorod gazlari bilan to'ldiriladi?",
-       "A":"Chunki bu gazlar xavo bilan ta'sirlashmaydi",
-       "B":"Chunki bu gazlar xavodan ko'ra yengil",
+       "A":"Chunki bu gazlar havo bilan ta'sirlashmaydi",
+       "B":"Chunki bu gazlar havodan ko'ra yengil",
        "C":"Chunki bu gaz molekularining tezligi boshqa gazlarga qaraganda katta",
        "D":"Chunki bu gazlar tabiatda ko'p miqdorda uchraydi"
     },
@@ -791,7 +791,7 @@
        "D":"Yerning harakati sabab"
     },
     {
-       "savol":"Nima sababdan pichoq o'tkir bo'lsa, narsalarni kesish osn bo'ladi?",
+       "savol":"Nima sababdan pichoq o'tkir bo'lsa, narsalarni kesish oson bo'ladi?",
        "A":"Chunki yuzani kam bo'lishi, kuchni oshishiga sabab bo'ladi.",
        "B":"Chunki kesish kuch momenti katta bo'ladi.",
        "C":"Chunki yuzani kam bo'lishi, bosimni oshishiga sabab bo'ladi.",
@@ -840,7 +840,7 @@
        "D":"4"
     },
     {
-       "savol":"4 N kuch ta'sirida 5 sm uzaygan prujina birligini toping.",
+       "savol":"4 N kuch ta'sirida 5 sm uzaygan prujina bikriligini toping.",
        "A":"20 N/sm",
        "B":"80 N/sm",
        "C":"20 N/sm",
@@ -858,7 +858,7 @@
        "A":"Tebranish",
        "B":"Infratovush",
        "C":"Kamerton",
-       "D":"Ultrtovush"
+       "D":"Ultratovush"
     },
     {
        "savol":"Modda atom(molekula)larining potensial energiyasi mavjudligini quyidagi qaysi hodisa ko'rsatib beradi? 1. Muzning erishi 2. Suvning isishi 3. Suvni bug'lanishi",
@@ -1141,7 +1141,7 @@
        "D":"15 m/s"
     },
     {
-       "savol":"Induksiyasi 50 mT  bo'lgan magnit maydonning induksiya chiziqlari sirtv tekisligiga 30<sup>o</sup>  burchak ostida tushmoqda. Magnit maydon induksiyasining sirtiga normal yo'nalishidagi tashkil etuvchisini toping.",
+       "savol":"Induksiyasi 50 mT  bo'lgan magnit maydonning induksiya chiziqlari sirt tekisligiga 30<sup>o</sup>  burchak ostida tushmoqda. Magnit maydon induksiyasining sirtiga normal yo'nalishidagi tashkil etuvchisini toping.",
        "A":"25 mT",
        "B":"37 mT",
        "C":"30 mT",
@@ -1313,7 +1313,7 @@
        "A":"3 marta kamayadi",
        "B":"9 marta kamayadi",
        "C":"o'zgarmaydi",
-       "D":"3 mrta ortadi"
+       "D":"3 marta ortadi"
     },
     {
        "savol":"Suv tubida og'irlik kuchi 3000 N bo'lgan tosh yotibdi. Toshning suv tubidagi yuzasi 60 dm^2 bo'lsa, toshning bosimini toping? Arximed kuchini hisobga olmang",
@@ -1323,7 +1323,7 @@
        "D":"3000 Pa"
     },
     {
-       "savol":"Asalari 2 soat davomida asal yig'ish uchun 30km masovani uchib utdi. Uning o'rtacha tezligi nmaga teng?",
+       "savol":"Asalari 2 soat davomida asal yig'ish uchun 30km masofani uchib o'tdi. Uning o'rtacha tezligi nimaga teng?",
        "A":"27,7 km/h",
        "B":"4,17 m/s",
        "C":"3,94 m/s",
@@ -1414,8 +1414,8 @@
        "D":"Qaychi"
     },
     {
-       "savol":"Agar Arximed kuchi jisim og'irligiga teng bo'lsa, jism...",
-       "A":"suyiqlikda cho'kadi",
+       "savol":"Agar Arximed kuchi jism og'irligiga teng bo'lsa, jism...",
+       "A":"suyuqlikda cho'kadi",
        "B":"suyuqlikda qisman botgan holda suzib yuradi",
        "C":"barchasi to'g'ri",
        "D":"suyuqlik ichidagi istalgan joyda muallaq holda qoladi"
@@ -1428,21 +1428,21 @@
        "D":"Kuchni oshirish uchun"
     },
     {
-       "savol":"Nuqtalar o'rnini to'ldiring. Jisimlarning o'zaro ta'siri tufayli olgan tezlanishlari ular masalariga ...proporsional bo'lib, o'zaro ... yo'nalgandir.",
+       "savol":"Nuqtalar o'rnini to'ldiring. Jismlarning o'zaro ta'siri tufayli olgan tezlanishlari ular massalariga ...proporsional bo'lib, o'zaro ... yo'nalgandir.",
        "A":"teskari; bir yo'nalishda",
        "B":"to'g'ri; bir yo'nalishda",
        "C":"to'g'ri; qarama qarshi",
        "D":"teskari;qaramaqarshi"
     },
     {
-       "savol":"Agar yer sirtidagi jisimga gorizontal yo'nalishda birinchi kosmik tezlik berilsa, uning harakat trayektoriyasi qanday shaklda bo'ladi",
+       "savol":"Agar yer sirtidagi jismga gorizontal yo'nalishda birinchi kosmik tezlik berilsa, uning harakat trayektoriyasi qanday shaklda bo'ladi",
        "A":"Parabola",
        "B":"Ellips",
        "C":"Aylana",
-       "D":"To'g'ri chiziiq"
+       "D":"To'g'ri chiziq"
     },
     {
-       "savol":"Aylanish o'qiga ega bo'lgan jisim yoki jisimlar sistemasi muvozanatda qolishi uchun unga ta'sir etayotgan kuchlarning... nolga teng bo'lishi kerak",
+       "savol":"Aylanish o'qiga ega bo'lgan jism yoki jismlar sistemasi muvozanatda qolishi uchun unga ta'sir etayotgan kuchlarning... nolga teng bo'lishi kerak",
        "A":"vektor yig'indisi",
        "B":"momentlar skalyar yig'indisi",
        "C":"skalyar yig'indisi",
@@ -1484,46 +1484,46 @@
        "D":"Qisqa to'lqin uzunlik tomonga siljiydi"
     },
     {
-       "savol":"Linzaning optik markazi deb nmaga aytiladi",
+       "savol":"Linzaning optik markazi deb nimaga aytiladi",
        "A":"linzadan o'tadigan nurlar bir nuqtadan to'planadigan joy",
-       "B":"Optik o'qda yotgan linza markazida yotkan",
+       "B":"Optik o'qda yotgan linza markazida yotgan",
        "C":"Linzaning optik markazi mavjud emas",
        "D":"to'gri javob berilmagan"
     },
     {
-       "savol":"Jisimlar muvozanat holatidan chetga chiqarilganda uning holatini o'zgartiradigan hech qanday kuch hosil bo'lmasa... deyiladi",
+       "savol":"Jismlar muvozanat holatidan chetga chiqarilganda uning holatini o'zgartiradigan hech qanday kuch hosil bo'lmasa... deyiladi",
        "A":"Barchasi to'g'ri",
        "B":"Turg'un mvozanat",
        "C":"Turg'unmas muvozanat",
        "D":"Farqsiz muvozanat"
     },
     {
-       "savol":"Yerda kun va tun bo'lishiga sabab nma",
+       "savol":"Yerda kun va tun bo'lishiga sabab nima",
        "A":"Yerning tabiiy yo'ldoshi oy tufayli",
        "B":"Yerning o'z o'qi atrifida aylanishi",
        "C":"Yer o'z o'qi atrofida turlicha og'ishi",
        "D":"Chunki yer quyosh atrofida aylanadi"
     },
     {
-       "savol":"Jisimni Yerga tortish kuchi...deyiladi",
-       "A":"Jisimning vazni",
-       "B":"Jisimning og'irligi",
+       "savol":"Jismni Yerga tortish kuchi...deyiladi",
+       "A":"Jismning vazni",
+       "B":"Jismning og'irligi",
        "C":"Og'irlik kuchi",
        "D":"Inversiya kuchi"
     },
     {
-       "savol":"Metalni qizdirish tufayli ulardan elektron uchib chiqish hodisasiga ... deyiladi",
+       "savol":"Metallni qizdirish tufayli ulardan elektron uchib chiqish hodisasiga ... deyiladi",
        "A":"termoelektron emisiyasi",
        "B":"to'yinish toki",
        "C":"chiqish ishi",
        "D":"elektr emissiya"
     },
     {
-       "savol":"Inersiya kuchi jisimga boshqa jisimlar tomonidan emas, balki... ta'sir qiladi",
+       "savol":"Inersiya kuchi jismga boshqa jismlar tomonidan emas, balki... ta'sir qiladi",
        "A":"inersial sanoq sistema tomonidan",
        "B":"inersial bo'lmagan sanoq sistema",
        "C":"sanoq sistema tezlanish bilan harakatlanishi tufayli",
-       "D":"to'g'ri javob yuq"
+       "D":"to'g'ri javob yo'q"
     },
     {
        "savol":"Magnit maydonga turgan yuzi 80 cm^2 bo'lgan ramkaga ta'sir qiluvchi maksimal kuch momenti 7,2 mNm ga teng. Agar ramkadan 0,2 A tok o'tayotkan bo'lsa maydon induksiyasi nmaga teng",
@@ -1541,10 +1541,10 @@
     },
     {
        "savol":"Yarim o'tkazgichlarga nur ta'sir etishi natijasida unda erkin zaryad tushuvchilarning hosil bo'lishiga ... deyiladi",
-       "A":"footoo'tkazuvchanlik",
-       "B":"tashqi footoefekt",
-       "C":"qutublanish",
-       "D":"ichki footoefekt"
+       "A":"fotoo'tkazuvchanlik",
+       "B":"tashqi fotoefekt",
+       "C":"qutblanish",
+       "D":"ichki fotoefekt"
     },
     {
        "savol":"Atom... tashkil topgan",
@@ -1554,14 +1554,14 @@
        "D":"proton va elektronlardan"
     },
     {
-       "savol":"Jisimning havodagi og'irligi 196 N, kerosidagi og'irligi 180 N. Jisimning hajmini toping. Kerosinning zichligi 800kg/m^3",
+       "savol":"Jismning havodagi og'irligi 196 N, kerosidagi og'irligi 180 N. Jismning hajmini toping. Kerosinning zichligi 800kg/m^3",
        "A":"200 sm^3",
        "B":"2 dm^3",
        "C":"20 dm^3",
        "D":"2 sm^3"
     },
     {
-       "savol":"Yer sirtidagi atmosfera bosimi 750 mm.sim.ust ga teng bo'lsa, balandligi 120 bo'lgan  binonig tomidai bosimini toping",
+       "savol":"Yer sirtidagi atmosfera bosimi 750 mm.sim.ust ga teng bo'lsa, balandligi 120 bo'lgan  binonig tomidagi bosimini toping",
        "A":"760 mm sim ust",
        "B":"740 mm sim ust",
        "C":"10 mm sim ust",
@@ -1589,50 +1589,50 @@
        "D":"0,6"
     },
     {
-       "savol":"Jisimning massasi m= 28 kg bo'lsa unga tasir etayotgan og'irlik kuchini toping",
+       "savol":"Jismning massasi m= 28 kg bo'lsa unga tasir etayotgan og'irlik kuchini toping",
        "A":"280 N",
        "B":"250 N",
        "C":"285 N",
        "D":"275 N"
     },
     {
-       "savol":"Ma'lum balandlikdan quyib yuborilgan  jisim erkin tushmoqda. U 40 m/s tezlikka erishganida qanch masofa bosib o'tgan bo'ladi (g=10 m/s^2",
+       "savol":"Ma'lum balandlikdan qo'yib yuborilgan  jisim erkin tushmoqda. U 40 m/s tezlikka erishganida qancha masofa bosib o'tgan bo'ladi (g=10 m/s^2",
        "A":"60 m",
        "B":"80 m",
        "C":"100 m",
        "D":"120 m"
     },
     {
-       "savol":"Joyiodan qo'zg'alib, 0,2 m/s^2 tezlanish bilan tezlanuvchan  hrakat qilayotgan jisim 12 s qancha yo'lni bosib o'tdi",
+       "savol":"Joyidan qo'zg'alib, 0,2 m/s^2 tezlanish bilan tezlanuvchan  harakat qilayotgan jism 12 s qancha yo'lni bosib o'tdi",
        "A":"12,2 m",
        "B":"25 m",
        "C":"14,4 m",
        "D":"20 m"
     },
     {
-       "savol":"Potensial energiya deb nmaga aytiladi",
-       "A":"jiimlar harakatlanganda",
-       "B":"jisimlarni tinch turganda hosil bo'ladigan energiyaga",
-       "C":"jisimlarning o'zaro ta'sir natijasida hosil bo'lgan energiyaga",
-       "D":"jisimlarning o'zaro ta'siri va harakatidan hoil bo'lgan energiya"
+       "savol":"Potensial energiya deb nimaga aytiladi",
+       "A":"jismlar harakatlanganda",
+       "B":"jismlarni tinch turganda hosil bo'ladigan energiyaga",
+       "C":"jismlarning o'zaro ta'sir natijasida hosil bo'lgan energiyaga",
+       "D":"jismlarning o'zaro ta'siri va harakatidan hosil bo'lgan energiya"
     },
     {
        "savol":"Suyuqlikning oqim tezligi katta bo'lgan joylarida uning bosimi... va aksincha oqim tezligi kicik bo'lgan joylarida...bo'ladi",
        "A":"kichik katta",
        "B":"kichik nol",
        "C":"katta nol",
-       "D":"katta ichik"
+       "D":"katta kichik"
     },
     {
        "savol":"Jismning yerga tortishish kuchi ... deb ataladi",
-       "A":"jisimning vazni",
+       "A":"jismning vazni",
        "B":"og'irlik kuchi",
-       "C":"jisimning og'irligi",
+       "C":"jismning og'irligi",
        "D":"inersiya kuchi"
     },
     {
-       "savol":"Deformatsiyalangan jisimda vujudga kelib tashqi kuchga ... ko'rsatadigan va unga qarama-qarshi yo'nalish ... deb ataladi",
-       "A":"qarshilik va lorens kuch",
+       "savol":"Deformatsiyalangan jismda vujudga kelib tashqi kuchga ... ko'rsatadigan va unga qarama-qarshi yo'nalish ... deb ataladi",
+       "A":"qarshilik va lorens kuchi",
        "B":"qarshilik va ishqalanish kuchi",
        "C":"qarshilik va elastiklik kuchi",
        "D":"qarshilik va amper kuchi"
@@ -1666,7 +1666,7 @@
        "D":"50 мT"
     },
     {
-       "savol":"Magnit maydonning biror nuqtasining energetik xarakteristikasini tavsirlovchi fizik kattalik ... deb ataladi ",
+       "savol":"Magnit maydonning biror nuqtasining energetik xarakteristikasini tafsirlovchi fizik kattalik ... deb ataladi ",
        "A":" magnit maydon induksiyasi",
        "B":"magnit singdruvchanligi",
        "C":"induktivlik",
@@ -1675,15 +1675,15 @@
     {
        "savol":"Konturda o'tib turgan magnit induksiyasi kamaytrilsa, undan o'tayotgan magnit oqimi qanday o'zgaradi",
        "A":"o'zgarmaydi",
-       "B":"ohadi",
+       "B":"oshadi",
        "C":"kamayadi",
        "D":"magnit oqim magnit induksiyasiga bog'liq emas"
     },
     {
-       "savol":"Ayrim bir bri bilan bog'liq bo'lmagan yoki kuchsiz bo'lmagan molekulalar chiqargan yorug'lik qanday spektrga ega bo'ladi",
+       "savol":"Ayrim bir biri bilan bog'liq bo'lmagan yoki kuchsiz bo'lmagan molekulalar chiqargan yorug'lik qanday spektrga ega bo'ladi",
        "A":"tutash spektr",
        "B":"aralash spektr",
-       "C":"chziqli spektr",
+       "C":"chiziqli spektr",
        "D":"palasali spektr"
     },
     {
@@ -1708,7 +1708,7 @@
        "D":"5,4*10^8 m"
     },
     {
-       "savol":"Jisim teks tezlanuvchan harakat qilib 20 m ni 4 sekunda bosib o'tdi. Keyingi 40 m ni 4 sekunda bosib o'tgan bo'lsa uning boshlang'ich tezligini toping m/s",
+       "savol":"Jism tekis tezlanuvchan harakat qilib 20 m ni 4 sekunda bosib o'tdi. Keyingi 40 m ni 4 sekunda bosib o'tgan bo'lsa uning boshlang'ich tezligini toping m/s",
        "A":"2,5",
        "B":"1,15",
        "C":"1,25",
@@ -1722,7 +1722,7 @@
        "D":"12"
     },
     {
-       "savol":"Jisimning tinch yoki harakat holatini saqlash qobilyatini xarakterlovchi fizik kattalik ... deyiladi",
+       "savol":"Jismning tinch yoki harakat holatini saqlash qobilyatini xarakterlovchi fizik kattalik ... deyiladi",
        "A":"Inertlik",
        "B":"Zichlik",
        "C":"Massa ",

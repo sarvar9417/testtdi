@@ -1,6 +1,6 @@
 [
     {
-       "savol":"<img src='../img/geo1.jpg' alt='geo1'> Ushbu rasmda saiq bilan qanday hududlar ko'rsatilgan",
+       "savol":"<img src='../img/geo1.jpg' alt='geo1'> Ushbu rasmda sariq bilan qanday hududlar ko'rsatilgan",
        "C":"topik savannalar",
        "B":"ekstraid zonalar",
        "A":"cho'llar chalacho'llar",
@@ -63,7 +63,7 @@
        "D":"55,5 soat"
     },
     {
-       "savol":"termiz shaxri 37,2gradus shimoliykenglikda joylashgan. ushbu shaharda ekvatorgacha bo'lgan masofani gradus va kilometrda aniqlang.",
+       "savol":"Termiz shahri 37,2gradus shimoliy kenglikda joylashgan. ushbu shaharda ekvatorgacha bo'lgan masofani gradus va kilometrda aniqlang.",
        "A":"37,2gradus va 4132,92 km",
        "B":"32,2gradus va 4312,92 km",
        "C":"37,2gradus va 4452,92 km",
@@ -99,13 +99,13 @@
     },
     {
        "savol":"globus yoki xarita istalgan nuqtaning kengligini aniqlash uchun nimani bilish zarur",
-       "B":"nuqtaning qutublarga nisbatan joylashganligi",
-       "A":"nuqtaning qasi parallelda joylashganini",
+       "B":"nuqtaning qutblarga nisbatan joylashganligi",
+       "A":"nuqtaning qaysi parallelda joylashganini",
        "C":"nuqtaning qaysi meridianda joylashganini",
        "D":"nuqtaning qaysi yaimsharda joylashganini"
     },
     {
-       "savol":"geosiyosatning qaysi yondashuv tarafdorlari insoniyat taixini davlalar yok yirik imperiyalar emas, balki turli madaniy-diniy jamoalar rivojlantiradi,degan fikrni bildiradilar? ",
+       "savol":"geosiyosatning qaysi yondashuv tarafdorlari insoniyat taixini davlatlar yok yirik imperiyalar emas, balki turli madaniy-diniy jamoalar rivojlantiradi,degan fikrni bildiradilar? ",
        "A":"geografik determinizm",
        "B":"sivilizatsiya",
        "C":"strategik",
@@ -119,14 +119,14 @@
        "D":"filippin"
     },
     {
-       "savol":"Toshkent bilan bitta parallelda joylashgan g'arbiy yarinshardagi shaharda quyoshning ufqdan balandligi 62gradus 39 gradus shimoliy kenglikda joylashgan shahardagi 22-iyun va 22-dekabr sanalarida kuzatilgan quyoshning ufqdan balandligiga nisbatan qanhaga farq qiladi?",
+       "savol":"Toshkent bilan bitta parallelda joylashgan g'arbiy yarimshardagi shaharda quyoshning ufqdan balandligi 62gradus 39 gradus shimoliy kenglikda joylashgan shahardagi 22-iyun va 22-dekabr sanalarida kuzatilgan quyoshning ufqdan balandligiga nisbatan qanhaga farq qiladi?",
        "A":"21, 30 gradus",
        "B":"20, 20 gradus",
        "C":"12, 30 gradus",
        "D":"4, 00 gradus"
     },
     {
-       "savol":"termiz shaxri 37,2gradus shimoliy kenglikda joylashgan bo'lsa, shahardan janubiy qutbgacha bo'lgan masofani gradus va kilomtrda aniqlang",
+       "savol":"termiz shaxri 37,2gradus shimoliy kenglikda joylashgan bo'lsa, shahardan janubiy qutbgacha bo'lgan masofani gradus va kilometrda aniqlang",
        "B":"127,2gradus va 14131,92 km",
        "A":"172,2gradus va 14131,82 km",
        "C":"172,2gradus va 14531,92 km",
@@ -287,7 +287,7 @@
     },
     {
        "savol":"Biskay qo'ltig'i qaysi okeanda joylashgan?",
-       "C":"Tinc okeani",
+       "C":"Tinch okeani",
        "B":"Hind okeani",
        "A":"Atlantika okeani",
        "D":"Shimoliy Muz okeani"
@@ -335,7 +335,7 @@
        "D":"2978 m"
     },
     {
-       "savol":"Kengligi 90 km bo'lgan daryoning men undan 22,6 m balandda turgan o'ng qirg'og'idan turib chap qirg'og'ini ko;rishim uchun yana qancha balandlikga ko;tarilishim kerak",
+       "savol":"Kengligi 90 km bo'lgan daryoning men undan 22,6 m balandda turgan o'ng qirg'og'idan turib chap qirg'og'ini ko;rishim uchun yana qancha balandlikga ko'tarilishim kerak",
        "A":"521 m",
        "B":"412 m",
        "C":"578 m",
@@ -356,9 +356,9 @@
        "D":"Nival zona"
     },
     {
-       "savol":"Yer yuziningn qayerida qancha yog'in yog'ishi, havo harorati qanday bo'lishi, shamollar yo'nalishi qanday xaritalardam tasvirlanadi?",
+       "savol":"Yer yuzining qayerida qancha yog'in yog'ishi, havo harorati qanday bo'lishi, shamollar yo'nalishi qanday xaritalarda tasvirlanadi?",
        "B":"Foydali qazilmalar xaritalari",
-       "A":"Iqlim xaeritalari",
+       "A":"Iqlim xaritalari",
        "C":"Refyef xaritalari",
        "D":"Tabiat zonalari xaritalari"
     },
@@ -384,7 +384,7 @@
        "D":"Butan"
     },
     {
-       "savol":"Bir yo'nalishda rivojlanuvchi tabiiy hodisa jatrayonlarining muayyan vaqt davomida takrorlanib turishiga nima diyiladi?",
+       "savol":"Bir yo'nalishda rivojlanuvchi tabiiy hodisa jarayonlarining muayyan vaqt davomida takrorlanib turishiga nima diyiladi?",
        "A":"ritmiklik",
        "B":"hududiylik",
        "C":"azonallik",
@@ -419,7 +419,7 @@
        "D":"Tanzaniya"
     },
     {
-       "savol":"Jamiyatning tabiatga ta'siri ortib borishining qaysi bosqichi nisbatan eng qisqa davom etgan bo'liiib, geotizimlarning eng kuchli o'zgarganligi bilan ajralib turadi?",
+       "savol":"Jamiyatning tabiatga ta'siri ortib borishining qaysi bosqichi nisbatan eng qisqa davom etgan bo'lib, geotizimlarning eng kuchli o'zgarganligi bilan ajralib turadi?",
        "C":"ekalogik munosabatlar",
        "B":"sanoat inqilobi",
        "A":"fan-texnika inqilobi",
@@ -427,7 +427,7 @@
     },
     {
        "savol":"Kingmen rifi qaysi davlatga qarashli?",
-       "D":"Byuk britaniya",
+       "D":"Buyuk britaniya",
        "B":"Fransiya",
        "C":"AQSH",
        "A":"Avstraliya"
@@ -440,14 +440,14 @@
        "D":"38<sup>o</sup>43' sh. k., 170<sup>o</sup>52' g'. u."
     },
     {
-       "savol":"Yer yuzidagi havoning harorati +13<sup>o</sup>C bo'lsa, qancha haroratda haroratn -11<sup>o</sup>C gab teng bo'ladi?",
+       "savol":"Yer yuzidagi havoning harorati +13<sup>o</sup>C bo'lsa, qancha haroratda harorat -11<sup>o</sup>C gab teng bo'ladi?",
        "B":"1,6 km",
        "A":"4 km",
-       "C":"3250 m",
+       "C":"32m",
        "D":"2000 m"
     },
     {
-       "savol":"Italiyadagi Garda ko'lining tubig aqarab exalotordan tovush to'lqinini 0,231 sekundda yetib borganligi ma'lum bo'lsa, ko'lning chuqurluigini aniqlang.",
+       "savol":"Italiyadagi Garda ko'lining tubiga qarab exalotordan tovush to'lqinini 0,231 sekundda yetib borganligi ma'lum bo'lsa, ko'lning chuqurligini aniqlang.",
        "B":"346,5 m",
        "A":"435,6 m",
        "C":"463,5 m",
@@ -468,7 +468,7 @@
        "D":"11 mln kishi"
     },
     {
-       "savol":"Silur davrida qancha turdagi hayvon v ao'simliklar turlari mavjud bo'lgan?",
+       "savol":"Silur davrida qancha turdagi hayvon va o'simliklar turlari mavjud bo'lgan?",
        "B":"18000",
        "A":"15000",
        "C":"16000",
@@ -524,14 +524,14 @@
        "D":"E"
     },
     {
-       "savol":"\"Sharq\" tezyura4r poyezdi qaysi shaharlar yo'nalishida qatnaydi?",
+       "savol":"\"Sharq\" tezyurar poyezdi qaysi shaharlar yo'nalishida qatnaydi?",
        "A":"Toshkent-Qarshi",
        "B":"Toshkent-Buxoro",
        "C":"Toshkent-Andijon",
        "D":"Toshkent-samarqand"
     },
     {
-       "savol":"Geografiyafani rivojlanishining qaysi bosqichida yer yuzining ilmiy jihatdan o'rganildi, fanda yangi nazariy va gipotezalar yaratildi?",
+       "savol":"Geografiya fani rivojlanishining qaysi bosqichida yer yuzining ilmiy jihatdan o'rganildi, fanda yangi nazariy va gipotezalar yaratildi?",
        "A":"O'rta asrlar",
        "B":"Ilmiy geografik ishlar",
        "C":"Antik davr",
@@ -573,7 +573,7 @@
        "D":"25"
     },
     {
-       "savol":"Qaysi monitoring bosqichida atrof-muhitining ifloslanishi uning inson salomatligiga ta'siri tuqtayi nazaridan kuzatiladi?",
+       "savol":"Qaysi monitoring bosqichida atrof-muhitining ifloslanishi uning inson salomatligiga ta'siri nuqtayi nazaridan kuzatiladi?",
        "A":"bioekalogik",
        "B":"ekologik",
        "C":"biosfera",
@@ -636,7 +636,7 @@
        "D":"San-Lavrentiy"
     },
     {
-       "savol":"<img src='../img/geo40.jpg' alt='geo40'> Ushbu xaritada Shimoliy Amerikadagi qaysi daqyo tasvirlangan?",
+       "savol":"<img src='../img/geo40.jpg' alt='geo40'> Ushbu xaritada Shimoliy Amerikadagi qaysi daryo tasvirlangan?",
        "A":"Kolorado",
        "B":"Makkenzi",
        "C":"Kolumbiya",
@@ -727,14 +727,14 @@
        "D":"64,8<sup>o</sup> va 7919,82 km"
     },
     {
-       "savol":"Qoraqalpog'iston Respublikasi va viloyatlar bo'sunadigasn shaharlar turkumiga, qoida tariqasida kamida aholi soni qancha bo'lganda shaharlar kiritilishi mumkin?",
+       "savol":"Qoraqalpog'iston Respublikasi va viloyatlar bo'sunadigan shaharlar turkumiga, qoida tariqasida kamida aholi soni qancha bo'lganda shaharlar kiritilishi mumkin?",
        "A":"30 ming",
        "B":"35 ming",
        "C":"20 ming",
        "D":"25 ming"
     },
     {
-       "savol":"Qachon Moreal shahtrida bir nechta davlatlar freon gazlarini  ishlab chiqarishga va ulardan foydalanishga cheklovlar to'g'risidagi xalqaro bitmni imzolagan?",
+       "savol":"Qachon Moreal shahtrida bir nechta davlatlar freon gazlarini  ishlab chiqarishga va ulardan foydalanishga cheklovlar to'g'risidagi xalqaro bitimni imzolagan?",
        "A":"1985-yil",
        "B":"1987-yil",
        "C":"1992-yil",
@@ -846,7 +846,7 @@
        "D":"arxey"
     },
     {
-       "savol":"O'rta okean tizmlarining uzunligidan 150 marta qisqa masofani o'rtacha tezlik bilan harakatlanuvchi kishi qancha vaqtda bosib o'tadi?",
+       "savol":"O'rta okean tizimlarining uzunligidan 150 marta qisqa masofani o'rtacha tezlik bilan harakatlanuvchi kishi qancha vaqtda bosib o'tadi?",
        "A":"3 sutka 18 soat",
        "B":"3 sutka 10 soat",
        "C":"80 soat",
@@ -860,14 +860,14 @@
        "D":"Oqbuloq"
     },
     {
-       "savol":"2018-yil ma'lumotiga ko'ra, mamlakatimizda YAHMning eng kam ulishi qaysi viloyatga to'ti keladi?",
+       "savol":"2018-yil ma'lumotiga ko'ra, mamlakatimizda YAHMning eng kam ulishi qaysi viloyatga to'g'ri keladi?",
        "A":"Sirdaryo",
        "B":"Jizzax",
        "C":"Namangan",
        "D":"Xorazm"
     },
     {
-       "savol":"Turkiy tillar gurihining o'g'uz guruhchasiga kiruvchi tillarni toping. 1) ozarbayjon; 2) gagaus; 3) qozoq; 4) uyg'ur; 5) afshar; 6) turk; 7) kashkay; 8) no'g'ay.",
+       "savol":"Turkiy tillar guruhining o'g'uz guruhchasiga kiruvchi tillarni toping. 1) ozarbayjon; 2) gagaus; 3) qozoq; 4) uyg'ur; 5) afshar; 6) turk; 7) kashkay; 8) no'g'ay.",
        "A":"1, 3, 5, 7, 8",
        "B":"2, 3, 5, 6, 8",
        "C":"1, 2, 5, 6, 7",
@@ -877,7 +877,7 @@
        "savol":"2018-yil ma'lumotlariga ko'ra, quyidagi qaysi darlatda 1 km<sup>2</sup> hududga 4 kishi to'g''ri keladi?",
        "A":"Kanada",
        "B":"Rossiya",
-       "C":"Qiozog'iston",
+       "C":"Qozog'iston",
        "D":"Avstraliya"
     },
     {
@@ -895,14 +895,14 @@
        "D":"B"
     },
     {
-       "savol":"Okean va dengizlarda suvdan ko'tarilib turgan va hamma tomondan suv o'ragan kichikroq quriqliklar nima diyiladi?",
+       "savol":"Okean va dengizlarda suvdan ko'tarilib turgan va hamma tomondan suv o'ragan kichikroq quriqliklar nima deyiladi?",
        "A":"Riflar",
        "B":"Atollar",
        "C":"Orollar",
        "D":"Arxipelog"
     },
     {
-       "savol":"Tabiat zonalligi ta'limoti qaysi olim tomonidan ishlab chiqilgan?",
+       "savol":"Tabiat zonaliligi ta'limoti qaysi olim tomonidan ishlab chiqilgan?",
        "A":"O. Kotsebu",
        "B":"A. Gumboldt",
        "C":"V. Dokuchayev",
@@ -972,7 +972,7 @@
     },
     {
        "savol":"Sektorlik nima?",
-       "A":"Quriqlik ichkarisiga tomon okeanlardan uzoqlashgan sari iqlim xususiyatlarining o'zgarishi hisobiga tabiat komponentlari va geotezmlarning borishi",
+       "A":"Quruqlik ichkarisiga tomon okeanlardan uzoqlashgan sari iqlim xususiyatlarining o'zgarishi hisobiga tabiat komponentlari va geotezmlarning borishi",
        "B":"Tog'larning etagidan suvayirg'ich tomon tabiatning o'zgarib borishi",
        "C":"Quyosh nurlari tushish burchagining o'zgarishi hisobiga tabiat komponentlari va geotizimlarining ekvatordan qutiblatga tomon qonuniy o'zgarib borishi",
        "D":"Tog' va tepalik yonbag'rlarining ufq tomonlariga, quyosh nurlari tushadigan nisbatan joylashuvi"
@@ -1036,12 +1036,12 @@
     {
        "savol":"O'zbekiston jahonda ipak ishlab chiqarishqa nechanchi o'rinda turadi?",
        "A":"oltinchi",
-       "B":"to'tinchi",
+       "B":"to'rtinchi",
        "C":"beshinchi",
        "D":"uchinchi"
     },
     {
-       "savol":"2016-yil ma'lumotiga ko'ra, Ozbekiston jahonda mobilden zaxirasi bo'yicha nechanchi o'rinda turadi?",
+       "savol":"2016-yil ma'lumotiga ko'ra, O'zbekiston jahonda mobilden zaxirasi bo'yicha nechanchi o'rinda turadi?",
        "A":"oltinchi",
        "B":"To'rtinchi",
        "C":"To'qqizinchi",
@@ -1104,10 +1104,10 @@
        "D":"\"O'zbekqishloqmash\""
     },
     {
-       "savol":"Qaysi davlatda 2018-yil ma'lumotiga ko'ra, qishloq xo'jaligining YIMdagi salmog'i 77% ni tashkilm qiladi?",
+       "savol":"Qaysi davlatda 2018-yil ma'lumotiga ko'ra, qishloq xo'jaligining YIMdagi salmog'i 77% ni tashkil qiladi?",
        "A":"Liberiya",
        "B":"Gvineya-Bisau",
-       "C":"Kongo Demokratik Respublika ",
+       "C":"Kongo Demokratik Respublika ",''''
        "D":"Somali"
     },
     {
@@ -1244,21 +1244,21 @@
        "D":"B"
     },
     {
-       "savol":"55 km masofani o'rtacha texlik bilan harakatlanuvchi odam qancha vaqtda bosib o'radi?",
+       "savol":"55 km masofani o'rtacha texlik bilan harakatlanuvchi odam qancha vaqtda bosib o'tadi?",
        "A":"12 soat",
        "B":"14 soat",
        "C":"11 soat",
        "D":"9,5 soat"
     },
     {
-       "savol":"O'rtacha okean tizmlarining uzunligidan 150 marta qisqa masofa necha gradus meridian yoyining uzunligiga teng?",
+       "savol":"O'rtacha okean tizimlarining uzunligidan 150 marta qisqa masofa necha gradus meridian yoyining uzunligiga teng?",
        "A":"4,2<sup>o</sup>",
        "B":"3,6<sup>o</sup>",
        "C":"3,1<sup>o</sup>",
        "D":"2,8<sup>o</sup>"
     },
     {
-       "savol":"<img src='../img/geo62.jpg' alt='geo62'> Ushbu xaqitada qaysi harf bilan savannalar va siyrak o`rmonlar zonasi ko'rsatilgan?",
+       "savol":"<img src='../img/geo62.jpg' alt='geo62'> Ushbu xaritada qaysi harf bilan savannalar va siyrak o`rmonlar zonasi ko'rsatilgan?",
        "A":"B",
        "B":"C",
        "C":"D",
@@ -1272,7 +1272,7 @@
        "D":"Orollar oralig'idagi dengiz"
     },
     {
-       "savol":"<img src='../img/geo64.jpg' alt='geo64'> Ushbu xaqitada qaysi harf bilan Gvineya qo'ltig'i ko'rsatilggan?",
+       "savol":"<img src='../img/geo64.jpg' alt='geo64'> Ushbu xaritada qaysi harf bilan Gvineya qo'ltig'i ko'rsatilgan?",
        "A":"B",
        "B":"D",
        "C":"A",
@@ -1314,14 +1314,14 @@
        "D":"9 ta"
     },
     {
-       "savol":"Yarimorolda joylashgan davlatlar qatorinin belgilang. 1)Yaponiya; 2)Norvegiya; 3)Ispaniya; 4) Shri-Lanka; 5)Vyetnam; 6)Koreya Respublikasi; 7)Islandiya; 8)kuba; 9)Italiya.",
+       "savol":"Yarimorolda joylashgan davlatlar qatorini belgilang. 1)Yaponiya; 2)Norvegiya; 3)Ispaniya; 4) Shri-Lanka; 5)Vyetnam; 6)Koreya Respublikasi; 7)Islandiya; 8)kuba; 9)Italiya.",
        "A":"2, 3, 5, 6, 9",
        "B":"1, 3, 5, 7, 8",
        "C":"1, 4, 5, 6, 8",
        "D":"2, 4, 6, 7, 9"
     },
     {
-       "savol":"Qaysi irq vakillari jigarrang tusli teri, tekkis, qattiq to'q tusli soch, ko`zning to'q tusli ko`rinishlari, qirra yoki yaposqi burun, ko'z usti qovug'ining ajralib turishi, ensa sohasining kengayganligi bilan ajralib turadi?",
+       "savol":"Qaysi irq vakillari jigarrang tusli teri, tekis, qattiq to'q tusli soch, ko`zning to'q tusli ko`rinishlari, qirra yoki yaposqi burun, ko'z usti qovug'ining ajralib turishi, ensa sohasining kengayganligi bilan ajralib turadi?",
        "A":"yevropeoid",
        "B":"avstraloid",
        "C":"mongoloid",
@@ -1398,14 +1398,14 @@
        "D":"Passat"
     },
     {
-       "savol":"Qaysi subregion yer shari quruqlik maydoninig 3,1 foizini, dunyo aholisining 25,4 foizii o`zida joylaydi?",
+       "savol":"Qaysi subregion yer shari quruqlik maydoninig 3,1 foizini, dunyo aholisining 25,4 foizi o`zida joylaydi?",
        "A":"Janubiy Osiyo",
        "B":"Markaziy Amerika",
        "C":"Sharqiy Osiyo",
        "D":"G'arbiy Afrika"
     },
     {
-       "savol":"Jamiyatning tabiatga ta'siri ortib borishining qaysi bosqichi nismatan eng qisqa davom etgan bo'lib, geotizmlarning eng kuchli o'zgarganligi bilan ajralib turadi?",
+       "savol":"Jamiyatning tabiatga ta'siri ortib borishining qaysi bosqichi nisbatan eng qisqa davom etgan bo'lib, geotizmlarning eng kuchli o'zgarganligi bilan ajralib turadi?",
        "A":"fan-texnika inqilobi",
        "B":"qishloq xo'jalik inqilobi",
        "C":"ekalogik munosabatlar",
@@ -1413,10 +1413,10 @@
     },
     {
        "savol":"Yer po'stining qaysi turi o'rta okean tizmlariga to'g'ri keladi?",
-       "A":"rifogen yer posti",
-       "B":"okean yer posti",
-       "C":"oraliq yer posti",
-       "D":"materik yer posti"
+       "A":"rifogen yer po'sti",
+       "B":"okean yer po'sti",
+       "C":"oraliq yer po'sti",
+       "D":"materik yer po'sti"
     },
     {
        "savol":"Janubiy Yevropa subregionida nechta davlat mavjud?",
@@ -1554,7 +1554,7 @@
     {
        "savol":"To'g'ri fikrni aniqlang.",
        "A":"G'ozaning mevasi chuchmomo mevasi kabi chatnamaydigan quruq meva.",
-       "B":"Qarag'ayda archa kagi urug'kurtakdagi arxegoniyda tuxum hujayra  yetiladi",
+       "B":"Qarag'ayda archa kabi urug'kurtakdagi arxegoniyda tuxum hujayra  yetiladi",
        "C":"Karam, soxta kashtan va qurttananing mevasi qo'zoq meva hisoblanadi",
        "D":"Sabzi piyoz kabi murakkab soyabon to'pguliga ega"
     },
@@ -1566,14 +1566,14 @@
        "D":"Qizil dasht, Yaroslav, Santa Gertruda"
     },
     {
-       "savol":"Qlqontumshuqqa xos xususiyatlarni aniqlang? 1) yuragi uch kamerali 2) tashqi urug'lanish jarayoni kuzatiladi 3)o'pkasi orqali nafas oladi 4) zaharsiz 5)qovurg'alari bo'lmaydi 6)tili tuyg'u va tam bilish organi hisoblanadi 7)tangachaqanotlilar tuxkumiga mansub 8) zaharli 9)haqiqiy qovog'i bo'lmaydi 10) oyoqlarida beshtadan panjasi bo'ladi 11)ichki urug'lanish jarayoni kuzatiladi 12)og'iz bo'shlig'ida yuqori jag'dan orqaroqda zahar bezlari va yuqori jag'ida ikki juft yirik zahar tishlari joylashgan 13)uchinchi qovog'i  rivojlangan 14) oyog'i bo'lmaydi",
+       "savol":"Qalqontumshuqqa xos xususiyatlarni aniqlang? 1) yuragi uch kamerali 2) tashqi urug'lanish jarayoni kuzatiladi 3)o'pkasi orqali nafas oladi 4) zaharsiz 5)qovurg'alari bo'lmaydi 6)tili tuyg'u va tam bilish organi hisoblanadi 7)tangachaqanotlilar tuxkumiga mansub 8) zaharli 9)haqiqiy qovog'i bo'lmaydi 10) oyoqlarida beshtadan panjasi bo'ladi 11)ichki urug'lanish jarayoni kuzatiladi 12)og'iz bo'shlig'ida yuqori jag'dan orqaroqda zahar bezlari va yuqori jag'ida ikki juft yirik zahar tishlari joylashgan 13)uchinchi qovog'i  rivojlangan 14) oyog'i bo'lmaydi",
        "A":"1.2.8.13",
        "B":"3.4.9.12",
        "C":"6.8.11.14",
        "D":"3.6.10.12"
     },
     {
-       "savol":"Bug;doy o'simligining teprapoliod navida xromosalar sonini ko'rsating",
+       "savol":"Bug'doy o'simligining teprapoliod navida xromosalar sonini ko'rsating",
        "A":"14",
        "B":"42",
        "C":"28",
@@ -1587,7 +1587,7 @@
        "D":"Kladofora tallomi spirogira kabi shoxlangan"
     },
     {
-       "savol":"Samarqandda soat kunduzgi 9:30 bo;lsa, 125<sup>o</sup> sharqiy uzunlikda joylashgan shaharda soat necha bo'ladi? ",
+       "savol":"Samarqandda soat kunduzgi 9:30 bo'lsa, 125<sup>o</sup> sharqiy uzunlikda joylashgan shaharda soat necha bo'ladi? ",
        "A":"13:30",
        "B":"8:30",
        "C":"6:30",
@@ -1601,7 +1601,7 @@
        "D":"Florida"
     },
     {
-       "savol":"2013-yilda O'zbekiston milliy tarkibida 1989-yildagiga nisbatan qaysi millar vakillar kamaydi?",
+       "savol":"2013-yilda O'zbekiston milliy tarkibida 1989-yildagiga nisbatan qaysi millatlar vakillari kamaydi?",
        "A":"turkman, tojik",
        "B":"rus, qozoq",
        "C":"qoraqalpoq, rus",
@@ -1615,7 +1615,7 @@
        "D":"Shvetsiya"
     },
     {
-       "savol":"Jamiyuatning tabiatga ortib borishi va tabiatga munosabatini o'zgarib borishini nechta bosqichga bo'lish mumkin?",
+       "savol":"Jamiyatning tabiatga ortib borishi va tabiatga munosabatini o'zgarib borishini nechta bosqichga bo'lish mumkin?",
        "A":"5",
        "B":"3",
        "C":"4",
@@ -1636,14 +1636,14 @@
        "D":"Qashqadaryo"
     },
     {
-       "savol":"Pekin shahri 39<sup>o</sup>55' shimoliy kenglikda joylashgan. Bu shaharda 22-dekabrda Quyoshning ufqdan balandligi neca gradusni tashkin etadi?",
+       "savol":"Pekin shahri 39<sup>o</sup>55' shimoliy kenglikda joylashgan. Bu shaharda 22-dekabrda Quyoshning ufqdan balandligi necha gradusni tashkin etadi?",
        "A":"26<sup>o</sup>38'",
        "B":"41<sup>o</sup>36'",
        "C":"62<sup>o</sup>83'",
        "D":"57<sup>o</sup>25'"
     },
     {
-       "savol":"O'zi turgan joyni ufq tomonlariga nisbatan an aniqlash nima deb ataladi?",
+       "savol":"O'zi turgan joyni ufq tomonlariga nisbatan aniqlash nima deb ataladi?",
        "A":"Monitoring",
        "B":"Ekspertiza",
        "C":"Oriyentirlash",
@@ -1678,7 +1678,7 @@
        "D":"Janubiy subtropik"
     },
     {
-       "savol":"<img src='../img/geo74.jpg' alt='geo74'> Yil davomida faqat bitta fasl-yoz kuzatiladigan iqlim mintaqasi ushbu xaritad qaysi harf bilan ko'rsatilgan?",
+       "savol":"<img src='../img/geo74.jpg' alt='geo74'> Yil davomida faqat bitta fasl-yoz kuzatiladigan iqlim mintaqasi ushbu xaritada qaysi harf bilan ko'rsatilgan?",
        "A":"F",
        "B":"D",
        "C":"J",
@@ -1706,14 +1706,14 @@
        "D":"Turkiya"
     },
     {
-       "savol":"YUNESKO tomonidan tuzilgan Butunjahon madaniy meros obektlari ro'yxatiga qaysi davlatdagi tabiiy va tarix-madaniy yodgorliklari eng ko'p kiritilgan?",
+       "savol":"YUNESKO tomonidan tuzilgan Butunjahon ma'daniy meros obektlari ro'yxatiga qaysi davlatdagi tabiiy va tarix-madaniy yodgorliklari eng ko'p kiritilgan?",
        "A":"Italiya",
        "B":"Ispaniya",
        "C":"gretsiya",
        "D":"Fransiya"
     },
     {
-       "savol":"Germaniyaning qaysi qismida aholi nismatan siyrak joylashgan?",
+       "savol":"Germaniyaning qaysi qismida aholi nisbatan siyrak joylashgan?",
        "A":"janubi-g'arb",
        "B":"shimoli-g'arb",
        "C":"shimoli-sharq",
