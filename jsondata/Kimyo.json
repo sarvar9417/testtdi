@@ -1,10 +1,11 @@
 [
+   {},
     {
        "savol":"<img src='../img/kim1.jpg' alt='kim1'> reaksiya tenglamasi bo'yicha azotning 50% i sarflandi. olingan gazlar aralashmasida NO ning hajmiy ulushi 20% bo'lsa, kislorodning qancha qismi sarflangan ",
-       "A":"1/6",
+       "D":"1/6",
        "B":"1/2",
        "C":"1/4",
-       "D":"1/8"
+       "A":"1/8"
     },
     {
        "savol":"Fanga galogen tushunchasini kim olib kirgan?",
@@ -15,26 +16,26 @@
     },
     {
        "savol":"1824-yil o'simlik a'zosida uchraydigan aksolot kislotani distldan sintez qilgan olimni aniqlang?",
-       "A":"V.Kolbe",
-       "B":"F.Vyoller",
+       "B":"V.Kolbe",
+       "A":"F.Vyoller",
        "C":"N.Zinin",
        "D":"I.Berselius"
     },
     {
        "savol":"Alkanlarning kreking jarayonini quyidagi tenglama yordamida ifodalanadi:'<img src='../img/kim2.jpg' alt='kim2'> n=6 bo'lsa, m va p lar qanday qiymatga ega bo'lishi mumkin? ",
-       "A":"m=1,2,4,5;p=5,4,2,1",
+       "D":"m=1,2,4,5;p=5,4,2,1",
        "B":"m=2,4,5,6;p=4,2,1,6",
        "C":"m=1,3,4,5;p=5,3,2,1",
-       "D":"m=1,2,3,4;p=5,4,3,2"
+       "A":"m=1,2,3,4;p=5,4,3,2"
     },
     {
        "savol":"Agar alken tarkibidagi uglerod-uglerod bog'lar soni uglerod-vodorod bog'lar sonidan 9ta kam bo'lsa, alkanni toping",
-       "A":"oktan",
+       "C":"oktan",
        "B":"butan",
-       "C":"geptan",
+       "A":"geptan",
        "D":"geksan"
     },
-    {
+    {+
        "savol":"Alkanlarning kreking jarayonini quyidagi tenglama yordamida aniqlash mumkin:<img src='../img/kim3.jpg' al'kim3'> agarn=4 bo'lsa, kreking natijasida qanday uglevodorodlar hosil bo'lishi mumkin?",
        "A":"metan, propan, etan, etilen",
        "B":"etan, pripen, butin, metan",
@@ -43,19 +44,19 @@
     },
     {
        "savol":"22.4 litr pentadiyen -1.3 bilan qanday massadagi brom bilan reaksiyaga kirishadi?",
-       "A":"321",
+       "D":"321",
        "B":"302",
        "C":"322",
-       "D":"320"
+       "A":"320"
     },
-    {
+    {+
        "savol":"78 gram benzol olish uchun metan-asitelin-benzol yo'nalishida necha litr (n.sh) metan talab etiladi?",
        "A":"176,2",
        "B":"134,4",
        "C":"112",
        "D":"89.6"
     },
-    {
+    {+
        "savol":"1.2 mol anilinni to'la bromlash uchun qanday massada brom saqlagan bromli suv zarur?",
        "A":"720",
        "B":"576",
@@ -78,19 +79,19 @@
     },
     {
        "savol":"Qaysi birikmalar suvda eritilganda neytral muhit hosil bo'ladi? 1)kaliy peroksid 2)rux nitrit 3) kumush xlorit 4) litiy sulfit 5) natriy gidrokrbonat 6) natriy yodid",
-       "A":"1,5,6",
-       "B":"2,3,6",
+       "B":"1,5,6",
+       "A":"2,3,6",
        "C":"2,4,6",
        "D":"1,3,5"
     },
-    {
+    {+
        "savol":"Birinchi elektroyizda 2mol, ikkinci elktroliyazorda 5mol kumush nitrat bo'lgan eritmalar orqali 4 faradey tok o'tganda katodlarda hosil bo'lgan moddalar massalarini (g) mos ravishda aniqlang. ",
        "A":"216;540",
        "B":"316;516",
        "C":"218;432",
        "D":"108;216"
     },
-    {
+    {+
        "savol":"0.2 moldan olingan gausmanitdan Mn olish sarfilanadigan Al CO massalari orasidagi farqni grammlarda aniqlang.",
        "A":"8",
        "B":"2",
@@ -99,9 +100,9 @@
     },
     {
        "savol":"<img src='../img/kim5.jpg' alt='kim5'> berilgan yoki olingan elektronlar sonini aniqlang.",
-       "A":"-3,+4,-1,+6",
+       "C":"-3,+4,-1,+6",
        "B":"-6,+4,-4,+5",
-       "C":"-6,+5,+2,-3",
+       "A":"-6,+5,+2,-3",
        "D":"-4,-3,+2,-3"
     },
     {
@@ -113,19 +114,19 @@
     },
     {
        "savol":"Dissotsialanish darajasi kamayib borgan elektrolitlar qatorini toping. 1)karbonot kislota 2)etanol 3)2,4-dinitrofenol 4) pikrin kislota 5) panaritnoferol.",
-       "A":"4,1,3,5,2",
+       "C":"4,1,3,5,2",
        "B":"4,3,1,5,2",
-       "C":"4,3,5,1,2",
+       "A":"4,3,5,1,2",
        "D":"4,5,1,3,2"
     },
-    {
+    {+
        "savol":"393 gramm suvda 107 gramm <img src='../img/kim6.jpg' alt='kim6'> aralashmasi eritildi. Misni batamom ajratib olish uchun eritmadan 5A kuchga ega bo'lgan tok 9650 sekund davomida o'tkazilgan bo'lsa, aralashmadagi mis(II) sulfatning massaini (g) topimg",
        "A":"30",
        "B":"40",
        "C":"67",
        "D":"77"
     },
-    {
+    {+
        "savol":"Pt va Al ning 36gram qotishmasi suyultirilgan nitrat kislota eritildi.Hosil bo'lgan eritma mo'l miqdorda ishqol bilan qizdirilganda 0,3 mol mis (II) oksidni to'liq qaytarsih uchun yetarli bo'lgan gaz ajraldi. Qotishmadagi aluminiyning (g) aniqlang (qotishmadagi alyuminiy nitrat kislota bilan to'liq reaksiyaga kirishgan va <img src='../img/kim7.jpg' alt='kim7'>)",
        "A":"7,2",
        "B":"28,8",
@@ -134,16 +135,16 @@
     },
     {
        "savol":"46,5 g mol nisbati 1:2.5 bo'lgan <img src='../img/kim8.jpg' alt='kim8'> qizdirilganda aralashma massasi 29.6 g ga kamaygan metallni aniqlang?.",
-       "A":"Sr",
+       "C":"Sr",
        "B":"Be",
-       "C":"Mg",
+       "A":"Mg",
        "D":"Ca"
     },
     {
        "savol":"16,6 gr alyuminiy va kadmiy aralashmasiga konsentrlangan nitrat kislota ta'sir ettirilganda 9,2 gramm gaz ajralib chiqdi. aralashmadagi alyuminiy massasini (g) toping?",
-       "A":"2,7",
+       "C":"2,7",
        "B":"11,2",
-       "C":"5,4",
+       "A":"5,4",
        "D":"13,9"
     },
     {
@@ -155,110 +156,110 @@
     },
     {
        "savol":"<img src='../img/kim10.jpg' alt='kim10'> 0,4 mol metalldan 71,6 gramm kompleks birikma olingan bo'lsa, matallni aniqlang ?",
-       "A":"Be",
+       "C":"Be",
        "B":"Cd",
-       "C":"Zn",
+       "A":"Zn",
        "D":"Pb"
     },
     {
        "savol":"Yuqori haroratda 10,4 gramm xromaga xlor ta'sir ettirilganda, qancha massadagi (g) tuz hosil bo'ladi?",
-       "A":"42,8",
-       "B":"31,7",
+       "B":"42,8",
+       "A":"31,7",
        "C":"12,3",
        "D":"24,6"
     },
     {
        "savol":"Metallmaslardan nisbiy elektromanfiylik qiymatini eng katta bo'lganini belgilang.",
-       "A":"xlor",
+       "D":"xlor",
        "B":"oltingugurt",
        "C":"kislorod",
-       "D":"ftor"
+       "A":"ftor"
     },
     {
        "savol":"0,5 mol kaliy ortofosfat va 98g ortofosfat kislotaning o'zaro tasirlashuvidan hosil bo'lgan yagona tuzning massasini (g( hisoblang.(n=100%)",
-       "A":"194",
-       "B":"204",
+       "B":"194",
+       "A":"204",
        "C":"272",
        "D":"68"
     },
     {
        "savol":"Quyidagi keltirilgan fikrni davom ettiring Anorganik birikmalarning suyuqlanish va parchalanish harorati organik birikmalarga nisbatan...",
-       "A":"farq qilmaydi",
+       "D":"farq qilmaydi",
        "B":"ayrimlari past,ayrimlari yuqori",
        "C":"past",
-       "D":"yuqori"
+       "A":"yuqori"
     },
-    {
+    {+
        "savol":"agar alkan tarkibidagi 3ta sp<sup>3</sup> gibridlangan markaz mavjud bo'lsa undagi bog'larning necha foizini C-C bog'lari tashkil etadi.",
        "A":"80",
        "B":"60",
        "C":"40",
        "D":"20"
     },
-    {
+    {+
        "savol":"Siklopentan xlorlanganda uglerod atomining massasi ulushi qanday o'zgaradi?",
        "A":"28,3% ga kamayadi",
        "B":"1,84 martav ortadi",
        "C":"39,2% ga kamayadi ",
        "D":"0,74marta ortadi"
     },
-    {
+    {+
        "savol":"Buten-1 va siklobutandan 8 litr (n,sh) aralashma va ko'p miqdorda olingan kislorod portlanadigan so'ng hosil bo'lgan suv bug'i kondetsiyalanadi. Qolgan gazlar aralashmasi 44 litr (n.sh) ni tashkil etsa reaksiya uchun olimgan kislorodning hajmini (I,n,sh) toping ",
        "A":"48",
        "B":"32",
        "C":"12",
        "D":"60"
     },
-    {
+    {+
        "savol":"Lebedov reaksiyasi bo'yicha 1.2 mol butadeyn -1,3 olish uchun qancha massada spirt kerak?",
        "A":"55,2",
        "B":"110,4",
        "C":"92",
        "D":"46"
     },
-    {
+    {+
        "savol":"280 gram brom va 117 gram benzol hamda katalizatordan iborat aralashmada necha mol brombenzol olish mumkin?(n=100%)",
        "A":"2,4",
        "B":"2",
        "C":"1,2",
        "D":"1,5"
     },
-    {
+    {+
        "savol":"Teng miqdordagi fenol va metanol aralashmasiga seziy metali tasir ettirilganda 4,48(m.sh) gaz ajralib chiqsa xuddi  shu miqdordagi aralashma necha gramm 40% li natriy gidrooksid eritmasi bilan reaksiyaga erishadi?",
        "A":"30",
        "B":"40",
        "C":"20",
        "D":"10"
     },
-    {
+    {+
        "savol":"20.4 gramm propilasetat gidrolizidan hosil bo'lgan spirtning massasini toping?",
        "A":"6",
        "B":"24",
        "C":"12",
        "D":"18"
     },
-    {
+    {+
        "savol":"keytonlarning umumiy neytronlar sonini topish formulasini ko'rsating?",
        "A":"14n-8",
        "B":"8n+8",
        "C":"3n+8",
        "D":"6n+8"
     },
-    {
+    {+
        "savol":"35.2 gramm to'yingan bir asosli karbon kislota tarkibida m(C+H)=1,75 bo'lsa ushbu kislotani namunasi necha gramm o'yuvchi natriy bilan reaksiyaga kirishadi?",
        "A":"9,2",
        "B":"4,6",
        "C":"16",
        "D":"18,4"
     },
-    {
+    {+
        "savol":"Etanol, metil spirti, propil spirt, etan kislota va propan kislotalaridan foydalanib, ko'pi bilan necha xil murakkab efir olish mumkin?",
        "A":"5",
        "B":"6",
        "C":"8",
        "D":"4"
     },
-    {
+    {+
        "savol":"Glukozani A.MButterlov usuli bo'yicha olinishida tarkibida 90ta <sup>2</sup> orbittalar saqlangan reagent sarflandi.Hosil bo'lgan monosaxarit (g) massasini aniqlang?",
        "A":"360",
        "B":"450",
@@ -272,7 +273,7 @@
        "C":"66,7",
        "D":"75"
     },
-    {
+    {+
        "savol":"Propilin va propin aralashmasida uglerod massasi vodorod massasidan 7,2 marta ortiq. Shu aralashma mo'l miqdordag bromli suvdan o'tkazilganada hajmi necha marta kamayadi?(alken bromli suv bilan tasirlashmadi deb hisoblansin) <img src='../img/kim11.jpg' alt='kim11'>",
        "A":"1,5",
        "B":"2",
@@ -286,7 +287,7 @@
        "C":"49",
        "D":"98"
     },
-    {
+    {+
        "savol":"ushbu yadroda reaksiyada 22,8 g radiy atomi parchalanganda nechta alfa zarracha ajralib chiqadi?",
        "A":"0.3N*N<sub>A</sub>",
        "B":"0.1*N<sub>A</sub>",
@@ -300,7 +301,7 @@
        "C":"CaCl<sub>2</sub>",
        "D":"SiCl<sub>4</sub>"
     },
-    {
+    {+
        "savol":"Atomlarning metalik qiymati ortib borishi tartibini ko'rsating?",
        "A":"Au,Ag,Ba,Ca",
        "B":"Cu,Zn,Mg,Na",
@@ -309,8 +310,8 @@
     },
     {
        "savol":"Natriy digidropirofosfat hosil qilish uchun natriy gidroksid va pirofosfat kislota qanday mol nisbatda reaksiyaga kirishishi lozim?",
-       "A":"1:1",
-       "B":"2:1",
+       "B":"1:1",
+       "A":"2:1",
        "C":"1,5:1",
        "D":"1:2"
     },
@@ -323,19 +324,19 @@
     },
     {
        "savol":"Quyidagi moddalarning qaysi biri atom kristall panjarali moddalar hisoblanadi?",
-       "A":"vodorod,kislorod",
+       "D":"vodorod,kislorod",
        "B":"yod,oltingugurt",
        "C":"ozon,muz",
-       "D":"bor,qizil fosfor"
+       "A":"bor,qizil fosfor"
     },
     {
        "savol":"Qaysi tuzning termik parchalanishidan kislotali oksid hosil bo'lmaydi?",
-       "A":"Kadmiy nitrat",
+       "C":"Kadmiy nitrat",
        "B":"Malaxit",
-       "C":"Ammoniy nitrat",
+       "A":"Ammoniy nitrat",
        "D":"Ammoniy karbonat"
     },
-    {
+    {+
        "savol":"Totual kislotali sharoitida kaliy permanganat bilan oksidlanganda, uglerod (IV) oksid ajralgan bo'lsa, toluolning ekvivlent malyar massasini toping.",
        "A":"69/36",
        "B":"46/36",
@@ -351,12 +352,12 @@
     },
     {
        "savol":"Qaysi birikmalar suvda eritilganda ishqoriy muhit hosil bo'ladi? 1)kaliy peroksid 2) natriy nitrat 3)kalsiy xlorid 4)litiy sulfat 5)natriy gidrokarbanat 6)natriy gidrid",
-       "A":"1,3,5",
+       "D":"1,3,5",
        "B":"2,3,4",
        "C":"2,4,6",
-       "D":"1,5,6"
+       "A":"1,5,6"
     },
-    {
+    {+
        "savol":"200 g 11% li litiy sulfat eritmasi elektoliz qilinganda, eritma konsentriyatsiyasi 20% gacha ko'tarilgan bo'lsa, eritmadan necha Farad (F) tok o'tgan?",
        "A":"4",
        "B":"8",
@@ -365,26 +366,26 @@
     },
     {
        "savol":"16% KOH tutgan 700g ishqor eritmasi tayyorlash uchun qancha miqdor kaliy metalli kerak bo'ladi?",
-       "A":"58,5",
+       "C":"58,5",
        "B":"19,5",
-       "C":"78",
+       "A":"78",
        "D":"39"
     },
     {
        "savol":"31,2 g nomalum metall gidroksidli qizdirilganda 20,4 g metall oksidi hosil bo'lgan bo'lsa, metallni aniqlang?",
-       "A":"Na",
+       "D":"Na",
        "B":"Ca",
        "C":"Li",
-       "D":"Al"
+       "A":"Al"
     },
     {
        "savol":"73,6 g mis (II) nitrat eritmsida 7,8*N<sub>A</sub> atomlar mavjud bo'lsa, eritmadagi tuzning massai (g) aniqlang?",
-       "A":"22,4",
+       "D":"22,4",
        "B":"42,8",
        "C":"34,7",
-       "D":"37,6"
+       "A":"37,6"
     },
-    {
+    {+
        "savol":"189 g <img src='../img/kim14.jpg' alt='kim14'> qizdirilgandan keyin qoldiq 145,8 g ga teng bo'ldi.Parchalanmay qolgan tuz miqdorini (mol)ini aniqlang.?",
        "A":"0,4",
        "B":"0,3",
@@ -393,10 +394,10 @@
     },
     {
        "savol":"Layps parchalanishi natijasida 4 mol NO<sub>2</sub> hosil bo'lgan bo'lsa dastlabki kumush nitrat massasini toping?",
-       "A":"510",
+       "D":"510",
        "B":"1020",
        "C":"340",
-       "D":"680"
+       "A":"680"
     },
     {
        "savol":"2 mol kislorod va 3,5 mol silan aralashmasining o'rtacha molyar massasini aniqlang? ",
@@ -412,7 +413,7 @@
        "C":"yod",
        "D":"brom"
     },
-    {
+    {+
        "savol":" <img src='../img/kim16.jpg' alt='kim16'> ushbu yadro reaksiyada 23,5 g uran parchalanganda 0,4*n<sub>A</sub> elektron hosil bo'lsa, hosil bo'lgan alfa zarracha massasini anqilang?",
        "A":"20",
        "B":"16",
@@ -433,14 +434,14 @@
        "C":"92/18",
        "D":"23/9"
     },
-    {
+    {+
        "savol":"25<sup>0</sup> da to'yingan 2 molyalli natriy gidroksid suvli eritmasining eriuvchanligini toping?(eruvchanlik nisbiy olingan)",
        "A":"8",
        "B":"12",
        "C":"16",
        "D":"4"
     },
-    {
+    {+
        "savol":"Uglerod (IV) oksidining hosil bo'ishini 1000 marta tezlashtirish uchun uglerod (II) oksid bilan kislorod orasidagi reaksiya bosimini necha marta oshirish kerak.",
        "A":"5",
        "B":"15",
@@ -449,19 +450,19 @@
     },
     {
        "savol":"Qaysi moddalar kuchli elektrolit hisoblanadi? 1)kalsiy xlorid 2) kalsiy gidroksid 3) ammoniy gidroksid 4)sirka kislota 5)natriy karbonat 6) sulfit kislota",
-       "A":"3,4,6",
+       "C":"3,4,6",
        "B":"1,5",
-       "C":"1,2,5",
+       "A":"1,2,5",
        "D":"4,6"
     },
-    {
+    {+
        "savol":"0,1 mol temir (III) xlorid tutgan eritmaga vodorod sulfit gazi yuttirilganda necha gramm cho'kma hosil bo'ladi?",
        "A":"1,6",
        "B":"6,4",
        "C":"0,8",
        "D":"3,2"
     },
-    {
+    {+
        "savol":"Yuqori haroratda xromga 2,8gram azot ta'sir ettirilganda qancha massadagi (g) mahsulot hosil bo'ladi?",
        "A":"8",
        "B":"24",
@@ -470,12 +471,12 @@
     },
     {
        "savol":"Cho'yan tarkibida qancha foiz uglerod bo'ladi?",
-       "A":"2-5,5",
-       "B":"2-4,5",
+       "B":"2-5,5",
+       "A":"2-4,5",
        "C":"1-3",
        "D":"1-2,5"
     },
-    {
+    {+
        "savol":"43,4 gram ammoniy sulfit va kaliy nitrat aralashmasi to'liq parchalanganda aralashmasining massasi 26,4 g ga kamaygan bo'lsa, dastlabki aralashmadagi oltingugrt atomlar sonini aniqlang.(harrat 400)",
        "A":"0,2*N<sub>A</sub>",
        "B":"0,4*N<sub>A</sub>",
@@ -489,14 +490,14 @@
        "C":"158",
        "D":"31,6"
     },
-    {
+    {+
        "savol":"Chumoli kislota molekulasida uglerodning oksidlanish darajasini aniqlang",
        "A":"+4",
        "B":"+2",
        "C":"-2",
        "D":"+3"
     },
-    {
+    {+
        "savol":"12 ml sikoalkan 126 ml kislorod aralashtirildi va yondirildi.Suv bug'i kondetsatlanib, aralashma boshlang'ich sharoitga keltirilgandan so'ng 90ml bo'lib qoldi. sikloalkanni aniqlang.",
        "A":"C<sub>5</sub>H<sub>10</sub>",
        "B":"C<sub>4</sub>H<sub>8</sub>",
@@ -510,35 +511,35 @@
        "C":"1,1-dixloretan",
        "D":"butten-1"
     },
-    {
+    {+
        "savol":"Metilsikogeksadon toluol olish reaksiyada 6 g vodorod ajralib chiqqan bo'lsa, necha gramm aromatik birikma olingan?",
        "A":"138",
        "B":"46",
        "C":"92",
        "D":"23"
     },
-    {
+    {+
        "savol":"Pendantiol-1,2 to'liq yonganda 11,2 l (n.sh) uglerod (IV) oksidi ajralgan bo'lsa, dastlabki spirt tarkibidagi kislorod atomlar sonini aniqlang? ",
        "A":"0,2*N<sub>A</sub>",
        "B":"0,1*<sub>A</sub>",
        "C":"0,4*N<sub>A</sub>",
        "D":"0,12*N<sub>A</sub>"
     },
-    {
+    {+
        "savol":"Teng miqdordagi fenol va butanol aralashmasiga kaliy metali tasir ettirilganda 4,48 l (m.sh) gaz ajralib chiqsa, xuddi shu miqdordagi aralashma necha gramm 10% li natriy gidroksid eritmasi bilan reaksiyaga erishadi? ",
        "A":"120",
        "B":"80",
        "C":"100",
        "D":"60"
     },
-    {
+    {+
        "savol":"<img src='../img/kim14.jpg' alt='kim14'> moddasiga izomer bo'lgan kislotani ko'rsating.",
        "A":"Enant kislota",
        "B":"Valerian kislota",
        "C":"Moy kislota",
        "D":"Kapron kislota"
     },
-    {
+    {+
        "savol":"12 g <img src='../img/kim15.jpg' alt='kim15'> tarkibli modda litiy gidrooksid gidrolizlanganda, 0,2 mol litiy asesat hosil bo'ladi.Reaksiyada hosil bo'lgan spirtni aniqlang",
        "A":"Metil spirti",
        "B":"Propil spirti",
@@ -547,19 +548,19 @@
     },
     {
        "savol":"Lyaps parchalanishi natijasida 4mol NO<sub>2</sub> hosil bo'lgan bo'lsa, dastlabki kumush nitrat massasini toping?",
-       "A":"510",
+       "D":"510",
        "B":"1020",
        "C":"340",
-       "D":"680"
+       "A":"680"
     },
-    {
+    {+
        "savol":"Maltoza va saxarozadan iborat aralashma gidrolizidan hosil bo'lgan moddalar teng mol nisbati bo'lgan bo'lsa, ushbu aralashmaning massasini (g) toping",
        "A":"102,6",
        "B":"342",
        "C":"205,2",
        "D":"68,4"
     },
-    {
+    {+
        "savol":"1,2 mol anilinni bromlab dibromanilin olish uchun qanday massada brom saqlagan bromli suv zarur?",
        "A":"576",
        "B":"720",
@@ -568,12 +569,12 @@
     },
     {
        "savol":"<img src='../img/kim16.jpg' alt='kim16'> Ushbu rasmda qanday jihoz ifodalangan?",
-       "A":"o'lchov kolbasi",
-       "B":"vyrus kolbasi",
+       "B":"o'lchov kolbasi",
+       "A":"vyrus kolbasi",
        "C":"konussimon kolba",
        "D":""
     },
-    {
+    {+
        "savol":"103,4 kPa, bosimda harorat-23<sup>0</sup> C ga teng bo'lgan sharoitda 10gramm argon qancha hajmni (l) egallaydi ",
        "A":"10",
        "B":"5",
@@ -582,26 +583,26 @@
     },
     {
        "savol":"bir xil miqdordagi metall 1,2 gramm kislorod yoki 12 gram galogenni biriktirib olish mumkin bo'lsa, galogenni aniqlang?",
-       "A":"xlor",
-       "B":"brom",
+       "B":"xlor",
+       "A":"brom",
        "C":"yod",
        "D":"ftor"
     },
     {
        "savol":"Kalsiy atomi yadrosining necha(%) ini neytronlar tashkil etadi?",
-       "A":"60",
-       "B":"50",
+       "B":"60",
+       "A":"50",
        "C":"25",
        "D":"40"
     },
     {
        "savol":"Davriy sistemada asosiylik xossasi ortishi bilan qaysi xususiyatlar kamayib boradi?",
-       "A":"atom radiusi, ionlanish energiyasi",
+       "C":"atom radiusi, ionlanish energiyasi",
        "B":"qaytaruvchilik, metallik",
-       "C":"elektomanfiylik, metallmaslik",
+       "A":"elektomanfiylik, metallmaslik",
        "D":"metallik, oksidlovchilik"
     },
-    {
+    {+
        "savol":"Qo'rg'oshin (IV) oksidi sirka kislota ishtirokida kislorod vodorod peroksidi bilan reaksiyaga kirishganda 0,5 mol gaz ajralgan. Reaksiyada qatmashgan oksidlovhining massasini (g) aniqlang?",
        "A":"98,7",
        "B":"113,4",
@@ -615,7 +616,7 @@
        "C":"50",
        "D":"66,67"
     },
-    {
+    {+
        "savol":"Sirka kislotasi eritmasining vodorod korsatkichi (pH) 3 ga teng bo'lsa, 200ml eritmadagi kislotaning umumiy massasini aniqlang (g) (a=2%)",
        "A":"0,6",
        "B":"1,2",
@@ -624,12 +625,12 @@
     },
     {
        "savol":"Quyidagi birikmalardan kation bo'yicha gidrolizga uchraydiganlarini aniqlang?",
-       "A":"natriy karbonat, kaaliy borat",
+       "D":"natriy karbonat, kaaliy borat",
        "B":"bariy nitrat, litiy sianid",
        "C":"nikel nitrat, natriy permanganat",
-       "D":"berilliy xlorid, temir (II) sulfat"
+       "A":"berilliy xlorid, temir (II) sulfat"
     },
-    {
+    {+
        "savol":"Birinchi elektrolizda 2 mol, ikkinchi elektrolizda 3 mol kaliy (II) sulfat bo'lgan eritmalarorqali 6 faradey tok o'tganda katodlarda hosil bo'lgan moddalar massalarini (g) (mos ravishda) aniqlang?",
        "A":"234;192",
        "B":"128;234",
@@ -645,33 +646,33 @@
     },
     {
        "savol":"Yer qobi'ida eng ko'p tarqalgan metallning 0,1 moli suyultirilgan sulfat kislota bilan tasirlashganda qancha hajm l (n.sh) gaz ajraladi?",
-       "A":"3,36",
+       "C":"3,36",
        "B":"1,12",
-       "C":"2,24",
+       "A":"2,24",
        "D":"4,48"
     },
     {
        "savol":"<img src='../img/kim18.png' alt='kim18'> ushbu reaksiyani amalga oshirish uchun foydalanilgan moddalar va tashqi ta'sirlarni ketma ketligini mos ravishda ko'rsating? 1) kislorod 2) sulfat kislota 3) ishqor 4) is gazi 50 qizdirish",
-       "A":"1,2,4",
-       "B":"5,2,3",
+       "B":"1,2,4",
+       "A":"5,2,3",
        "C":"3,1,2",
        "D":"3,5,2"
     },
     {
        "savol":"87,8 gram kaliy permanganatning suvli eritmasida 40,2 ta neytron mavjud bo'lsa, eritmadagi tuzning massasini aniqlang?",
-       "A":"31,6",
+       "C":"31,6",
        "B":"27,1",
-       "C":"15,8",
+       "A":"15,8",
        "D":"7,84"
     },
-    {
+    {+
        "savol":"Temir elementininng 3d pog'onachasidagi juflashgan va tok elektronlar sonini ko'rsating?",
        "A":"4 va 4",
        "B":"2 va 4",
        "C":"2 va 2",
        "D":"4 va 2"
     },
-    {
+    {+
        "savol":"Agar 3gektar maydonga solinadigan azot massasi 42 kg bo'lsa, shu maydonni azot bilan taminlash uchun solinadigan mochivena massasini aniqlang (kg)?",
        "A":"90",
        "B":"120",
@@ -685,7 +686,7 @@
        "C":"1,8",
        "D":"1,2"
     },
-    {
+    {+
        "savol":"Geptanning asosiy 5 ta zanjirida uglerod saqlagan izomerlar sonini aniqlang?",
        "A":"9",
        "B":"4",
@@ -694,82 +695,82 @@
     },
     {
        "savol":"Alkanning 18 litr miqdorini yondirish uchun 125 litr kislorod ishtirok etganda, uning 8 litr miqdori ortib qolgan bo'lsa, alkan formulasida nechta uglerod atom mavjud bo'ladi ",
-       "A":"7",
+       "C":"7",
        "B":"5",
-       "C":"4",
+       "A":"4",
        "D":"3"
     },
-    {
+    {+
        "savol":"<img src='../img/kim19.jpg' alt='kim19'> molekular formulaga turli sikloparafinlardan qanchasi tog'ri keladi?",
        "A":"4",
        "B":"8",
        "C":"5",
        "D":"6"
     },
-    {
+    {+
        "savol":"Penten-2 va siklopentandan 12 litr (n.sh) aralashma va ko'p miqdorda olingan kislorod portlagandan so'ng hosil bo'lgan suv bug'i kondetsiyalandi. Qolgan gazlar aralashmasi 70 litr (n.sh) tashkil etsa, reaksiya uchun olingan kislorodning hajmini (l,n.sh) toping?",
        "A":"100",
        "B":"60",
        "C":"10",
        "D":"80"
     },
-    {
+    {+
        "savol":"Kauchuk rezinadan nima bilan farq qiladi?",
        "A":"rezina sulfid ko'priklarga ega",
        "B":"monomer tarkibi",
        "C":"polimerlanish darajasi",
        "D":"kauchik sulfid ko'priklarga ega"
     },
-    {
+    {+
        "savol":"304 gramm ikki atomli to'yingan spirt molekulasida 52 mol atom bo'lsa, noma'lum spirtni toping?",
        "A":"Butandiol",
        "B":"Etandiol",
        "C":"Propandiol",
        "D":"Pentantiol"
     },
-    {
+    {+
        "savol":"1-mol p-krezol tarkibidagi qutbli bo'lar sonini toping?",
        "A":"7",
        "B":"10",
        "C":"9",
        "D":"9"
     },
-    {
+    {+
        "savol":"Teng miqdorda olingan 9 gramm aldegid va etanol aralashmasi kumush oksidining ammiakdagi eritmasi bilan reaksiyaga kirishganda 0,2 mol cho'kma tushsa, aldegidni aniqlang?",
        "A":"<img src='../img/kim20.jpg' alt='kim20'>",
        "B":"<img src='../img/kim21.jpg' alt='kim21'>",
        "C":"<img src='../img/kim22.jpg' alt='kim22'>",
        "D":""
     },
-    {
+    {+
        "savol":"0,1 mol <img src='../img/kim23.jpg' alt='kim23'> birikmani to'liq yondirish uchun 0,35 mol kislorod sarflanadi va 5,4 gram vodorod oksidi hosil bo'ldi. Bunga ko'ra n va x qiymatlarini mos ravishda aniqlang?",
        "A":"2;3",
        "B":"1;2",
        "C":"3;2",
        "D":"2;1"
     },
-    {
+    {+
        "savol":"<img src='../img/kim25.jpg' alt='kim25'> ushbu rasmda qaysi jihoz ifodalangan?",
        "A":"chinni havoncha va dastasi",
        "B":"probirka qo'ygich",
        "C":"tubi yumaloq kolba",
        "D":"chinni voronka va dastasi"
     },
-    {
+    {+
        "savol":"Sirka kislotasining etilefiri bilan 11,2 (n.sh) ammiak tasirlashganda necha gram kislota amidi (azotli birikma) hosil bo'ladi? <img src='../img/kim26.jpg' alt='kim26'>",
        "A":"30",
        "B":"15",
        "C":"29,5",
        "D":"42,8"
     },
-    {
+    {+
        "savol":"Nitrobenzolga 4g vodorod ta'sir ettirilganda hosil bo'lgan organik moddaning massasini hisoblash (reaksiya unumi n=80%).",
        "A":"92",
        "B":"36,8",
        "C":"46",
        "D":"96"
     },
-    {
+    {+
        "savol":"Alkin to'liq gidrolinganda 23,2 gramm modda olindi. shuncha miqdor alkin yonganda 1,6 mol CO<sub>2</sub> hosil bo'lsa, alkinni aniqlang. <img src='../img/kim27.jpg' alt='kim27'> ",
        "A":"Etin",
        "B":"propalin",
@@ -778,8 +779,8 @@
     },
     {
        "savol":"Qaysi kislotaning 2M li 250 ml eritmasida (a=0,8) 0,8 mol ion bo'ladi? (suvning dissotsiatlanishi hisobga olinmasin.)",
-       "A":"Arsenat kislota",
-       "B":"Permanganat kislota",
+       "B":"Arsenat kislota",
+       "A":"Permanganat kislota",
        "C":"Xromat kislota",
        "D":"Sulfat kislota"
     },
@@ -792,12 +793,12 @@
     },
     {
        "savol":"Rux nitrat eritmasiga 16,4 gram magniydan yasalgan plastinka tushurilganda, plastinka massasi 16,4 grammga ortdi. Hosil bo'lgan plastinka tarkibidagi ruxning massasiga teng massadagi xromda nechta elektron mavjud?",
-       "A":"24",
+       "C":"24",
        "B":"6",
-       "C":"12",
+       "A":"12",
        "D":"18"
     },
-    {
+    {+
        "savol":"Quyidagi xlor olish reaksiyasi tenglamasidagi o'ng tomondagi koeffisentlar yig'indisini aniqlang. <img src='../img/kim28.jpg' alt='kim28'>",
        "A":"35",
        "B":"18",
@@ -806,33 +807,33 @@
     },
     {
        "savol":"51 gramm kumush nitrat yetarli miqdorda orofosfat kislota eritmasiga aralashtirilganda necha gramm sariq cho'kma hosil bo'ladi?",
-       "A":"61,5",
+       "C":"61,5",
        "B":"31,2",
-       "C":"41,9",
+       "A":"41,9",
        "D":"52,4"
     },
     {
        "savol":"1828-yili inson va hayvon a'zosida hosil bo'lgan mochivenani ammoniy sianatdan labaratoriya sharoitida sintez qilgan olimni aniqlang.",
-       "A":"N.zinin",
+       "C":"N.zinin",
        "B":"I.Berselius",
-       "C":"F.Vyoller",
+       "A":"F.Vyoller",
        "D":"V.kolbe"
     },
-    {
+    {+
        "savol":"2-bro,2,3-tremitelbutan va 1-brom 2,2-demitilbutanga natriy metali tasir ettirilganda (vyurs reaksiyasi bo'yicha) hosil bo'lgan mahsulotlar tarkibidagi birlamchi, ikkilamchi va to'rtlamchi uglerod atomlari sonini aniqlang.",
        "A":"22,5,9",
        "B":"24,6,9",
        "C":"22,8,11",
        "D":"24,7,8"
     },
-    {
+    {+
        "savol":"2mol neon va 1mol argon aralashmasining o'rtacha massasini toping?",
        "A":"30",
        "B":"50",
        "C":"25",
        "D":"36"
     },
-    {
+    {+
        "savol":"<img src='../img/kim30.jpg' alt='kim30'> yuqoridagi jadvaldan foydalanib X ni aniqlang?",
        "A":"Etin",
        "B":"Propin",
@@ -841,22 +842,22 @@
     },
     {
        "savol":"<img src='../img/kim31.jpg' alt='kim31'> ushbu rasmda qaysi jihoz ifodalangan?",
-       "A":"probirka",
+       "C":"probirka",
        "B":"menzurka",
-       "C":"universal shtativ",
+       "A":"universal shtativ",
        "D":""
     },
     {
        "savol":"Bir xil miqdordai metal 0,8 gramm kilorodni yoki 1,9 gramm galogenni biriktirib olish mumkin bo'lsa, galogenni aniqlang?",
-       "A":"brom",
+       "C":"brom",
        "B":"xlor",
-       "C":"ftor",
+       "A":"ftor",
        "D":"yod"
     },
     {
        "savol":"Izotoplar berilgan qatorni toping?",
-       "A":"<img src='../img/kim32.jpg' alt='kim32'>",
-       "B":"<img src='../img/kim33.jpg' alt='kim33'>",
+       "B":"<img src='../img/kim32.jpg' alt='kim32'>",
+       "A":"<img src='../img/kim33.jpg' alt='kim33'>",
        "C":"<img src='../img/kim34.jpg' alt='kim34'>",
        "D":"<img src='../img/kim35.jpg' alt='kim35'>"
     },
@@ -867,28 +868,28 @@
        "C":"4;2",
        "D":"10;6"
     },
-    {
+    {+
        "savol":"Kaliy gidrokarbanad eritmasidagi qo'shimcha kaliy karbanatni yo'qotish uchun qaysi modda ishlatiladi? ",
        "A":"Bariy gidroksid",
        "B":"Vodorod xlorid",
        "C":"Karbanot angidrid",
        "D":"Kalsiy karbanot"
     },
-    {
+    {+
        "savol":"Ftorning necah xil oksidlanish darajasi mavjud?",
        "A":"2",
        "B":"3",
        "C":"4",
        "D":"1"
     },
-    {
+    {+
        "savol":"Sulfat kislotaning 0,3M 400ml va 0,5M 10ml eritmalari aralashtirilganda necah M li eritma hosil bo'ladi?",
        "A":"0,42",
        "B":"0,51",
        "C":"0,34",
        "D":"0,17"
     },
-    {
+    {+
        "savol":"21,7 gramm metilamin olish uchun qancha hajmdagi litr (n.sh) vodorod gazi kerak bo'ladi?",
        "A":"47,04",
        "B":"22,4",
@@ -897,47 +898,47 @@
     },
     {
        "savol":"Quyidagilardan qaysi birida monosaxaritlar berilgan?",
-       "A":"Maltoza, Fruktoza",
+       "C":"Maltoza, Fruktoza",
        "B":"Saxaroza, selluloza",
-       "C":"Riboza, dezoksiriboza",
+       "A":"Riboza, dezoksiriboza",
        "D":"Glukoza, kraxmal"
     },
-    {
+    {+
        "savol":"51 gramm moy kislotaning mrtilefiri yonganda 1,5 mol kislotali oksid hosil bo'lsa, reaksiya unumini (%) toping",
        "A":"80",
        "B":"70",
        "C":"60",
        "D":"90"
     },
-    {
+    {+
        "savol":"Fenol va ksiloldan iborat 40 gramm aralashma KOH ning 200 gramm 5,6 % li eritmasi bilan reaksiyaga kirishsa, boshlang'ich aralashmadagi fenolning massa ululshini (%) toping?",
        "A":"47",
        "B":"6",
        "C":"94",
        "D":"53"
     },
-    {
+    {+
        "savol":"O'rta osiyo noki (a),oksitrops(b), karrak(c),tangao't(d) kabi qizil kitobga kiritilgan o'simliklar qaysi oilaga mansub ekanligini aniqlang?",
        "A":"a-ra'nodoshlar,b-burchoqdoshlar,c-murakkabguldoshlar,d-ituzumdoshlar",
        "B":"a-ra'nodoshlar,b-burchoqdoshlar,c-murakkabguldoshlar,d-dukkakdoshlar",
        "C":"a-gulxayrdoshlar,b-dukkakdoshlar,c-qo'qio'tdoshlar,d-qovoqdoshlar",
        "D":"a-burchoqdohlar,b-ra'nodoshlar,c-ituzumdoshlar,d-murakkabguldoshlar"
     },
-    {
+    {+
        "savol":"Fotosintez jarayoni fillofora (1), funariya yo'sini (2), spirogia (3) astargal (4) kabi o'simlik hujaryalarining qaysi organoidida kechadi? a-xromafara; b-xromoplastda; c-xloroplastda",
        "A":"1-b,2-c,3-a,4-b",
        "B":"1-a,2-c,3-a,4-c",
        "C":"1-c,2-a,3-c,4-c",
        "D":"1-a,2-b,3-a,4-c"
     },
-    {
+    {+
        "savol":"Bir membranali ferment saqlovchi (a) va membranasiz ferment sintezlovchi (b) hujayra orgonoidlarini aniqlang.1) ribosoma 2)mitoxondriya 3)lizosoma 4)vakuola 5)golji majmuasi 6)endoplazmatik to'r.",
        "A":"a-3,b-6",
        "B":"a-3,b-1",
        "C":"a-4,b-5",
        "D":"a-2,b-3"
     },
-    {
+    {+
        "savol":"To'g'ri fikrlarni aniqlang",
        "A":"Nostok xemosintezlovchi organizm hisoblanadi",
        "B":"Tugunak bakteriyalari faqat bir urug'pallali o'simliklar bilan simbioz hayot kechiradi",
@@ -946,12 +947,12 @@
     },
     {
        "savol":"1813-yilda qaysi shved kimyogari taklifiga ko'ra,kimyoviy belgi elementining lotincha nominini bosh harf yoki keyingi harflardan biriga qo'shib yozish bilan ifodalanadi.",
-       "A":"Prust",
+       "C":"Prust",
        "B":"Lomonosov",
-       "C":"Berselius",
+       "A":"Berselius",
        "D":"Lavuaze"
     },
-    {
+    {+
        "savol":"20<sup>2</sup>C da to'yingan kalsiy gidroksid suvli eritmasining eruvchanligini toping? (eruvchanlik nisbiy olingan)",
        "A":"33,6",
        "B":"11,2",
@@ -960,47 +961,47 @@
     },
     {
        "savol":"Qaysi birikmalar suvda eritilganda ishqoriy muhit hosil bo'ladi? 1) kaliy peroksid 2) natriy nitrat 3) kalsiy xlorid 4) litiy sulfat 5) natriy gidrokarbanot 6) natriy gidrid",
-       "A":"2,3,4",
-       "B":"1,5,6",
+       "B":"2,3,4",
+       "A":"1,5,6",
        "C":"1,3,5",
        "D":"2,4,6"
     },
     {
        "savol":"<img src='../img/kim36.jpg' alt='kim36'> 0,4 mol metalldan 71,6 gramm kompleks birikma olinga bo'lsa, metallni aniqlangan?",
-       "A":"Be",
+       "C":"Be",
        "B":"Pb",
-       "C":"Zn",
+       "A":"Zn",
        "D":"Cd"
     },
     {
        "savol":"Kalsiy karbanatni gidro karbanotga o'tkazish uchun unga nimalarni ta'sir ettirish kerak?",
-       "A":"Suv va uglerod (2) oksid",
+       "C":"Suv va uglerod (2) oksid",
        "B":"Spirt va grafit",
-       "C":"Suv va karbonot angidirid",
+       "A":"Suv va karbonot angidirid",
        "D":"Suv va ko'mir"
     },
-    {
+    {+
        "savol":"Mis yaltirog'idagi misning massa ulushini (%) aniqlang?",
        "A":"56",
        "B":"60",
        "C":"80",
        "D":"48"
     },
-    {
+    {+
        "savol":"Izopren va kislorod aralashmasi yonishidan 1,3 mol karbonot angidirid hosil bo'ldi.Ortib qolgan alkadienni to'la bromlash 0,3 mol brom sarflanadi. Boshlang'ich aralashmadagi izoprenni miqdorini (mol) aniqlang",
        "A":"0,235",
        "B":"0,82",
        "C":"0,41",
        "D":"0,15"
     },
-    {
+    {+
        "savol":"To'yingan bir asosli karbon kislota molekulasi tarkibidagi qutblar bog'lar soni 5ta bo'lsa, neytronlar sonini toping?",
        "A":"18",
        "B":"24",
        "C":"22",
        "D":"28"
     },
-    {
+    {+
        "savol":"Quyi molekulali aromatik aminlar qanday agregat holatda bo'ladi?",
        "A":"Qattiq",
        "B":"Suyuq",
@@ -1009,33 +1010,33 @@
     },
     {
        "savol":"0,025 mol mis (II) xlorid tutgan eritmaga vodorod sulfid gazi yuttirilganda necha gramm cho'kma hosil bo'ladi?",
-       "A":"4,8",
-       "B":"2,4",
+       "B":"4,8",
+       "A":"2,4",
        "C":"3,2",
        "D":"9,6"
     },
-    {
+    {+
        "savol":"<img src=' ../img/kim39.jpg' alt='kim39'> ning izomerlar soni tog'ri ko'rsatigan qatorni toping",
        "A":"6",
        "B":"1",
        "C":"5",
        "D":"4"
     },
-    {
+    {+
        "savol":"α-glukoza molekulasidagi 3-uglerodning oksidlanish darajasini aniqlang.",
        "A":"0",
        "B":"+2",
        "C":"+1",
        "D":"-2"
     },
-    {
+    {+
        "savol":"<img src=' ../img/kim40.jpg' alt='kim40'> ushbu modda gidrolizlanganda qanday kislota hosil bo'lishini toping?",
        "A":"Geptan kislota",
        "B":"Valerian kislota",
        "C":"Moy kislota",
        "D":"Kapron kislota"
     },
-    {
+    {+
        "savol":"Fenol va ksiloldan iborat 20gramm aralashma KOH ning 100 gramm 5,6%li eritmasi bilan reaksiyaga kirishsa, boshlang'ich aralashmadagi ksilolning massa ulushini (%) toping?",
        "A":"47",
        "B":"53",
@@ -1049,7 +1050,7 @@
        "C":"5,4",
        "D":"1,8"
     },
-    {
+    {+
        "savol":"Kaliy permanganatning sulfat kislota bilan ishtirokidagi natriy peroksid bilan reaksiyada 0,25 mol gaz ajraldi.Reaksiya natijasida qaytarilgan modda massasini (g) hisoblang.",
        "A":"24,2",
        "B":"50,6",
@@ -1058,9 +1059,9 @@
     },
     {
        "savol":"20% li natriy gidroksidli suvli eritmasining molyar konsentratsiyasini toping?",
-       "A":"4,2",
+       "C":"4,2",
        "B":"12,5",
-       "C":"6,25",
+       "A":"6,25",
        "D":"8,4"
     },
     {
@@ -1072,33 +1073,33 @@
     },
     {
        "savol":"Quyidagi tuzlarning qaysilari gidrolizga uchrmaydi? 1)natriy sulfat 2)ammoniy nitrat 3)litiy nitrat 4)alyuminiy karbonot 5)kaliy xlorid 6)ammoniy atsetat",
-       "A":"1,2,5",
-       "B":"1,3,5",
+       "B":"1,2,5",
+       "A":"1,3,5",
        "C":"3,4,6",
        "D":"2,4,6"
     },
-    {
+    {+
        "savol":"Birinchi elektroyizda 2mol, ikkinci elktroliyazorda 3mol kumush nitrat bo'lgan eritmalar orqali 4 faradey tok o'tganda katodlarda hosil bo'lgan moddalar massalarini (g) mos ravishda aniqlang.",
        "A":"128;192",
        "B":"192;192",
        "C":"128;128",
        "D":"64;128"
     },
-    {
+    {+
        "savol":"22,4 gramm xromli temirtosh C bilan qaytarilganda hosil bo'lgan aralashmani eritish uchun HCL eritmasi kerak bo'ldi, ajralib chiqqan gazdan necha litr (n.sh) vodorod xlorid olish mumkin?",
        "A":"6,72",
        "B":"11,2",
        "C":"13,44",
        "D":"8,96"
     },
-    {
+    {+
        "savol":"2,5 mol maltozani olingan glukozani spirtni bijg'ishdan hosil bo'lgan maxsulot siklik shaklda bo'lsa, tarkibidagi sp <SUP3>-gibridlangan orbitallar sonini aniqlang.",
        "A":"120",
        "B":"160",
        "C":"240",
        "D":"144"
     },
-    {
+    {+
        "savol":"To'yingan bir asosli karbon kislota bitta molekulasi tarkibida sp<sup>3</sup> gibridlangan orbitallar soni 20ta bo'lsa, nomalum kilotani aniqlang.",
        "A":"moy kislota",
        "B":"propion kislota",
@@ -1121,23 +1122,23 @@
     },
     {
        "savol":"Quyidagi atomlarning qaysi birlari bir-biriga izobar ekanligini ko'rsating.<img src=' ../img/kim41.jpg' alt='kim41'>",
-       "A":"3,5",
-       "B":"1,4",
+       "B":"3,5",
+       "A":"1,4",
        "C":"1,3",
        "D":"2,3"
     },
     {
        "savol":"Quyidagi berilgan pog'onachalardan qaysi biri birinchi bo'lib elektron bilan to'ladi. 5f;6d;6p;7s",
-       "A":"5f",
-       "B":"6p",
+       "B":"5f",
+       "A":"6p",
        "C":"6d",
        "D":"7s"
     },
     {
        "savol":"Nitrat kislotada elektronlar sonini aniqlang?",
-       "A":"24",
+       "C":"24",
        "B":"42",
-       "C":"32",
+       "A":"32",
        "D":"18"
     },
     {
@@ -1149,9 +1150,9 @@
     },
     {
        "savol":"Qaysi birikmalar suvda eritilganda ishqoriy muhit hosil bo'ladi? 1)kaliy peroksid 2) natriy nitrat 3)kalsiy xlorid 4)litiy sulfat 5)natriy gidrokarbanat 6)natriy gidrid",
-       "A":"2,3,4",
+       "C":"2,3,4",
        "B":"2,4,6",
-       "C":"1,5,6",
+       "A":"1,5,6",
        "D":"1,3,5"
     },
     {
