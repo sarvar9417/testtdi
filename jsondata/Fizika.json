@@ -1,10 +1,10 @@
 [
     {
        "savol":"<img src='../img/1.jpg' alt='rasm'> tenglama  bilan  ifodalangan tebranma harakat qilayotgan jismning  maksimal tezlanishini  toping (sm/<sup>2</sup>)?",
-       "A":"70",
+       "D":"70",
        "B":"77",
        "C":"7",
-       "D":"0,7"
+       "A":"0,7"
     },
     {
        "savol":"Uzunligi  10  m  bo‘lgan kir  quritish  arqonida og‘irligi 20 N bo‘lgan  kostum  osilib turibdi. Kostum   ilingan  kiyim  ilgich  arqonining o‘rtasida bo‘lib,  arqon mahkamlangan nuqtalardan o‘tgan gorizontal chiziqdan  10 sm pastda  joylashgan. Arqonning taranglik kuchini  toping?",
@@ -22,8 +22,8 @@
     },
     {
        "savol":"Velosiped g'ildirakning eng  chekka  nuqtasi 0,02 s  davomida 20 sm yoyni  bosib  o'tdi. Velosipedning tezligini  toping?",
-       "A":"5 m/s",
-       "B":"10 m/s",
+       "B":"5 m/s",
+       "A":"10 m/s",
        "C":"31,4 m/s",
        "D":"20 m/s"
     },
@@ -57,8 +57,8 @@
     },
     {
        "savol":"Quyidagilardan qaysi  biri tabiiy  yorug'lik manbaidir.",
-       "A":"Chaqmoq",
-       "B":"Oy",
+       "B":"Chaqmoq",
+       "A":"Oy",
        "C":"Sham",
        "D":"Ko'zgu"
     },
@@ -71,22 +71,22 @@
     },
     {
        "savol":"Tomonlari 10 sm  bo'lgan muntazam uchburchakning ikki  uchida -4 nC  va  +4nC bo'lgan  ikki zaryad  joylashgan.  Uchburchakning uchinchi uchidagi maydon  kuchlanganligi nimaga teng?",
-       "A":"7,2 kV/m",
-       "B":"3,6 kV/m",
+       "B":"7,2 kV/m",
+       "A":"3,6 kV/m",
        "C":"0",
        "D":"6,6 kV/m"
     },
     {
        "savol":"Ko'char blok ... beruvchi  qurilma.",
-       "A":"Kuchni yo'nalishini o'zgartirib",
-       "B":"Kuchdan  yutuq",
+       "B":"Kuchni yo'nalishini o'zgartirib",
+       "A":"Kuchdan  yutuq",
        "C":"Ishdan yutuq",
        "D":"Yo'ldan yutuq"
     },
     {
        "savol":"Yerga kun va  tun  bo'lishiga  sabab  nima?",
-       "A":"Yerning  o'z  o'qidan turlicha  og'ishi ",
-       "B":"Yerning o'z  o'qi  atrofida aylanishi",
+       "B":"Yerning  o'z  o'qidan turlicha  og'ishi ",
+       "A":"Yerning o'z  o'qi  atrofida aylanishi",
        "C":"Chunki  yer quyosh  atrofida aylanadi",
        "D":"Yerning  tabiiy yo'ldoshi oy  tufayli"
     },
@@ -99,10 +99,10 @@
     },
     {
        "savol":"Ipga  bog'langan  jism  O  nuqta  atrofida  vertikal  tekislikda   aylantirilmoqda. B  nuqtada  uning og'irlik  kuchi qanday  yo'nalgan? <img src='../img/2.jpg' alt='rasm'> ",
-       "A":"<img src='../img/3.jpg' alt='rasm'> ",
+       "D":"<img src='../img/3.jpg' alt='rasm'> ",
        "B":"<img src='../img/4.jpg' alt='rasm'> ",
        "C":"<img src='../img/5.jpg' alt='rasm'> ",
-       "D":"<img src='../img/6.jpg' alt='rasm'> "
+       "A":"<img src='../img/6.jpg' alt='rasm'> "
     },
     {
        "savol":"Qo'zg'almas blok  orqali o'tkazilgan arqonning uchlariga 50 g va 75 g li  yuklar osilgan. Arqonni  cho'zilmas  deb olib, arqoning taranglik kuchini  toping.",
@@ -120,37 +120,37 @@
     },
     {
        "savol":"Jism  minoradan gorizontal yo'nalishda 12 m/s boshlang'ich tezlik  bilan  otildi va  60 m masofaga borib  yerga  tushdi. Jismning tushish  vaqtini  toping?",
-       "A":"4 s",
+       "C":"4 s",
        "B":"3 s",
-       "C":"5 s",
+       "A":"5 s",
        "D":"6 s"
     },
     {
        "savol":"M massali yog'och brusok gorizontal tekislikda  yotibdi.  Uni F=13,5 N gorizontal kuch  bilan tekis  harakantlantirish mumkin. Brusok ustiga m=2 kg yuk  qo'yilgan holda F=22,3 N kuch ta'sirida tekis harakat qiladigan bo'lsa, yog'och bilan  sirt  orasidagi ishqalanish koeffitsientini  toping?",
-       "A":"0,38",
-       "B":"0,4",
+       "B":"0,38",
+       "A":"0,44",
        "C":"0,5",
        "D":"0,54"
     },
     {
        "savol":"Otliq 48 km/soat tezlik  bilan bir  qishloqdan ikkinchisiga 40 minda yetib bordi. Bu  masofani o'rtacha tezligi 0,5 km/soat bo'lgan toshbaqa qancha  vaqtda  o'tishi  mumkin?",
-       "A":"48 soat",
-       "B":"64 soat",
+       "B":"48 soat",
+       "A":"64 soat",
        "C":"72 soat",
        "D":"60 soat"
     },
     {
        "savol":"Atmosfera bosimini  o'lchaydigan  asbobga ... deyiladi.",
-       "A":"Manometr",
+       "C":"Manometr",
        "B":"Dinamometr",
-       "C":"Barometr",
+       "A":"Barometr",
        "D":"Suyuqlikli manometr"
     },
     {
        "savol":"Tovushning tezligi havo temperaturasi ko'tarilishi  bilan ...",
-       "A":"O'zgarmaydi",
+       "C":"O'zgarmaydi",
        "B":"Kamayadi",
-       "C":"Ortadi",
+       "A":"Ortadi",
        "D":"Ortishi  ham  kamayishi  ham  mumkin"
     },
     {
@@ -176,22 +176,22 @@
     },
     {
        "savol":"Oydagi Kosmik kemadan jismni gorizontal yo'nalishida 3 m/s tezlik bilan otildi. Kosmik kema balandligi 20 m bo'lsa, jism otilgan joydan qanday uzoqlikka borib tushadi? g<sub>oy</sub>=1,6 m/s<sup>2</sup>,  g<sub>y</sub>=10 m/s<sup>2</sup>",
-       "A":"6 m",
+       "C":"6 m",
        "B":"25 m",
-       "C":"15 m",
+       "A":"15 m",
        "D":"20 m"
     },
     {
        "savol":"20 m/s tezlik bilan gorizontal otilgan jismning harakat boshidan 1,5 s o'tgan momentdagi tangensianal tezlanishini  toping(m/s<sup>2</sup>)",
-       "A":"8",
-       "B":"6",
+       "B":"8",
+       "A":"6",
        "C":"10",
        "D":"5"
     },
     {
        "savol":"Tosh 20 m/s tezlik bilan gorizontga 30<sup>o</sup> burchak ostida  otiladi.  Toshning uchish vaqtini (s) toping?",
-       "A":"3",
-       "B":"2",
+       "B":"3",
+       "A":"2",
        "C":"4",
        "D":"5"
     },
@@ -225,8 +225,8 @@
     },
     {
        "savol":"Massasi 10  kg bo'lgan jism ikkita cho'zilmas arqonga osilgan. Ular o'zaro 60<sup>o</sup> burchak hosil qilgan holda muvozanatda qoladi. Arqonlarning taranglik kuchlarini hisoblang.",
-       "A":"80 N",
-       "B":"50 N",
+       "B":"80 N",
+       "A":"50 N",
        "C":"100 N",
        "D":"60 N"
     },
@@ -239,9 +239,9 @@
     },
     {
        "savol":"Yuqoridan 5 m/s tezlik bilan pastga tashlab yuborilgan jism 5 s dan yerga tushgan bo'lsa, uning o'rtacha tezligini  toping?",
-       "A":"55 m/s",
+       "C":"55 m/s",
        "B":"30 m/s",
-       "C":"25 m/s",
+       "A":"25 m/s",
        "D":"20 m/s"
     },
     {
@@ -267,15 +267,15 @@
     },
     {
        "savol":"Jism pastga tik  yo'nalishda sekinlanuvchan a tezlanish bila harakatlanganda, uning og'irligi ...",
-       "A":"ma miqdorda  kamayadi",
-       "B":"ma miqdorida ortadi",
+       "B":"ma miqdorda  kamayadi",
+       "A":"ma miqdorida ortadi",
        "C":"o'zgarmaydi",
        "D":"tezlanish  qiymatiga bog'liq"
     },
     {
        "savol":"Qarshiligi 0,04 (omega) bo'lgan shunt ampermetr tarmoqqa ulanganda 5 A ni ko'rsatadi. Ampermetrning ichki qarshiligi 0,12(omega)> Zanjirning tarmoqlanmagan qismida tok  kuchini toping.",
-       "A":"16 A",
-       "B":"20 A",
+       "B":"16 A",
+       "A":"20 A",
        "C":"12 A",
        "D":"10 A"
     },
@@ -288,43 +288,43 @@
     },
     {
        "savol":"Jismni  muvozanat holatidan chetga chiqarilganda uning  holatini o'zgartiradigan hech qanday kuch  hosil bo'lmasa ... deyiladi.",
-       "A":"Turg'unmas muvozonat",
-       "B":"Farqsiz muvozonat",
+       "B":"Turg'unmas muvozonat",
+       "A":"Farqsiz muvozonat",
        "C":"Barchasi to'g'ri",
        "D":"Turg'un muvozonat"
     },
     {
        "savol":"G'altakdagi tok 0,2 s  davomida noldan 3 A gacha tekis o'zgarganda 1,5 V o'z induksiya EyuK hosil bo'lsa, g'altakning induktivligi qanchaga teng?",
-       "A":"0,2 H",
+       "C":"0,2 H",
        "B":"1 H",
-       "C":"0,1 H",
+       "A":"0,1 H",
        "D":"0,5 H"
     },
     {
        "savol":"Interferensiyasi nima?",
-       "A":"Kogerent to'lqinlar uchrashganda bir-birini kuchaytirish yoki susaytirish hodisasi",
+       "D":"Kogerent to'lqinlar uchrashganda bir-birini kuchaytirish yoki susaytirish hodisasi",
        "B":"To'lqinlar uchrashganda bir-birini susaytirish hodisasi",
        "C":"Kogerent to'lqinlar uchrashganda bir-birini kuchaytirish hodisasi",
-       "D":"To'lqinlar uchrashganda bir-birini kuchaytirish yoki susaytirish hodisasi"
+       "A":"To'lqinlar uchrashganda bir-birini kuchaytirish yoki susaytirish hodisasi"
     },
     {
        "savol":"Ko'chmas blok ... beruvchi  qurilma",
-       "A":"Ishdan yutuq",
+       "C":"Ishdan yutuq",
        "B":"Kuchdan yutuq",
-       "C":"Kuchni yo'nalishini o'zgartirib",
+       "A":"Kuchni yo'nalishini o'zgartirib",
        "D":"Yo'ldan yutuq"
     },
     {
        "savol":"To'lqin  tarqatayotgan muhitda zarralarning tebranish yo'nalishi , to'lqin tarqalish yo'nalishi bilan bir o'qda bo'lsa, bunday to'lqinga ... deyiladi.",
-       "A":"Rezanans",
+       "C":"Rezanans",
        "B":"Ko'ndalang to'lqin",
-       "C":"Bo'ylanma to'lqin",
+       "A":"Bo'ylanma to'lqin",
        "D":"Xususiy tebranishlar"
     },
     {
        "savol":"Induktivligi 2 H bo'lgan g'altakda o'z induksiya Eyukning qiymati 36 V bo'lishi uchun g'altakdan o'tayotgan tokning o'zgarish tezligi qanday bo'lishi  kerak?",
-       "A":"20 A/s",
-       "B":"18 A/s",
+       "B":"20 A/s",
+       "A":"18 A/s",
        "C":"72 A/s",
        "D":"9 A/s"
     },
@@ -344,15 +344,15 @@
     },
     {
        "savol":"2 kg massali jismga gorizontal yo'nalgan 5,2 N kuch ta'sir qilsa , uning tezlanishini toping (m/s<sup>o</sup>). Ishqalanish koeffisienti u=0,04",
-       "A":"0,2",
-       "B":"2,2",
+       "B":"0,2",
+       "A":"2,2",
        "C":"1,6",
        "D":"2,6"
     },
     {
        "savol":"Uzunligi 25 sm bo'lgan o'tkazgichdan 4 A tok o'tmoqda. O'tkazgich induksiyasi 1,2 T bo'lgan bir jinsli magnit maydonning induksiya chiziqlariga 45<sup>o</sup> burchak ostida joylashgan. O'tkazgich Amper kuchi yo'nalishda 3 sm ga ko'chganda qanday ish bajariladi?",
-       "A":"15 mJ",
-       "B":"25,4 mJ",
+       "B":"15 mJ",
+       "A":"25,4 mJ",
        "C":"18,6 mJ",
        "D":"22,5 mJ"
     },
@@ -421,23 +421,23 @@
     },
     {
        "savol":"Jismni muvozonat holatidan chetga chiqarilganda uni dastlabki holatiga qaytaruvchi kuch hosil bo'ladigan muvozonatga ... deyiladi.",
-       "A":"potensial energiya",
-       "B":"kinetik energiya",
+       "A":"Turg'un muvozanat",
+       "B":"Turg'unmas muvozanat",
        "C":"issiqlik energiya",
        "D":"ichki energiya"
     },
     {
        "savol":"Gravitatsiya doimiysini birligini  aniqlang?",
-       "A":"N*m<sup>2</sup/kg<sup>2</sup>",
-       "B":"N*m<sup>3</sup/kg<sup>2</sup>",
-       "C":"N*m<sup></sup/kg<sup></sup>",
-       "D":"N*kg<sup>2</sup/m<sup>2</sup>"
+       "A":"(N*m<sup>2</sup>)/(kg<sup>2</sup>)",
+       "B":"(N*m<sup>3</sup>)/(kg<sup>2</sup>)",
+       "C":"(N*m<sup></sup>)/(kg<sup></sup>)",
+       "D":"(N*kg<sup>2</sup>)/(m<sup>2</sup>)"
     },
     {
        "savol":"Vektor kattaliklar - bu ...",
-       "A":"son qiymatlari hisobga olinmasa ham bo'ladigan kattaliklar",
+       "C":"son qiymatlari hisobga olinmasa ham bo'ladigan kattaliklar",
        "B":"faqat son qiymati bilan aniqlanadigan kattaliklar",
-       "C":"son qiymatlari va yo'nalishilari bilan aniqlanadigan kattaliklar",
+       "A":"son qiymatlari va yo'nalishilari bilan aniqlanadigan kattaliklar",
        "D":"faqat yo'nalishlari bilan aniqlanadigan kattaliklar"
     },
     {
@@ -449,15 +449,15 @@
     },
     {
        "savol":"Jismlarning tinch yoki harakat  holatini saqlash qobiliyatini xarakterlovchi fizik kattalik ... deyiladi?",
-       "A":"Zichlik",
+       "D":"Zichlik",
        "B":"Massa",
        "C":"Og'irlik",
-       "D":"Inertlik"
+       "A":"Inertlik"
     },
     {
        "savol":"Massasi 290 g bo'lgan havoni 20 K ga izobarik qizdirganda u qancha ish bajargan?",
-       "A":"2900 J",
-       "B":"1700 J",
+       "B":"2900 J",
+       "A":"1700 J",
        "C":"1500 J",
        "D":"1900 J"
     },
@@ -470,17 +470,17 @@
     },
     {
        "savol":"Yassi kondensator  2uC zaryad olib, 0,5uJ maydon energiyasiga ega bo'ldi. Kondensator sig'imi qanday bo'lgan?",
-       "A":"8 uF",
+       "A":"4 uF",
        "B":"16 uF",
        "C":"32 uF",
        "D":"6 uF"
     },
     {
        "savol":"Xumo arenadagi xokkey maydonini kengligi 40 m. Xokkeychi maydon markazidan shaybaga 20 m/s tezlik bersa, shaybaning tebranish davrini  toping (s)? u=0",
-       "A":"4",
+       "D":"4",
        "B":"8",
        "C":"6",
-       "D":"2"
+       "A":"2"
     },
     {
        "savol":"Temperatura ortishi bilan moddaning qaysi holatida diffuziya tezligi tezroq ortadi?",
@@ -512,9 +512,9 @@
     },
     {
        "savol":"Induksiyasi 200 mT bo'lgan magnit maydonda uzunligi 50 cm bo'lgan o'tkazgich joylashtirilgan. Undan 4 A tok o'tganda o'tkazgich 3 cm ga surildi. Bunda tok kuchi qanday ish bajargan?",
-       "A":"2 mJ",
+       "C":"2 mJ",
        "B":"8 mJ",
-       "C":"12 mJ",
+       "A":"12 mJ",
        "D":"15 mJ"
     },
     {
@@ -533,8 +533,8 @@
     },
     {
        "savol":"Aylana bo'ylab harakatlanayotgan jismning burchak tezligi vaqt davomida o'zgarib turadigan harakat ... deyiladi.",
-       "A":"Aylana bo'ylab tekis harakat",
-       "B":"O'zgaruvchan aylanma harakat",
+       "B":"Aylana bo'ylab tekis harakat",
+       "A":"O'zgaruvchan aylanma harakat",
        "C":"O'zgaruvchan harakat",
        "D":"Tekis harakat"
     },
@@ -547,17 +547,17 @@
     },
     {
        "savol":"Eni 4 sm, bo'yi 8 sm  bo'lgan ramka induksiyasi 2 T bo'lgan magnit maydonda joylashgan. Unda 0,5 A tok o'tganda ramkaga ta'sir qilayotgan maksimal kuch momentini toping.",
-       "A":"1,6 mN*m",
-       "B":"3,2 mN*m",
+       "B":"1,6 mN*m",
+       "A":"3,2 mN*m",
        "C":"2,3 mN*m",
        "D":"1,2 mN*m"
     },
     {
        "savol":"Tebranma harakat tenglamasi x=0,06cos100pi*t (m) ko'rinishida bo'lgan. Tebranma harakat amplitudasini toping (sm)",
-       "A":"6",
+       "D":"6",
        "B":"50 pi",
        "C":"100",
-       "D":"0,06"
+       "A":"0,06"
     },
     {
        "savol":"Minoradan ikki jism 10m/s tezlik bilan birinchisi gorizontga nisbatan 30 burchak ostida pastga va  ikkinchisi esa gorizontal otildi. Harakat boshlangandan 3s vaqt o'tgandan keyingi jismlar balandliklari orasidagi masofa qanday (m)?",
@@ -582,9 +582,9 @@
     },
     {
        "savol":"Agar Arximed kuchi jism og'irligidan katta bo'lsa, jism suyuqlikda ... ",
-       "A":"Suyuqlik  ichidagi istalgan joyda muallaq holda qoladi",
+       "C":"Suyuqlik  ichidagi istalgan joyda muallaq holda qoladi",
        "B":"qisman botgan holda suzib yuradi",
-       "C":"cho'kadi",
+       "A":"cho'kadi",
        "D":"Barcha javoblar to'g'ri"
     },
     {
@@ -603,9 +603,9 @@
     },
     {
        "savol":"Qaysi birliklarni tezlanish birligi sifatida ishlatsa bo'ladi? 1) m/s 2 ) m/s^2 3) N/kg  4) J/N*s  5) J/kg*m ",
-       "A":"1,4",
+       "C":"1,4",
        "B":"2,3,4,5",
-       "C":"2,3,5",
+       "A":"2,3,5",
        "D":"2,3,4"
     },
     {
@@ -617,58 +617,58 @@
     },
     {
        "savol":"Jism pastga tik yo'nalishda a tezlanish bilan harakatlanganda, uning og'irligi ... ",
-       "A":"o'zgarmaydi",
-       "B":"ma miqdorida kamayadi",
+       "B":"o'zgarmaydi",
+       "A":"ma miqdorida kamayadi",
        "C":"tezlanish qiymatiga bog'liq ",
        "D":"ma miqdorga ortadi"
     },
     {
        "savol":"Berilgan sim bo'lagining bikrligi 8*10<sup>3</sup> N/m ga teng. Shu sim  ikkiga bo'linib, birga eshilsa umumiy birlik qanday bo'lib qoladi?",
-       "A":"2*10<sup>5</sup> N/m",
-       "B":"4*10<sup>5</sup> N/m",
+       "B":"2*10<sup>5</sup> N/m",
+       "A":"4*10<sup>5</sup> N/m",
        "C":"32*10<sup>5</sup> N/m",
        "D":"8*10<sup>5</sup> N/m"
     },
     {
        "savol":"Gravitatsiya doimiysini son qiymatini aniqlang.",
-       "A":"6,67*10<sup>-11</sup> N*m<sup>2</sup>/g<sup>2</sup>  ",
-       "B":"6,67*10<sup>-11</sup> N*m<sup>2</sup>/kg<sup>2</sup>  ",
+       "B":"6,67*10<sup>-11</sup> N*m<sup>2</sup>/g<sup>2</sup>  ",
+       "A":"6,67*10<sup>-11</sup> N*m<sup>2</sup>/kg<sup>2</sup>  ",
        "C":"6,67*10<sup>-11</sup> N*sm<sup>2</sup>/kg<sup>2</sup>  ",
        "D":"6,67*10<sup>-9</sup> N*m<sup>2</sup>/kg<sup>2</sup>  "
     },
     {
        "savol":"Jismning muvozonat barqarorroq bo'lishi qaysi parametrlarga bog'liq",
-       "A":"tayanch yuzasining kichikligiga,massa markazining quyiroqdaligiga",
+       "C":"tayanch yuzasining kichikligiga,massa markazining quyiroqdaligiga",
        "B":"Barchasi to'g'ri ",
-       "C":"tayanch yuzasining kattaligiga, massa  markazining quyiroqdaligiga ",
+       "A":"tayanch yuzasining kattaligiga, massa  markazining quyiroqdaligiga ",
        "D":"tayanch yuzasining kattaligiga, massa  markazining yuqoriroqdaligiga "
     },
     {
        "savol":"R radiusli sharning  massasi m=800 kg, shunday materialdan tayyorlagan R/2 radiusli shar uchun 100 m masofada turgan bo'lsa, sharlarning tortishish kuchini hisoblang.",
-       "A":"2,14*10<sup>-9</sup> N",
-       "B":"5,34*10<sup>-10</sup> N",
+       "B":"2,14*10<sup>-9</sup> N",
+       "A":"5,34*10<sup>-10</sup> N",
        "C":"1,07*10<sup>-9</sup> N",
        "D":"3,74*10<sup>-10</sup> N"
     },
     {
        "savol":"Vakuumli diodda anoddagi maksimal tok kuchi 50 mA ga teng bo'ldi. Katoddan har sekundda nechta elektron uchib chiqmoqda?",
-       "A":"5,1*10<sup>17</sup> ",
-       "B":"3,1*10<sup>17</sup> ",
+       "B":"5,1*10<sup>17</sup> ",
+       "A":"3,1*10<sup>17</sup> ",
        "C":"6*10<sup>17</sup> ",
        "D":"3,1*10<sup>15</sup> "
     },
     {
        "savol":"Massasi 800 g, tezligi 36 km/soat bo'lgan jismning impulisini toping (kg*m/s).",
-       "A":"80",
-       "B":"8",
+       "B":"80",
+       "A":"8",
        "C":"10",
        "D":"6"
     },
     {
        "savol":"Massasi 0,4 kg bo'lgan to'pga 0,01 s  davomida zarb berilganda, u 20 m/s tezlik oldi. To'p qanday kuch bilan tepilgan?",
-       "A":"400 N",
+       "C":"400 N",
        "B":"200 N",
-       "C":"800 N",
+       "A":"800 N",
        "D":"500 N"
     },
     {
@@ -680,9 +680,9 @@
     },
     {
        "savol":"Suyuqliklarda gidrostatik bosimni vujudga kelishiga sabab nima?",
-       "A":"Suyuqlik molekulalarining og'irlik kuchi",
+       "C":"Suyuqlik molekulalarining og'irlik kuchi",
        "B":"Molekulalarning harakatchanligi",
-       "C":"Paskal qonuniga ko'ra",
+       "A":"Paskal qonuniga ko'ra",
        "D":"Yerning harakati sabab"
     },
     {
@@ -694,15 +694,15 @@
     },
     {
        "savol":"Uchinchi kosmik tezlikning qiymati qanday?",
-       "A":"7,9 km/s",
-       "B":"16,7 km/s",
+       "B":"7,9 km/s",
+       "A":"16,7 km/s",
        "C":"5 km/s",
        "D":"11,2 km/s"
     },
     {
        "savol":"Vaqt birligida jism tezligining o'zgarishiga son jihatdan teng keladigan kattalik ... deb  ataladi?",
-       "A":"Maksimal tezlik",
-       "B":"Tezlanish",
+       "B":"Maksimal tezlik",
+       "A":"Tezlanish",
        "C":"Barchasi to'g'ri",
        "D":"O'rtacha tezlik"
     },
@@ -715,8 +715,8 @@
     },
     {
        "savol":"Magnit maydon oqimi bilan magnit induksiya orasidagi bog'lanish qaysi javobda to'g'ri ko'rsatilgan?",
-       "A":"F=B*cos(a)/s",
-       "B":"F=B*S*cos(a)",
+       "B":"F=B*cos(a)/s",
+       "A":"F=B*S*cos(a)",
        "C":"F=I*S",
        "D":"F=u*N*S*I/l"
     },
@@ -736,9 +736,9 @@
     },
     {
        "savol":"Yassi kondensator qoplamalaridagi kuchlanish 150 V, zaryadi 80uC bo'lsa, kondensatordagi maydon energiyasi nimaga teng?",
-       "A":"12 mJ",
+       "C":"12 mJ",
        "B":"9 mJ",
-       "C":"6 mJ",
+       "A":"6 mJ",
        "D":"3 mJ"
     },
     {
